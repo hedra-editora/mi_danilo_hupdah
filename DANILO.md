@@ -1,4 +1,4 @@
-Coca, tabaco e caxiri – entradas para o mundo Hupd’äh
+Coca, tabaco e caxiri – entradas para o mundo hupd’äh
 =====================================================
 
 [No final da tarde, de qualquer casa desta aldeia hupd’äh à beira do
