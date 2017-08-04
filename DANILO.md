@@ -155,7 +155,7 @@ surgem o batalhão do exército, as casas de alvenaria, o ginásio, os
 prédios públicos, e a imperiosa Igreja matriz salesiana com seu colégio
 acoplado.
 
-<Fig.1> 
+<!-- Fig 1. -->
 Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)
 
 A viagem ao Tiquié é adiada a cada dia. A falta de chuvas ou o excesso
@@ -412,20 +412,20 @@ alternam-se com as andanças pela mata para a pesca, caça e visita a
 parentes, que são também uma fonte inesgotável de causos e lembranças.
 Mas suponho que o gosto pelas notícias que eu trazia e o interesse por
 São Paulo tenham algo com a própria história de origem de seus
-ancestrais, os /hib’ah te\[342?\]h d’äh/. Saídos do Rio de Janeiro, do
-/Pu\[317?\]d-dëh-moh/, o “Lago-de-Leite”, os antepassados dos Hupd’äh
-viajaram por muito tempo dentro da /M’e\[316?\]h Hõh Tëg/, a
+ancestrais, os /hib’ah te͂h d’äh/. Saídos do Rio de Janeiro, do
+/Pu̗d-dëh-moh/, o “Lago-de-Leite”, os antepassados dos Hupd’äh
+viajaram por muito tempo dentro da /M’e̖h Ho͂h Tëg/, a
 “Cobra-Canoa”. Depois de ter chamado os seres humanos à existência,
-/K’e\[316?\]g Te\[342?\]h/ fez a Cobra-Canoa e mandou que todas as
+/K’e̖g Te͂h/ fez a Cobra-Canoa e mandou que todas as
 Gentes-Peixe embarcassem e rumassem para a região do Uaupés. Alguns não
 aguentaram a viagem longa e penosa, caíram da Cobra-Canoa e vivem hoje
-nas /Dëh-Mo\[316?\]y/, “Casas-do-Rio”, que existem nas profundezas dos
+nas /Dëh-Mo̖y/, “Casas-do-Rio”, que existem nas profundezas dos
 rios Negro, Uaupés e Tiquié. Esses continuaram a ser Gente-Peixe, não se
 transformaram em Hupd’äh e, por isso, causam doenças e vivem tentando
-roubar nossos “espíritos”. ]{}
+roubar nossos “espíritos”. 
 
 A Cobra-Canoa foi abrindo o caminho dos rios pelos quais viajamos hoje
-em dia. Foi na cachoeira de Ipanoré, /Hib’a\[316?\]h Hu\[342?\]h/, que
+em dia. Foi na cachoeira de Ipanoré, /Hib’a̖h Hu͂h/, que
 os ancestrais dos diversos clãs hup emergiram pelos buracos que há nas
 rochas. Depois da longa viagem, foi lá que os primeiros hup sentaram
 para conversar enquanto comiam a coca, fumavam tabaco e bebiam caarpi.
@@ -436,7 +436,7 @@ minha vida. Foi com esse encantamento também que comecei a viajar pelos
 rios da região do alto rio Negro, a sentar-me nas rodas de coca, a ouvir sobre as
 viagens dos antigos, e a andar pelos caminhos das matas.
 
-<Fig. 2> 
+<!--Fig. 2  -->
 Vista da aldeia de /Ta̗t-Dëh/ (foto: Sylvia C. Novaes, 2012)
 
 ## Encontros noturnos e caminhos vividos 
@@ -446,20 +446,20 @@ O velho Henrique está morto. A notícia chegou naquela tarde por
 frio. O traumatismo craniano ocasionado por uma queda no banheiro mal
 equipado do posto de saúde fez com que ele morresse dias depois do
 acidente. Como aprendi, seu espírito viajava naquele momento para a /Paç
-Pö\[317?\]g/, a “Serra Grande”, onde coabitaria com seus antepassados.
+Pö̗g/ , a “Serra Grande”, onde coabitaria com seus antepassados.
 Mais tarde, ascendendo, o percurso o levaria à casa do criador,
-/K’e\[316?\]g Tẽ̖h/. “No próximo ano não estarei mais aqui”, ele me disse
+/K’e̖g Te͂h/. “No próximo ano não estarei mais aqui”, ele me disse
 em língua hup no momento em que o abracei, despedi-me, e dei a ele minha
 rede. O calor da febre e as tosses causadas por uma forte gripe não o
 deixavam descansar. Uns dias antes, ele acordou triste e contou ao filho
 um sonho. Tinha sido levado para o fundo da Terra pelos /K’öd d’äh/.
 Disse a eles que não era de lá. Mandaram que seguisse um
 beija-flor/canoa para chegar novamente à Terra. Acordou triste. O sonho
-mostrava que seu “Espírito”, /hã\[317?\]wäg/, estava deixando seu corpo.
+mostrava que seu “espírito”, /ha̗͂wäg/, estava deixando seu corpo.
 Eu não poderia mais acender seus cigarros, ouvir suas histórias nas
 rodas de coca nem cantar com ele os caapivaiás. 
 
-O velho Henrique (/B’o\[316?\]’/, falecido, /Sokw’ä̗t Noh K’öd Tẽ̖h/,
+O velho Henrique (/B’o̖’/, falecido, /Sokw’ä̗t Noh K’öd Tẽ̖h/,
 ind. 38) foi a primeira pessoa hup que conheci logo que cheguei à cidade
 de São Gabriel da Cachoeira, em 2007. Ficamos juntos alojados na casa da
 Associação Saúde Sem Limites (SSL), onde ele recebia cuidados médicos e
@@ -468,7 +468,7 @@ participativo em comunidades hup quanto aos impactos da suposta
 sedentarização sobre a saúde e a qualidade de vida dessa população.
 Almoçávamos e jantávamos juntos e, de alguma forma, nos comunicávamos,
 cantávamos e fazíamos companhia um ao outro. Quando comecei meu trabalho
-de campo em 2009 na aldeia de “Taracuá-Igarapé”, /Ta̗t-Dëh/, tomávamos
+de campo em 2009 na aldeia de Taracuá-Igarapé, /Ta̗t-Dëh/, tomávamos
 café pela manhã, comíamos juntos no início da tarde, cantávamos e
 gravávamos os cantos do caapivaiá e, no início da noite, íamos
 participar dos encontros noturnos para comer coca, fumar, ouvir
@@ -501,7 +501,7 @@ mesmo nome, afluente do rio Tiquié. Há, ao todo, vinte e seis casas onde
 moram 38 grupos domésticos. O clã /Sokw’ä̗t Noh K’öd Tẽ̖h/ é majoritário e
 reivindica a posse do território, das áreas de caça, pesca e roça. Há
 também a presença de muitas famílias que, na geração atual, se
-identificam como pertencentes ao clã /Dög M’e\[316?\]h Tẽ̖h D’äh/, grupo
+identificam como pertencentes ao clã /Dög M’e̖h Tẽ̖h D’äh/, grupo
 afim aos /Sokw’ä̗t Noh K’öd Tẽ̖h D’äh/. Essas famílias dizem ter
 pertencido anteriormente à etnia Dâw, mas por diversas razões estão se
 tornando Hupd’äh, esquecendo sua língua e benzimentos, casando-se com
@@ -510,19 +510,19 @@ de uma roda para o consumo de coca pode se formar. A principal delas
 ocorre diáriamente e conta com a participação de aproximadamente 10
 pessoas, tendo como referência o senhor Ponciano (/Hu̖d/, 05/07/1946,
 Sokw’ä̗t Noh K’öd Tẽ̖h, ind.10). Uma outra, da qual participam em média 6
-pessoas, se forma próximo à casa do pajé Firmino (/B’o\[316?\]’/,
+pessoas, se forma próximo à casa do pajé Firmino (/B’o̖’/,
 06/07/1947, /Sokw’ä̗t Noh K’öd Tẽ̖h/, ind. 107). Em /Ta̗t-Dëh/, além de
 Firmino, Armando (/Kä’/, 05/01/1948, /Sokw’ä̗t Noh K’öd Tẽ̖h/, ind. 221)
 também é identificado como /sä̗w/, “pajé”, e realiza curas xamânicas.
 Entretanto, todos os participantes das rodas praticam o xamanismo, sendo
-vistos principalmente como /bi’i\[316?\]d d’äh/, “benzedores”. Dessa
+vistos principalmente como /bi’i̖d d’äh/, “benzedores”. Dessa
 forma, tanto pela intensidade com que se realizam as rodas quanto pela
 existência dos pajés e benzedores, essa comunidade mostrou-se como de
 especial relevância para a pesquisa.
 
 Foi sentando-me às rodas de coca que comecei a ser convidado para
 seguir meus interlocutores pelos caminhos que atravessam a floresta. Os
-chamados /hup ti\[316?\]w/, “caminhos de hup”, iniciam-se como
+chamados /hup ti̖w/, “caminhos de hup”, iniciam-se como
 continuações dos trajetos para as roças que vão se estreitando aos
 poucos até formarem trilhas fechadas que se diferenciam sutilmente da
 densa mata. Seguindo por esses percursos, as pessoas se dirigem
@@ -532,14 +532,14 @@ nas cabeceiras. Em meio a seus movimentos, os andarilhos passam pelas
 /Moy-Höd/, “Moradas Antigas”, onde seus antepassados habitaram antes de
 viver na grande aldeia de /Ta̗t-Dëh/. Chegam a lugares impregnados pela
 ação de demiurgos cujos feitos são narrados até hoje nas
-/pɨnɨ\[316?\]g/, “mitos/histórias”. Descobrem, assim, sentidos imanentes
+/pɨnɨ̖g/, “mitos/histórias”. Descobrem, assim, sentidos imanentes
 ao mundo que vão se revelando à medida que os viajantes se situam nessas
 outras paisagens e aceitam interagir com animais, plantas, ancestrais e
 demais seres com quem coabitam.
 
 Sentados nos encontros noturnos, os senhores hup revelam-se viajantes a
 narrar seus percursos pelo mundo através dos “caminhos”, /hup
-ti\[316?\]w/, e dos deslocamentos xamânicos. O trabalho de campo
+ti̖w/, e dos deslocamentos xamânicos. O trabalho de campo
 realizado entre 2009 e 2012 permitiu perceber que as rodas de coca
 constituem-se como uma forma constante de interação central para os
 fazeres mítico e xamânico, a partir dos quais os senhores estabelecem
@@ -549,7 +549,7 @@ visitar paisagens habitadas por seres diversos e praticar ações rituais
 no alto de morros como a Serra Grande.
 
 Compartilhar as cuias de coca com o senhor Henrique, ouvir seu sonho de
-deslocamento para a morada subterrânea dos /K’ö\[317?\]d däh/,
+deslocamento para a morada subterrânea dos /K’ö̗d däh/,
 tentemunhar sua morte pelo descaso em São Gabriel, e saber de seu
 percurso póstumo à Serra Grande motivaram-me a ocupar um lugar nas rodas
 e a aceitar seguir meus mentores em viagens por seus caminhos vividos.
@@ -579,7 +579,7 @@ pelo território são aspectos fundamentais do modo de vida hup, que estão
 relacionados ao vasto conhecimento que possuem sobre os caminhos, os
 igarapés, os animais e a vegetação local. Associada à mobilidade, a
 caça-coleta constitui-se como foco de interesse das pesquisas
-antropológicas sobre esse povo que estabeleciam o contraste entre os
+antropológicas sobre esse povo, estabelecendo o contraste entre os
 Hupd’äh com as populações ribeirinhas de pescadores-agricultores
 (Athias, 1995; Reid, 1979; Pozzobon, 1991; Silverwood-Cope, 1990). Ao
 mesmo tempo, a constância da caça-coleta tem diminuído nas últimas
@@ -594,9 +594,12 @@ próximo aos grandes rios têm a ver com a agência missionária salesiana,
 que procurou agregar em grandes aldeias, designadas pelo pesquisador como
 povoados-missão, o maior número de pessoas para evangelização. 
 
+<!-- Fig. 3 -->
+Localização da comunidade Hupd’äh de /Ta̗t-Dëh/, Taracuá-Igarapé
+
 A estrutura social hup tem nos clãs agnáticos seus segmentos básicos
 de constituição e de diferenciação. Criados pelo herói cultural
-/K’e\[316?\]g-Tẽ̖h/, os “ancestrais”, /hib’a̗h-tẽ̖h-d’äh/, deram origem aos
+/K’e̖g Te͂h/, os “ancestrais”, /hib’a̗h-tẽ̖h-d’äh/, deram origem aos
 hoje aproximadamente 25 clãs exogâmicos e de descendência patrilinear.
 Cada clã possui um conjunto específico de nomes, mitos e cantos por meio
 dos quais são narrados os eventos de criação e se constitui um senso de
@@ -654,7 +657,7 @@ um dicionário hupd’äh-português e cartilhas na língua hup. Esses
 materiais vêm permitindo aos professores desenvolver junto aos alunos a
 escrita e o aprendizado de sua língua.
 
-<Fig.4>
+<!-- Fig. 4 -->
 Regiões habitadas por populações das etnias Hupd’äh e Yuhupdëh no médio Tiquié
 
 O contato teve inicio com as frentes de colonização desde o século
@@ -679,13 +682,15 @@ Certa vez, enquanto eu lia a tese de Howard Reid em meu computador,
 Ricardo se lembrou das histórias do antropólogo que usava tanga, falava
 hup, caçava e pescava.
 
-[ *Mostrei a Ricardo o livro de Howard Reid. Ele disse que os velhos
+<!-- Estilo de citação -->
+Mostrei a Ricardo o livro de Howard Reid. Ele disse que os velhos
 falaram pra ele desse que chamavam Haw. Ele usava tanga. Ficava lá no
 meio deles. Falava a língua hup. Ia caçar no mato, pescava, fazia tudo
 como os Hupd’äh. Ele e o Peter (Peter Silverwood-Cope). Ele falava pros
 velhos que veio de avião. Eles gostavam desse /Haw/. Mas ele foi embora
 e não voltou mais. O avô de Ricardo conheceu-o. Ele foi embora uns anos
-antes de Ricardo nascer (Caderno de campo, 25/11/2009).*]
+antes de Ricardo nascer (Caderno de campo, 25/11/2009).
+<!-- Estilo de citação -->
 
 Durante minhas estadas em campo, sempre ouço também histórias dos
 pesquisadores que me precederam. De formas diferentes, a imagem desses
@@ -868,7 +873,7 @@ mitos, ritos ou sistemas de classificação através de mediações
 progressivas, vistas por ele como grupos de transformação (2003, p.
 259). Sobre os grupos de transformação de mitos, o antropólogo diz que
 “o sentido de um termo só pode ser definido substituindo-o em todos os
-contextos em que seja encontrado. [...] o mito é reorganizado de tal
+contextos em que seja encontrado. \[...\] o mito é reorganizado de tal
 maneira que ele próprio se constitui como contexto” (2003, p. 247).
 Partindo de categorias empíricas definidas por meio da observação
 etnográfica de culturas específicas, a análise através dos grupos de
@@ -1136,25 +1141,25 @@ paisagens e o engajamento mútuo em processos de transformação ao longo do mun
 
 (Dominguinhos/Chico Buarque)
 
-#### Um viajante
+## Um viajante
 
-[No dia 20 de abril de 1903, o então auxiliar científico do Museu
+No dia 20 de abril de 1903, o então auxiliar científico do Museu
 Etnológico de Berlim Theodor Koch-Grünberg deixava a Alemanha rumo ao
 Brasil para a realização de uma expedição etnográfica à região dos rios
 Ucayali e Purus. Seu objetivo era a observação da cultura dos povos
-indígenas do grupo Pano e a obtenção de objetos etnográficos para os
+indígenas do grupo dos Pano e a obtenção de objetos etnográficos para os
 acervos dos museus. Depois de mais de trinta dias de viagem de Hamburgo
 ao Brasil, o pesquisador chegou finalmente a Manaus no dia 1º de junho.
 O baixo nível das águas e notícias dos conflitos sangrentos entre
 comerciantes, exploradores da borracha e indígenas deixaram-no
 apreensivo. Ele optou, então, por postergar sua meta inicial e
-aventurar-se na região do Alto Rio Negro, onde posteriormente, tendo
+aventurar-se na região do alto rio Negro, onde posteriormente, tendo
 desistido definitivamente da viagem ao Purus, realizaria sua expedição
-etnográfica. ]{}
+etnográfica.
 
-[Navegar pelo Rio Negro dependia da relação e, mesmo, da autorização e
+Navegar pelo rio Negro dependia da relação e também da autorização e
 simpatia dos comerciantes de borracha, denominados “grandes senhores”
-pelo etnógrafo em uma carta a seu diretor, Karl von den Stein[^4].
+pelo etnógrafo em uma carta a seu diretor, Karl von den Steinen[^4].
 Koch-Grünberg relata ter conseguido, com muito custo, obter um pequeno
 barco para percorrer, em companhia de Otto Schmidt, o trecho fluvial
 entre Trindade e São Gabriel. Inúmeras cachoeiras, ventos fortes e
@@ -1165,9 +1170,9 @@ Felipe, onde se instalaram sob a proteção e cuidados do patrão da
 borracha, Germano Garrido y Otero. O sítio serviu de base para armazenar
 os equipamentos e também para preparar cartas, informes científicos e
 estudos preliminares. De São Felipe, Koch-Grünberg partiu para suas
-viagens às regiões dos rios Içana, Ayari, Uaupés e Curicuriary. ]{}
+viagens às regiões dos rios Içana, Ayari, Uaupés e Curicuriary. 
 
-[Como aponta Kraus (2004), durante a sua segunda saída de São Felipe,
+Como aponta Kraus (2004), durante a sua segunda saída de São Felipe,
 Koch-Grünberg fez o reconhecimento do rio Tiquié, um afluente do Uaupés,
 com a esperança de entrar em contato com os Maku. No curso desse rio,
 visitou muitas comunidades tukano, mas, pelo que conta em seus relatos,
@@ -1175,11 +1180,12 @@ não conseguiu chegar às aldeias maku. Seu encontro com os Maku teria se
 dado nas aldeias tukano, onde alguns índios maku realizavam trabalhos e
 trocas. Com essas pessoas fez as entrevistas linguísticas a partir das
 quais elaborou e publicou a primeira lista de palavras de uma língua
-maku. Nas primeiras linhas do artigo “*Die Maku*”, publicado no ano de
+maku. Nas primeiras linhas do artigo “Die Maku”, publicado no ano de
 1906 na revista de etnologia e linguística *Anthropos*, o etnólogo
-descreve os Maku da seguinte maneira: ]{}
+descreve os Maku da seguinte maneira: 
 
-[[Entre o Rio Negro e o rio Yapurá, numerosos indígenas sem assentamento
+<!-- [Estilo de citação] -->
+Entre o Rio Negro e o rio Yapurá, numerosos indígenas sem assentamento
 fixo vagam pela selva. São “índios do mato”, como dizem os brasileiros,
 toscos nômades caçadores que não possuem plantações, nem conhecem rede
 ou canoa, mas, por outro lado, conhecem a selva com a palma de suas
@@ -1188,20 +1194,21 @@ tribos sedentárias e de nível mais alto de desenvolvimento, odeiam-nos e
 perseguem-nos como a animais selvagens. Obrigam-nos a servir-lhes como
 escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
 vendem-nos a comerciantes brancos em troca de rifles e outras
-mercadorias europeias ]{}[^5]]{}
+mercadorias europeias[^5]. 
+<!-- [Estilo de citação] -->
 
-[É com estranhamento que os olhos de alguém que tenha vivido entre os
+É com estranhamento que os olhos de alguém que tenha vivido entre os
 Hupd’äh e lido com entusiasmo as narrativas de viagem do grande
-etnógrafo alemão sobre os povos do Alto Rio Negro seguem essa descrição
+etnógrafo alemão sobre os povos do alto rio Negro seguem essa descrição
 dos Maku. “Índios do mato” que vagam pela floresta, animais selvagens
 odiados e perseguidos por tribos sedentárias mais avançadas, toscos que
 não conhecem as redes e nem as canoas, escravos obrigados aos serviços
 domésticos e agrícolas são os traços que vão informando ao leitor as
 características desses povos, que habitam as regiões do Uaupés, Rio
-Negro e Japurá. ]{}
+Negro e Japurá. 
 
-[Também conhecida como “Cabeça do Cachorro”, a região do Alto Rio Negro
-situa-se no Noroeste Amazônico, na fronteira entre o Brasil, a Colômbia
+Também conhecida como “Cabeça do Cachorro”, a região do alto rio Negro
+situa-se no noroeste amazônico, na fronteira entre o Brasil, a Colômbia
 e a Venezuela. A área constitui-se como a maior bacia de águas pretas do
 mundo, sendo composta por um mosaico de formações florestais únicas. As
 lutas históricas dos movimentos indígena e ambientalista garantiram a
@@ -1210,13 +1217,13 @@ terras demarcadas) e Unidades de Conservação Ambiental. Habitado por 23
 povos indígenas – Baniwa, Kuripako, Dâw, Hupd’äh, Nadëb, Yuhupdëh, Baré,
 Warekena, Arapaso, Bará, Barasana, Desana, Karapanã, Kubeo, Makuna,
 Mirity-tapuya, Pira-tapuya, Siriano, Tariana, Tukano, Tuyuca, Wanana e
-Yanomami –, o Alto Rio Negro possui uma população aproximada de 50 mil
-pessoas divididas entre os centros urbanos de São Gabriel da Cachoeira,
+Yanomami –, o alto rio Negro possui uma população aproximada de 50 mil
+pessoas, divididas entre os centros urbanos de São Gabriel da Cachoeira,
 Santa Isabel e Barcelos, e as 750 comunidades distribuídas ao longo dos
 rios e igarapés da região. Segundo levantamentos atuais, aproximadamente
-90% da população dessa região é indígena (FOIRN, 2015). ]{}
+90% da população dessa região é indígena (FOIRN, 2015).
 
-[Sobre a obra de Koch-Grünberg, Schaden (1953, p. 135) dirá que “como
+Sobre a obra de Koch-Grünberg, Schaden (1953, p. 135) dirá que “como
 poucos, soube ver sempre no habitante das selvas o seu semelhante, o ser
 humano merecedor de profunda simpatia e de grande amizade”. Como
 explicar, então, essa descrição do viajante sobre os povos Maku,
@@ -1227,34 +1234,36 @@ contra a qual, como afirma Schaden (1953, p. 153), Koch-Grünberg opôs-se
 inúmeras vezes explicitar a humanidade dos indígenas e denunciar “os
 desastrosos efeitos do contato”. Partindo desse estranhamento, gostaria
 de refletir um pouco sobre o modo como esse artigo de 1906 influenciou
-alguns estudos posteriores e, como a partir de “*Die Maku*”*,* o tema da
+alguns estudos posteriores e, como a partir de “Die Maku”, o tema da
 mobilidade passa a ser fundamental para a interpretação do modo de vida
-dos povos Maku. ]{}
+dos povos Maku. 
 
-[Nas notas ao artigo de 1906, Koch-Grünberg faz referência às obras *A
-Narrative of Travels on the Amazon and Rio Negro*, do naturalista Alfred
-Wallace \[1889\] e *La Région Équinoxiale II*, de Coudreau \[1887\].
+Nas notas ao artigo de 1906, Koch-Grünberg faz referência às obras 
+*A Narrative of Travels on the Amazon and Rio Negro*, do naturalista Alfred
+Wallace (1889) e *La Région Équinoxiale II*, de Coudreau (1887).
 Ambos os autores também viajaram pela região e fizeram apontamentos em
-seus livros sobre os povos Maku. Referência para o artigo de
+seus livros sobre os Maku. Referência para o artigo de
 Koch-Grünberg, Coudreau tem em seus trabalhos a influência do pensamento
 evolucionista do século XIX. O naturalista buscava, nesse sentido,
 diferenciar, dentre os inúmeros povos indígenas, aqueles que seriam os
 descendentes dos conquistadores e aqueles que seriam primitivos e
 conquistados. Isso fica claro quando o cronista afirma que os Maku eram
 vestígios de uma raça aborígene reduzida à escravidão por tribos
-conquistadoras (Coudreau, \[1853\], p.163). Nas palavras de Münzel
-(1969), ]{}
+conquistadoras (Coudreau, 1853, p.163). Nas palavras de Münzel
+(1969): 
 
-[[Destarte, os Makú recebem o papel de “missing link” na pirâmide
+<!-- [Estilo de citação] -->
+Destarte, os Maku recebem o papel de *missing link* na pirâmide
 evolucionista. Visto que sempre os povos superiores e mais bonitos
-conquistaram e escravizaram os inferiores, os Makú – de fato
+conquistaram e escravizaram os inferiores, os Maku – de fato
 escravizados por outros índios – devem ser inferiores e, para
 Koch-Grünberg, mais feios. Visto que deve haver, na pirâmide, uma base
-de gente feia e primitiva, próxima dos animais, os Makú devem constituir
-essa base]{} (1969, p. 145). ]{}
+de gente feia e primitiva, próxima dos animais, os Maku devem constituir
+essa base (1969, p. 145). 
+<!-- [Estilo de citação] -->
 
-[Para o autor, com as melhores descrições etnográficas sobre os povos da
-região do Rio Negro, que começaram a ser produzidas já no século XIX,
+Para o autor, com as melhores descrições etnográficas sobre os povos da
+região do rio Negro, que começaram a ser produzidas já no século XIX,
 passa a ser difícil vinculá-los à imagem de semianimais. De modo
 distinto, o pouco conhecimento etnográfico sobre os Maku continuava,
 para Münzel, a autorizar tal tipo de visão sobre esses povos. Aos olhos
@@ -1262,9 +1271,9 @@ de Koch-Grünberg, a animalidade dos Maku passava, assim, pela percepção
 de seu nomadismo, pelo modo de fala, pela feiura da aparência física e
 pelo fato de serem os primeiros habitantes da região, posteriormente
 conquistados, assimilados e/ou escravizados por civilizações mais
-avançadas.]{}
+avançadas.
 
-[Como ressalta Münzel (1969)a impossibilidade de contato direto com
+Como ressalta Münzel (1969)a impossibilidade de contato direto com
 comunidades maku e a impossibilidade de comunicação direta com os
 indivíduos maku que se encontravam junto aos Tukano fizeram com que o
 pesquisador tomasse como referência as falas e visões de pessoas de
@@ -1275,7 +1284,7 @@ denominados mais tarde: “Índios do rio” (Emst, 2010; Athias, 1995;
 Silverwood-Cope, 1990; Reid, 1979). Da perspectiva dos índios tukano,
 por exemplo, o modo de vida Maku é tomado como modelo do não-humano e do
 animalesco. Para esse povo, os Maku habitam a floresta, não têm
-habitações fixas, não possuem conhecimentos sobre rituais nem
+moradias fixas, não possuem conhecimentos sobre rituais nem
 ornamentos, casam-se com aqueles que falam a mesma língua,
 incestuosamente, “não comem senão carne, caçam no escuro e andam sem
 trilhas” (Silverwood-Cope, 1990, p. 72). Também são vistos como
@@ -1284,13 +1293,13 @@ trilhas” (Silverwood-Cope, 1990, p. 72). Também são vistos como
 p. 153). O povo que “anda sem trilhas”, “caça no escuro”, “não planta” e
 “não tem habitações fixas ou rituais” parece delinear-se aos olhos
 tukano como marcado por um modo de vida onde a mobilidade se coloca como
-um fator diacrítico central. ]{}
+um fator diacrítico central. 
 
-[Em “*Die Maku*”, os apontamentos sobre o estudo da língua Maku deixam
+Em “Die Maku”, os apontamentos sobre o estudo da língua maku deixam
 claro que a interação do pesquisador não se deu com grupos de etnias
-Maku, mas apenas com indivíduos que, no período da viagem, se
+maku, mas apenas com indivíduos que, no período da viagem, se
 encontravam em aldeias tukano. Koch-Grünberg, ao utilizar o termo
-“Makú”, afirma que essa palavra se origina das línguas arawak, constitui
+“Maku”, afirma que essa palavra se origina das línguas arawak, constitui
 uma grave injúria e é uma forma de referir-se a grupos indígenas
 específicos que, para ele, teriam como marca contrastiva o fato de serem
 nômades (Koch-Grünberg, 1906/2010, p. 29). Mais tarde, os pesquisadores
@@ -1305,9 +1314,10 @@ aponta para a identificação do pesquisador com certo “ponto de vista
 nativo”. Isso não se dá apenas na reprodução passiva do discurso, mas
 também na busca por dados empíricos que comprovem que os Maku seriam de
 fato um povo nômade e inferior. Para tanto, o etnógrafo oferece a
-seguinte descrição de uma suposta aldeia maku, ]{}
+seguinte descrição de uma suposta aldeia maku: 
 
-[[Em minha viagem pelo Curicuriary, em fevereiro de 1904, apesar de não
+<!-- [Estilo de citação] -->
+Em minha viagem pelo Curicuriary, em fevereiro de 1904, apesar de não
 ter localizado esses homens da selva, descobri nas profundezas da selva,
 próximo à montanha de mesmo nome, dois acampamentos abandonados, muito
 primitivos. Eram compostos por numerosas cabanas de proteção que
@@ -1315,9 +1325,10 @@ chegavam apenas à altura de um homem. Alguns paus enterrados em forma de
 pirâmide e cobertos com folhas. Nesses míseros refúgios que realmente
 não merecem o nome de cabanas, vive o Maku frequentemente com sua
 numerosa família, exposto às inclemências do tempo como o animal
-fugitivo da floresta ]{}]{}
+fugitivo da floresta.
+<!-- [Estilo de citação - adicionar rodapé: Koch-Grünberg, 1906/2010, p. 31, trad. do autor]  -->
 
-[Qualquer um que tenha aceitado o convite de uma pessoa hup para uma
+Qualquer um que tenha aceitado o convite de uma pessoa hup para uma
 incursão à caça ou à pesca verá na descrição acima a arquitetura de um
 acampamento temporário para a realização dessas atividades, e não a
 morfologia de uma aldeia maku. Mas, aos olhos de Koch-Grünberg, a
@@ -1335,19 +1346,19 @@ floresta, por outro, essa mesma mobilidade, conceitualmente denominada
 “nomadismo” pelo autor, representa a face negativa de um espelho no qual
 as “tribos sedentárias” surgem como modelo de belo, bom, avançado e
 humano. Como na imagem constituída pelos Tukano, é também através da
-ênfase nos aspectos de um *princípio global de mobilidade* dos Maku que
+ênfase nos aspectos de um princípio global de mobilidade dos Maku que
 o etnólogo vai concebendo sua representação. A partir disso, o que
 Koch-Grünberg propõe é uma espécie de “teoria da dominação”, que
 encontra nas oposições entre agricultores *versus* caçadores-coletores e
-nômades *versus* sedentários as base para a interpretação das relações
+nômades *versus* sedentários as bases para a interpretação das relações
 entre esses diferentes povos como relações de “senhor e escravo”.
 Retomando o primeiro excerto citado acima, num dado momento o autor
 afirma que as tribos sedentárias “Obrigam-nos a servir-lhes como
 escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
 vendem-nos a comerciantes brancos em troca de rifles e outras
-mercadorias europeias” (Koch-Grünberg, 1906/2010, p. 29).]{}
+mercadorias europeias” (Koch-Grünberg, 1906/2010, p. 29).
 
-[Para a compreensão desse excerto, é preciso ter como referência o
+Para a compreensão desse excerto, é preciso ter como referência o
 contexto histórico da exploração da borracha, que fazia com que
 comerciantes brancos escravizassem grupos indígenas. Através de um
 estudo minucioso dos textos de cronistas, Becerra, Calvo e Rubio
@@ -1356,7 +1367,7 @@ aparece já em documentos do século XVII através do termo genérico
 “macos”, referindo-se a órfãos trocados entre grupos locais e depois
 comercializados com europeus, e a escravos indígenas da região do Alto
 Orinoco (Becerra, Calvo e Rubio, 1996-1997, p. 100). Para os autores, o
-emprego do termo “makú” nos séculos XVII e XVIII teria como referência o
+emprego do termo “maku” nos séculos XVII e XVIII teria como referência o
 sentido de “sem parente” ou de “apartado de seu grupo”. Os grupos
 derrotados nas batalhas contra os europeus ou capturados por outros
 grupos indígenas, eram chamados de “maco”, aqueles que começaram a
@@ -1364,9 +1375,9 @@ constituir a mão de obra escrava. Em meio à exploração da borracha por
 comerciantes e à ativação do sistema escravista na região do Uaupés,
 aqueles que eram vistos como inferiores se transformaram em escravos
 vendáveis, passíveis de captura, denominados “Maku” (Becerra; Calvo;
-Rubio, 1996-1997, p. 102).]{}
+Rubio, 1996-1997, p. 102).
 
-[Como conta Münzel (1969), grupos Maku eram ora recrutados para caçar e
+Como conta Münzel (1969), grupos Maku eram ora recrutados para caçar e
 apresar índios de outros grupos, ora vítimas nessas “caçadas aos
 escravos”, fomentadas pelos comerciantes e patrões da borracha. Para o
 autor, a participação dos Maku nessas caçadas pode tê-los levado a uma
@@ -1377,62 +1388,64 @@ movimento do texto reforça uma espécie de “teoria da dominação”, que
 identifica os Maku aos nômades conquistados, e as “tribos sedentárias”
 aos invasores dominadores. Nesse sentido, a visão de Koch-Grünberg como
 filólogo sobre a língua maku corrobora a afirmação da subordinação e
-inferioridade dos Maku. ]{}
+inferioridade dos Maku. 
 
-[Numa nota ao artigo de 1906, comentando sobre uma lista de palavras
+Numa nota ao artigo de 1906, comentando sobre uma lista de palavras
 elaborada pelo viajante austríaco Johann Natterer, em 1831, sobre a
 língua dos Anodöub-Maku, do rio Téia, o pesquisador faz referência à
 palavra /yehub/, que significaria “gente”, na língua dos Maku do rio
 Tiquié. A proximidade entre a palavra descrita como /yehub/ e a atual
 grafia do etnonimo Yuhupdëh permite ver que os poucos interlocutores
 Maku do etnógrafo em sua viagem ao rio Tiquié pertenceriam aos grupos
-Yuhupd’ëh e talvez também aos Hupd’äh. Silverwood-Cope afirma que teria
+Yuhupdëh e talvez também aos Hupd’äh. Silverwood-Cope afirma que teria
 sido dos Hupd’äh que Koch-Grünberg obteve “informações observadas em
-primeira mão”, tendo São principalmente esses dois povos, Hupd’äh e
+primeira mão”. São principalmente esses dois povos, Hupd’äh e
 Yuhupdëh, que ocupam há gerações as regiões interfluviais entre os rios
-Papuri e Japurá. Entre os povos Maku, os Hupd’äh, os Yuhupdëh e os Kakwa
-são aqueles que mantêm relações mais intensas com os povos Tukano do
+Papuri e Japurá. Entre os povos maku, os Hupd’äh, os Yuhupdëh e os Kakwa
+são aqueles que mantêm relações mais intensas com os povos tukano do
 Tiquié e Papuri, já que os outros povos vivem em territórios mais
-afastados de populações Tukano e Arawak (Athias, 1995). Além desses,
+afastados de populações tukano e arawak (Athias, 1995). Além desses,
 como mostra Athias, a viagem pelo rio Curicuiary permitiu a aproximação
-aos Dâw, habitantes dessa região na época (1995, p. 11). ]{}
+aos Dâw, habitantes dessa região na época (1995, p. 11). 
 
-[Com os Maku do Tiquié, o filólogo realizou, como diz, as “torturantes”
+Com os Maku do Tiquié, o filólogo realizou, como diz, as “torturantes”
 seções de trabalho linguístico, que proporcionaram, através de grande
 esforço dos entrevistados, as primeiras listas de palavras sobre as
-línguas Maku, já que a lista do viajante austríaco se perdeu.
+línguas maku, já que a lista do viajante austríaco se perdeu.
 Koch-Grünberg descreve essas entrevistas dizendo que “os indivíduos às
 vezes proferiam as palavras rápida e timidamente, outras vezes
 vacilantes e a meia voz, de um modo animal que corresponde à natureza
 geral desses habitantes primitivos da selva” (Koch-Grünberg, 1906/2010,
 p. 34). A elaboração da primeira lista de palavras em língua Maku
 relaciona-se também à busca por formular, em termos científicos, a
-hipótese da ocupação inicial do Noroeste Amazônico por povos ancestrais
+hipótese da ocupação inicial do noroeste amazônico por povos ancestrais
 dos Maku. Esses possuiriam diferentes línguas e teriam sido “fusionados”
 pelos povos invasores e dominadores. Talvez, para o filólogo, os
 comentários sobre as “línguas feias” tenham a ver com sua proposição
 sobre o fato de a fusão dos povos ancestrais ter levado também à fusão e
 redução da variedade linguística dos Maku (Koch-Grünberg, 1906/2010, p.
 30). Num determinado momento do artigo, a hipótese sobre a ocupação da
-região é formulada da seguinte forma: ]{}
+região é formulada da seguinte forma: 
 
-[[A explicação consiste talvez no fato de que a massa dos atuais Maku
+<!-- [Estilo de citação] -->
+A explicação consiste talvez no fato de que a massa dos atuais Maku
 constitui uma mescla de restos de tribos de diferentes línguas que em
 tempos anteriores foram os donos exclusivos de toda a região. Entre os
 invasores Arawak que vieram do norte ou do noroeste e as tribos do grupo
 Betoya que mais tarde chegaram do oeste e do sudoeste, estes autóctones
 primitivos foram paulatinamente comprimidos e logo fusionados. Esse
 processo histórico se deduz com bastante certeza a partir da atual
-configuração das tribos do alto Rio Negro e de seus rios tributários ]{}
-]{}
+configuração das tribos do alto rio Negro e de seus rios tributários. 
+<!-- [Estilo de citação - adicionar rodapé: Koch-Grünberg, 1906/2010, p. 31] -->
 
-[Como mostram Becerra, Calvo e Rubio (1996), Koch-Grünberg formula
-hipóteses sobre as rotas de ocupação do Noroeste Amazônico, tomando como
+Como mostram Becerra, Calvo e Rubio (1996), Koch-Grünberg formula
+hipóteses sobre as rotas de ocupação do noroeste amazônico, tomando como
 base a análise dos nomes dos rios da região. Suas proposições são
 referendadas mais tarde por Nimuendajú (1982), que reapresenta a
-hipótese dos “primeiros habitantes” da seguinte maneira, ]{}
+hipótese dos “primeiros habitantes” da seguinte maneira:
 
-[[A primeira população destas terras parece ter sido formada por ora das
+<!-- [Estilo de citação] -->
+A primeira população destas terras parece ter sido formada por ora das
 poucas numerosas de uma cultura extremamente rudimentar, desconhecendo a
 princípio a cerâmica, a arte têxtil, a navegação, a lavoura e as
 construções permanentes, levando uma vida errante pelos centros da mata.
@@ -1440,31 +1453,33 @@ Hoje os seus representantes, os pacíficos Maku dos centros, entre os
 afluentes grandes do Uaupés e Xiriána, em parte hostis nos sertões da
 margem esquerda do mesmo rio, já se acham profundamente influenciados
 pela cultura da segunda camada, da qual porém se conservam até hoje
-nitidamente separados]{} (Nimuendajú, 1982, p. 169, grifos meus).]{}
+nitidamente separados]{} (Nimuendajú, 1982, p. 169, grifos meus).
+<!-- [Estilo de citação] -->
 
-[Nessa versão, o desconhecimento da navegação, da lavoura e das
+
+Nessa versão, o desconhecimento da navegação, da lavoura e das
 construções permanentes levam Nimuendajú a continuar a composição da
 imagem dos Maku a partir da mobilidade. As toponímias e as urnas
-funerárias Arawak são dados apresentados para comprovar a “primeira onda
-migratória”, que fez com que grupos Arawak, vindos do norte, ocupassem a
+funerárias dos Arawak são dados apresentados para comprovar a “primeira onda
+migratória”, que fez com que grupos arawak, vindos do norte, ocupassem a
 região, impondo-se sobre os Maku preexistentes (Nimuendajú, 1982, p.
 169). Posteriormente, o padre Bruzzi Alves da Silva (1962) defenderá que
-a expressão /Dya Poxsa/, “rio dos Makus”, modo como os povos da região
+a expressão /Dya Poxsa/, “rio dos Makus”, modo como os grupos da região
 designam esse rio, seria uma prova da ocupação primeira desses povos,
-posteriormente afastados das margens para osinterflúvios por pressão dos
-Arawak e Tukano (Silva, 1962, p. 10). ]{}
+posteriormente afastados das margens para os interflúvios por pressão dos
+Arawak e Tukano (Silva, 1962, p. 10). 
 
-[A hipótese sobre os “primeiros habitantes” da região do Noroeste
-Amazônico é formulada inicialmente por Coudreau \[1887\]. O viajante via
+A hipótese sobre os “primeiros habitantes” da região do noroeste
+amazônico é formulada inicialmente por Coudreau, em 1887. O viajante via
 nos ancestrais dos Maku populações primitivas com tecnologia rudimentar
 que teriam inicialmente ocupado a região. Grupos que possuíam
 tecnologias mais avançadas teriam, posteriormente, invadido a área e
-escravizado os Maku. Stradelli \[1890\], que se refere aos Maku como “a
-raça escrava” e “os antigos senhores da terra”, também é evocado por
+escravizado os Maku. Stradelli, em 1890, se refere aos Maku como “a
+raça escrava” e “os antigos senhores da terra”, ideias também evocadas por
 Koch-Grünberg para sua composição da imagem dos “primeiros
-habitantes”.]{}
+habitantes”.
 
-[Além dos nomes dos rios, a “configuração das tribos” permitiria deduzir
+Além dos nomes dos rios, a “configuração das tribos” permitiria deduzir
 que os Maku constituem uma mescla de povos de diferentes línguas,
 comprimidos e fusionados pelos Arawak e Betoya invasores. Esse seria,
 portanto, um dado importante para comprovar o modo como ocorreu a
@@ -1472,51 +1487,51 @@ subordinação dos Maku-nômades aos povos denominados por Koch-Grünberg
 como “tribos sedentárias”. Uma segunda contraposição entre nômades e
 sedentários ocorre quando o autor propõe que os Guaríua-Tapujo,
 habitantes da região do Japurá, seriam erroneamente designados “Maku”,
-pois possuíam “casas grandes y bien construídas, belas plantaciones y
-una certa cultura” ( 1906/2010, p. 31). Seriam, assim, diferentes dos
-Maku-nômades, habitantes da região do Rio Negro, que se moviam
+pois possuíam “casas grandes e bem construídas, belas plantações e
+uma certa cultura” (1906/2010, p. 31) <!-- O autor traduziu todas as passagens do espanhol até então, portanto, sugeri tradução para esta também. --> 
+Seriam, assim, diferentes dos Maku-nômades, habitantes da região do rio Negro, que se moviam
 constantemente e estariam sempre em contenda com os Guaríua. Desse modo,
 seja na invasão da região por povos sedentários e agricultores, seja nos
 conflitos entre esses diferentes Maku, a oposição entre nômades e
 sedentários parece sempre envolver a questão política do conflito entre
 os primeiros, supostamente inferiores, e os segundos, mais
-desenvolvidos. ]{}
+desenvolvidos.
 
-[Tomando como base o artigo de Koch-Grünberg, escrito após ter convivido
-com algumas famílias dos então chamados Maku-Mansos do Japurá, o padre
-Tastevin (2008) escreve o artigo “Os Makú do Japurá”, texto em que
+Tomando como base o artigo de Koch-Grünberg, escrito após ter convivido
+com algumas famílias dos então chamados Maku-mansos do Japurá, o padre
+Tastevin (2008) escreve o artigo “Os Maku do Japurá”, texto em que
 aborda esse grupo, que o etnógrafo alemão não considerava Maku. O padre
 parte de uma categoria abrangente dos Maku no interior da qual opõe os
-Maku-Guariba e os Maku-Mansos. Tomando como referência o relato de
+Maku-Guariba e os Maku-mansos. Tomando como referência o relato de
 seringueiros que, em meio a uma expedição de represália aos
-Maku-Guariba, se depararam com duas malocas e roças grandes, Tastevin
+Maku-Guariba, depararam-se com duas malocas e roças grandes, Tastevin
 delineia uma imagem desse grupo muito próxima às descrições das
 populações sedentárias e agricultoras. São, por outro lado, “índios
 bravos” que “manifestam-se aos civilizados através de assassinatos,
-roubos, raptos e incêndios” ( 2008, p. 79). De modo diferente, os
-Maku-Mansos do Jurubaxi seriam inferiores, por possuírem pequenas roças,
+roubos, raptos e incêndios” (2008, p. 79). De modo diferente, os
+Maku-mansos do Jurubaxi seriam inferiores, por possuírem pequenas roças,
 por serem “apaixonados pela caça” e por retomarem o “caminho da
 floresta” quando se veem contrariados (2008, p. 86-88). Tastevin
-ressalta, ainda, que os Maku-Mansos buscam diferenciar-se dos outros
+ressalta, ainda, que os Maku-mansos buscam diferenciar-se dos outros
 autorreferindo-se pelo etnônimo Nadöpa e denominando os Guariba como
 Nadöb. Para o religioso, os Maku-Mansos teriam possuído anteriormente
 malocas e grandes roças, mas perderam esses traços de sedentarismo e de
-maior grau de civilização. ]{}
+maior grau de civilização. 
 
-[Métraux (1963), em *The Hunting and Gathering Tribes of the Rio Negro
-Basin*, partindo dos trabalhos de Koch-Grünberg e Tastevin, reformula de
+Métraux (1963), em *The Hunting and Gathering Tribes of the Rio Negro Basin*, 
+partindo dos trabalhos de Koch-Grünberg e Tastevin, reformula de
 modo interessante a hipótese sobre os “primeiros habitantes”. Os grupos
 Maku atuais seriam os sobreviventes (*surviving*) das populações que
 ocuparam primeiramente a Bacia Amazônica, tendo sido em seguida
 exterminados e assimilados pelos Carib, Arawak e Tukano. Esses povos de
 cultura mais avançada na agricultura os teriam escravizado ou reduzido à
 servidão. Mas para Métraux, os Maku conquistados não seriam
-necessariamente nômades. Ele ressalta haver dois tipos de povos Maku. De
+necessariamente nômades. Ele ressalta haver dois tipos de povos maku. De
 um lado,estariam os nômades da região do Caiari-Vaupés, e, de outro, os
 Maku-Guariba, habitantes da região localizada entre os rios Negro e
 Japurá, que seriam bons agricultores. Esses possuiriam grandes
 plantações e habitariam casas comunais. O contraponto entre os dois
-tipos de povos “Maku” – de um lado, os nômades caçadores-coletores, de
+tipos de povos maku – de um lado, os nômades caçadores-coletores, de
 outro, os sedentários agricultores – dá subsídio à comprovação das
 ideias sobre a “decadência dos povos Maku” após o contato estabelecido
 com os não indígenas. Os Maku descritos por Koch-Grünberg, nômades, com
@@ -1524,39 +1539,39 @@ suas cabanas e plantações pequenas, seriam os representantes inferiores
 e decadentes de uma cultura anterior e ainda presente nos Maku-Guariba
 baseada na agricultura, no sedentarismo e em casas comunais. Se a
 chegada dos Tukano e dos Arawak escraviza e/ou extermina os Maku, o
-contato com os Brancos se torna o motivo para a decadência de uma
+contato com os brancos se torna o motivo para a decadência de uma
 cultura sedentária e agrícola, transformada em uma cultura nômade de
-caçadores-coletores. ]{}
+caçadores-coletores. 
 
-[É possível dizer que a reformulação da hipótese dos “primeiros
+É possível dizer que a reformulação da hipótese dos “primeiros
 habitantes”, feita por Métraux, se valha da diferenciação já apresentada
 por Koch-Grünberg, mas considerando-se, de modo mais amplo, os dois
-grupos, Maku-Guariba e Maku-Nômades como pertencentes aos Maku. Os
+grupos, Maku-Guariba e Maku-nômades como pertencentes aos Maku. Os
 primeiros são designados por Métraux como agricultores sedentários,
 enquanto os segundos figuram como nômades. Dessa maneira, o modo como
 Métraux concebe a “hipótese de decadência” dos Maku pelo contato parece
 ser um desenvolvimento da contraposição inicial proposta por
-Koch-Grünberg, acrescida das observações de Tastevin.]{}
+Koch-Grünberg, acrescida das observações de Tastevin.
 
-[Afirmando e descrevendo os dados da *mobilidade* e do *nomadismo* dos
+Afirmando e descrevendo os dados da mobilidade e do nomadismo dos
 Maku, Koch-Grünberg os opõe aos povos sedentários e mais evoluídos,
 apresentando negativamente elementos como o vagar, as residências
-pequenas, a falta de canoas, o dormir no solo, para caracterizar sua
+pequenas, a falta de canoas, o dormir no solo, de modo a caracterizar sua
 inferioridade e anterioridade atuais, mas, ao mesmo tempo, seu domínio
 anterior num vasto território que eles conheciam “como a palma da mão”.
 Para Koch-Grünberg, ainda que negativa na constituição da imagem
-contrastiva aos povos sedentários, a *mobilidade* é um traço
-constitutivo do modo de vida Maku. De modo diferente, para Métraux,
+contrastiva aos povos sedentários, a mobilidade é um traço
+constitutivo do modo de vida maku. De modo diferente, para Métraux,
 apenas recentemente a mobilidade passa a constituir-se como atributo
 característico desses povos. Suponho que, para Koch-Grünberg, pensar
-sobre a *mobilidade* dos Maku estava diretamente ligado à reflexão
+sobre a mobilidade dos Maku estava diretamente ligado à reflexão
 política sobre a dominação dos grupos sedentários sobre os nômades e,
-por isso, talvez fosse necessário refutar a possibilidade de grupos Maku
-com grandes roças e malocas.]{}
+por isso, talvez fosse necessário refutar a possibilidade de grupos maku
+com grandes roças e malocas.
 
-[Assim, retomando o artigo de 1906, a reformulação da hipótese de
-Coudreausobre os “primeiros habitantes” da região baseada em dados
-linguísticos e populacionais pode ser vista como uma elaboração a partir
+Assim, retomando o artigo de 1906, a reformulação da hipótese de
+Coudreau sobre os “primeiros habitantes” da região, baseada em dados
+linguísticos e populacionais, pode ser vista como uma elaboração a partir
 da observação empírica de um problema que, como mostra Münzel (1969),
 vinha sendo elaborado pelos viajantes numa perspectiva apriorística.
 Desde os relatos de padres, como Bruzzi Alves da Silva, até as
@@ -1566,9 +1581,9 @@ das populações da região, mas também a apresentação de dados empíricos e
 comparativos para o embasamento das proposições. Na convergência de
 dados etnológicos e linguísticos, essa é a meu ver uma primeira
 contribuição interessante do artigo de 1906, que aponta para uma nova
-forma de interpretar o modo de vida dos Maku. ]{}
+forma de interpretar o modo de vida dos Maku. 
 
-[Tentando compreender a dissonância de “*Die Maku*” com relação a outros
+Tentando compreender a dissonância de “Die Maku” com relação a outros
 escritos de Koch-Grünberg, Münzel (1969, p. 146) argumenta que fora
 “justamente a amizade pelos indígenas, a capacidade de sentir com eles,
 que pôde levar o pesquisador sensível a desprezar os Maku”. A meu ver,
@@ -1578,28 +1593,28 @@ ingênuo, sua simpatia e sensibilidade pelos indígenas com os argumentos
 evolucionistas dos naturalistas e teóricos que influenciaram sua
 formação. Estava também gestando uma forma de olhar, um determinado modo
 científico e evolucionista de observar os povos Maku. Temas como os
-“primeiros habitantes do Noroeste Amazônico”, o “nomadismo”, a relação
-“patrões e escravos” e a “língua Maku”, que ganham reformulações ao
+“primeiros habitantes do noroeste amazônico”, o “nomadismo”, a relação
+“patrões e escravos” e a “língua maku”, que ganham reformulações ao
 longo do desenvolvimento de pesquisas etnográficas, como mostra o
 trabalho de Becerra, Calvo e Rubio (1996), fazem-se presentes e
 subordinados ao rigor científico e às reconhecidas qualidades de análise
-desse pesquisador alemão, que, após sua expedição ao Alto Rio Negro,
+desse pesquisador alemão, que, após sua expedição ao alto rio Negro,
 ganhou notável renome no meio acadêmico. O próprio fato de apresentar
 todos esses temas reunidos para constituir a imagem de um povo nômade já
 demonstra a especificidade desse texto que, apesar de seu tom
 depreciativo e preconceituoso, torna-se uma espécie de ponto de partida
-para as observações dos pesquisadores que o sucederam. ]{}
+para as observações dos pesquisadores que o sucederam. 
 
-[Àparte o tom racista que torna difícil a leitura do texto de
+À parte o tom racista que torna difícil a leitura do texto de
 Koch-Grünberg, seu artigo constitui uma forma de olhar para os povos
-Maku que estabelece a descrição de aspectos de mobilidade e a comparação
-com o modo de vida dos povos Tukano como procedimentos analíticos
+maku que estabelece a descrição de aspectos de mobilidade e a comparação
+com o modo de vida dos povos tukano como procedimentos analíticos
 relevantes para a interpretação. Como mostra Marques (2009), é como
-*figuras de movimento* que os povos Maku serão percebidos pela
-literatura etnológica em contraste com um *fundo de fixidez*
-estabelecido pelos povos Tukano ( p. 10). ]{}
+figuras de movimento que os povos Maku serão percebidos pela
+literatura etnológica em contraste com um fundo de fixidez
+estabelecido pelos povos Tukano (Marques, 2009, p. 10). 
 
-[Diferente de Münzel, suponho que seja justamente o fato de
+Diferente de Münzel, suponho que seja justamente o fato de
 Koch-Grünberg estar identificado com a visão dos “povos do rio” sobre os
 Maku que o faça buscar na teoria e nos dados meios de comprovar essa
 visão que revela a humanidade, o domínio territorial e a superioridade
@@ -1612,28 +1627,28 @@ sendo um aspecto fundamental à compreensão do modo de vida dos Maku.
 Como será possível verificar nos trabalhos de antropólogos posteriores,
 o foco na mobilidade possibilitará a Peter Silverwood-Cope e Howard Reid
 uma profunda crítica etnográfica aos paradigmas evolucionistas que
-vinham informando o modo de reflexão científica sobre os povos Maku.]{}
+vinham informando o modo de reflexão científica sobre os povos Maku.
 
-#### Outros viajantes
+# Outros viajantes
 
-##### Peter Silverwood-Cope e Howard Reid
+## Peter Silverwood-Cope e Howard Reid
 
-[Em outubro de 1968, Peter Silverwood-Cope viajou com Stephen e
+Em outubro de 1968, Peter Silverwood-Cope viajou com Stephen e
 Christine Hugh-Jones para o rio Pira Paraná em busca de grupos maku na
 região[^6]. S. Hugh-Jones e sua esposa C. Hugh-Jones iniciaram suas
-pesquisas etnográficas sobre os Barasana, povo Tukano. Como
-Silverwood-Cope não encontrou grupos maku na região do rio Pira-Paraná,
+pesquisas etnográficas sobre os Barasana, povo tukano. Como
+Silverwood-Cope não encontrou grupos maku na região do rio Pira Paraná,
 iniciou sua pesquisa com um único grupo regional Bara-Maku (Kakwa) da
-área do rio Maku-Parana. Seu trabalho consolidou-se como o primeiro
-estudo etnográfico detalhado sobre um grupo Maku. Os três jovens
+área do rio Maku-Paraná. Seu trabalho consolidou-se como o primeiro
+estudo etnográfico detalhado sobre um grupo maku. Os três jovens
 etnógrafos de Cambridge participavam de um projeto dirigido por Edmund
 Leach e financiado pelo Social Science Research Council, que visava
-suprir o “*gap*” do pouco conhecimento etnográfico da Antropologia
-Britânica sobre os povos das chamadas terras baixas[^7]. **]{}
+suprir a lacuna do pouco conhecimento etnográfico da antropologia
+britânica sobre os povos das chamadas terras baixas[^7]. 
 
-[Alguns anos mais tarde, em setembro de 1974, outro antropólogo inglês
-ao Noroeste Amazônico, Howard Reid, com o objetivo de realizar o
-primeiro estudo etnográfico sobre os Hupd’äh, povo Maku que habita a
+Alguns anos mais tarde, em setembro de 1974, Howard Reid, outro antropólogo inglês,
+chegou ao noroeste amazônico, com o objetivo de realizar o
+primeiro estudo etnográfico sobre os Hupd’äh, povo maku que habita a
 região interfluvial dos rios Papuri e Tiquié. O pesquisador veio ao
 Brasil entusiasmado com a leitura dos trabalhos de Peter
 Silverwood-Cope, Jean Jackson, Christine e Stephen Hugh-Jones, seus
@@ -1644,97 +1659,94 @@ Science Research Council. Durante os primeiros meses de trabalho de
 campo, Reid realizou viagens circulares através da floresta e visitou 24
 aldeias hup. Sua estratégia de pesquisa envolveu a alternância entre
 períodos de maior convivência em determinados grupos locais e viagens às
-vilas e cidades próximas. ]{}
+vilas e cidades próximas. 
 
-[O antropólogo recebeu o apelido de /Häw/ e alguns Hupd’äh mais velhos
+O antropólogo recebeu o apelido de /Häw/ e alguns Hupd’äh mais velhos
 narram histórias sobre sua presença no convívio das aldeias. Nesta
-Subseção, tomando como referência uma narrativa hup sobre o modo como
+subseção, tomando como referência uma narrativa hup sobre o modo como
 eram percebidos os etnógrafos, gostaria de discutir um pouco como seus
 trabalhos, a partir da longa observação participante, vão constituindo
 uma crítica etnográfica às abordagens influenciadas por Koch-Grünberg,
 ao mesmo tempo em que consolidam um modo diferente de reflexão sobre a
-mobilidade dos povos Maku. ]{}
+mobilidade dos povos maku. 
 
-##### Contraposições
+## Contraposições
 
-[Silverwood-Cope (1990, p. 11) contrapõe-se à perspectiva difundida por
+Silverwood-Cope (1990, p. 11) contrapõe-se à perspectiva difundida por
 Koch-Grünberg já nas primeiras linhas de seu trabalho, que “Os Maku eram
 descritos como animais selvagens de floresta pelos vizinhos Tukano que,
 diz-se, os mantinham como escravos”. Justifica-se assim a diferença de
-natureza entre seu trabalho que parte de uma pesquisa de campo
+natureza entre seu trabalho, que parte de uma pesquisa de campo
 sistemática, e a “pouca informação publicada sobre os Maku”
 anteriormente. Seu trabalho apresenta uma crítica etnográfica ao modo de
-entendimento dos povos Maku como caçadores e coletores nômades. Essa
+entendimento dos povos maku como caçadores e coletores nômades. Essa
 crítica correspondia à visão difundida pelo artigo de Alfred Métraux no
 *Handbook of South American Indians*. Opondo-se a essa interpretação,
-Silverwood-Cope dirá que:]{}
+Silverwood-Cope dirá que:
 
-[[Primeiro, os Maku são classificados como “caçadores e colhedores”.
+<!-- Estilo de citação -->
+Primeiro, os Maku são classificados como “caçadores e colhedores”.
 Isto não está claramente baseado em qualquer observação direta
 quantitativa das atividades de subsistência dos Maku. Deve-se, mais
 provavelmente, ao modo como as duas atividades “caça” e “colheita” são,
 de certo modo, associadas na mente ocidental como características de
-]{}[subsistência dos povos nômades de pouco cultivo. \[...\] Em segundo
+]{}[subsistência dos povos nômades de pouco cultivo. \[...\] Em segundo 
 lugar, enquanto é discutível se ou não os Maku deveriam ser designados
 como nômades ou seminômades, é certo que os Maku são muito móveis em
 comparação com os Índios do Rio sedentários. \[...\] Koch-Grünberg
 (1906), McGovern (1927) e Nimuendajú (1950) dizem que os Maku foram
 escravos dos Tukano mas exemplificam com poucos casos que indiquem o
-grau de escravidão]{} (1990, p. 74). ]{}
+grau de escravidão. (1990, p. 74)
+<!-- Estilo de citação -->
 
-[Nas linhas finais de sua tese, o antropólogo ressalta a importância de
+Nas linhas finais de sua tese, o antropólogo ressalta a importância de
 uma revisão da categorização desses povos como sendo caçadores e
-coletores nômades muito primitivos que vêm sendo assimilados e
+coletores nômades muito primitivos, que vêm sendo assimilados e
 escravizados por povos agricultores invasores (Silverwood-Cope, p. 103).
 Silverwood-Cope relata ter observado casos de escravidão por dívida que
 atingiam tanto índios Tukano quanto índios Maku, não havendo a
 exclusividade desses últimos nesse papel, como afirmava Koch-Grünberg.
-Silverwood-Cope observa um *nomadismo circular* dos Bara-Maku que se dá,
+Silverwood-Cope observa um nomadismo circular dos Bara-Maku que se dá,
 principalmente, através da mudança de aldeamento em intervalos de meses
 ou anos. O retorno sucessivo aos acampamentos de caça e o
 reestabelecimento de relações de parceria de troca com pessoas Tukano e
-Desano também indicariam esse nomadismo circular. ]{}
+Desano também indicariam esse nomadismo circular. 
 
-[**da de 1970 faz com que Reid (1979) critique as interpretações de
-Métraux, Steward, Lévi-Strauss e Lathrap. Para o autor, os argumentos em
-voga ]{}
-
-[**]{}
-
-[Desse modo, os antropólogos criticam o tipo de explicação causal e
+Desse modo, os antropólogos criticam o tipo de explicação causal e
 diacrônica que pretendia sustentar a subordinação dos Maku
-nômades/caçadores-coletores a povos sedentários/ invasores em termos da
-“teoria da dominação”. Pretendendo realizar-se enquanto *etnografias
-compreensivas*, na acepção de ** os mundos dos Bara-Maku e dos Hupd’äh.
-A mobilidade deixa de ser um dado de comprovação do nomadismo e
+nômades/caçadores-coletores a povos sedentários/invasores em termos da
+“teoria da dominação”. A mobilidade deixa de ser um dado de comprovação do nomadismo e
 subordinação aos agricultores sedentários, e passa a ser um aspecto
 inerente à sociabilidade, às atividades produtivas, e mesmo à identidade
-dos Maku. ]{}
+dos Maku. 
 
-##### Dois irmãos
+## Dois irmãos
 
-[[Esse /Häw/ comia coca. Eu o conheci lá em /Pɨ\[342?\]\[316?\]g-Dëh/
+<!-- Estilo de citação -->
+Esse /Häw/ comia coca. Eu o conheci lá em /Pɨ̖͂g-Dëh/
 quando eu ainda morava lá. O irmão dele era o Peter. Mas o Peter ficava
 mais pra lá. Os dois viajavam muito juntos. Eu era rapaz e vi esse
 /Häw/. Ele era alto! Comia muita coca e ouvia bem os benzimentos. Sabia
 bem a nossa língua. Ele tinha a zarabatana dele. Era bom caçador. Matava
-muito macaco-barrigudo. Usava aquele /b’ö\[317?\]b/, “tanga”, dos
+muito macaco-barrigudo. Usava aquele /b’ö̗b/, “tanga”, dos
 antigos e andava descalço. Ele tinha uma namorada tukano que morava lá
 em Pari-Cachoeira. Por isso, ia sempre pra lá. Você sabe onde ele está
-agora?]{} (Caderno de Campo, 09/09/2011).]{}
+agora? (Caderno de Campo, 09/09/2011).
+<!-- Estilo de citação -->
 
-[Na aldeia de /Ta̗t-Dëh/, sentado com os velhos antropólogo Howard
+Na aldeia de /Ta̗t-Dëh/, sentado com os velhos antropólogo Howard
 realizara sua pesquisa de campo na década de 1970. À pergunta de João,
-respondi que o estar na em assemelhar-se física, técnica e gestualmente
-aos Hupd’äh Ao mesmo tempo, esses mesmos aspectos demonstram seu sucesso
+respondi que o estar na Inglaterra, muito longe. A descrição de João torna
+visível o empenho do pesquisador em assemelhar-se física, técnica e gestualmente
+aos Hupd’äh. Ao mesmo tempo, esses mesmos aspectos demonstram seu sucesso
 no aprendizado e na aquisição de habilidades necessárias à vida na
-floresta. ]{}
+floresta. 
 
-[Num dado momento do trabalho, Silverwood-Cope relata da seguinte forma
+Num dado momento do trabalho, Silverwood-Cope relata da seguinte forma
 o momento em que decidiu acompanhar os homens em suas incursões à mata:
-]{}
 
-[[\[...\] o caminho para uma melhor compreensão da experiência Maku
+<!-- Estilo de citação -->
+\[...\] o caminho para uma melhor compreensão da experiência maku
 seria acompanhar os caçadores à floresta. A princípio não foi nada
 fácil. Os Maku achavam em parte divertido e em parte inconveniente
 ter-me com eles na aldeia. Mas, na floresta, eu era só um problema e um
@@ -1744,26 +1756,18 @@ zarabatanas e arcos e flechas. \[...\] Usando sapatos de basquete, pude
 acompanhar caçadores que perseguiam as grandes caças de solo; correr de
 pés descalços era mais silencioso, mas meus pés delicados ficaram tão
 cortados, feridos e cheios de espinhos que logo me vi reduzido a um
-trôpego vagaroso]{} ( 1990, p. 34). ]{}
+trôpego vagaroso (1990, p. 34). 
+<!-- Estilo de citação -->
 
-[Como afirma Silverwood-Cope, através das caminhadas na floresta e da
+Como afirma Silverwood-Cope, através das caminhadas na floresta e da
 participação nas caçadas, procurava estabelecer seu contato de modo
-diferente dos “patrões Tukano” e dos padres salesianos (1990, p. 11).
+diferente dos “patrões tukano” e dos padres salesianos (1990, p. 11).
 Esses modos de participação dos pesquisadores vão garantindo a
 constituição de uma imagem de si como sendo um tipo de “branco”
 diferente dos padres e freiras “italianos” e dos comerciantes e
-seringueiros “brasileiros”. Aproximando-me de Ingold (), entendo ]{}
+seringueiros “brasileiros”. 
 
-[**]{}
-
-[** ]{}
-
-[**]{}
-
-[Para Reid (1979), a interpretação dos padrões de mobilidade hup depende
-da **]{}
-
-[Em certo ponto de sua tese, Silverwood-Cope (1990, p. 34-5) menciona
+Em certo ponto de sua tese, Silverwood-Cope (1990, p. 34-5) menciona
 uma situação extrema que viveu já no final de seu trabalho de campo. O
 etnógrafo viu-se abandonado numa parte desabitada da floresta ao sul do
 Uaupés. Tinha permanecido lá espera de um guia maku que o levaria a
@@ -1772,35 +1776,38 @@ dias, tendo que buscar abrigo sozinho. Quando finalmente conseguiu
 chegar a seu destino, muitos Bara-Maku disseram acreditar que ele já
 estivesse morto. Questionando a um velho porque ninguém tinha ido
 procurá-lo, o mesmo respondeu: “Logo que você chegou, não sabia nada –
-agora você aprendeu a morar e a andar na floresta”.]{}
+agora você aprendeu a morar e a andar na floresta”.
 
-[A meu ver, a perspectiva do velho Bara-Maku tem algo de semelhante a
-uma espécie de *antropologia reversa*, uma contrapartida interpretativa
-da própria antropologia ** (Wagner, 2010, p. 71). Os movimentos,
+A meu ver, a perspectiva do velho Bara-Maku tem algo de semelhante a
+uma espécie de antropologia reversa, uma contrapartida interpretativa
+da própria antropologia (Wagner, 2010, p. 71). Os movimentos,
 hábitos, percepções e sensibilidades do etnógrafo situavam-no num campo
 de relações de homens caçadores que sabiam orientar-se e permanecer na
 floresta. Seu processo de aquisição de habilidades deu-se em meio à
-convivência com mentores que mostravam a ele os sentidos daquele mundo,
-revelando os **]{}
+convivência com mentores que mostravam a ele os sentidos daquele mundo.
 
-[Através do relato de Silverwood-Cope, é fácil entender como as
+Através do relato de Silverwood-Cope, é fácil entender como as
 argumentações e sistematizações dos pesquisadores não advêm somente de
-conversas e enquetes,[^8]** Silverwood-Cope procura apresentar a prática
-da caça através de descrições dos acampamentos, sumo, de formas de
-classificação e concepções cosmológicas sobre a atividade.
-minuciosamente as técnicas para a captura ]{}
+conversas e enquetes[^8]. Silverwood-Cope procura apresentar a prática
+da caça através de descrições dos acampamentos, de formas de
+classificação e concepções cosmológicas sobre a atividade, além de detalhar
+minuciosamente as técnicas para a captura 
 
-[No trabalho de Reid, a prática da caça surge também como uma
+No trabalho de Reid, a prática da caça surge também como uma
 movimentação que desenvolve o conhecimento dos caminhos, a possibilidade
 de orientação noturna e o uso de técnicas e instrumentos de acordo com o
 tipo de animal e com seus hábitos e comportamentos. A partilha da carne
 entre as famílias presentes numa expedição e a interpretação do
-princípio de /k’e\[317?\]t kö’ ay/, “cruzar/ perambular”, revelam a
+princípio de //k’e̗t kö’ ay/, “cruzar/ perambular”, revelam a
 atividade como uma especialidade para a produção econômica e também como
 um modo de mobilidade que integra formas específicas de interação social
-e de *exploração do ambiente* ( 1979, p. 40-50). ]{}
+e de exploração do ambiente (1979, p. 40-50). 
 
-[A oposição que Reid (A primeira atividade abrange o conjunto de
+A oposição que Reid estabelece entre os tipos de atividades masculinas 
+de //k’e̗t kö’ ay/, “cruzar/perambular”, e /bɨ̗’ɨ̗y/,
+“trabalhar”, mostra-se especialmente interessante para a compreensão
+dos padrões de mobilidade dos Hupd’äh e de suas formas de interação nos
+distintos “mundos”.A primeira atividade abrange o conjunto de
 práticas realizadas na floresta que vão desde a caça e a pesca até a
 coleta de plantas, frutos e matéria prima para a produção de
 instrumentos de trabalho. Essas práticas seriam consideradas
@@ -1808,11 +1815,11 @@ interessantes e prazerosas, pois elas ocorrem na floresta, um ambiente
 em contínua mudança. Já as atividades relacionadas ao “trabalho” – que
 envolvem a abertura de roças, o artesanato, a construção de casas,
 realizadas na aldeia ou, mediante trocas, nas comunidades dos “índios do
-rio” – seriam consideradas entediantes, desinteressantes e cansativas. A
+rio” – seriam consideradas entediantes, desinteressantes e cansativas. <!-- A
 abordagem de Reid torna-se explícita no excerto a seguir: ]{}
 
 [[A ]{}[ pode ser vista como outro princípio importante para a ]{}[ pelo
-homem Hupd\[289?\]. Já discuti anteriormente o amplo espectro de
+homem Hupdʉ. Já discuti anteriormente o amplo espectro de
 técnicas utilizadas para a coleta de recursos florestais. Eles matam e
 alimentam-se de quase todas as espécies de caça da floresta tropical;
 utilizam certa variedade de métodos para pescar os peixes dos igarapés;
@@ -1824,94 +1831,102 @@ consequentemente sua experiência e conhecimento), ]{}[, e suas próprias
 ]{}[. Um quarto fator que repercute sobre as preferências pessoais vem a
 ser o leque de habilidades empregadas por outro corresidente ]{}]{}
 
-[**]{}
+[**]{} -->  
+<!-- Podemos eliminar esse trecho?? -->
 
-[Refletindo com Ingold (2000, p. 28-9), a imagem do
-“caçador-especialista” parece mesclar princípios da perspectiva teórica
-do *homem econômico* aos da perspectiva do *optimal forager*. Para a
-primeira perspectiva, o avanço da cultura se dá contra um fundo de
-natureza resistente, através da atuação do indivíduo na esfera social
-baseada em seu interesse racional próprio. Para a segunda perspectiva, a
-racionalidade do *optimal forager* está circunscrita pela natureza, e o
-domínio humano da sociedade e cultura é visto como fonte de normas
-externas que podem desviar o indivíduo do *ótimo*. Na descrição das
+Refletindo com Ingold (2000, p. 28-9), a imagem do “caçador-especialista” 
+parece mesclar princípios da perspectiva teórica do homem econômico
+aos da perspectiva do *optimal forager*. Para a primeira perspectiva, 
+o avanço da cultura se dá contra um fundo de natureza resistente, 
+através da atuação do indivíduo na esfera social baseada em seu interesse  
+racional próprio. Para a segunda perspectiva, a racionalidade do *optimal forager* está 
+circunscrita pela natureza, e o domínio humano da sociedade e cultura é visto como 
+fonte de normas externas que podem desviar o indivíduo do “ótimo”. Na descrição das
 práticas de caça, Silverwood-Cope e Reid vinculam valor utilitário a
 cada tipo de recurso buscado pelo indivíduo, procurando mensurar a
-satisfação e o rendimento, calculando a estratégia *ótima* por recurso
+satisfação e o rendimento, calculando a estratégia “ótima” por recurso
 procurado para obter o máximo de utilidade por tempo e energia
 empregados. Como especialistas, os homens maku são os mais capazes de
-fazer escolhas para maximizar seu interesse próprio.]{}
+fazer escolhas para maximizar seu interesse próprio.
 
-[As tabelas de Silverwood-Cope e Reid, com suas mensurações de eficácia
+As tabelas de Silverwood-Cope e Reid, com suas mensurações de eficácia
 em quilos de carne produzidas, ou de espécies capturadas por cada
 caçador em dado local e período, são um exemplo da influência desse
 olhar. Já a ênfase no aprendizado com os mais velhos, no uso racional de
 técnicas por indivíduos nas expedições coletivas e a preferência aliada
 ao conjunto de métodos de uma dada comunidade apontam para essa
-*especialização de habilidades* em termos de uma sociabilidade que se
+especialização de habilidades em termos de uma sociabilidade que se
 estabelece contra um fundo de natureza, pleno de recursos. Quanto mais
 especializado ou socializado na caça, mais recursos e satisfação o
-indivíduo obterá. O senso de identidade como “caçador-especialista” e o
+indivíduo obterá. <!-- O senso de identidade como “caçador-especialista” e o
 prazer por “perambular” pela mata reforçam a busca dos pesquisadores por
 interpretar essas atividades como sendo racionais por serem pautadas por
 saberes instrumentais e utilitários que fazem com que a imagem dos Maku
-oscile ]{}
+oscile ]{} (Podemos eliminar esse trecho? Ou devemos completá-lo, tal qual
+aparece na dissertação? "a imagem dos Maku oscile entre, de um lado, indivíduos
+que, pela exploração do ambiente, impõe a cultura sobre a natureza, ou, de outro,
+pessoas que, distanciando-se do mundo da aldeia, do trabalho monótono, 
+circunscrevem-se na natureza, no mundo da floresta, seus interesses racionais
+para obter o máximo de recursos."-->
 
-[Em *Os Maku* (Silverwood-Cope, 1990), a atividade agrícola aparece como
+Em *Os Maku* (Silverwood-Cope, 1990), a atividade agrícola aparece como
 uma prática feminina em que a mandioca (maniva) coloca como o principal
 gênero alimentício, sendo papel dos homens apenas o de abrirem as roças.
 O livro enfatiza, ainda, o caráter limitado da produção, certos aspectos
 do solo, o cultivo de algumas frutíferas e a participação dos filhos que
-auxiliam suas mães e irmãs (1990, p. 42-46). O preparo das refeições, o
+auxiliam suas mães e irmãs. O preparo das refeições, o
 cultivo da roça, o cuidado com as crianças, o artesanato dos cestos, a
 coleta de insetos, frutos e cipós são práticas relacionadas, no trabalho
-de Reid, para caracterizar as atividades femininas como *monótonas* e
-*árduas* (Reid, 1979, p. 36-40). Na tese de Silverwod-Cope (1990 são
+de Reid, para caracterizar as atividades femininas como monótonas e
+árduas. Na tese de Silverwod-Cope são
 mencionadas a pesca com anzol, a pesca coletiva com timbó e o uso do
 arco e flecha. Ele ressalta a importância das estações para a subida ou
 descida dos peixes, a variedade de espécies comestíveis e as eficácias
-variáveis em tempos de seca ou chuva. Por outro lado, Reid (1979) se
+variáveis em tempos de seca ou chuva. Por outro lado, Reid atém-se
 mais à pesca, evidenciando sua relação íntima com a caça e com os
 percursos ao longo dos igarapés. No que diz respeito à coleta,
 Silverwood-Cope detalha os tipos de frutos comestíveis bem como os
-insetos e os modos de preparo (Silverwood-Cope, 1990, p. 43-53). Reid
-(1979) indica a relação entre caça e coleta de frutos, mostrando a
+insetos e os modos de preparo. Reid indica a relação entre caça e coleta de frutos, mostrando a
 conexão entre o conhecimento sobre os frutos da mata e os hábitos
 alimentares dos animais, e também a importância de determinados frutos
-para a realização de rituais e festas.]{}
+para a realização de rituais e festas.
 
-[Certamente a inserção de ambos os pesquisadores foi mais intensa nas
+Certamente a inserção de ambos os pesquisadores foi mais intensa nas
 formas de sociabilidade masculinas e, mais especificamente, a partir de
-suas participações nos /k’e\[317?\]t kö ay/, nessas caminhadas pelas
+suas participações nos /k’e̗t kö’ ay/, nessas caminhadas pelas
 matas. Reid menciona a dificuldade que teve em descrever as atividades
 femininas, por exemplo, porque há uma rígida divisão do trabalho entre
-os gêneros e porque não é bem visto um homem acompanhar as mulheres em
+os gêneros e porque não é bem-visto um homem acompanhar as mulheres em
 seus afazeres. Silverwood-Cope também apresenta poucos dados sobre essas
 atividades. Comparando-se às notas detalhadas sobre as atividades de
-/k’e\[316?\]t kö ay/, “perambular” e de caça, nenhum dos dois
+/k’e̗t kö’ ay/, “perambular” e de caça, nenhum dos dois
 antropólogos descreve os afazeres na aldeia (trabalhos) em profundidade.
-]{}
 
-[As lembranças de João evocam uma imagem do /Häw/ talvez muito próxima
-àquela que Koch-Grünberg transmite dos Maku, depreciá-lo. Os dois
+As lembranças de João evocam uma imagem do /Häw/ talvez muito próxima
+àquela que Koch-Grünberg transmite dos Maku, sem, no entanto, depreciá-los. Os dois
 irmãos, /Häw/ e Peter, os /ingledäh/ são vistos como um povo caçador ou
-apto a aprender a prática da caça e a conseguir movimentar-se pelo
+apto a aprender a prática da caça e a conseguir se movimentar pelo
 ambiente da floresta, a compreender e a compartilhar esse modo de vida.
-O homem alto, de tanga, caçador e seu dão um *status* reflexivo
+O homem alto, de tanga, caçador e seu irmão, que corria pela mata
+com um tênis de basquete, dão um *status* reflexivo
 fundamental à questão da mobilidade como central para um entendimento
-compreensivo do modo de vida Maku. Entendo que a metodologia de trabalho
+compreensivo do modo de vida maku. Entendo que a metodologia de trabalho
 adotada por ambos, ao diferenciar-se das atitudes dos “índios do rio” e
-dos outros “brancos”, constitui uma identidade do pesquisador perante
-]{}
+dos outros “brancos”, constitui uma identidade do pesquisador perante os grupos
+que se distingue daquela praticada por Koch-Grünberg, pelos cronistas, padres
+e etnógrafos.
 
-[Mas em sua *etnografia compreensiva* os Em seus trabalhos, nas notas
-sobre as atividades de /k’e\[316?\]t kö ay/, o conhecimento dos
+Mas em sua “etnografia compreensiva” os etnólogos identificam-se também
+com certo olhar masculino e de contraposição aos Tukano. Isso os faz
+depreciar ou silenciar sobre o universo feminino e enfatizar o caráter
+cansativo e não prazeroso das atividades “não móveis”. Em seus trabalhos, nas notas
+sobre as atividades de /k’e̗t kö’ ay/, o conhecimento dos
 etnógrafos não se dá pelo acúmulo, mas sim através do engajamento nos
-movimentos ao longo de um ambiente. e ensinados, os etnólogos demonstram
+movimentos ao longo de um ambiente. Como aceitavam ser guiados e ensinados, os etnólogos demonstraram
 sensibilidades íntimas para outros modos de ser, contribuindo, assim,
 para que sejam motivo recorrente de boas lembranças nas rodas de coca de
 /Ta̗t-dëh/. De modo diferente, a imagem dos Maku vai sendo constituída a
-partir dos traços do *homem econômico* e o *optimal forager*, sendo
+partir dos traços do “homem econômico” e o *optimal forager*, sendo
 caracterizados por uma racionalidade pautada no conhecimento pelo
 acúmulo, no saber instrumental, na especialização das habilidades, no
 cálculo de esforço e técnicas empregados para um máximo de satisfação
@@ -1924,14 +1939,14 @@ alternativo aos paradigmas desse racionalismo econômico que informa a
 perspectiva de ambos os antropólogos. Afinal, movendo-se pela floresta
 com os Hupd’äh e com os Bara-Maku, /Häw/ e Peter vão deixando de ser
 viajantes ao modo de Koch-Grünberg e aceitando aprender sobre a
-mobilidade com esses “outros viajantes”. ]{}
+mobilidade com esses “outros viajantes”.
 
-#### Paradoxo?
+## Paradoxo?
 
-[A “história do Häw” foi contada por João em uma roda enquanto
+A “história do Häw” foi contada por João em uma roda enquanto
 conversávamos, fumávamos e comíamos coca no início da noite. Em suas
 memórias, o /Häw/, além de bom caçador, surge como um
-/u\[342?\]\[316?\]k wed i\[342?\]h/, um “comedor de coca”, falante da
+/pu͂’u̖͂k wed i͂h/, um “comedor de coca”, falante da
 língua hup e bom ouvinte de benzimentos. Nas rodas noturnas, enquanto
 comem coca e fumam tabaco, os homens hup conversam sobre encantamentos e
 ações xamânicas, narram mitos e comentam sobre encontros com animais e
@@ -1944,48 +1959,50 @@ tabaco. Tentando interpretar os escritos de Reid e o tema do “bom
 comedor de coca” e do “bom ouvinte de benzimentos” da narrativa de João,
 qual teria sido o motivo do silêncio quanto às práticas da coca e do
 tabaco? A participação e não descrição dessas práticas representaria um
-paradoxo com relação à etnografia compreensiva? ]{}
+paradoxo com relação à etnografia compreensiva?
 
-[Peter Silverwood-Cope refere-se às rodas da seguinte forma:]{}
+Peter Silverwood-Cope refere-se às rodas da seguinte forma:
 
-[ *À noite, homens de diferentes grupos domésticos sentam-se juntos,
+<!-- Estilo de citação -->
+À noite, homens de diferentes grupos domésticos sentam-se juntos,
 algumas vezes fora e, outras vezes, na casa do homem mais velho, para
 discutir a caça e a floresta, para contar estórias e para conversar e
 discutir os problemas da comunidade, dos seus vizinhos e dos Índios do
-Rio (1990, p. 86).*]{}
+Rio (1990, p. 86).
+<!-- Estilo de citação -->
 
-[No que diz respeito às unidades sociais, Silverwood-Cope (1990)
+No que diz respeito às unidades sociais, Silverwood-Cope
 apresenta a organização social dos Maku como sendo constituída por três
-grupos de interação fundamentais: os *grupos regionais*, os *grupos
-locais* e os *grupos domésticos*. Seu olhar para os sistemas de
-parentesco e para as regras matrimoniais nfatiza a mobilidade e a
+grupos de interação fundamentais: os grupos regionais, os grupos
+locais e os grupos domésticos. Seu olhar para os sistemas de
+parentesco e para as regras matrimoniais enfatiza a mobilidade e a
 plasticidade dos arranjos e regras sociais. Comparando alguns casos de
 casamento, diz que a mobilidade característica ao padrão de residência
-baseia na inexistência de laços de propriedade imóvel de terra ou local
+baseia-se na inexistência de laços de propriedade imóvel de terra ou local
 de moradia. A mobilidade torna-se relevante para entender as mudanças, a
 fragmentação ou cisão e reconfigurações dos grupos locais ocasionadas
 por brigas ou desentendimentos entre seus moradores ou, ainda, desses
-com os “índios do rio” (Silverwood-Cope, 1990, p. 90-7). Nesse sentido,
+com os “índios do rio”. Nesse sentido,
 é interessante notar como o seu breve relato surge em meio a uma análise
-sobre a integração dos *grupos domésticos* nos *grupos locais.* Há um
+sobre a integração dos grupos domésticos nos grupos locais. Há um
 senso de pertencimento ao grupo local que se reforça através das rodas
 de conversa. Sua descrição deixa transparecer certo aspecto de
 igualitarismo e comunhão, mostrando o mais velho como alguém importante
 por seu saber e papel político. O excerto revela a atenção do
 pesquisador não apenas para os elementos que geram a fluidez social, mas
-também importância de formas de sociabilidade que promovem integração,
-durabilidade e continuidade dos arranjos sociais. ]{}
+também para a importância de formas de sociabilidade que promovem integração,
+durabilidade e continuidade dos arranjos sociais. 
 
-[Enfocando a vida social Hupd’äh como um sistema que incorpora um alto
-grau de mobilidade, Reid (1979) busca em Thurnbull (1966) as bases para
-entender a *fluidez*, a liberdade com que as ou separando-se de grupos
-locais, aldeias e/ou famílias. Reid (1979) enfatiza que o clã não é uma
+Enfocando a vida social Hupd’äh como um sistema que incorpora um alto
+grau de mobilidade, Reid busca em Thurnbull (1966) as bases para
+entender a fluidez, a liberdade com que as ou separando-se de grupos
+locais, aldeias e/ou famílias. Reid enfatiza que o clã não é uma
 unidade estável, podendo alterar seu nome de acordo com migrações ou
 flutuações demográficas, por exemplo. O antropólogo vê na plasticidade
 de arranjos clânicos hup um fator marcante de fluidez que se relaciona à
 alta volatilidade da composição dos grupos locais. Não há pertencimento
 de um clã determinado território, já que os maiores clãs são encontrados
-em todos os grupos locais (Reid, 1979, p. 113). Se, como aponta
+em todos os grupos locais. Se, como aponta
 Silverwood-Cope, as rodas de coca são um fator fundamental para a
 integração dos grupos locais, talvez a grande ênfase de Reid na fluidez
 e no movimento dos grupos domésticos seja justamente algo que leva o
@@ -1995,67 +2012,71 @@ senso de pertencimento que se constitui mais no “mundo da floresta” do
 que no “mundo da aldeia”. Embora não haja notas sobre essa forma de
 sociabilidade hup, o antropólogo, em meio a um relato sobre as relações
 entre os Hupd’äh e os Tukano, escreve algumas linhas sobre as práticas
-da coca e do tabaco. ]{}
+da coca e do tabaco. 
 
-[O tema do “roubo da coca” aparece recorrentemente na tese de Reid. Os
+O tema do “roubo da coca” aparece recorrentemente na tese de Reid. Os
 Hupd’äh roubam a coca, o tabaco e a maniva para punir o homem tukano
 para quem prestaram serviço pela troca ruim ou para maximizar seu
 consumo. O trabalho das mulheres na roça é descrito como pouco
 especializado e árduo, refletindo-se numa produção pequena e, por vezes,
 insuficiente de maniva. Isso gera a necessidade de obter-se, junto aos
 Tukano, uma quantidade complementar de maniva, seja pela troca de frutos
-ou carne de caça, pelo trabalho, ou pelo roubo (Reid, 1979, p. 64). Da
+ou carne de caça, pelo trabalho, ou pelo roubo. Da
 mesma forma, Reid diz que pequenos pés de coca são plantados por poucos
 homens nas roças de suas esposas, ao contrário do tabaco e do caarpi,
 cultivados pelos homens ao redor da casa, mas igualmente em pequena
-quantidade (1979, p.55). Sutilmente, a insuficiência produtiva de maniva
-e coca liga-se à roça, /bɨ\[317?\]’ɨ\[317?\]y/, ao “trabalho” árduo,
+quantidade. Sutilmente, a insuficiência produtiva de maniva
+e coca liga-se à roça, /bɨ̗’ɨ̗y/, ao “trabalho” árduo,
 monótono e pouco especializado, realizado no “mundo da aldeia” pelo qual
 os Hupd’äh teriam pouco interesse, ao contrário dos Tukano. Em seu
 argumento, o desinteresse gera a baixa produtividade, que suscita a
-reciprocidade positiva ou negativa com os Tukano (Sahlins, 1978). ]{}
+reciprocidade positiva ou negativa com os Tukano. 
 
-[Contrárias à mobilidade da “perambulação”, a coca e a maniva são
-*especialidades* de produção dos “índios do rio” que, por isso, possuem
+Contrárias à mobilidade da “perambulação”, a coca e a maniva são
+especialidades de produção dos “índios do rio” que, por isso, possuem
 grandes plantações desses gêneros. Isso motiva o interesse dos Hupd’äh
 pela troca ou pelo roubo. Para maximizar seu acesso a esses e outros
-recursos produzidos mobilidade” e aos “índios do rio” vai fazendo com
+recursos produzidos insuficientemente, o indivíduo escolhe, racionalmente, 
+realizar atividades árduas para um Tukano, ou pilhá-lo, caso a troca 
+não atenda às suas expectativas. O vínculo da coca ao “trabalho”, 
+à “pouca mobilidade” e aos “índios do rio” vai fazendo com
 que ela seja descrita como objeto de desejo dos Hupd’äh e, ao mesmo
 tempo, antítese de seu modo de vida, especializado na caça e nas
 perambulações. Mas se a maniva é um gênero alimentício de consumo
-básico, como explicar esse interesse na cocaque motiva o homem hup a
+básico, como explicar esse interesse na coca que motiva o homem hup a
 deixar o “mundo da floresta” para realizar afazeres monótonos nas
-aldeias Tukano? ]{}
+aldeias tukano?
 
-[Num dado momento, Reid descreve a coca em meio à relação entre Hupd’äh
-e Tukano da seguinte maneira:]{}
+Num dado momento, Reid descreve a coca em meio à relação entre Hupd’äh
+e Tukano da seguinte maneira:
 
-[[Depois de terminado o dia de trabalho, os homens Hupd\[289?\] adultos
+<!-- Estilo de citação -->
+Depois de terminado o dia de trabalho, os homens Hupdʉ adultos 
 geralmente tentam convencer um dos Índios do rio presentes a permitir
 que colham e processem folhas de coca próximo à casa. Pedem também
 permissão para que possam preparar uma pequena trouxa para o consumo
 próprio, que o grupo mantém pendurada em alguma parte do caminho de
 retorno à aldeia. \[...\] Os continentes são peneirados e despejados em
-uma cuia pelo homem Hupd\[289?\] que finaliza o preparo e oferece ao
+uma cuia pelo homem Hupdʉ que finaliza o preparo e oferece ao
 dono. Este lança o pó à boca algumas vezes e, em seguida, faz com que a
 cuia circule entre os demais homens presentes. Depois disso, o dono
-despeja parte do pó em uma lata e permite que os Hupd\[289?\] peguem o
-restante. \[...\] Os Hupd\[289?\] raramente conversam com os Índios do
+despeja parte do pó em uma lata e permite que os Hupdʉ peguem o
+restante. \[...\] Os Hupdʉ raramente conversam com os Índios do
 rio, mas escutam suas conversas e fazem comentários em sua própria
 língua. Por vezes, traduzem parte do diálogo dos Índios do rio para
-algum jovem presente que não tenha compreendido a língua (Tukano) que
+algum jovem presente que não tenha compreendido a língua (tukano) que
 está sendo falada. Não é apenas por propósitos sociais que a coca e o
 tabaco são preparados; mas também são utilizadas na cura de doenças.
-Tanto os Hupd\[289?\] quanto os Índios do rio possuem xamãs que praticam
+Tanto os Hupdʉ quanto os Índios do rio possuem xamãs que praticam
 esses ritos de cura. Entretanto, enquanto alguns grupos locais
-Hupd\[289?\] não possuem um xamã coabitante, a maior parte dos Índios do
-rio possuem. \[...\] Há poucos Hupd\[289?\] que possuem reputação de
-serem xamãs poderosos, mas há muitos Índios do rio com tal reputação
-]{}]{}
+Hupdʉ não possuem um xamã coabitante, a maior parte dos Índios do
+rio possuem. \[...\] Há poucos Hupdʉ que possuem reputação de
+serem xamãs poderosos, mas há muitos Índios do rio com tal reputação.
+<!-- Estilo de citação - adicionar rodapé/referência: Reid, 1979, p. 58 -->
 
-[As notas de Reid referem-se a uma roda de coca muito semelhante àquela
+As notas de Reid referem-se a uma roda de coca muito semelhante àquela
 de que eu participava quando João contou sua história. Entretanto, o
-encontro noturno ocorre numa aldeia tukanosendo eles os donos da coca. O
+encontro noturno ocorre numa aldeia tukano, sendo eles os donos da coca. O
 silêncio dos Hupd’äh ao participarem da roda, o pedido formalizado ao
 dono para o preparo da coca, o recebimento das sobras vão caracterizando
 os Hupd’äh com posturas de subordinação e submissão nesse uso “social”
@@ -2065,16 +2086,16 @@ como inferiores, Estar na aldeia tukano permite também aos Hupd’äh
 poderem ser curados pelo xamã tukano, pagando em troca carne ou frutos.
 Os Hupd’äh não só usam táticas para ter acesso às manivas e à coca, mas
 também parecem agir estrategicamente buscando compensar o fato de terem
-menos xamãs e de estes serem menos poderosos (Reid, 1979, p. 81). ]{}
+menos xamãs e de estes serem menos poderosos.
 
-[Desse modo, a coca e o tabaco tornam-se elementos de mediação
-circunscritos às atividades de “trabalho”, /bɨ\[317?\]’ɨ\[317?\]y/, em
+Desse modo, a coca e o tabaco tornam-se elementos de mediação
+circunscritos às atividades de “trabalho”, /bɨ̗’ɨ̗y/, em
 aldeias tukano e às práticas de cura, sendo que em ambos os casos se
 supõe haver uma inferioridade assimétrica dos Hupd’äh. A coca e o tabaco
 recebem atributos de imobilidade, enquanto o interesse em obter coca e
-tabaco motiva as atividades especializadas de /k’e\[316?\]t kö ay/,
+tabaco motiva as atividades especializadas de /k’e̗t kö’ ay/,
 “perambulação”, que fazem com que a carne de caça seja trocada por essas
-substâncias. a especialização de habilidades capacita o homem a explorar
+substâncias. A especialização de habilidades capacita o homem a explorar
 a floresta, a falta de especialização, seja na agricultura, seja no ** a
 inserção e o interesse do nesse tipo de “atividades móveis”, entende-se
 melhor a ausência de menção, em sua obra, às rodas de coca hup, o número
@@ -2082,7 +2103,8 @@ reduzido de notas sobre o xamanismo e o aspecto de imobililidade
 característicos dessas práticas. Explicar o padrão de habitação próxima
 a aldeias tukano vem a ser o interesse último da análise de Reid que,
 para isso, contrasta ambos os povos em termos das diferenças de
-especialida]{}
+especialida]{} 
+<!-- O parágrafo possui muitas sentenças que foram interrompidas. Completar conforme a tese? Reduzir? -->
 
 [Para entender melhor esse paradoxo do “bom comedor de coca que não fala
 das rodas necessário refletir um pouco mais sobre o modo como Reid
@@ -2385,7 +2407,7 @@ uma imensa onça preta. Ele saiu correndo. ]{}
 [Aos poucos fomos deitando nas redes, amontoadas umas sobre as outras em
 nossa barraca. Mandu acendeu um cigarro e soprou a fumaça em seu corpo.
 Seu cigarro passou de mão em mão até que todos nós tínhamos soprado a
-fumaça em nossos /hã\[317?\]wäg/, “sopros vitais”. Era um “benzimento
+fumaça em nossos /ha̗͂wäg/, “sopros vitais”. Era um “benzimento
 para cercar nossos sonhos ruins”, um /sõ\[316?\]h ni\[317?\] pa̗y
 bi’i\[316?\]d/. ]{}
 
@@ -3070,7 +3092,7 @@ ambiente, pode-se ter a dimensão de como esse andar coletivo envolve a
 todos num processo de *aquisição de habilidades* (Ingold, 2000, p. 37).
 Saber observar os movimentos e índices de presença de outros seres,
 chamá-los através de imitações sonoras são ações comuns a Mandu,
-Patrício e /K’e\[316?\]g Tẽ̖h/ (M3) nos encontros com os animais. Tais
+Patrício e /K’e̖g Te͂h/ (M3) nos encontros com os animais. Tais
 habilidades permitem que se situem em contextos de diálogo com seres com
 os quais coabitam.]{}
 
@@ -3675,7 +3697,7 @@ um acampamento de pesca dos antigos próximo à /Paç-Pö[\[317?\]]{}g/.]{}
 
 [\[bkm:M7Tog\]**M7.** **História de /Tõg T\[1EBD?\]g/**]{}
 
-[Os antigos foram pescar no igarapé perto da /Paç Pö\[317?\]g/,
+[Os antigos foram pescar no igarapé perto da /Paç Pö̗g/ ,
 /Pi\[316?\]j-Dëh/, “Cabari-Igarapé/. Era a segunda vez que iam pescar
 lá. Foi então que apareceu esse /Tõg T\[1EBD?\]g/. O pajé estava
 esperando esse /b’atɨ\[316?\]b’/, sem roupa. Mas o /Tõg T\[1EBD?\]g/
@@ -4163,7 +4185,7 @@ participantes pode ir de dois a dez. Em dias de festa de caxiri, até
 vinte pessoas chegam a sentar-se para comer coca e fumar. ]{}
 
 [À medida que vão se cumprimentando, cada um ocupa um lugar, geralmente
-em frente ao pilão, à /b’o\[316?\]’/, “cuia”, e à /mom-b’o\[317?\]k/,
+em frente ao pilão, à /B’o̖’/, “cuia”, e à /mom-b’o\[317?\]k/,
 “panela de metal”. Esses três objetos são manuseados para a produção e o
 consumo da coca. Quando há muitos participantes, três deles começam a
 preparação. Despejam na panela as folhas de coca colhidas por diferentes
@@ -4428,7 +4450,7 @@ ficar pronto, aqueles que ainda não se banharam dirigem-se até o igarapé
 para esfriar e limpar o corpo. ]{}
 
 [À medida que o espaço próximo à roda vai esvaziando-se, o barulho
-diminui, e “histórias sobre os antigos”, /pɨnɨ\[316?\]g/, são contadas e
+diminui, e “histórias sobre os antigos”, /pɨnɨ̖g/, são contadas e
 discutidas, assim como “encantamentos”, /bi’i\[316?\]d/. Os apelidos dão
 lugar ao termo de parentesco /sät/, “irmão maior”, usado como pronome de
 tratamento, o que produz um sentido respeitoso, de modo semelhante ao
@@ -4548,7 +4570,7 @@ isso?”, ao que os outros confirmavam dizendo: /Yid/, “Sim”. Por vezes,
 acrescentavam fatos e corrigiam o narrador. Jovino ouvia atentamente a
 fala do pai e, de tempos em tempos, começava a traduzir em português.
 Minha fluência na língua ainda não me permitia ouvir e entender bem as
-/pɨnɨ\[316?\]g/, “histórias”. ]{}
+/pɨnɨ̖g/, “histórias”. ]{}
 
 [Nas ações dos “ancestrais”, /hib’a̗h tẽ̖h d’äh/, encontram-se os
 *acontecimentos* que fazem aparecer malefícios que afligem os Hupd’äh
@@ -4629,8 +4651,8 @@ benzer. Essa água foi trazida pela Mulher Peixe. ]{}
 ruim e restar apenas o que é benéfico. Fazemos isso para que nosso corpo
 fique como era antes. Tiramos todo o cheiro da coca. Mandamos sair. ]{}
 
-[*(Com.)* Lavamos o resíduo que entra, senão ele suja o /hã\[317?\]wäg/,
-penetra o /hã\[317?\]wäg/. Lavamos com a água-pura e banhamos o corpo
+[*(Com.)* Lavamos o resíduo que entra, senão ele suja o /ha̗͂wäg/,
+penetra o /ha̗͂wäg/. Lavamos com a água-pura e banhamos o corpo
 para refazê-lo. ]{}
 
 [3º mov.Vocês Brancos estão ouvindo? ]{}
@@ -4751,7 +4773,7 @@ quando a gente come coca”, disse Jovino. A essência ruim da coca faz
 mal, pois ela se impregna nos testículos do homem, faz com que as pernas
 fiquem moles e pode causar doença. Já a gordura do tabaco se impregna no
 estômago da pessoa e pode fazer mal também. Nas pernas há “caminhos
-corporais”, /sap ti\[316?\]w/, que são, como as trilhas pela mata,
+corporais”, /sap ti̖w/, que são, como as trilhas pela mata,
 abertos pelos movimentos da pessoa ao realizar o encantamento. É por
 esses caminhos da perna que o “mal” da coca e do tabaco deixa o corpo
 saindo pelos pés. Caso a pessoa não seja benzida, o resíduo da coca não
@@ -4775,7 +4797,7 @@ tabaco e um pedaço de papel de caderno. Sentado, segurando o cigarro
 apagado próximo à boca, ele murmurava palavras e, de tempos em tempos,
 assoprava. Muito concentrado, mantinha o olhar num ponto distante à sua
 frente. Quando terminou, entregou-me o cigarro e instruiu-me a fumá-lo
-soprando a fumaça no peito, em meu /hã\[317?\]wäg/, nas pernas e nos
+soprando a fumaça no peito, em meu /ha̗͂wäg/, nas pernas e nos
 braços. A partir desse dia, eu pude participar tranquilamente de todas
 as rodas de coca que ocorreram sem temer as consequências ruins do
 consumo cotidiano.]{}
@@ -4783,7 +4805,7 @@ consumo cotidiano.]{}
 [Mencionando a água do ingá do cerrado, trazida pela Mulher Peixe,
 /Hõ\[316?\]p Hup ã\[317?\]y/, e a água de imbaúba, o benzedor tira o
 cheiro da essência ruim da coca e impede que ela suje o sopro vital. A
-limpeza do /hã\[317?\]wäg/ é importante também para que a pessoa
+limpeza do /ha̗͂wäg/ é importante também para que a pessoa
 “corporifique”, “grave”, /wä̗’ d’ö\[317?\]’/, os encantamentos nos
 ouvidos. Só assim a pessoa consegue guardá-los para, futuramente,
 realizar ações xamânicas. Um quarto movimento do benzimento busca fazer
@@ -4797,22 +4819,22 @@ caapi*) oferecido pela lagarta, que pode causar “doença”. Um último
 movimento (5º mov.) do encantamento é a criação de envoltórios de casca
 (tabaco e tururi) para cercar o corpo da pessoa.]{}
 
-[Paulino mostra e esfrega o /hã\[317?\]wäg/ com as duas mãos enquanto
-menciona as ações para banhar o /hã\[317?\]wäg/. Seu gesto assemelha-se
+[Paulino mostra e esfrega o /ha̗͂wäg/ com as duas mãos enquanto
+menciona as ações para banhar o /ha̗͂wäg/. Seu gesto assemelha-se
 ao de Demétrio quando, à beira do /s’o\[317?\]m ho\[317?\]y/, “lago/
 poço de banhar”, recolheu a água com as mãos e jogou-a contra seu peito
 para lavar seu sopro vital. Partindo da reflexão de Kendon, esses gestos
 podem ser entendidos como *ações corporais visíveis* já que têm um papel
 central na ação de contar o benzimento e de banhar-se no lago (2004, p.
 7). Banhando o sopro vital, Demétrio e Paulino estão, como dizem /hikäd
-ni\[317?\]/, “trocando” a água do /hã\[317?\]wäg/. “Fazemos isso para
+ni\[317?\]/, “trocando” a água do /ha̗͂wäg/. “Fazemos isso para
 que nosso corpo fique como era antes”, diz Paulino ao narrar a exegese
 do encantamento. No mesmo sentido, os banhos nos lagos realizam-se para
 que a pessoa fique “jovem até a morte”. ]{}
 
 [Na renovação da substância que compõe o sopro vital é a própria vida
 que é renovada. A “água do ramo de coca” é também a “água do
-/hã\[317?\]wäg/”, o sopro vital. Traduzida pela literatura como “alma”,
+/ha̗͂wäg/”, o sopro vital. Traduzida pela literatura como “alma”,
 é como sopro, ar pulsante que as pessoas se referem ao “Espírito”
 concentrado no peito. Mas em B1, o sopro vital manifesta também a
 composição líquida de sua substância plena de águas-puras. A analogia
@@ -4836,7 +4858,7 @@ dono na *aquisição de habilidades* em meio ao processo de transformação
 da coca para o consumo. Assando, pilando, misturando e oferecendo para
 que os outros provem, a pessoa aprende a transformar o “dedo de
 gente-cobra” em “alimento do surgimento”. Tornando a língua doce para
-alterar a percepção do gosto, banhando o /hã\[317?\]wäg/ ou abrindo os
+alterar a percepção do gosto, banhando o /ha̗͂wäg/ ou abrindo os
 caminhos nas pernas, o encantamento fabrica o corpo para o alimento, ao
 mesmo tempo em que o “primeiro banco” trabalha os movimentos para
 metamorfosear a coca para o corpo. Há um aprendizado em termos de
@@ -4904,14 +4926,14 @@ realizando algo semelhante aos encontros noturnos. Fui entendendo que,
 além dos Hupd’äh, muitos seres se reúnem para comer coca, fumar tabaco e
 conversar sobre encantamentos e mitos.]{}
 
-[No início da noite, nas Casas do Rio, /Dëh-Mo\[316?\]y/, os benzedores
+[No início da noite, nas Casas do Rio, /Dëh-Mo̖y/, os benzedores
 e os donos das muitas Gentes-Cobra e das Gentes-Peixe se reunem para
 comer coca e fumar tabaco. No céu, na “Casa-do-Trovão”,
 /P\[1EBD?\]\[317?\]y-Mo\[316?\]y/, quando as Gentes-Onça não se reúnem
 para comer coca e fumar com seu dono, o Trovão, pode-se ouvir sua fúria
 através dos estrondos dos raios e trovões no céu. Na mata, as diversas
 “gentes-sombra”, /b’atɨ\[316?\]b’d’äh/, preparam a coca e o cigarro para
-fazer a refeição coletiva, conversar, contar suas /pɨnɨ\[316?\]g/,
+fazer a refeição coletiva, conversar, contar suas /pɨnɨ̖g/,
 “histórias/mitos” e falar sobre benzimentos. Na “Casa da Cachaça”,
 /Sib’i\[316?\]-Mo\[316?\]y/, os “xamãs do banco”, /kä\[316?\]d hup ĩh
 d’äh/, e os “xamãs do sopro”, /bi’i\[316?\]d hup ĩh d’äh/, preparam a
@@ -5083,7 +5105,7 @@ espaço-tempo. ]{}
 completo. Quando o encontro está prestes a terminar, os senhores enchem
 suas bocas de coca, despedem-se e vão para suas casas para *deitar na
 rede*. Enquanto a coca vai sendo absorvida, os senhores deslocam seu
-“pensar”, /wä’kë\[317?\]y/, e seu “sopro vital”, /hã\[317?\]wäg/, para
+“pensar”, /wä’kë\[317?\]y/, e seu “sopro vital”, /ha̗͂wäg/, para
 os tempos e espaços mencionados nas conversas da roda. Esse é um momento
 perigoso, pois os benzedores e pajés de todas as Casas do Céu, da Terra,
 do Rio, do Subterrâneo, de outras comunidades hup e de outras etnias
@@ -5412,7 +5434,7 @@ Ponciano, Paulino e o pajé Armando podem contar para mim, “Branco
 pesquisador*”*, ou para um Tukano ou Desano, índios de outras etnias,
 histórias e benzimentos. A posição que ocupam, a idade, seus saberes e a
 eficácia de suas ações de cura e de proteção fazem com que sejam
-considerados grandes conhecedores das /pɨnɨ\[316?\]g/, “histórias”, e
+considerados grandes conhecedores das /pɨnɨ̖g/, “histórias”, e
 dos benzimentos. Apesar disso, enquanto contam, esses narradores fazem
 perguntas a seus cunhados e apanhadores. Os afins participam e
 complementam suas narrativas. Isso torna as versões de mitos contadas e
@@ -5887,7 +5909,7 @@ plantas medicinais fez dele um interlocutor importante ao longo da
 pesquisa de campo. Durante esse encontro noturno, sua mediação e
 tradução para o português deram os contornos de uma versão produzida
 através das conversas dos senhores hup, da explicação de Ponciano e de
-minha questão sobre os tipos de “histórias/mitos”, /pɨnɨ\[316?\]g/. ]{}
+minha questão sobre os tipos de “histórias/mitos”, /pɨnɨ̖g/. ]{}
 
 [Em M13, o ancestral que fuma o cigarro e entra na caverna da
 “Serra-da-Cutiváia”, /Kaj-Paç/, é justamente /Hũ\[316?\]t-Wäg/, “Semente
@@ -5924,7 +5946,7 @@ tabaco são armazenadas pelos “velhos”, /wähä̗d d’äh/, e transmitidas 
 filhos para o plantio em pequenas roças. O ato de “dar as sementes” é
 feito apenas quando os filhos já são “adultos”, /pɨ\[317?\]b/, e possuem
 seus próprios filhos. Depois de serem secas ao sol, as sementes são
-guardadas em sacos de /b’ö\[317?\]b/, “tururi”[^50], e conservadas em
+guardadas em sacos de /b’ö̗b/, “tururi”[^50], e conservadas em
 jiraus[^51] próximos ao calor do fogo de cozinha. Para o plantio,
 leva-se um punhado das pequenas sementes para a roça ou para uma área de
 terra já limpa no terreiro da casa. A mão com o punhado é elevada até
@@ -6430,7 +6452,7 @@ Ponciano entregou-me o cigarro, dizendo que, daí em diante, eu estaria
 protegido das essências ruins desses alimentos. Poderia participar
 tranquilamente dos encontros noturnos. Comemos juntos um pouco de arroz
 com feijão e, quando ele saiu, acendi o cigarro, traguei e soprei a
-fumaça em meu peito, em meu /hã\[317?\]wäg/. Diferente dos outros
+fumaça em meu peito, em meu /ha̗͂wäg/. Diferente dos outros
 cigarros, esse parecia mais forte. Fiquei zonzo, precisei deitar na rede
 e dormir um pouco. À noite, durante a roda, os participantes disseram
 que agora poderiam se despreocupar com meu consumo de coca e tabaco.]{}
@@ -6456,12 +6478,12 @@ de origem. Acompanho e tiro das casas
 /Dëh-Sa̗k-Sö\[317?\]’ö\[317?\]y-Mo\[316?\]y/,
 /Hak-Te\[316?\]ne\[316?\]y-Mo\[316?\]y/,
 /Dëh-K’et-Sö\[317?\]’ö\[317?\]y-Mo\[316?\]y/. Eu vou tirando o nosso
-/hã\[317?\]wäg/. Sento-me em meu banco da vida, nosso banco do
+/ha̗͂wäg/. Sento-me em meu banco da vida, nosso banco do
 Lago-de-Leite. ]{}
 
 [Troco o cigarro, sentado no banco da vida, no banco do Lago-de-Leite.
 Troco o cigarro com meu ser sentado no banco. Troco o bastão e sigo
-trocando (continuamente). Tiro e vou reunindo. Meu /hã\[317?\]wäg/ todo,
+trocando (continuamente). Tiro e vou reunindo. Meu /ha̗͂wäg/ todo,
 eu tiro e vou levando. Falo e vou tirando a vida dos /Sokw’ä̗t Noh K’öd
 Te\[316?\]h däh/ e minha própria vida (dessa morada).]{}
 
@@ -6475,7 +6497,7 @@ bastão deles. Com isso eu pego o bastão. (Reúno esses poderes) para lá,
 no Lago-de-Leite, lá no fundo, no final, no Rio de Janeiro. ]{}
 
 [2º mov. Vou para dentro da casa com a roupa do aracú pequeno. Entro e
-fico em pé com o /hã\[317?\]wäg/, o espelho, a espinha, o cigarro (do
+fico em pé com o /ha̗͂wäg/, o espelho, a espinha, o cigarro (do
 aracú pequeno). Entro e fico em pé com seu cigarro. Sopro a fumaça do
 tabaco. ]{}
 
@@ -6491,7 +6513,7 @@ do lago (hak). Para aquela gente, eu menciono os aracus pequenos. ]{}
 [Fico em pé e sopro com os cigarros dos aracus para que essas gentes não
 apareçam com seus cigarros e para que as doenças delas passem com o
 cigarro. Essa fumaça do cigarro é pari para dentro. Eu faço o
-/hã\[317?\]wäg/ entrar e ficar em pé na casa dele (corpo). ]{}
+/ha̗͂wäg/ entrar e ficar em pé na casa dele (corpo). ]{}
 
 [*(Com.)*Fazendo isso, dizem que essas cobras não aparecem. \[...\]
 Outro dia nós vemos essa gente. \[...\] ]{}
@@ -6513,12 +6535,12 @@ de mel da origem. Digo e faço vir a cuia de mel da origem. Menciono
 todas as Gentes - Cobra do lago. (Falo para) a cuia de mel da origem,
 para o sopro vital da cuia de mel da origem, (para) o corpo da cobra da
 origem (em sua) asa (?). Com essa asa, com a base da asa (dirijo-me)
-para dentro dessa morada. Faço o /hã\[317?\]wäg/ entrar e ficar em pé.
+para dentro dessa morada. Faço o /ha̗͂wäg/ entrar e ficar em pé.
 Prossigo falando. ]{}
 
 [*(Com.)*Com esse cigarro, com essa fumaça do cigarro o sopro vital
 regenerado entra e fica em pé no corpo. Com essa fumaça, o
-/hã\[317?\]wäg/ de nossas crianças, de nossas meninas, de nossos filhos
+/ha̗͂wäg/ de nossas crianças, de nossas meninas, de nossos filhos
 entra e fica em pé. Com esse cigarro, a doença passa, não aparece.
 (Desloco-me) na rede. (É preciso) entrar na rede e ficar enrolado. (Ajo
 com) o nosso banco para entrar, sentar e ver. ]{}
@@ -6659,7 +6681,7 @@ localiza-se na cabeça, mais especificamente no ouvido. Dentro da
 “Casa-do-Ouvido”, /B’oto\[317?\]k-Mo\[316?\]y/, ele situa-se no
 /b’oto\[317?\]k-wäg/, “semente do ouvido”. Da orelha, o pensamento
 estende-se até o peito e liga-se ao sopro vital por meio de fios muito
-finos chamados de /sap ti\[316?\]w/, “caminhos corporais”. Quando o
+finos chamados de /sap ti̖w/, “caminhos corporais”. Quando o
 benzedor se movimenta pelo cosmos, a porção líquida desses princípios
 vitais permanece no corpo e apenas a porção ar, sopro, viaja pelo
 cosmos. Portanto, a viagem xamânica torna-se possível através da
@@ -6741,7 +6763,7 @@ em um modo de ação de regeneração-cercamento (sopro de fumaça). ]{}
 cigarro. No caso de um *benzimento de cura*, a fumaça deve ser soprada
 para frente e inalada para que penetre na /B’oto\[317?\]k-Moy/, na
 “Casa-do-Ouvido”. Já no caso do *benzimento de cercar*, sopra-se a
-fumaça no peito, no /hã\[317?\]wäg/ da pessoa para que seu sopro vital
+fumaça no peito, no /ha̗͂wäg/ da pessoa para que seu sopro vital
 seja envolvido. Resultam, daí, dois tipos de fumaça a
 /b’oto\[317?\]k-moy-s’ɨ\[316?\]k/, “fumaça da orelha”, e a
 /hã\[317?\]wäg-s’ɨ\[316?\]k/, “fumaça do sopro vital”. Se a ação do xamã
@@ -6960,7 +6982,7 @@ morre, seu /b’atɨ\[316?\]b’/, “duplo sombra” vai para a floresta e
 depois segue para a “Casa Subterrânea”, /Mɨ\[316?\]’ Mo\[316?\]y/, uma
 casa dos /b’atɨ\[316?\]b’däh/. Sai e vai para debaixo da terra.
 Retomando M6, surge um segundo caminho dos mortos que explicita a
-fragmentação da pessoa hup após a morte. O /hã\[317?\]wäg/ ruma para a
+fragmentação da pessoa hup após a morte. O /ha̗͂wäg/ ruma para a
 Serra Grande munido de farinha e fósforos, necessários ao sucesso de sua
 caminhada e à ascensão à “Casa de K’e\[316?\]g-Teh”. Já o
 /b’atɨ\[316?\]b’/ da pessoa, sua “sombra”, vaga pela floresta e depois
@@ -6973,16 +6995,16 @@ pessoas apartadas do elemento (duplo) /b’atɨ\[316?\]b’/ de seus seres.
 ]{}
 
 [Todos os seres humanos são compostos pelo corpo, /sa̗p/, pelo sopro
-vital, /hã\[317?\]wäg/, e pela sombra, /b’atɨ\[316?\]b’/. Segundo Reid
+vital, /ha̗͂wäg/, e pela sombra, /b’atɨ\[316?\]b’/. Segundo Reid
 (1979), os Hupd’äh entendem a si mesmos como tendo o melhor equilíbrio
 entre esses três elementos. O sopro vital é pequeno quando a criança
 nasce e cresce através da participação nos rituais. O corpo cresce com a
 ingestão de alimentos e, após a morte, é enterrado. O /b’atɨ\[316?\]b’/,
 “sombra”, inicia como uma grande aura que envolve a criança. Diminui ao
 longo da vida e torna-se pequeno quando a pessoa está velha. Fica
-localizado no antebraço e contrasta com o /hã\[317?\]wäg/ por estar
+localizado no antebraço e contrasta com o /ha̗͂wäg/ por estar
 relacionado às doenças, aos infortúnios e à feitiçaria. Está presente na
-urina, fezes, sangue, suor. Quando a pessoa envelhece, o /hã\[317?\]wäg/
+urina, fezes, sangue, suor. Quando a pessoa envelhece, o /ha̗͂wäg/
 atinge o tamanho do corpo e, com a morte, viaja como pessoa-sopro
 (duplo) para a Serra Grande. Após a morte, o /b’atɨ\[316?\]b’/ deixa o
 corpo como duplo e se junta às outras sombras que habitam a floresta. Os
@@ -6991,7 +7013,7 @@ agressivos e noturnos. Tentam agarrar e devorar o sopro vital das
 pessoas hup, especialmente das crianças, e são responsáveis por causar
 doenças e morte (Reid, 1978, p. 11-2). Segundo Athias, os feiticeiros
 hup manipulam seu /b’atɨ\[316?\]b’/ de modo a ocasionar doenças e
-infortúnios a suas vítimas, e agem com o /hã\[317?\]wäg/ para curar e
+infortúnios a suas vítimas, e agem com o /ha̗͂wäg/ para curar e
 proteger (1998, p. 253). ]{}
 
 [Semelhante a M13, é possível perceber uma identificação, no sentido de
@@ -7038,7 +7060,7 @@ dessas práticas que geram transformações na identidade social como uma
 *fabricação do corpo* (Viveiros de Castro, 1979). A passagem da vida à
 morte do pai pode ser vista como um processo de metamorfose (humano
 \[F0E0?\] espírito). Essa transformação leva à reconfiguração da pessoa
-hup em /hã\[317?\]wäg/, que viaja rumo à Serra Grande e em
+hup em /ha̗͂wäg/, que viaja rumo à Serra Grande e em
 /b’atɨ\[316?\]b’/, que vaga pela floresta e depois ruma para a
 Casa-Subterrânea. Há uma intervenção consciente sobre a matéria para
 criar o corpo de um benzedor que pode continuar seu aprendizado
@@ -7052,7 +7074,7 @@ forma de vida (ou forma de mundo) para outra \[...\] a morte é um
 movimento entre a morte espiritual e as várias formas de mundo do cosmos
 material visível; é um movimento entre dimensões do cosmos ]{}]{}
 
-[A fragmentação e reconfiguração da pessoa separam /hã\[317?\]wäg/ e
+[A fragmentação e reconfiguração da pessoa separam /ha̗͂wäg/ e
 /b’atɨ\[316?\]b’/ e fazem com que duas viagens, dois movimentos de
 afastamento com relação aos vivos se iniciem. No sonho, depois de comer
 a coca, fumar e deitar, o xamã busca, então, um deslocamento para a
@@ -7125,7 +7147,7 @@ relacional. ]{}
 
 [No 1º movimento de B2, no Lago-de-Leite o xamã tira o tabaco de cada
 uma das casas ancestrais para reestabelecer a vida do doente. Ao mesmo
-tempo, ele vai retirando o /hã\[317?\]wäg/ da pessoa dessas mesmas casas
+tempo, ele vai retirando o /ha̗͂wäg/ da pessoa dessas mesmas casas
 para /hikad ni\[317?\]/, “trocar”, a vida. Sentado em seu
 “banco-de-leite”, /pud-kä\[316?\]d/, designado também como “banco da
 vida”, /ɨ\[317?\]b’-kä\[316?\]d/, o benzedor troca com os ancestrais dos
@@ -7184,7 +7206,7 @@ Serra-da-Cutiváia, como lembrou Américo. ]{}
 [“Cercar”, /ta̗’/, é o modo como os benzedores hup designam o
 procedimento de criar envoltórios em torno de pessoas, lugares e
 princípios vitais. Num momento, em B2, revela-se que “a fumaça é pari
-para dentro”, para cercar o /hã\[317?\]wäg/, fazer com que uma estrutura
+para dentro”, para cercar o /ha̗͂wäg/, fazer com que uma estrutura
 dura envolva o sopro vital e torne invisível a pessoa hup às
 Cobras[^71]. Envolve-se o sopro vital da mesma forma como os paris e os
 lagos envolvem os peixes, alimentos necessários à vida. Retomando B1, a
@@ -7330,7 +7352,7 @@ contornos dos círculos de coca e fumaça a partir de suas viagens. ]{}
 durante a roda de coca, Miguel foi apontando as casas próximas ao
 Lago-de-Leite. Disse que nos /pë\[317?\]’ bi’i\[316?\]d/, “benzimento de
 cura”, é preciso viajar até o Lago-de-Leite. Banha-se a pessoa e seu
-/hã\[317?\]wäg/ com as águas do lago para “trocá-los”, /hikad
+/ha̗͂wäg/ com as águas do lago para “trocá-los”, /hikad
 ni\[317?\]/, “transformá-los”. Deve-se parar diante de cada casa, entrar
 e mostrá-la à pessoa, para que esta veja e aprenda a história dos
 antigos. O percurso torna-se um caminho ao longo do qual a pessoa vai
@@ -7364,16 +7386,16 @@ reciprocidade agnática e à possibilidade de entrelaçamento das linhas de
 vida do jovem e dos ancestrais num modo próximo à comunicação
 transversal de S1. ]{}
 
-[Tirar o /hã\[317?\]wäg/ e o tabaco das quatro casas aponta para a
+[Tirar o /ha̗͂wäg/ e o tabaco das quatro casas aponta para a
 associação fundamental entre o princípio vital e essa substância. Com B1
-foi possível entender que banhando o /hã\[317?\]wäg/, o xamã purifica e
+foi possível entender que banhando o /ha̗͂wäg/, o xamã purifica e
 renova a porção líquida do sopro vital com a água pura do ramo de coca.
 Como ressaltou Samuel acima, o sopro vital é composto por água-pura,
 leite e sopro. Banhando a pessoa com a água do Lago-de-Leite, composta
 também por leite e água-pura, o benzedor troca e regenera esses
 elementos vitais. Ele fuma o tabaco em seu banco-de-leite para criar um
-pari e cercar o /hã\[317?\]wäg/. Na viagem à Serra Grande, o banho no
-lago da serra purificava e renovava o /hã\[317?\]wäg/ ao mesmo tempo que
+pari e cercar o /ha̗͂wäg/. Na viagem à Serra Grande, o banho no
+lago da serra purificava e renovava o /ha̗͂wäg/ ao mesmo tempo que
 tornava pele e ossos estruturas duras que, como um pari de fumaça,
 cercavam nossos sopros vitais. ]{}
 
@@ -7471,7 +7493,7 @@ para que a pessoa esteja protegida desde esse momento de regeneração.
 Fumaça e pari, o tabaco consegue, ao mesmo tempo, envolver os elementos
 líquidos e aéreos da pessoa hup, possibilitando e renovando a vida. O
 tabaco nas margens cerca o Lago-de-Leite. Os senhores fumando cercam a
-roda de coca. A fumaça no corpo cerca o /hã\[317?\]wäg/. Começa-se a
+roda de coca. A fumaça no corpo cerca o /ha̗͂wäg/. Começa-se a
 entender um pouco a analogia entre a pessoa hup e a paisagem do
 Lago-de-Leite. ]{}
 
@@ -7482,7 +7504,7 @@ regenerássemos a vida. Mas o banho na serra traz doença e morte se for
 tomado apenas uma vez, por isso deve haver um retorno para que o
 rejuvenescimento se torne efetivo. Suponho que o risco da viagem única
 diga respeito ao perigo da analogia entre os viajantes e os mortos. Como
-dito acima, o /hã\[317?\]wäg/ viaja para a serra, ascende ao topo e
+dito acima, o /ha̗͂wäg/ viaja para a serra, ascende ao topo e
 depois parte para o céu, para a casa de /K’e\[316?\]g Teh/ (M6). O
 /b’atɨ\[316?\]b’/ viaja para o subterrâneo. A separação definitiva dos
 princípios vitais atesta a morte como um “não retorno” e uma “não
@@ -7491,7 +7513,7 @@ preparando o corpo, comendo coca, fumando e banhando-se vão e retornam,
 encontram-se com os ancestrais, trocam com eles, conversam, e voltam a
 seus corpos, a seus bancos, a suas casas, a suas rede. Como nas
 perigosas identificações com a “lagarta que oferece caarpi” (B1) e o
-“bicho do pé que, comendo coca, devora o /hã\[317?\]wäg/”, “viajar como
+“bicho do pé que, comendo coca, devora o /ha̗͂wäg/”, “viajar como
 os mortos” talvez gere o perigo de partilhar com eles seus destinos e
 não retornar da viagem. ]{}
 
@@ -7584,7 +7606,7 @@ caminho (/sa̗pat/). A *viagem como pessoa-sopro* e a *viagem como
 pessoa-corporificada* mostram-se duas formas de mobilidade que articulam
 campos relacionais pelos movimentos, posicionamentos e ações do
 viajante. Esse ponto de vista permite rever a oposição de Reid (1979),
-na qual o /bɨ\[317?\]’ɨ\[317?\]y/, “trabalho”, seria realizado na aldeia
+na qual o /bɨ̗’ɨ̗y/, “trabalho”, seria realizado na aldeia
 como uma atividade árdua e de pouca mobilidade, enquanto o “passeio/
 perambulação”, /k’ët k’ö\[317?\]’ a̗y/, seria uma atividade prazerosa,
 plena de sentido e de alta mobilidade. Sentados nas rodas, deitados na
@@ -7819,17 +7841,17 @@ cabeceiras, das /Paç-Mo\[316?\]y/, “Casas-de-Pedra”, próximas às quais
 seus ancestrais procuraram sempre constituir suas moradas. ]{}
 
 [[A partir desses dados fica claro que, antes de 1890 e até 1950,
-virtualmente todos os Hupd\[289?\] viviam nas cabeceiras dos igarapés
-tributários aos que ocupam atualmente. Alguns Hupd\[289?\] afirmam que
+virtualmente todos os Hupdʉ viviam nas cabeceiras dos igarapés
+tributários aos que ocupam atualmente. Alguns Hupdʉ afirmam que
 Salesianos ordenaram que migrassem rio abaixo, ao mesmo tempo em que os
 Índios do rio foram ordenados a fazer o mesmo (1930-40). Entretanto,
-fica evidente que os Hupd\[289?\] não fizeram isso até o início dos anos
+fica evidente que os Hupdʉ não fizeram isso até o início dos anos
 de 1940, sendo que a maior parte mudou-se apenas nos anos de 1950. Os
 novos assentamentos estabeleceram-se entre uma e quatro horas de
 caminhada com relação aos grandes rios. Em alguns anos, esses
 assentamentos mudavam-se para áreas das imediações, ao longo do igarapé
 onde já estavam situados ou para igarapés próximos. Atualmente, os
-Hupd\[289?\] estão vivendo principalmente nas partes rio abaixo dos
+Hupdʉ estão vivendo principalmente nas partes rio abaixo dos
 igarapés tributários aos que ocupavam previamente ]{}]{}
 
 [De acordo com o antropólogo, antes de 1890 e até 1950 os Hupd’äh viviam
@@ -7934,7 +7956,7 @@ meio das indicações e narrativas dos mais velhos. ]{}
 caminhos”, para cercar os viajantes das ações maléficas dos seres que
 pudéssemos encontrar. ]{}
 
-#####  Viagem às serras: Caminhos (/Ti\[316?\]w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo\[316?\]y/) e Moradas Antigas (/Mo\[316?\]y-Höd/)
+#####  Viagem às serras: Caminhos (/ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo\[316?\]y/) e Moradas Antigas (/Mo\[316?\]y-Höd/)
 
 #### Caminhos cruzados
 
@@ -7958,7 +7980,7 @@ específicas para as caças que se movimentam no alto das árvores, como os
 macacos e as aves, tinham pontas de madeira estreladas. Já as flechas
 para as caças de solo, como pacas, queixadas, tamanduás, tinham finas
 pontas de madeira. A passos rápidos, seguíamos pelos caminhos da roça
-que se transformavam em /hup ti\[316?\]w/, “caminhos de hup”, estreitos
+que se transformavam em /hup ti̖w/, “caminhos de hup”, estreitos
 e traçados sobre as raízes e folhas caídas.]{}
 
 [Ainda estávamos numa clareira, próxima às últimas roças da comunidade,
@@ -8068,7 +8090,7 @@ dentro de suas casas e faço com que as cobras entrem e fiquem em pé. ]{}
 no caminho delas. Digo para as lagartas pequenas e entro no caminho
 delas. Eu entro na aldeia delas e saio. Eu entro no caminho da lagarta
 pequena, a comunidade dos filhos, eu entro em cima do banco da vida.
-Faço o meu /hã\[317?\]wäg/ entrar e ficar em pé, disse já. Chego e entro
+Faço o meu /ha̗͂wäg/ entrar e ficar em pé, disse já. Chego e entro
 com o tabaco, com o banco e fico em pé. ]{}
 
 [(Vou transformando meu corpo) no corpo do muçum pequeno, no corpo do
@@ -8113,7 +8135,7 @@ irmos para outra comunidade. Aqui termina. ]{}
 
 [Banhando a pessoa hup com a água-pura do maracujá e fazendo-a estar
 deitada em sua rede dentro da flor do maracujá é que o benzedor protege
-o viajante para que faça seu percurso. O /hã\[317?\]wäg/ dentro da flor
+o viajante para que faça seu percurso. O /ha̗͂wäg/ dentro da flor
 permite entender melhor o gesto dos rapazes de colocar uma flor na
 orelha. Além da semelhança com o adorno de dança dos antigos, talvez a
 flor amarela proteja-os como o faz a flor do maracujá, envolvendo e
@@ -8244,8 +8266,8 @@ para a caça. Dentro de suas tocas ou próximos a elas, os animais podem
 ser mais facilmente atraídos, capturados ou mortos. ]{}
 
 [[\[...\] a floresta e seus habitantes fornecem muitos modelos a partir
-dos quais os Hupd\[289?\] estabelecem sua compreensão dos mundos social
-e espiritual \[...\]. Os Hupd\[289?\] podem ler os “sinais” da floresta
+dos quais os Hupdʉ estabelecem sua compreensão dos mundos social
+e espiritual \[...\]. Os Hupdʉ podem ler os “sinais” da floresta
 tão bem quanto um europeu pode ler um livro, e estão em contínua
 comunicação com esta ]{}]{}
 
@@ -8705,7 +8727,7 @@ percebidos. Como o xamã hup em B5, os padres viajam até as moradas hup,
 querem criar uma homologia entre a “casa hup” e a “casa dos Brancos”.
 Como os “Filhos de Israel”, os missionários são pessoas sem casa que
 passam pelas aldeias hup. Semelhante aos seres maléficos que levam
-principalmente o /hã\[317?\]wäg/ das crianças, os religiosos sequestram
+principalmente o /ha̗͂wäg/ das crianças, os religiosos sequestram
 as crianças para mantê-las nos colégios internos. Fazem-nas viver em
 casas separadas por sexo, aprender o português e apanhar, se não agirem
 de acordo com o esperado. São inúmeras as histórias das fugas de
@@ -8716,14 +8738,14 @@ mundo não indígena através da educação e a percepção dos padres como
 patrões seriam fatores que teriam levado os Hupd’äh a suportar essa
 situação. ]{}]{}]{}
 
-[[\[…\] o medo que os Hupd\[289?\] têm dos padres e o modo como os veem
+[[\[…\] o medo que os Hupdʉ têm dos padres e o modo como os veem
 enquanto super-patrões e, consequentemente, como patrões diretos foram
 fatores importantes para a formação e manutenção das missões. Os
-Hupd\[289?\] foram preparados para tolerar um alto grau de comportamento
+Hupdʉ foram preparados para tolerar um alto grau de comportamento
 ininteligível e irracional dos missionários, em vez de ofenderem-nos e
 manifestarem contra eles a sua “raiva”, o que poderia incitar a
 feitiçaria de vingança por parte dos padres. O comportamento submisso é
-constantemente utilizado pelos Hupd\[289?\] na relação com os Índios do
+constantemente utilizado pelos Hupdʉ na relação com os Índios do
 rio, e estendido para interações com não Indígenas ]{}]{}
 
 [[[Ponciano conta que os missionários moravam perto da escola de lata e
@@ -8861,9 +8883,9 @@ rapazes cresceram nas grandes aldeias e observavam cada detalhe de nosso
 percurso. Sobre o distanciamento que passa a existir em relação à região
 das cabeceiras, Reid coloca a seguinte hipótese, ]{}
 
-[[Nas décadas de 1920 e 1930, os Hupd\[289?\] viviam em áreas rio acima
+[[Nas décadas de 1920 e 1930, os Hupdʉ viviam em áreas rio acima
 e faziam seus acampamentos de caça rio abaixo. Por volta da década de
-1950, esse padrão se reverteu, com a mudança dos Hupd\[289?\] para
+1950, esse padrão se reverteu, com a mudança dos Hupdʉ para
 porções rio abaixo do território, o que os fez caçarem rio acima. Ainda
 não é claro se esses movimentos se deram puramente em resposta a
 pressões externas colocadas sobre eles pelos Índios do rio e, mais
@@ -8988,7 +9010,7 @@ sentamos para conversar com o pajé Armando. Entre uma cuia e outra,
 antes que contássemos de nosso terrível encontro com a onça, o xamã
 revelou que havia nos acompanhado durante toda jornada. Ao longo
 daqueles dias em que caminhávamos, ele consumiu paricá e viajou com seu
-/hã\[317?\]wäg/ para as serras. Movia-se dentro de sua roupa de /ya’a̗m
+/ha̗͂wäg/ para as serras. Movia-se dentro de sua roupa de /ya’a̗m
 s’a̗/, “onça-preta”, e nos observava de longe. Rindo, contou que o
 tínhamos visto no alto de /Ni\[317?\]k-Hũ\[317?\]-Paç/ e que corremos de
 medo. Olhando em meus olhos e afagando minha barba, Armando disse que
@@ -9499,12 +9521,12 @@ mestres das “casas dos animais”, \[...\] e possuem um papel importante
 no controle de todas as espécias de caça e dos animais em geral. Além
 desses mestres dos ]{}[animais generalizados, há casas florestais
 controladas por mestres espirituais de cada espécie de animal em
-particular. Embora os Hupd\[289?\] sejam cientes de que os animas se
+particular. Embora os Hupdʉ sejam cientes de que os animas se
 reproduzem nessa Terra, eles também acreditam que alguns mestres de
 espécies criam-nos em suas casas subterrâneas. \[...\] De tempos em
 tempo, quando a caça se torna escaça, os xamãs podem entrar em contato
 com esses mestres espirituais e pedir-lhes que liberem mais animais para
-a floresta. Alguns Hupd\[289?\] afirmaram que essas transações envolvem
+a floresta. Alguns Hupdʉ afirmaram que essas transações envolvem
 o pagamento da liberação de caça com almas humanas, enquanto outros
 disseram que os xamãs oferecem dádivas de fumaça de tabaco apenas aos
 mestres espirituais ]{}]{}
@@ -9667,15 +9689,15 @@ sentir o que eu senti. Vocês vão brigar, vão matar, vão envenenar”. Foi
 aí que começou o corpo dele desse jeito. Com esse fogo que queimaram o
 corpo dele é que apareceram as flautas.]{}
 
-[Foi /K’e\[316?\]g Te\[342?\]h/ quem pegou as flautas e entregou para
+[Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para
 cada grupo no Lago-de-Leite. Do corpo queimado dele surgiram as flautas,
 muitas. Outros grupos podem contar mais, saber mais, mas a gente conta
-assim. /K’e\[316?\]g Te\[342?\]h/ encontrou o /Bisi\[317?\]w/ queimado e
+assim. /K’e̖g Te͂h/ encontrou o /Bisi\[317?\]w/ queimado e
 levou as flautas para o Lago-de-Leite para dar à humanidade. As flautas
 eram os ossos de /Bisi\[317?\]w/. Do Lago-de-Leite a humanidade veio
 embaixo d’água na /M’e\[316?\]h-Hoh-Të\[316?\]g/, a “Cobra-Canoa”, até
 “Ipanoré”, /Hib’a̗h-Höd/. Então, desceram de novo até o Lago-de-Leite e
-subiram de novo, invisíveis. Foi aí que /K’e\[316?\]g Te\[342?\]h/
+subiram de novo, invisíveis. Foi aí que /K’e̖g Te͂h/
 entregou para cada grupo as flautas. Aí, a humanidade teve cada um a sua
 flauta. Já subiram com a flauta na canoa. Essa transformação da canoa
 foi em Ipanoré. Subiram todos os rios: Uaupés, Papuri, Tiquié. Subiram
@@ -9801,7 +9823,7 @@ caso desrespeitem o ancestral, M16 revela a possibilidade de abertura e
 nascimento através do uso correto da palavra. Caso não haja o pedido
 formal de permissão a esse dono, além de diminuírem os animais, os
 caçadores hup tornam-se presas fáceis desse ancestral, que rouba e
-devora o /hã\[317?\]wäg/. ]{}
+devora o /ha̗͂wäg/. ]{}
 
 [Descrevendo as relações entre humanos, espíritos, animais e plantas que
 se dão em torno da caça e da comensalidade para os Makuna, Århem afirma
@@ -9816,7 +9838,7 @@ troca e em que medida ela é a condição para a revitalização de presas e
 seres humanos fazem-se objetivos importantes para uma melhor compreensão
 sobre como os encontros noturnos contribuem para a regeneração da vida
 em suas mais distintas formas, possibilitando o nascimento e a cura como
-processos que envolvem a junção do /hã\[317?\]wäg/ e a viagem da pessoa
+processos que envolvem a junção do /ha̗͂wäg/ e a viagem da pessoa
 hup. Um percurso pelo universo da concepção e do nascimento ajudará a
 entender melhor a importância da relação com o /Bisi\[317?\]w/, ser que
 é a um só tempo um dono dos animais, a matéria prima das flautas e um
@@ -9866,7 +9888,7 @@ Oferecia o peito. Nervosa, a avó aproximava-se de Firmiano para pegar
 mais um cigarro benzido. Defumava a mãe e a criança. O “choro
 enlouquecedor” é tido como uma doença terrível ocasionada pelas
 tentativas dos seres malfazejos de roubar o sopro vital da criança em
-sonho. É preciso que os xamãs regenerem o /hã\[317?\]wäg/ e amarrem-no
+sonho. É preciso que os xamãs regenerem o /ha̗͂wäg/ e amarrem-no
 com linhas firmes para segurá-lo no peito do bebê. ]{}
 
 [Ao meu lado, Samuel comentou que as condições adversas do nascimento
@@ -9875,7 +9897,7 @@ do filho”, já que a menina chorava sem parar e estava ficando muito
 doente. Samuel levantou-se e mostrou a fuligem impregnada nas palhas do
 telhado da cozinha: “Na viagem pelo Rio-de-Leite, o /bi’i\[316?\]d hup
 i\[342?\]h/, ‘xamã-soprador’, acompanha a criança. Vai mostrando todas
-as /Dëh-Mo\[316?\]y/, “Casas-do-Rio”. Caso não a proteja da fuligem
+as /Dëh-Mo̖y/, “Casas-do-Rio”. Caso não a proteja da fuligem
 oleosa do telhado dessas casas, a criança pode ficar muito doente, faz
 muito mal para ela”. A exposição da neófita à intensidade térmica,
 oleosa e fumacenta da fuligem dessa casa habitada pelas Gentes-Cobra
@@ -9899,7 +9921,7 @@ filhos]{} (1998, p. 221).]{}
 [Ponciano contou-me o /Te\[342?\]h Bi’i\[316?\]d/ logo depois que seu
 filho, Samuel, foi mordido por uma jararaca. Ressaltou que esse era um
 dos encantamentos mais importantes tanto para a “procura do filho”
-quanto para a regeneração do /hã\[317?\]wäg/, no caso de doenças. Por
+quanto para a regeneração do /ha̗͂wäg/, no caso de doenças. Por
 isso, eu deveria gravá-lo e logo transcrevê-lo para o Livro de
 Benzimentos que estávamos escrevendo.]{}
 
@@ -10026,13 +10048,13 @@ a beira do Lago-de-Leite, tiro a folha /bu\[317?\]y k’e\[316?\]t/ e
 trago-a para cá. Lá, à beira do Lago-de-Leite, faço a mulher sair,
 sentar-se e banho seu corpo com a folha /bu\[317?\]y k’e\[316?\]t/. ]{}
 
-[Vou juntando o /hã\[317?\]wäg/ da mulher. Menciono as plumas e o
+[Vou juntando o /ha̗͂wäg/ da mulher. Menciono as plumas e o
 banco-de-plumas do pato d’água, o banco-de-plumas do pato
 /pu\[317?\]u\[317?\]p/ d’água, o banco-de-plumas do /wãwãw/ (pássaro),
 chamo o sopro vital e faço-o sentar-se no banco. Falo e faço a mulher
-sentar para que engorde. Para ela, eu vou chamando o /hã\[317?\]wäg/ e
+sentar para que engorde. Para ela, eu vou chamando o /ha̗͂wäg/ e
 fazendo-o sair (das casas) e sentar-se. Defumo com a /bu\[317?\]y k’et/
-e trago (o /hã\[317?\]wäg/). ]{}
+e trago (o /ha̗͂wäg/). ]{}
 
 [Quando a mulher vai ter filho, menciono o banco-de-plumas e a ]{}
 
@@ -10041,34 +10063,34 @@ dela ficar como o osso do (pato) macho. Transformo o ombro da mulher e
 seu /täy tëg/ no enxó de plumas (do pato). Somente dessa forma a criança
 engordará. ]{}
 
-[Falo e faço sair o /hã\[317?\]wäg/ defumando com a folha /bu\[317?\]y
-k’et/. Junto o /hã\[317?\]wäg/ e desloco-me com ele para dentro de nossa
+[Falo e faço sair o /ha̗͂wäg/ defumando com a folha /bu\[317?\]y
+k’et/. Junto o /ha̗͂wäg/ e desloco-me com ele para dentro de nossa
 “Casa-de-Nascimento”, /Dëh-Säk-Mo\[316?\]y/, na boca do rio. ]{}
 
-[Vou para o meio do rio, para a cabeceira e reúno o /hã\[317?\]wäg/. É
-preciso juntar o /hã\[317?\]wäg/ da criança, pois ele está completamente
+[Vou para o meio do rio, para a cabeceira e reúno o /ha̗͂wäg/. É
+preciso juntar o /ha̗͂wäg/ da criança, pois ele está completamente
 espalhado. Pego, reúno e faço-o entrar e ficar em pé. ]{}
 
 [8º mov.No momento do nascimento, faço os peixes, as minhocas grandes,
 as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
-/hã\[317?\]wäg/ (da criança), faço-o sair e dou banco. Faço-o sentar-se
+/ha̗͂wäg/ (da criança), faço-o sair e dou banco. Faço-o sentar-se
 no banco-de-plumas do pato /pup/ d’água, no banco-de-plumas do pato
 d’água. Então, (o hã\[317?\]wäg) vem. ]{}
 
 [Trago a folha /bu\[317?\]y k’e\[316?\]t/ da beira do Lago-de-Leite, a
 folha pequena e a folha grande, para defumar a mulher e (banhar) seu
-corpo com água. Tiro o /hã\[317?\]wäg/ da mulher (e da criança), faço-os
+corpo com água. Tiro o /ha̗͂wäg/ da mulher (e da criança), faço-os
 sair e sentar. Desloco-me para o outro lado do Lago-de-Leite, para o
 final. Lá eu tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo
 da mãe. ]{}
 
 [Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu
-/hã\[317?\]wäg/ sair e sentar. Naquele lugar, falo para afastar as
+/ha̗͂wäg/ sair e sentar. Naquele lugar, falo para afastar as
 formigas pretas, as formigas de fogo, as formigas taracuá. Cerco todas
 essas (formigas), pois pode haver essas formigas na árvore
 /sarah-s’o\[316?\]m/.\[...\] ]{}
 
-[9º mov.Tiro o /hã\[317?\]wäg/ e venho trazendo. \[...\] Eu venho
+[9º mov.Tiro o /ha̗͂wäg/ e venho trazendo. \[...\] Eu venho
 trazendo direto e passo pelas diversas Casas-do-Rio. Entro dentro da
 Casa-do-Rio e continuo subindo. Entro na /Hup-Mo\[316?\]y/, “Casa-Hup”.
 ]{}
@@ -10077,8 +10099,8 @@ Casa-do-Rio e continuo subindo. Entro na /Hup-Mo\[316?\]y/, “Casa-Hup”.
 mulheres ancestrais vêm subindo junto e, naquela casa, (sopro) para que
 o corpo da mãe não arrebente. Arrebento o carajuru. ]{}
 
-[(O /hã\[317?\]wäg/) está em pé. Faço-o sentar no banco. Continuo
-subindo e vou colocando (o /hã\[317?\]wäg/) dentro da pessoa. Desço
+[(O /ha̗͂wäg/) está em pé. Faço-o sentar no banco. Continuo
+subindo e vou colocando (o /ha̗͂wäg/) dentro da pessoa. Desço
 novamente. Sigo para outra casa, outra Casa-do-Rio e falo. Subo desde
 onde estão os ancestrais (moradores) daquela casa. Falo e rumo para
 outra casa. Falo, subo e fico em pé. ]{}
@@ -10100,7 +10122,7 @@ sofra com o “choro enlouquecedor”. ]{}
 [10º mov. Então, eu me afasto de Iauareté, continuo subindo e ficando em
 pé (dentro das casas) por onde os ancestrais passaram. Vou até
 Caruru-Cachoeira. Fico em pé e desço até o Rio Negro. Subo, fico em pé,
-tiro (o /hã\[317?\]wäg/) continuamente. Retorno e desço até o rio Tiquié
+tiro (o /ha̗͂wäg/) continuamente. Retorno e desço até o rio Tiquié
 para ir até a Casa-dos-Ancestrais, lá onde eles foram e ficaram em pé.
 \[...\] Subo e fico em pé. Eu entro. Continuo subindo e ficando em pé.
 Desço novamente. Volto a subir e a ficar em pé sempre que passo pelos
@@ -10110,7 +10132,7 @@ acima de Pari Cachoeira. Fico em pé. ]{}
 [Lá há um banco primordial. Desço novamente e começo a voltar até o rio
 Japú, lá onde (a Cobra-Canoa) parou, na boca (para sair cada grupo e
 espalhar). Naquele lugar, nós subimos, pois foi lá onde a Cobra-Canoa
-nos deixou. Venho trazendo (o /hã\[317?\]wäg/) até aqui. ]{}
+nos deixou. Venho trazendo (o /ha̗͂wäg/) até aqui. ]{}
 
 [Novamente, falo para os /B’atɨ\[316?\]b’/. ]{}
 
@@ -10261,10 +10283,10 @@ deslocar-se oniricamente. ]{}
 k’e\[316?\]t/ e faz o sopro vital da mãe e da criança sentarem-se em
 bancos-de-plumas de diversas aves. O mentor leva-os para a
 “Casa-do-Nascimento”, /Dëh-Säk-Mo\[316?\]y/, onde reúne os fragmentos
-dos seus /hã\[317?\]wäg/ que, antes, estavam distribuídos pelas casas
+dos seus /ha̗͂wäg/ que, antes, estavam distribuídos pelas casas
 ancestrais. Na cabeceira, o meio do rio, a pessoa torna-se uma
 *singularidade múltipla* que, ereta, entra no corpo como quem entra numa
-casa. Chamar e fazer sair o /hã\[317?\]wäg/ espalhado pelas diversas
+casa. Chamar e fazer sair o /ha̗͂wäg/ espalhado pelas diversas
 casas é um movimento contínuo e simultâneo ao nascimento que concentra a
 *pessoa distribuída* do bebê, cujas partes se encontravam dispersas pelo
 ambiente (Gell, 1998, p. 106). Essa ação de junção da pessoa parece
@@ -10272,7 +10294,7 @@ análoga à formação do feto, pois para que o bebê se forme por completo
 no útero é necessário que o casal tenha muitas e constantes relações
 sexuais durante a gravidez, “tem que transar mais de trinta vezes até a
 barriga crescer e o bebê nascer”, contou a sra. Edvirges da aldeia de
-/Pɨ\[342?\]\[316?\]g-Dëh/, “Nova Fundação”, à equipe da SSL durante uma
+/Pɨ̖͂g-Dëh/, “Nova Fundação”, à equipe da SSL durante uma
 oficina de saúde sexual e reprodutiva (SSL, 2010, p. 08). Nas palavras
 de Lolli (2010, p. 83), “as ações de procurar, reunir e colocar os
 componentes das pessoas fazem que essa pessoa distribuída volte a se
@@ -10281,7 +10303,7 @@ concentrar no corpo da pessoa”.]{}
 [O xamã começa, então, a conduzi-los de volta à aldeia e aos seus corpos
 viajando pelo /Pud-Dëh/, o “Rio-de-Leite”. Ao longo do percurso, uma
 navegação, os viajantes param diante das casas primordiais, as
-“Casas-do-Rio”, /Dëh-Mo\[316?\]y/, moradas das Gentes-Cobra. O mentor
+“Casas-do-Rio”, /Dëh-Mo̖y/, moradas das Gentes-Cobra. O mentor
 entra com seus protegidos e mostra os interiores, os objetos mobiliários
 e os moradores. O xamã fica em pé em cada uma dessas casas, mas faz com
 que mãe e criança sentem-se e estejam munidas com seus punhais, dada a
@@ -10361,7 +10383,7 @@ responsável pela ação xamânica a refazer o benzimento. Retornando ao
 Lago-de-Leite, é preciso juntar novamente o sopro vital do recém-nascido
 e protegê-lo bem com paris e fumaças, atenuar as cores e brilhos,
 transformar todas as águas em sumos de água-pura para restituir o
-/hã\[317?\]wäg/ ao peito e acalmar o choro. Interrompe-se a
+/ha̗͂wäg/ ao peito e acalmar o choro. Interrompe-se a
 identificação com a perspectiva não hup e neutralizam-se os agentes
 patogênicos que afetam a bebê. Para Lolli, são as ações de
 neutralização, construção e proteção que vão permitindo a melhora do
@@ -10369,7 +10391,7 @@ doente, e no caso, o nascimento da pessoa (2010, p. 72). ]{}
 
 [A fumaça do caroço de ucuqui queimado pelos rapazes faz /Bisi\[317?\]w/
 sofrer com uma /pë\[317?\]’/, “doença”, um desmaio (M15). Esse devorador
-de /hã\[317?\]wäg/ de crianças faz a humanidade adoecer para sofrer como
+de /ha̗͂wäg/ de crianças faz a humanidade adoecer para sofrer como
 ele, causando doenças e males. O “choro enlouquecedor” pode ser visto
 como uma primeira doença, um malefício que acomete a criança em seus
 momentos iniciais de vida, tão logo deixe o ventre materno. Como a
@@ -10458,7 +10480,7 @@ expressa a exposição a estímulos sensoriais intensos que têm efeito
 patogênico. ]{}
 
 [Se o banho com fumaça e sumos /s’i\[317?\]d/, “lava”, o
-/hã\[317?\]wäg/, o barulho (gemido), o odor (fuligem) e o forte colorido
+/ha̗͂wäg/, o barulho (gemido), o odor (fuligem) e o forte colorido
 (pinturas) causam doenças poluindo ou perturbando a pessoa a partir de
 seus sentidos. Visão, olfato e paladar são sentidos que parecem ser
 potencializados no nascimento, uma viagem pelo Rio-de-Leite ao longo da
@@ -10499,7 +10521,7 @@ de remédios, além de segurarem e ninarem a pequena bebê quando preciso.
 Por muitas noites, os senhores hup discutiram o /te\[342?\]h
 bi’i\[316?\]d/, seus trajetos, casas e movimentos para entender o que
 tinha causado o “choro enlouquecedor”. Apenas quando concluíram que o
-avô não tinha protegido o /hã\[317?\]wäg/ da bebê da fuligem oleosa é
+avô não tinha protegido o /ha̗͂wäg/ da bebê da fuligem oleosa é
 que começaram a tentar ações xamânicas que pudessem proteger melhor a
 criança e assegurar-lhe a vida. Estavam, desse modo, ajudando Firmiano
 em sua agência xamânica e fazendo a pequena Marijane surgir no curso de
@@ -10659,7 +10681,7 @@ ancestrais. ]{}
 [Deitados em suas redes de leite, os avós deslocam-se oniricamente
 depois das rodas de coca. O avô encontra seus ancestrais e aconselha-se
 sobre qual o melhor nome a ser dado a seu neto recém-nascido. O nome
-cerca o /hã\[317?\]wäg/ no peito, faz com que o sopro vital mantenha-se
+cerca o /ha̗͂wäg/ no peito, faz com que o sopro vital mantenha-se
 concentrado na /Hãg-Sa̗k-Mo\[316?\]y/, a “Casa-do-Pulsar”. Às margens do
 Lago-de-Leite, dentre os muitos nomes que constituem o estoque
 onomástico de seu clã, o avô deve chamar o ancestral cujo nome será dado
@@ -10687,7 +10709,7 @@ a criança perto do homem mais velho de referência para o clã ou pelo avô
 paterno, caso esteja vivo]{} (2006, p. 15, grifos meus).]{}
 
 [Nesse jogo de identificações, o *feto sentado* surge como os ancestrais
-que, após o chamado de /K’e\[316?\]g Te\[342?\]h/, sentaram-se em seus
+que, após o chamado de /K’e̖g Te͂h/, sentaram-se em seus
 bancos e, às margens do lago, receberam a coca, o tabaco, o bastão, as
 flautas Jurupari, a zarabatana, os adornos rituais e as pinturas
 corporais (M14). Em B6, depois de concentrar as pessoas da mãe e do
@@ -10695,7 +10717,7 @@ bebê, o xamã começa a conduzi-los na viagem de volta pelo Rio-de-Leite,
 visita as Casas-do-Rio. Ao longo dessa jornada, o nascituro e a mãe
 aproximam-se dos ancestrais, homens e mulheres, de suas moradas e de
 seus pertences. Simultaneamente, enquanto se desloca, o xamã faz o
-/hã\[317?\]wäg/ entrar no corpo e abrigar-se no peito, na
+/ha̗͂wäg/ entrar no corpo e abrigar-se no peito, na
 /Hãg-Sa̗k-Mo\[316?\]y/ da pessoa. Parece haver, dessa forma, uma
 semelhança entre o corpo materno que abriga o feto sentado e a paisagem
 da criação. ]{}
@@ -10709,7 +10731,7 @@ inflar, através do verbo /hãg-sa̗k/, “pulsar/respirar”. Como em
 /B’oto\[317?\]k-Mo\[316?\]y/, “orelha” ou “Casa-da-Audição”, o
 substantivo /mo\[316?\]y/, “morada”, “casa”, adere para compor o sentido
 de uma “Casa-do-Pulsar/Respirar”, que é também uma morada do
-/hã\[317?\]wäg/, “sopro vital”, e, portanto, uma /ɨ\[317?\]b’
+/ha̗͂wäg/, “sopro vital”, e, portanto, uma /ɨ\[317?\]b’
 mo\[316?\]y/, uma “Casa-da-Vida”. A semente de pedra, um quartzo
 peitoral, talvez seja, nos pajés e no nascituro, a cristalização de um
 Lago-de-Leite que protege a partir do peito.]{}
@@ -10724,7 +10746,7 @@ pelos xamãs para que tenham seus pescoços cercados. O nariz,
 “Casa-da-Respiração”. Todas essas regiões corporais estão ligadas a
 modulações do ar pela fala, respiração e sopro. É a partir dessas casas
 que se torna possível a transformação do regime corporal /sa̗pa̗t/ em
-/hã\[317?\]wägät/. “Caminhos corporais”, /sa̗p ti\[316?\]w/, estendem-se
+/hã\[317?\]wägät/. “Caminhos corporais”, /sa̗p ti̖w/, estendem-se
 de uma casa a outra traçando os elos entre os sentidos que permitem os
 distintos regimes de percepção. As casas/órgãos situam-se às margens do
 Lago-de-Leite e ligam-se por caminhos que fazem do corpo a própria
@@ -10785,7 +10807,7 @@ formou-se pedagoga em São Gabriel. Aos poucos voltou a falar a língua
 hup. Assumiu as turmas de ensino fundamental e começou a cuidar da
 alfabetização das crianças da aldeia, em língua hup e português. A
 professora procura sempre conversar com os velhos, pois gosta de
-trabalhar as /pɨnɨ\[316?\]g/, “histórias/ mitos”, com as crianças. Gosta
+trabalhar as /pɨnɨ̖g/, “histórias/ mitos”, com as crianças. Gosta
 também de ouvir sobre as moradas antigas, os Dabucuris, e sobre os
 animais, para preparar seus materiais didáticos e ensinar a seus alunos.
 ]{}
@@ -10951,7 +10973,7 @@ substâncias capazes de gerar a vida. Penetrando o útero, uma
 /ɨ\[317?\]b’ dëh/, compondo uma solução que cerca o esperma, impede sua
 passagem e faz a criança surgir sentada em seu banco-de-leite (B6). Do
 esperma, visto como a contribuição paterna da concepção, originam-se os
-“ossos”, /k’e\[316?\]g/, e o /hã\[317?\]wäg/, “sopro vital”, da criança.
+“ossos”, /k’e\[316?\]g/, e o /ha̗͂wäg/, “sopro vital”, da criança.
 Feitiços que visem a tornar a mulher estéril fazem com que essa “água da
 vida” seque em sua panela-útero. A temperatura dessa solução aquosa
 varia conforme a temperatura do corpo feminino que se torna extremamente
@@ -10976,7 +10998,7 @@ Na barriga, o bebê cresce envolvido pela /te\[342?\]h yu̖d/, a
 /hup d’ö’ su\[317?\]du\[317?\]y/, a “criança vestida” ou “envolvida”. Os
 primeiros meses da gravidez são denominados /d’äw tik d’a̗k/, “neófito
 recostado”, quando a barriga está ainda pequena. Uma segunda fase é a
-/d’äw tök-pö\[317?\]g/, “nascituro na barriga grande”, período que vai
+/d’äw tök-Pö̗g/ , “nascituro na barriga grande”, período que vai
 aproximadamente até o quinto mês de gravidez e que revela importantes
 transformações no corpo da mãe como o crescimento dos seios, o aumento
 da barriga, a subida do bebê e a mudança na postura. Em seguida, todos
@@ -10998,22 +11020,22 @@ o modo de percepção hup que diferencia os corpos dos seres a partir de
 graus de presença de energias /k’ɨ\[317?\]/, “quentes”, e /tu\[317?\]t/,
 “frias”[^108]. Seguindo a descrição dos autores, o *feto na panela*
 surge como uma composição de elementos “frios” e “quentes” que formam o
-“corpo”, /sa̗p/, o “sopro vital”, /hã\[317?\]wäg/, e a “sombra”,
+“corpo”, /sa̗p/, o “sopro vital”, /ha̗͂wäg/, e a “sombra”,
 /b’atɨ\[316?\]b’/. O sangue, a carne e a pele são dotados da energia
 “quente” do próprio sangue materno. Do sangue origina-se também o
 /b’atɨ\[316?\]b’/ infantil, um princípio vital ligado ao calor, à força
 e à agressividade. A urina, as fezes, os suores e os odores são
 materializações do /b’atɨ\[316?\]b’/ eliminadas pelos orifícios
-corporais. Já o esperma origina o /hã\[317?\]wäg/, um princípio vital
+corporais. Já o esperma origina o /ha̗͂wäg/, um princípio vital
 essencialmente “frio”, e os ossos, tidos como “mornos”. O
-/hã\[317?\]wäg/ forma-se no peito do neófito e é constituído por
+/ha̗͂wäg/ forma-se no peito do neófito e é constituído por
 /hãg-sa̗k/, “sopro/pulsar”, /yõ\[316?\]h dëh/, “água-pura”, e
 /pud-dë\[316?\]h/, “leite”. É um princípio vital ligado à serenidade, à
 fala, à sabedoria e à ação xamânica protetora e terapêutica. Também o
 /b’atɨ\[316?\]b’/ está situado no peito e torna-se mais intenso quando a
-pessoa adoece com o enfraquecimento ou roubo do /hã\[317?\]wäg/. Ao
+pessoa adoece com o enfraquecimento ou roubo do /ha̗͂wäg/. Ao
 nascer, a criança possui um grande /b’atɨ\[316?\]b’/ que diminui ao
-longo da vida, ao contrário do /hã\[317?\]wäg/ que cresce, atingindo seu
+longo da vida, ao contrário do /ha̗͂wäg/ que cresce, atingindo seu
 auge com a velhice. Por isso, os velhos xamãs que benzem o parto são
 considerados frios e quase inodoros. Não é raro acenderem fogueiras
 pequenas, próximas a suas redes durante a noite ou acomodarem-se
@@ -11021,7 +11043,7 @@ próximos ao fogo de cozinha da casa mesmo durante o dia. ]{}
 
 [**\[Warning: Draw object ignored\]**]{}
 
-[**/Hã\[317?\]wäg/ (sopro vital): /B’atɨ\[316?\]b’/ (sombra)**]{}
+[**/ha̗͂wäg/ (sopro vital): /B’atɨ\[316?\]b’/ (sombra)**]{}
 
 [**/Tu\[317?\]t/ (frio): /K’ɨ\[317?\]/ (calor)**]{}
 
@@ -11051,7 +11073,7 @@ modo inverso, um homem deve consumir alimentos “quentes” quando prepara
 o veneno de caça para fazer o veneno pegar. Aquele que pretende praticar
 feitiços contra outra pessoa também come alimentos quentes e evoca
 agentes “quentes” para atacarem a vítima. Acredita-se que os Índios do
-Rio possuam mais ]{}[ que os Hupd\[289?\], o que faz com que tenham
+Rio possuam mais ]{}[ que os Hupdʉ, o que faz com que tenham
 “raiva” e perigosos feitiços. De modo semelhante, é a presença de ]{}[
 nos espíritos da floresta o que faz deles canibais e malévolos ]{}[
 ]{}]{}
@@ -11115,7 +11137,7 @@ reintrodução desses ]{}
 “peixes”, /hõ\[316?\]p/, são fontes da essência “quente” presente em
 maior grau no sangue e na gordura, e em menor na carne, ossos e pele.
 Assim como os humanos hup, também peixes e animais possuem
-/hã\[317?\]wäg/ e /b’atɨ\[316?\]b’/. O tamanho exacerbado desse segundo
+/ha̗͂wäg/ e /b’atɨ\[316?\]b’/. O tamanho exacerbado desse segundo
 princípio vital faz com que a característica fedorenta de seus corpos
 seja incorporada pelo consumidor, que passa a exalar um forte cheiro. O
 abate da presa faz o sopro vital e a sombra deixarem a carcaça, mas o
@@ -11320,7 +11342,7 @@ o bebê, um benzimento é realizado para que seus seios /pud-dë\[316?\]h
 bë\[317?\]y/, “mostrem o leite”. Ao longo de sua jornada, o xamã “dá
 banco” aos machos dos diversos seres que podem fazer mal, seja pelo
 calor (febre e dores de cabeça), pelo caarpi (choro enlouquecedor), pela
-intolerância ao odor humano (abdução do /hã\[317?\]wäg/) ou pelas armas
+intolerância ao odor humano (abdução do /ha̗͂wäg/) ou pelas armas
 laminares (feridas). Como a “parteira”, o benzedor faz a mãe sentar-se
 no banco de leite (cócoras). ]{}
 
@@ -11949,7 +11971,7 @@ térmica e destrutiva ao corpo do filho. A melhora da febre ocorre com os
 banhos, ingestão de frutas e repouso, ou seja, no contato do corpo com
 essências frias. ]{}
 
-[Como contou certa vez Ari, é no peito, morada do /hã\[317?\]wäg/ e do
+[Como contou certa vez Ari, é no peito, morada do /ha̗͂wäg/ e do
 /b’atɨ\[316?\]b’/, que está situado o calor do corpo. Já o frio se
 encontra espalhado pelo resto do corpo. Para verificar-se a febre,
 coloca-se a mão na testa, nos braços e nas pernas, pois a doença faz
@@ -12186,7 +12208,7 @@ pertences que são também índices diacríticos de seus sexos e posições no
 campo de interações rituais. Uma espécie de *devir ancestral* faz sua
 pintura e adornos identificarem-nos aos “antigos” e aos “velhos”.
 Sentados diante de um Lago-de-Leite, os fetos são os próprios ancestrais
-a receber de /K’e\[316?\]g Te\[342?\]h/ os ossos/flautas de
+a receber de /K’e̖g Te͂h/ os ossos/flautas de
 /Bisi\[317?\]w/, os Jurupari, junto com os demais bens e alimentos da
 origem (M15).]{}
 
@@ -12254,7 +12276,7 @@ uma separação do universo feminino para a transformação do menino em
 adulto, descendente de um ancestral clânico patrilateral, mas também a
 possibilidade de trazer à vida os ancestrais, reunindo-os na
 reverberação de uma singularidade oculta, o /Bisi\[317?\]w/. Suponho que
-integrar-se como sopro e som, como parte do /hã\[317?\]wäg/ desse ser,
+integrar-se como sopro e som, como parte do /ha̗͂wäg/ desse ser,
 dota a pessoa não só da habilidade de curar e gerar a vida, juntando o
 sopro vital espalhado pelas casas, mas também do poder de entender a
 morte como uma disjunção. Age-se sobre o corpo artefactual e
@@ -12443,7 +12465,7 @@ necessários à retirada das flautas do igarapé. Fazem também o convite
 aos parceiros de troca que podem ser desde moradores da própria aldeia,
 de outras comunidades ou mesmo pessoas de outra etnia. O importante é
 constituir as condições necessárias que levem ao crescimento do
-/hã\[317?\]wäg/ e ao endurecimento das peles e ossos dos rapazes (1979,
+/ha̗͂wäg/ e ao endurecimento das peles e ossos dos rapazes (1979,
 p. 281-2). ]{}
 
 [Desse modo, não parece haver uma divisão tão marcada entre a cerimônia
@@ -12907,7 +12929,7 @@ As flautas sagradas foram dadas aos homens na “Serra-da-Iniciação”. ]{}
 
 [As flautas vieram do corpo queimado do /Bisi\[317?\]w/. Ele comeu as
 crianças pelo ânus e depois foi queimado pelos pais. De seu corpo
-fizeram-se as flautas. Seu /hã\[317?\]wäg/ saiu e foi para a
+fizeram-se as flautas. Seu /ha̗͂wäg/ saiu e foi para a
 /Paç-Mo\[316?\]y/, “Casa-de-Pedra”. ]{}
 
 [Houve um tempo em que eram as mulheres que tinham as flautas. Os homens
@@ -13019,10 +13041,10 @@ das flautas tornam-se secretas aos Brancos, mas não menos constantes.
 Reid descreve a tendência de composição de base agnática dos grupos
 locais hup com a agregação de famílias afins da seguinte maneira:]{}
 
-[[Embora os Hupd\[289?\] também empreguem esse princípio de aglutinação
+[[Embora os Hupdʉ também empreguem esse princípio de aglutinação
 através dos siblings por gênero, o uso da aglutinação através dos
 siblings masculinos ocorre com maior frequência entre eles.
-Consequentemente, a composição dos grupos locais Hupd\[289?\] tende a
+Consequentemente, a composição dos grupos locais Hupdʉ tende a
 ser menos de base agnática do que entre os Bara-Maku ]{}]{}
 
 [Desse modo, a formação do povoado-missão de /Ta̗t-Dëh/, na década de
@@ -13047,7 +13069,7 @@ não deixou de pescar no /K’a̗j-Dëh/ e de caçar na serra. Trouxe consigo
 um par de flautas (/B’öh/ e /Wöwö\[317?\]y/) para tocar nos Dabucuris.
 Acompanharam-no os pais do senhor Miguel, parentes afins com quem esse
 dono coabitava[^122]. Henrique e seus filhos tornaram-se os donos de
-todo o território das imediações desse /K’a̗j-Paç Ti\[316?\]w/, “Caminho
+todo o território das imediações desse /K’a̗j-Paç ti̖w/, “Caminho
 da Serra-da-Cutivaia”. Até hoje, qualquer pessoa que deseje abrir uma
 roça nessas terras, pescar nos igarapés, ou caçar deve pedir permissão
 aos filhos de Henrique. ]{}
@@ -13182,7 +13204,7 @@ entre esses elementos. ]{}
 [Nessa narrativa (M17), Ponciano relembra a viagem que fez com seu pai,
 Antônio, à Serra-da-Iniciação. Após a viagem na Cobra-Canoa, os
 ancestrais caminharam até essa serra para receberem as flautas Jurupari
-de /K’e\[316?\]g Te\[342?\]h/. Em pleno processo de reunião de famílias
+de /K’e̖g Te͂h/. Em pleno processo de reunião de famílias
 e instrumentos sagrados do *sibling* /Sokw’ä̗t/ e de clãs afins, esse
 dono leva o filho a um local onde todos os grupos e instrumentos estavam
 reunidos. Na Serra-da-Iniciação, os ancestrais comeram coca, beberam
@@ -13359,7 +13381,7 @@ interno do tubo para garantir o timbre adequado ao instrumento.
 Murmurando palavras para um pedaço de breu ou para um cigarro, o artesão
 executa o /hã\[317?\]wäg bi’i\[316?\]d/, “encantamento do sopro vital”,
 e o /ha\[316?\]t bi’i\[316?\]d/, o “encantamento de nominação”. O xamã
-desloca-se como /hã\[317?\]wäg/ ao Lago-de-Leite, chama o ancestral cujo
+desloca-se como /ha̗͂wäg/ ao Lago-de-Leite, chama o ancestral cujo
 nome será dado à flauta e, sentado em seu banco, concentra a
 pessoa-sopro distribuída pelas moradas (B6). A ação xamânica traz o
 instrumento à vida como um ancestral através de um processo semelhante
@@ -13371,7 +13393,7 @@ certas capacidades vitais essenciais, sem as quais elas não crescem nem
 adquirem força ao longo da vida”. Timbre e nome são atributos da flauta
 sempre ressaltados pelos tocadores para descrever a beleza, a magnitude
 do som e o poder do instrumento. As ações xamânicas de nominação e
-concentração do /hã\[317?\]wäg/ devem ser realizadas por um ancião
+concentração do /ha̗͂wäg/ devem ser realizadas por um ancião
 agnato ao ancestral-Jurupari que será trazido à vida como uma pessoa hup
 pelo sopro de seus descendentes, durante as danças.]{}
 
@@ -13904,7 +13926,7 @@ sofrimento. Refletindo sobre a cerimônia de Jurupari, Reid () afirma que
 os participantes induzem um estado pleno de energia quente e
 extremamente perigoso. ]{}
 
-[[Desse modo, os Hupd\[289?\] induzem neles mesmos um estado muito
+[[Desse modo, os Hupdʉ induzem neles mesmos um estado muito
 quente e perigoso que leva ao clímax do dia seguinte, quando as mulheres
 e as crianças correm da casa e os trompetes Jurupari e as frutas são
 trazidas para dentro]{}]{}
@@ -13967,7 +13989,7 @@ bate-bocas até confrontos corporais. Em casos extremos, as brigas podem
 levar ao assassinato com os oponentes empunhando terçados ou
 atingindo-se com flechas envenenadas. O envolvimento de grupos em defesa
 de ambas as partes pode gerar guerras como as que ocorreram no início
-dos anos 2000, em /Pɨ\[342?\]\[316?\]g-Dëh/ e em /To\[342?\]\[317?\]h-
+dos anos 2000, em /Pɨ̖͂g-Dëh/ e em /To\[342?\]\[317?\]h-
 Haya̗m/. Essas /u\[342?\]h me\[317?\]h/, “guerras/batalhas”, de
 enfrentamento entre clãs oponentes causaram muitas mortes e culminaram
 na fissão do grupo local. Comentando sobre as brigas durante as festas
@@ -14794,7 +14816,7 @@ grande /ma\[316?\]yt hoh-të\[316?\]g/, “canoa de alumínio”, que, na
 região, recebe o nome de voadeira. /Quarentão pu\[317?\]b/, “motor
 quarenta é forte”, exclamava Samuel. Contou que o possante motor dos
 Brancos é também o meio de transporte com que /Bisi\[317?\]w/ foge logo
-que se apodera do /hã\[317?\]wäg/ das pessoas. Ele escapa tão rápido que
+que se apodera do /ha̗͂wäg/ das pessoas. Ele escapa tão rápido que
 nenhum xamã consegue alcançá-lo com seus meios de transporte, roupas ou
 canoas movidas a remo e rabeta. Assim, as máquinas e suas velocidades
 são percebidas como signos de poder e riqueza por aqueles que levam
@@ -14995,7 +15017,7 @@ lata com sua coca para que comessemos juntos antes de irmos
 origem nos daria a força e a serenidade necessárias para enfrentarmos as
 filas na polícia federal e no cartório, para ignorar as burlas dos
 tukano, para caminhar por ruas de asfalto tão distintas dos /hup
-ti\[316?\]w/, “caminhos de hup”. Antes de sairmos, Marino viu as fotos
+ti̖w/, “caminhos de hup”. Antes de sairmos, Marino viu as fotos
 que tiramos do alto da Serra Grande. Comentou que no topo do morro há um
 pé de inajá. Se o viajante se banhar nos lagos quando essa árvore está
 seca, seu corpo envelhecerá logo, mas se ela estiver viva o corpo se
@@ -15069,7 +15091,7 @@ indígenas SR. Pedro Garcia providenciou. Por esses motivo nós votamos o
 nosso prefeito indígenas para nos ajudarem a fazer.* ]{}
 
 [A carta de solicitação acompanharia o abaixo assinado colhido nas
-comunidades Hupd’äh de /Yuyu̖-Dëh/, /Ta̗t-Dëh/ e /Pɨ\[342?\]\[316?\]g-Dëh/
+comunidades Hupd’äh de /Yuyu̖-Dëh/, /Ta̗t-Dëh/ e /Pɨ̖͂g-Dëh/
 durante o período em que viajei, em maio de 2009, com uma equipe da SSL,
 realizando oficinas para projetos de alternativas econômicas. Os
 professores hup haviam entregado um abaixo assinado, na câmara, com suas
@@ -15559,10 +15581,10 @@ o gravador. Não voltei a ela durante todo o percurso da pesquisa e
 análise, pois esse texto passou a ser visto por mim como um presságio da
 morte desse meu amigo que eu não tive, à época, sensibilidade para
 compreender. Em sua fala, o narrador reproduz os diálogos entre seu pai
-e o interlocutor, uma pessoa /k’ö\[317?\]d/. Henrique parece ter tido
-seu /hã\[317?\]wäg/ capturado por esses seres que, no entanto,
+e o interlocutor, uma pessoa /K’ö̗d/. Henrique parece ter tido
+seu /ha̗͂wäg/ capturado por esses seres que, no entanto,
 manifestam seu desinteresse pelo velho hup. O caminho inexistente surge
-apenas quando o xamã hup assume a perspectiva /k’ö\[317?\]d/ e aceita
+apenas quando o xamã hup assume a perspectiva /K’ö̗d/ e aceita
 viajar dentro de um beija-flor/canoa para ascender novamente à sua
 terra. Desperto do pesadelo, Henrique narrou o sonho a seu filho que,
 preocupado, pediu que Rosalino, um xamã tukano, e Ponciano, um xamã hup,
@@ -15580,7 +15602,7 @@ novamente doente e precisou ser internado na CASAI[^149]. Os filhos iam
 diariamente cuidar do pai, que estava sendo tratado por enfermeiros e
 técnicos de enfermagem do posto de saúde. Numa ida ao banheiro, Henrique
 desequilibrou-se, caiu e bateu sua cabeça. O traumatismo fez com que
-fosse levado de avião para Manaus, mas seu /hã\[317?\]wäg/ deixou seu
+fosse levado de avião para Manaus, mas seu /ha̗͂wäg/ deixou seu
 corpo durante o voo. Em meio à dor da perda, Américo voltou com o pai
 numa voadeira para enterrá-lo em suas terras junto à família. A revolta
 contra o descaso dos profissionais de saúde fez com que Américo,
@@ -15593,9 +15615,9 @@ sua indignação e tristeza.]{}
 [Como voltar à narrativa onírica sem entendê-la como um presságio da
 morte? Como não pensar no avião/voadeira como transformações temporais e
 materiais do beija-flor/canoa? Como não ver semelhanças entre os
-/K’ö\[317?\]d d’äh/, povo subterrâneo, e os Brancos de São Gabriel que,
+/K’ö̗d d’äh/, povo subterrâneo, e os Brancos de São Gabriel que,
 igualmente indiferentes ao ancião, provocaram indiretamente seu
-acidente, fizeram seu /hã\[317?\]wäg/ deixar o corpo, e forneceram os
+acidente, fizeram seu /ha̗͂wäg/ deixar o corpo, e forneceram os
 meios de transporte para que esse velho hup voltasse para a sua terra?
 Novamente em /Ta̗t-Dëh/, Henrique iniciaria sua jornada para a Serra
 Grande após o sepultamento de seu corpo. Seu /b’atɨ\[316?\]b’/
@@ -16397,11 +16419,11 @@ entusiasmo e rigor pelos caminhos e descaminhos desta tese. ]{}
 acompanhar nas reflexões, na navegação e nas lutas. ]{}
 
 [Aos Hupd’äh de /Ta̗t-Dëh/ como um todo, e em específico ao Henrique
-Socot /B’o\[316?\]’/ (*in memoriam*), ao Samuel Monteiro /M’e\[316?\]h
-Sɨh/, ao Ponciano Socot /Hu̖d/, ao José Socot /K’ö\[317?\]d/, ao Vicente
-Monteiro /B’o\[316?\]’/, ao Miguel Oliveira /Dö\[316?\]g/, ao João
+Socot /B’o̖’/ (*in memoriam*), ao Samuel Monteiro /M’e\[316?\]h
+Sɨh/, ao Ponciano Socot /Hu̖d/, ao José Socot /K’ö̗d/, ao Vicente
+Monteiro /B’o̖’/, ao Miguel Oliveira /Dö\[316?\]g/, ao João
 Oliveira /Hõ\[316?\]p ĩh/, ao Manuel Barbosa /Wi\[316?\]h/, ao Evaldo
-Pires /B’o\[316?\]’/, ao Aristides Monteiro /M’e\[316?\]h Sɨh/, ao
+Pires /B’o̖’/, ao Aristides Monteiro /M’e\[316?\]h Sɨh/, ao
 Angélico /M’e\[316?\]h Sɨh/, à Suzana Monteiro /Nahaw/, ao Sabino
 Monteiro /Ed/, ao Américo Socot /Kä’/, à Isabel Socot /Ko\[316?\]k/, ao
 Álvaro Socot /B’o\[316?\]’, à Carmen Socot /Pëd/, à Tereza Socot /Mu̖n/,
