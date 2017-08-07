@@ -1080,7 +1080,7 @@ convívio e crescimento pelos movimentos constantes entre paisagens
 Na primeira parte, intitulada *Coca e Fumaça*, busco tanto descrever as
 rodas de coca nelas mesmas quanto perseguir suas linhas de fuga
 expressas pelo caminho à Serra Grande e pelas viagens xamânicas dos
-encantamentos (Houseman; Severi, 2009; Deleuze; Guattari, 1995).
+encantamentos.
 Inicia-se o percurso no capítulo 1, *Viajantes*, com a busca por
 entender a relativa invisibilidade que as rodas de coca têm nas notas de
 pesquisadores e viajantes que trabalharam na região. O capítulo 2,
@@ -1172,7 +1172,7 @@ os equipamentos e também para preparar cartas, informes científicos e
 estudos preliminares. De São Felipe, Koch-Grünberg partiu para suas
 viagens às regiões dos rios Içana, Ayari, Uaupés e Curicuriary. 
 
-Como aponta Kraus (2004), durante a sua segunda saída de São Felipe,
+Como aponta Kraus, durante a sua segunda saída de São Felipe,
 Koch-Grünberg fez o reconhecimento do rio Tiquié, um afluente do Uaupés,
 com a esperança de entrar em contato com os Maku. No curso desse rio,
 visitou muitas comunidades tukano, mas, pelo que conta em seus relatos,
@@ -1223,14 +1223,14 @@ Santa Isabel e Barcelos, e as 750 comunidades distribuídas ao longo dos
 rios e igarapés da região. Segundo levantamentos atuais, aproximadamente
 90% da população dessa região é indígena (FOIRN, 2015).
 
-Sobre a obra de Koch-Grünberg, Schaden (1953, p. 135) dirá que “como
+Sobre a obra de Koch-Grünberg, Schaden dirá que “como
 poucos, soube ver sempre no habitante das selvas o seu semelhante, o ser
 humano merecedor de profunda simpatia e de grande amizade”. Como
 explicar, então, essa descrição do viajante sobre os povos Maku,
 semelhantes em tudo ao olhar preconceituoso de um eurocentrismo
 colonialista que, ao negar ao outro a humanidade, justificava as ações
 de violência, terror e exploração contra essas populações? Visão essa
-contra a qual, como afirma Schaden (1953, p. 153), Koch-Grünberg opôs-se
+contra a qual, como afirma Schaden, Koch-Grünberg opôs-se
 inúmeras vezes explicitar a humanidade dos indígenas e denunciar “os
 desastrosos efeitos do contato”. Partindo desse estranhamento, gostaria
 de refletir um pouco sobre o modo como esse artigo de 1906 influenciou
@@ -1249,8 +1249,7 @@ diferenciar, dentre os inúmeros povos indígenas, aqueles que seriam os
 descendentes dos conquistadores e aqueles que seriam primitivos e
 conquistados. Isso fica claro quando o cronista afirma que os Maku eram
 vestígios de uma raça aborígene reduzida à escravidão por tribos
-conquistadoras (Coudreau, 1853, p.163). Nas palavras de Münzel
-(1969): 
+conquistadoras. Nas palavras de Münzel: 
 
 <!-- [Estilo de citação] -->
 Destarte, os Maku recebem o papel de *missing link* na pirâmide
@@ -1273,24 +1272,22 @@ pelo fato de serem os primeiros habitantes da região, posteriormente
 conquistados, assimilados e/ou escravizados por civilizações mais
 avançadas.
 
-Como ressalta Münzel (1969)a impossibilidade de contato direto com
+Como ressalta Münzel, a impossibilidade de contato direto com
 comunidades maku e a impossibilidade de comunicação direta com os
 indivíduos maku que se encontravam junto aos Tukano fizeram com que o
 pesquisador tomasse como referência as falas e visões de pessoas de
 outras etnias para elaborar seus apontamentos sobre os Maku. Os aspectos
 negativos revelam um complexo jogo especular na oposição entre esses
 “índios do mato” e seus vizinhos, povos sedentários, que serão
-denominados mais tarde: “Índios do rio” (Emst, 2010; Athias, 1995;
-Silverwood-Cope, 1990; Reid, 1979). Da perspectiva dos índios tukano,
+denominados mais tarde “índios do rio”. Da perspectiva dos índios tukano,
 por exemplo, o modo de vida Maku é tomado como modelo do não-humano e do
 animalesco. Para esse povo, os Maku habitam a floresta, não têm
 moradias fixas, não possuem conhecimentos sobre rituais nem
 ornamentos, casam-se com aqueles que falam a mesma língua,
-incestuosamente, “não comem senão carne, caçam no escuro e andam sem
-trilhas” (Silverwood-Cope, 1990, p. 72). Também são vistos como
+incestuosamente, <!-- “não comem senão carne, caçam no escuro e andam sem
+trilhas” (Silverwood-Cope, 1990, p. 72) inserir rodapé com fonte da citação?-->. Também são vistos como
 “canibais”, tanto por não respeitarem as interdições alimentares dos
-“índios do rio” como por caçarem e comerem seres humanos (Jackson, 1983,
-p. 153). O povo que “anda sem trilhas”, “caça no escuro”, “não planta” e
+“índios do rio” como por caçarem e comerem seres humanos. O povo que “anda sem trilhas”, “caça no escuro”, “não planta” e
 “não tem habitações fixas ou rituais” parece delinear-se aos olhos
 tukano como marcado por um modo de vida onde a mobilidade se coloca como
 um fator diacrítico central. 
@@ -1302,10 +1299,9 @@ encontravam em aldeias tukano. Koch-Grünberg, ao utilizar o termo
 “Maku”, afirma que essa palavra se origina das línguas arawak, constitui
 uma grave injúria e é uma forma de referir-se a grupos indígenas
 específicos que, para ele, teriam como marca contrastiva o fato de serem
-nômades (Koch-Grünberg, 1906/2010, p. 29). Mais tarde, os pesquisadores
+nômades. Mais tarde, os pesquisadores
 mostrarão que a palavra Maku se origina das línguas arawak e significa
-“sem língua” (ma = privativo e aku = palavra) (Journet, 1995; Athias,
-1995; Becerra; Calvo; Rubio, 1996). Ciente da negatividade do termo
+“sem língua” (ma = privativo e aku = palavra). Ciente da negatividade do termo
 “Maku”, o etnógrafo alemão mostra entender o modo injurioso e
 discriminatório com que os outros povos tratavam os Maku. Em seu
 escrito, a convergência da imagem dos Maku como “semianimais”, restrita
@@ -1335,10 +1331,10 @@ morfologia de uma aldeia maku. Mas, aos olhos de Koch-Grünberg, a
 observação do acampamento de caça ou pesca, tomado como aldeia, fornece
 a prova de que os Maku vivem em “míseros refúgios” com suas famílias
 numerosas e “expostos às inclemências do tempo como o animal fugitivo do
-bosque” (Koch-Grünberg, 1906/2010, p. 31). Como visto acima, os Maku são
+bosque”. Como visto acima, os Maku são
 adjetivados como aqueles que “andam vagando”, que são perseguidos como
 “animais selvagens”, “nômades”, que “andam errantes”, e que “conhecem a
-floresta como a palma de suas mãos” (p. 29). Em todo o artigo, essas
+floresta como a palma de suas mãos”. Em todo o artigo, essas
 caracterizações vão reforçando a imagem dos Maku como um povo de grande
 mobilidade. Se, por um lado, a mobilidade permite a eles o
 desenvolvimento de excelentes dotes para a caça e grande conhecimento da
@@ -1353,10 +1349,11 @@ encontra nas oposições entre agricultores *versus* caçadores-coletores e
 nômades *versus* sedentários as bases para a interpretação das relações
 entre esses diferentes povos como relações de “senhor e escravo”.
 Retomando o primeiro excerto citado acima, num dado momento o autor
-afirma que as tribos sedentárias “Obrigam-nos a servir-lhes como
+afirma que as tribos sedentárias <!-- “Obrigam-nos a servir-lhes como
 escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
 vendem-nos a comerciantes brancos em troca de rifles e outras
 mercadorias europeias” (Koch-Grünberg, 1906/2010, p. 29).
+ criar rodapé para a autoria da citação?-->
 
 Para a compreensão desse excerto, é preciso ter como referência o
 contexto histórico da exploração da borracha, que fazia com que
@@ -1366,7 +1363,7 @@ estudo minucioso dos textos de cronistas, Becerra, Calvo e Rubio
 aparece já em documentos do século XVII através do termo genérico
 “macos”, referindo-se a órfãos trocados entre grupos locais e depois
 comercializados com europeus, e a escravos indígenas da região do Alto
-Orinoco (Becerra, Calvo e Rubio, 1996-1997, p. 100). Para os autores, o
+Orinoco. Para os autores, o
 emprego do termo “maku” nos séculos XVII e XVIII teria como referência o
 sentido de “sem parente” ou de “apartado de seu grupo”. Os grupos
 derrotados nas batalhas contra os europeus ou capturados por outros
@@ -1374,10 +1371,9 @@ grupos indígenas, eram chamados de “maco”, aqueles que começaram a
 constituir a mão de obra escrava. Em meio à exploração da borracha por
 comerciantes e à ativação do sistema escravista na região do Uaupés,
 aqueles que eram vistos como inferiores se transformaram em escravos
-vendáveis, passíveis de captura, denominados “Maku” (Becerra; Calvo;
-Rubio, 1996-1997, p. 102).
+vendáveis, passíveis de captura, denominados “Maku”.
 
-Como conta Münzel (1969), grupos Maku eram ora recrutados para caçar e
+De acordo com o trabalho Münzel de 1969, grupos maku eram ora recrutados para caçar e
 apresar índios de outros grupos, ora vítimas nessas “caçadas aos
 escravos”, fomentadas pelos comerciantes e patrões da borracha. Para o
 autor, a participação dos Maku nessas caçadas pode tê-los levado a uma
@@ -1404,9 +1400,9 @@ Yuhupdëh, que ocupam há gerações as regiões interfluviais entre os rios
 Papuri e Japurá. Entre os povos maku, os Hupd’äh, os Yuhupdëh e os Kakwa
 são aqueles que mantêm relações mais intensas com os povos tukano do
 Tiquié e Papuri, já que os outros povos vivem em territórios mais
-afastados de populações tukano e arawak (Athias, 1995). Além desses,
+afastados de populações tukano e arawak. Além desses,
 como mostra Athias, a viagem pelo rio Curicuiary permitiu a aproximação
-aos Dâw, habitantes dessa região na época (1995, p. 11). 
+aos Dâw, habitantes dessa região na época. 
 
 Com os Maku do Tiquié, o filólogo realizou, como diz, as “torturantes”
 seções de trabalho linguístico, que proporcionaram, através de grande
@@ -1415,16 +1411,15 @@ línguas maku, já que a lista do viajante austríaco se perdeu.
 Koch-Grünberg descreve essas entrevistas dizendo que “os indivíduos às
 vezes proferiam as palavras rápida e timidamente, outras vezes
 vacilantes e a meia voz, de um modo animal que corresponde à natureza
-geral desses habitantes primitivos da selva” (Koch-Grünberg, 1906/2010,
-p. 34). A elaboração da primeira lista de palavras em língua Maku
+geral desses habitantes primitivos da selva”<!--  (Koch-Grünberg, 1906/2010,
+p. 34) criar rodapé?-->. A elaboração da primeira lista de palavras em língua Maku
 relaciona-se também à busca por formular, em termos científicos, a
 hipótese da ocupação inicial do noroeste amazônico por povos ancestrais
 dos Maku. Esses possuiriam diferentes línguas e teriam sido “fusionados”
 pelos povos invasores e dominadores. Talvez, para o filólogo, os
 comentários sobre as “línguas feias” tenham a ver com sua proposição
 sobre o fato de a fusão dos povos ancestrais ter levado também à fusão e
-redução da variedade linguística dos Maku (Koch-Grünberg, 1906/2010, p.
-30). Num determinado momento do artigo, a hipótese sobre a ocupação da
+redução da variedade linguística dos Maku. Num determinado momento do artigo, a hipótese sobre a ocupação da
 região é formulada da seguinte forma: 
 
 <!-- [Estilo de citação] -->
@@ -1438,10 +1433,10 @@ processo histórico se deduz com bastante certeza a partir da atual
 configuração das tribos do alto rio Negro e de seus rios tributários. 
 <!-- [Estilo de citação - adicionar rodapé: Koch-Grünberg, 1906/2010, p. 31] -->
 
-Como mostram Becerra, Calvo e Rubio (1996), Koch-Grünberg formula
+Como mostram Becerra, Calvo e Rubio em 1996, Koch-Grünberg formula
 hipóteses sobre as rotas de ocupação do noroeste amazônico, tomando como
 base a análise dos nomes dos rios da região. Suas proposições são
-referendadas mais tarde por Nimuendajú (1982), que reapresenta a
+referendadas mais tarde, em 1982, por Nimuendajú, que reapresenta a
 hipótese dos “primeiros habitantes” da seguinte maneira:
 
 <!-- [Estilo de citação] -->
@@ -1462,12 +1457,11 @@ construções permanentes levam Nimuendajú a continuar a composição da
 imagem dos Maku a partir da mobilidade. As toponímias e as urnas
 funerárias dos Arawak são dados apresentados para comprovar a “primeira onda
 migratória”, que fez com que grupos arawak, vindos do norte, ocupassem a
-região, impondo-se sobre os Maku preexistentes (Nimuendajú, 1982, p.
-169). Posteriormente, o padre Bruzzi Alves da Silva (1962) defenderá que
+região, impondo-se sobre os Maku preexistentes. Posteriormente, o padre Bruzzi Alves da Silva defenderá, em 1962, que
 a expressão /Dya Poxsa/, “rio dos Makus”, modo como os grupos da região
 designam esse rio, seria uma prova da ocupação primeira desses povos,
 posteriormente afastados das margens para os interflúvios por pressão dos
-Arawak e Tukano (Silva, 1962, p. 10). 
+Arawak e Tukano. 
 
 A hipótese sobre os “primeiros habitantes” da região do noroeste
 amazônico é formulada inicialmente por Coudreau, em 1887. O viajante via
@@ -1499,7 +1493,7 @@ desenvolvidos.
 
 Tomando como base o artigo de Koch-Grünberg, escrito após ter convivido
 com algumas famílias dos então chamados Maku-mansos do Japurá, o padre
-Tastevin (2008) escreve o artigo “Os Maku do Japurá”, texto em que
+Tastevin escreve o artigo “Os Maku do Japurá”, texto em que
 aborda esse grupo, que o etnógrafo alemão não considerava Maku. O padre
 parte de uma categoria abrangente dos Maku no interior da qual opõe os
 Maku-Guariba e os Maku-mansos. Tomando como referência o relato de
@@ -1507,18 +1501,18 @@ seringueiros que, em meio a uma expedição de represália aos
 Maku-Guariba, depararam-se com duas malocas e roças grandes, Tastevin
 delineia uma imagem desse grupo muito próxima às descrições das
 populações sedentárias e agricultoras. São, por outro lado, “índios
-bravos” que “manifestam-se aos civilizados através de assassinatos,
-roubos, raptos e incêndios” (2008, p. 79). De modo diferente, os
+bravos” que <!-- “manifestam-se aos civilizados através de assassinatos,
+roubos, raptos e incêndios” (2008, p. 79) adc rodapé -->. De modo diferente, os
 Maku-mansos do Jurubaxi seriam inferiores, por possuírem pequenas roças,
 por serem “apaixonados pela caça” e por retomarem o “caminho da
-floresta” quando se veem contrariados (2008, p. 86-88). Tastevin
+floresta” quando se veem contrariados. Tastevin
 ressalta, ainda, que os Maku-mansos buscam diferenciar-se dos outros
 autorreferindo-se pelo etnônimo Nadöpa e denominando os Guariba como
 Nadöb. Para o religioso, os Maku-Mansos teriam possuído anteriormente
 malocas e grandes roças, mas perderam esses traços de sedentarismo e de
 maior grau de civilização. 
 
-Métraux (1963), em *The Hunting and Gathering Tribes of the Rio Negro Basin*, 
+Métraux, em *The Hunting and Gathering Tribes of the Rio Negro Basin* (1963), 
 partindo dos trabalhos de Koch-Grünberg e Tastevin, reformula de
 modo interessante a hipótese sobre os “primeiros habitantes”. Os grupos
 Maku atuais seriam os sobreviventes (*surviving*) das populações que
@@ -1572,7 +1566,7 @@ com grandes roças e malocas.
 Assim, retomando o artigo de 1906, a reformulação da hipótese de
 Coudreau sobre os “primeiros habitantes” da região, baseada em dados
 linguísticos e populacionais, pode ser vista como uma elaboração a partir
-da observação empírica de um problema que, como mostra Münzel (1969),
+da observação empírica de um problema que, como mostra Münzel,
 vinha sendo elaborado pelos viajantes numa perspectiva apriorística.
 Desde os relatos de padres, como Bruzzi Alves da Silva, até as
 proposições de Métraux, passa a ser fundamental não só a referência à
@@ -1584,7 +1578,7 @@ contribuição interessante do artigo de 1906, que aponta para uma nova
 forma de interpretar o modo de vida dos Maku. 
 
 Tentando compreender a dissonância de “Die Maku” com relação a outros
-escritos de Koch-Grünberg, Münzel (1969, p. 146) argumenta que fora
+escritos de Koch-Grünberg, Münzel argumenta que fora
 “justamente a amizade pelos indígenas, a capacidade de sentir com eles,
 que pôde levar o pesquisador sensível a desprezar os Maku”. A meu ver,
 no entanto, ouvindo e reproduzindo certa visão dos Tukano, Desano e
@@ -1596,7 +1590,7 @@ científico e evolucionista de observar os povos Maku. Temas como os
 “primeiros habitantes do noroeste amazônico”, o “nomadismo”, a relação
 “patrões e escravos” e a “língua maku”, que ganham reformulações ao
 longo do desenvolvimento de pesquisas etnográficas, como mostra o
-trabalho de Becerra, Calvo e Rubio (1996), fazem-se presentes e
+trabalho de Becerra, Calvo e Rubio, fazem-se presentes e
 subordinados ao rigor científico e às reconhecidas qualidades de análise
 desse pesquisador alemão, que, após sua expedição ao alto rio Negro,
 ganhou notável renome no meio acadêmico. O próprio fato de apresentar
@@ -1609,10 +1603,10 @@ para as observações dos pesquisadores que o sucederam.
 Koch-Grünberg, seu artigo constitui uma forma de olhar para os povos
 maku que estabelece a descrição de aspectos de mobilidade e a comparação
 com o modo de vida dos povos tukano como procedimentos analíticos
-relevantes para a interpretação. Como mostra Marques (2009), é como
+relevantes para a interpretação. Como mostra Marques, é como
 figuras de movimento que os povos Maku serão percebidos pela
 literatura etnológica em contraste com um fundo de fixidez
-estabelecido pelos povos Tukano (Marques, 2009, p. 10). 
+estabelecido pelos povos Tukano. 
 
 Diferente de Münzel, suponho que seja justamente o fato de
 Koch-Grünberg estar identificado com a visão dos “povos do rio” sobre os
@@ -1672,7 +1666,7 @@ mobilidade dos povos maku.
 
 ## Contraposições
 
-Silverwood-Cope (1990, p. 11) contrapõe-se à perspectiva difundida por
+Silverwood-Cope contrapõe-se à perspectiva difundida por
 Koch-Grünberg já nas primeiras linhas de seu trabalho, que “Os Maku eram
 descritos como animais selvagens de floresta pelos vizinhos Tukano que,
 diz-se, os mantinham como escravos”. Justifica-se assim a diferença de
@@ -1702,7 +1696,7 @@ grau de escravidão. (1990, p. 74)
 Nas linhas finais de sua tese, o antropólogo ressalta a importância de
 uma revisão da categorização desses povos como sendo caçadores e
 coletores nômades muito primitivos, que vêm sendo assimilados e
-escravizados por povos agricultores invasores (Silverwood-Cope, p. 103).
+escravizados por povos agricultores invasores.
 Silverwood-Cope relata ter observado casos de escravidão por dívida que
 atingiam tanto índios Tukano quanto índios Maku, não havendo a
 exclusividade desses últimos nesse papel, como afirmava Koch-Grünberg.
@@ -1761,13 +1755,13 @@ trôpego vagaroso (1990, p. 34).
 
 Como afirma Silverwood-Cope, através das caminhadas na floresta e da
 participação nas caçadas, procurava estabelecer seu contato de modo
-diferente dos “patrões tukano” e dos padres salesianos (1990, p. 11).
+diferente dos “patrões tukano” e dos padres salesianos.
 Esses modos de participação dos pesquisadores vão garantindo a
 constituição de uma imagem de si como sendo um tipo de “branco”
 diferente dos padres e freiras “italianos” e dos comerciantes e
 seringueiros “brasileiros”. 
 
-Em certo ponto de sua tese, Silverwood-Cope (1990, p. 34-5) menciona
+Em certo ponto de sua tese, Silverwood-Cope menciona
 uma situação extrema que viveu já no final de seu trabalho de campo. O
 etnógrafo viu-se abandonado numa parte desabitada da floresta ao sul do
 Uaupés. Tinha permanecido lá espera de um guia maku que o levaria a
@@ -1780,7 +1774,7 @@ agora você aprendeu a morar e a andar na floresta”.
 
 A meu ver, a perspectiva do velho Bara-Maku tem algo de semelhante a
 uma espécie de antropologia reversa, uma contrapartida interpretativa
-da própria antropologia (Wagner, 2010, p. 71). Os movimentos,
+da própria antropologia. Os movimentos,
 hábitos, percepções e sensibilidades do etnógrafo situavam-no num campo
 de relações de homens caçadores que sabiam orientar-se e permanecer na
 floresta. Seu processo de aquisição de habilidades deu-se em meio à
@@ -1801,7 +1795,7 @@ entre as famílias presentes numa expedição e a interpretação do
 princípio de //k’e̗t kö’ ay/, “cruzar/ perambular”, revelam a
 atividade como uma especialidade para a produção econômica e também como
 um modo de mobilidade que integra formas específicas de interação social
-e de exploração do ambiente (1979, p. 40-50). 
+e de exploração do ambiente. 
 
 A oposição que Reid estabelece entre os tipos de atividades masculinas 
 de //k’e̗t kö’ ay/, “cruzar/perambular”, e /bɨ̗’ɨ̗y/,
@@ -1834,7 +1828,7 @@ ser o leque de habilidades empregadas por outro corresidente ]{}]{}
 [**]{} -->  
 <!-- Podemos eliminar esse trecho?? -->
 
-Refletindo com Ingold (2000, p. 28-9), a imagem do “caçador-especialista” 
+Refletindo com Ingold, a imagem do “caçador-especialista” 
 parece mesclar princípios da perspectiva teórica do homem econômico
 aos da perspectiva do *optimal forager*. Para a primeira perspectiva, 
 o avanço da cultura se dá contra um fundo de natureza resistente, 
@@ -1994,7 +1988,7 @@ também para a importância de formas de sociabilidade que promovem integração
 durabilidade e continuidade dos arranjos sociais. 
 
 Enfocando a vida social Hupd’äh como um sistema que incorpora um alto
-grau de mobilidade, Reid busca em Thurnbull (1966) as bases para
+grau de mobilidade, Reid busca em Thurnbull as bases para
 entender a fluidez, a liberdade com que as ou separando-se de grupos
 locais, aldeias e/ou famílias. Reid enfatiza que o clã não é uma
 unidade estável, podendo alterar seu nome de acordo com migrações ou
@@ -2106,54 +2100,54 @@ para isso, contrasta ambos os povos em termos das diferenças de
 especialida]{} 
 <!-- O parágrafo possui muitas sentenças que foram interrompidas. Completar conforme a tese? Reduzir? -->
 
-[Para entender melhor esse paradoxo do “bom comedor de coca que não fala
-das rodas necessário refletir um pouco mais sobre o modo como Reid
+Para entender melhor esse paradoxo do “bom comedor de coca que não fala
+das rodas”, é necessário refletir um pouco mais sobre o modo como Reid
 aborda os temas do xamanismo, da vida ritual e da cosmologia. Para o
-etnólogo, as pessoas que possuem *maior treino* xamânico têm maior
+etnólogo, as pessoas que possuem maior treino xamânico têm maior
 interesse e conhecimento sobre os mitos e sobre as zonas do cosmos.
 Visto que o xamã é capaz de viajar pelo cosmos e interagir com seus
 habitantes, sua mobilidade é considerada fundamental para validar o
 sistema de crenças das classificações cosmológicas que fornecem
-*enquadramentos* e sentidos às experiências dos Hupd’äh. Como no caso do
-caçador, o longo treino é também um processo de *especialização de
-habilidades* que vai dotando o xamã de consciência sobre seus movimentos
+enquadramentos e sentidos às experiências dos Hupd’äh. Como no caso do
+caçador, o longo treino é também um processo de especialização de
+habilidades que vai dotando o xamã de consciência sobre seus movimentos
 e de suas interações com outros seres. O xamã parece ter uma
 racionalidade que lhe permite interagir com os donos das casas do
 universo para recuperar as almas hup roubadas, para curar, para obter a
 liberação de maior número de animais para serem caçados ou mesmo para
-causar o mal a outrem. Já os *não especialistas*, apesar de pelo cosmos
+causar o mal a outrem. Já os não especialistas, apesar de pelo cosmos
 em sonhos, não compreendem conscientemente essas viagens e não conseguem
 interagir com os outros seres. P**]{}
 
-[As crenças fornecem um *enquadramento conceitual* para as
+As crenças fornecem um enquadramento conceitual para as
 interpretações dos Hupd’äh sobre como o mundo é e como tomou a forma
 atual. As performances rituais dos benzimentos, do Jurupari e do
 Dabucuri são descritas de modo a enfatizar as relações entre as crenças
 e práticas. No entanto, o etnógrafo relata não ter presenciado
-cerimônias de Jurupari ou Dabucuri já ocultando-os (Reid, 1979, p. 151).
+cerimônias de Jurupari ou Dabucuri já ocultando-os.
 Para descrever essas performances, o etnógrafo toma como base os relatos
 de seus interlocutores, diferentemente de suas narrativas sobre outros
 âmbitos da vida social, fundamentadas no envolvimento direto nas ações
 sociais. Ao apresentar uma breve descrição dos ritos de cura, esses se
 reduzem a fórmulas verbais que configuram sua eficácia a partir de uma
 estrutura fixa, da evocação de ancestrais e da utilização de
-determinados alimentos para a purificação do corpo.]{}
+determinados alimentos para a purificação do corpo.
 
-[A descrição da sequência de ações das cerimoniais resume-se a uma
-sequência de *ações prototípicas* devido à inexistência de um
+A descrição da sequência de ações das cerimoniais resume-se a uma
+sequência de ações prototípicas devido à inexistência de um
 engajamento direto pela participação nos eventos rituais de Jurupari e
-Dabucuri. Sua *função social* seria a de fazer crescer, ascender e
+Dabucuri. Sua função social seria a de fazer crescer, ascender e
 regenerar a alma através de processos que controlam e ordenam a vida
-social, os processos naturais e o cosmos como um todo (Reid, 1979, p.
-283). Apesar dos poucos dados etnográficos, esses rituais são
+social, os processos naturais e o cosmos como um todo. 
+Apesar dos poucos dados etnográficos, esses rituais são
 identificados como o modo de ação social por excelência, que permite aos
 indivíduos perceberem as inter-relações entre símbolos de diferentes
-sistemas de classificação e darem sentido a suas experiências. ]{}
+sistemas de classificação e darem sentido a suas experiências. 
 
-[Tomando como referência as abordagens de Leach (1976), Lévi-Strauss
-(2003) e Kelly (1955), Reid descreve a cosmologia, as narrativas míticas
+Tomando como referência as abordagens de Leach, Lévi-Strauss
+e Kelly, Reid descreve a cosmologia, as narrativas míticas
 e a classificação de animais, florestas e solos como sistemas de
-classificação, buscando demonstrar a *coerência da visão de mundo* dos
+classificação, buscando demonstrar a coerência da visão de mundo dos
 Hupd’äh. Para tanto, sua análise explicita as relações metafóricas entre
 as formas de classificação. Uma estrutura tripartite, vista pelo autor
 como um “constructo”, ordenaria todas essas formas de classificação,
@@ -2165,11 +2159,10 @@ práticas, das experiências e das transformações que suscitam no ambiente
 e nas pessoas, mas sim em termos da fixação de grades de referência que
 orientam as ações das pessoas. Para os não especialistas, o sentido da
 inter-relação dos sistemas de classificação seria vivido e validado
-através da ação ritual pela composição de relações simbólico-metafóricas
-(Reid, 1979, p. 266-7). ]{}
+através da ação ritual pela composição de relações simbólico-metafóricas.
 
-[Na tentativa de interpretação total, a “mudança de eixo” evidencia a
-opção do pesquisador pela *decodificação*. Enquanto o “movimento pelos
+Na tentativa de interpretação total, a “mudança de eixo” evidencia a
+opção do pesquisador pela decodificação. Enquanto o “movimento pelos
 mundos” e a “fluidez social” são acompanhados por uma descrição que
 tende a revelar modos de explorar o ambiente ou as relações gerando
 transformações que levam à especialização das habilidades e à
@@ -2177,39 +2170,39 @@ plasticidade do sistema clânico, por exemplo, os quadros de analogias e
 metáforas classificatórias compõem oposições, gradações, simetrias
 mediadas mais pelos trabalhos da “mente” e da ação ritual prototípica
 que pelos movimentos, gestos e ações das pessoas interagindo em meio à
-vida num dado ambiente. ]{}
+vida num dado ambiente. 
 
-[Pode-se dizer que o processo vital é reduzido à forma, ao contrário de
+Pode-se dizer que o processo vital é reduzido à forma, ao contrário de
 haver uma relação em que as classificações e suas analogias entre si
 emergem com os “movimentos pelos mundos”, com a “fluidez social” e com
 as “ações rituais” constituídas a partir da experiência vivida. Os
 rituais são percebidos não pela mobilidade e pelas transformações que
 fomentam, mas pelas mensagens codificadas que conectam. A viagem do xamã
-pelo cosmos torna-se um movimento Refletindo com Deleuze e Guattari
-(1995, p. 31), nas estruturas tripartites apresentadas por Reid, as
+pelo cosmos torna-se um movimento funcional e especializado para dar sentido às classificações.
+ Refletindo com Deleuze e Guattari nas estruturas tripartites apresentadas por Reid, as
 multiplicidades suscitadas pelos movimentos vividos são organizadas,
 estruturadas, neutralizadas em eixos de significação, em um decalque que
-“já não reproduz senão ele mesmo quando crê reproduzir outra coisa”.]{}
+“já não reproduz senão ele mesmo quando crê reproduzir outra coisa”.
 
-[O paradoxo que surge na justaposição entre as palavras de João aos
+O paradoxo que surge na justaposição entre as palavras de João aos
 escritos de Reid deixa ver como talvez, mesmo participando diretamente
-das rodas de coca hup, o etnólogo não relevância na descrição dessa
+das rodas de coca hup, o etnólogo não perceba relevância na descrição dessa
 forma de interação social que, através de conversas, gestos e movimentos
 em torno do consumo de coca e tabaco, relaciona mitos, ações xamânicas e
 andanças pelas matas. Remetendo as práticas da coca e do tabaco à
 imobilidade do “trabalho”, ao roubo ou trabalho árduo para os Tukano, ao
 xamanismo de caráter inferior, à especialização do xamã, Reid deixa de
 ver as múltiplas formas de mobilidade situadas pelos encontros noturnos.
-Como será possível ver à frente, nas rodas os participantes trazem à
+Nas rodas os participantes trazem à
 vida os ancestrais, narrando, por exemplo, os movimentos dos heróis que
-dão forma à geografia do mundo atual, falam dos encontros com animais e
-seres da mata, executam através dos quais circulam pelos diversos planos
+dão forma à geografia do mundo atual; falam dos encontros com animais e
+seres da mata, e executam encantamentos através dos quais circulam pelos diversos planos
 cósmicos para curar ou proteger as pessoas. Com suas bocas verdes da
 coca, exalando a fumaça dos cigarros, sentados, os senhores hup
 engajam-se num processo mútuo a partir do qual se deslocam pelo mundo e
-refletem conjuntamente sobre seus modos de ação. ]{}
+refletem conjuntamente sobre seus modos de ação. 
 
-[Se a mediação da visão tukano leva Koch-Grünberg a expressar uma imagem
+Se a mediação da visão tukano leva Koch-Grünberg a expressar uma imagem
 total dos Maku através do nomadismo, onde a mobilidade é o fator
 explicativo que leva esses povos ao mesmo tempo, a “conhecerem a
 floresta como a palma de suas mãos” e a serem dominados pelos povos
@@ -2224,30 +2217,30 @@ acampamentos que comecei a mobilidade através dos fluxos entre
 experiências na aldeia, na mata e nos diversos planos cosmológicos.
 Esses movimentos geram modos de perceber, de atuar, de aprender e de
 conhecer em meio ao envolvimento mútuo ao longo de processos generativos
-e vividos. ]{}
+e vividos. 
 
-[Na participação das rodas Algo que permite refletir para além da
-oposição entre as “perambulações prazerosasvalorizando certa
+Na participação das rodas ou da vida da aldeia, os deslocamentos do narrar, do benzer ou do sonhar expressam, há todo momento, os vínculos com as andanças pela mata. Algo que permite refletir para além da
+oposição entre as “perambulações prazerosas” valorizando certa
 especialização de habilidades e atividades em detrimento de outras.
 Penso haver a possibilidade de olhar para o modo como o envolvimento
 global das pessoas umas com as outras vai fazendo-as, ao longo da vida,
 adquirir disposições e sensibilidades no curso das atividades práticas e
-das situações concretas (Ingold, 2000, p. 162). Tomadas em conjunto, as
+das situações concretas. Tomadas em conjunto, as
 rodas de coca e as caminhadas permitem ver os Hupd’äh e o etnógrafo como
-*viajantes* que se deslocam pelas matas, pelas palavras e pelos
-sonhosencontrando-se em constante movimento e imersos em processos de
+viajantes que se deslocam pelas matas, pelas palavras e pelos
+sonhos, encontrando-se em constante movimento e imersos em processos de
 educação da atenção a partir dos quais, ao mostrarem sentidos uns aos
 outros, revelam seus engajamentos perceptuais totais com o mundo vivido.
-]{}
 
-#### Algumas considerações 
 
-[Refletindo com Descola (2005)é possível dizer que os aspectos de
+## Algumas considerações 
+
+É possível dizer que os aspectos de
 mobilidade descritos por Koch-Grünberg definem um modelo de natureza e
 cultura onde os Maku, dadas suas práticas, estão imersos na natureza e
-têm os Tukano como contraponto de cultura, devido aos seus costumes
+têm os Tukano como contraponto cultural, devido aos seus costumes
 sedentários, rituais, normativos, linguísticos e habitacionais.
-Legitima-se a dominação de um povo pelo outro da mesma forma defende o
+Legitima-se a dominação de um povo pelo outro da mesma forma que se defende o
 avanço da cultura sobre a natureza, de sedentários sobre nômades. Já no
 caso de Reid e Silverwood-Cope, as práticas sociais dos Maku, imersas na
 natureza, vão moldando sua cultura através de uma mobilidade
@@ -2255,10 +2248,10 @@ constitutiva. Para esse modelo de natureza e cultura a atuação social
 circunscrita pela natureza vai moldando os contornos de uma cultura
 especializada e alicerçada no interesse individual ou de grupos. Em
 ambos os casos, a mobilidade é descrita como um traço preponderante que
-emana seja da animalido dominado, o subjugado, o submisso. De outro, o
+emana seja da animalidade (natureza), seja da imersão ou de maior proximidade da natureza. De um lado, está o dominado, o subjugado, o submisso. De outro, o
 especialista, o explorador, o técnico, o interesse individual. Para
 apresentar essa mobilidade dada, os analistas descrevem padrões,
-movimentos, situações exemplares ou ações prototípicas. ]{}
+movimentos, situações exemplares ou ações prototípicas. 
 
 [Procurei, ao longo capítulo, explicitar os graus de distância que ambas
 as abordagens estabelecem com relação ao mundo Maku, seja pela “mediação
@@ -2268,19 +2261,20 @@ Dessa forma, tentei delinear a gênese de dois modos de olhar que se
 tornaram as bases antropológicas de reflexão sobre os povos maku. De
 modo diferente, os encontros noturnos e as caminhadas são aqui vistos
 como modos de interação social que possibilitam uma abordagem
-*movediça*. ** Tenta-se aqui religar os movimentos aos padrões de
+movediça. Tenta-se aqui religar os movimentos aos padrões de
 mobilidadeos mapas aos decalques ou as árvores-raízes aos rizomas, na
-perspectiva de Deleuze e Guattari (1995). A partir de experiências
+perspectiva de Deleuze e Guattari. A partir de experiências
 vividas mutuamente entre o pesquisador e seus interlocutores, procuro
-situar-me *entre*como “movimento vs. repouso”, “fluidez vs. forma”,
+situar-me no meio de oposições como “movimento vs. repouso”, “fluidez vs. forma”,
 “mobilidade vs. imobilidade”, “caos vs. ordem”, “simetria vs.
-assimetria”, “sedentário vs. nômade”uma orientação não dicotômica ou
+assimetria”, “sedentário vs. nômade” uma orientação não dicotômica ou
 tipologizante para descrever não as unidades de sentido ou a totalidade
 da “cultura hup”, mas as dimensões, as direções movediças percorridas
-pelos Hupd’äh ao longo de suas existências. ]{}
+pelos Hupd’äh ao longo de suas existências. 
 
-Viagem à Serra Grande
-=====================
+
+#Viagem à Serra Grande
+
 
 *Ando devagar porque já tive pressa*
 
