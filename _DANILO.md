@@ -262,7 +262,7 @@ como nos deslocamentos da pessoa ao benzer ou sonhar, os Hupd’äh agem no
 sentido da transformação de pessoas e de perspectivas, processo que
 Danilo analisa conjugando as ricas abordagens de Claude Lévi-Strauss, Victor
 Turner, Tim Ingold e Peter Gow. Tendo como quadro teórico Carlo Severi,
-Richard Schechner, Zygmunt Bauman e Laura Graham, a memória ritual é retomada pelo autor e
+Richard Schechner, Richard Bauman e Laura Graham, a memória ritual é retomada pelo autor e
 analisada como engajamento perceptual com o ambiente.
 
 A partir de uma rigorosa revisão da literatura sobre os povos do alto
