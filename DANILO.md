@@ -1,4 +1,232 @@
-#Coca, tabaco e caxiri – entradas para o mundo hupd’äh
+Círculos de coca e fumaça
+
+Danilo Paiva Ramos
+
+Editora Hedra
+
+Arquivo preparado
+
+***Se va enredando, enredando, como en el muro la hiedra\
+y va brotando, brotando como el musguito en la piedra\
+como el musguito en la piedra, ay si, si, si***
+
+(Violeta Parra ‒ Volver a los 17)
+
+> Para a Mariana, sempre a me esperar, acolher e dar forças, e para a
+> Rosa, nossa linda filha flor.
+>
+> **Em memória**
+>
+> De meu avô, Afonso Henrique Paiva, que me ensinou a virar onças do
+> avesso.
+>
+> Do sr. B’o̖’, Henrique Brasil Socot, que me ofereceu a primeira cuia de
+> coca.
+
+Sumário {#sumário .CabealhodoSumrio}
+=======
+
+[Coca, tabaco e caxiri – entradas para o mundo Hupd’äh
+39](#coca-tabaco-e-caxiri-entradas-para-o-mundo-hupdäh)
+
+[Para ler as palavras na língua Hup
+41](#para-ler-as-palavras-na-língua-hup)
+
+[Viajantes 43](#viajantes)
+
+[Um viajante 43](#um-viajante)
+
+[Outros viajantes 52](#outros-viajantes)
+
+[Paradoxo? 61](#paradoxo)
+
+[Algumas considerações 67](#algumas-considerações)
+
+[Viagem à Serra Grande 69](#viagem-à-serra-grande)
+
+[Serra Grande 69](#serra-grande)
+
+[Caminhos vividos 78](#caminhos-vividos)
+
+[A volta 96](#a-volta)
+
+[Círculos de coca 105](#círculos-de-coca)
+
+[Breves notas 105](#breves-notas)
+
+[/Hib’a̗h we̖d/ ‒ “comida do surgimento”
+108](#hibah-wed-comida-do-surgimento)
+
+[/Pũ’ũ̖k/, “Coca” 115](#puuk-coca)
+
+[Alguns gestos 123](#alguns-gestos)
+
+[Contar e ouvir 137](#contar-e-ouvir)
+
+[A caminho da /Hũ̖t Wäg-Mo̖y/ ‒ “Morada-de-Semente de Tabaco”
+139](#a-caminho-da-hut-wäg-moy-morada-de-semente-de-tabaco)
+
+[/Hũ̖t/ ‒ “tabaco” 141](#hut-tabaco)
+
+[/Bi’i̖d Hũ̖t/ ‒ “Cigarro benzido” 156](#biid-hut-cigarro-benzido)
+
+[Sonhar com o pai 163](#sonhar-com-o-pai)
+
+[Pari de fumaça 168](#pari-de-fumaça)
+
+[O caminho das nuvens 180](#o-caminho-das-nuvens)
+
+[Caminhos cruzados 186](#caminhos-cruzados)
+
+[Morros e grutas 205](#morros-e-grutas)
+
+[No caminho da lagarta do tabaco 224](#no-caminho-da-lagarta-do-tabaco)
+
+[Lagos-de-Leite 229](#lagos-de-leite)
+
+[/Bisi̗w/ e a Casa-dos-Animais 229](#bisiw-e-a-casa-dos-animais)
+
+[Nascimentos 236](#nascimentos)
+
+[/ɨb’/ ‒ Vida 253](#ɨb-vida)
+
+[Filhotes e filhos 271](#filhotes-e-filhos)
+
+[O feto adornado e o dono dos animais
+279](#o-feto-adornado-e-o-dono-dos-animais)
+
+[Sopros na noite 285](#sopros-na-noite)
+
+[Jurupari 285](#jurupari)
+
+[Cuias de coca 297](#cuias-de-coca)
+
+[Cuias de caxiri 311](#cuias-de-caxiri)
+
+[Cuias de caarpi 321](#cuias-de-caarpi)
+
+[Caminhos de emaranhar 333](#caminhos-de-emaranhar)
+
+[Viagens a São Gabriel 335](#viagens-a-são-gabriel)
+
+[Rio abaixo 335](#rio-abaixo)
+
+[Política 341](#política)
+
+[Livro de Encantamentos e círculos de cachaça
+347](#livro-de-encantamentos-e-círculos-de-cachaça)
+
+[Saudades de Henrique 351](#saudades-de-henrique)
+
+[Considerações finais 354](#considerações-finais)
+
+[Coca para os viajantes 354](#coca-para-os-viajantes)
+
+[A coca dos viajantes 356](#a-coca-dos-viajantes)
+
+[Índice de mitos 362](#índice-de-mitos)
+
+[69 362](#section-2)
+
+[M2. O grito de /K’e̖g Tẽh/ 362](#m2.-o-grito-de-keg-tẽh)
+
+[73 362](#section-3)
+
+[M3. /K’e̖g Tẽh/ e o aparecimento do curare
+362](#m3.-keg-tẽh-e-o-aparecimento-do-curare)
+
+[82 362](#section-4)
+
+[M4. A /Dö̗h Ã̗y/ e seu marido 362](#m4.-a-döh-ãy-e-seu-marido)
+
+[85 362](#section-5)
+
+[M5. O Besouro e o Vaga-Lume 362](#m5.-o-besouro-e-o-vaga-lume)
+
+[88 362](#section-6)
+
+[M6. O caminho dos mortos 362](#m6.-o-caminho-dos-mortos)
+
+[107 362](#section-7)
+
+[M7. História de /Tõg Tẽg/ 362](#m7.-história-de-tõg-tẽg)
+
+[108 362](#section-8)
+
+[M8. A história de Matumã 362](#m8.-a-história-de-matumã)
+
+[109 362](#section-9)
+
+[M9. História de /Wed B’ö̖’/ 362](#m9.-história-de-wed-bö)
+
+[129 362](#section-10)
+
+[M10. /U̖y-ta̖k/ 362](#m10.-uy-tak)
+
+[156 362](#section-11)
+
+[M11. /Hu̖͂t Wäg/, “Semente de Tabaco”
+362](#m11.-hut-wäg-semente-de-tabaco)
+
+[157 362](#section-12)
+
+[M12. A Anta e a Cutiváia 362](#m12.-a-anta-e-a-cutiváia)
+
+[158 362](#section-13)
+
+[M13. A dádiva da coca e do tabaco
+362](#m13.-a-dádiva-da-coca-e-do-tabaco)
+
+[160 362](#section-14)
+
+[M14. Sobre a dádiva do tabaco 362](#m14.-sobre-a-dádiva-do-tabaco)
+
+[169 362](#section-15)
+
+[M15. /Bisi̗w/, o devorador de rapazes
+362](#m15.-bisiw-o-devorador-de-rapazes)
+
+[266 362](#section-16)
+
+[M16. A gestante tapada 362](#m16.-a-gestante-tapada)
+
+[267 362](#section-17)
+
+[M17. Viagem com as flautas 362](#m17.-viagem-com-as-flautas)
+
+[341 362](#section-18)
+
+[M18. “Serra-da-Iniciação” 362](#m18.-serra-da-iniciação)
+
+[370 362](#section-19)
+
+[M19. A política da Cobra-Canoa 362](#m19.-a-política-da-cobra-canoa)
+
+[397 362](#section-20)
+
+[Índice de benzimentos 363](#índice-de-benzimentos)
+
+[B1. /Pũ’ũ̖k bi’i̖d/ ‒ Benzimento da coca
+363](#b1.-pũũk-biid-benzimento-da-coca)
+
+[119 363](#section-22)
+
+[157 363](#section-23)
+
+[182 363](#section-24)
+
+[183 363](#section-25)
+
+[189 363](#section-26)
+
+[240 363](#section-27)
+
+[256 363](#section-28)
+
+[Agradecimentos 371](#agradecimentos)
+
+Coca, tabaco e caxiri – entradas para o mundo Hupd’äh
+-----------------------------------------------------
 
 No final da tarde, de qualquer casa desta aldeia hupd’äh à beira do
 Taracuá-Igarapé, às margens do rio Tiquié, é possível ouvir o som
@@ -70,7 +298,7 @@ vida, que entre os Hupd’äh é criada e recriada em processos que cruzam,
 como num emaranhado, a caça, os nascimentos e os benzimentos. O texto de
 Danilo evidencia a continuidade entre as posturas e os gestos, que o
 pesquisador capta com olhar atento, apresentando-nos este *continuum*
-entre o corpo, a paisagem e os objetos. 
+entre o corpo, a paisagem e os objetos.
 
 Danilo tem uma construção textual que produz, ela própria,
 encantamentos. Ao aliar a escuta à escrita etnográfica, com fina
@@ -100,20 +328,27 @@ g, h, i, ɨ, j, k, m, n, o, ö, o, p, r, s, t, u, w, y, e, ’ (oclusão
 glotal). Destas, 16 são consoantes, 9 são vogais e 11 são consoantes
 laringalizadas (b’, d’, r’, j’, g’, m’, n’, w’, y’, s’, k’).
 
-Adota-se a notação inglesa para as referências às posições
-genealógicas:
+  ---------------- ------- --- --- ---
+  **CONSOANTES**
+  P
+  B
+  M
+  W
+  ---------------- ------- --- --- ---
 
-**F** = pai, **M** = mãe, **B** = irmão, **Z** = irmã, **H** = marido,
-**W** = esposa, **S** = filho, 
+Adota-se a notação inglesa para as referências às posições genealógicas:
 
-**D** = filha, **e** = mais velho (a), **y** = mais novo (a).
+> **F** = pai, **M** = mãe, **B** = irmão, **Z** = irmã, **H** = marido,
+> **W** = esposa, **S** = filho,
+>
+> **D** = filha, **e** = mais velho (a), **y** = mais novo (a).
 
-Ao longo dos capítulos, a primeira vez que é feita referência ao nome
-de uma pessoa, este é seguido por seu nome em língua hup, por sua data
-de nascimento, por seu clã e por seu número de indivíduo na “Base de
-dados populacionais” em anexo (Anexo 2) como no exemplo a seguir:
+Ao longo dos capítulos, a primeira vez que é feita referência ao nome de
+uma pessoa, este é seguido por seu nome em língua hup, por sua data de
+nascimento, por seu clã e por seu número de indivíduo na “Base de dados
+populacionais” em anexo (Anexo 2) como no exemplo a seguir:
 
-Ponciano (/H̖u̖d/, 05/07/1946, Sokw’ä̗t Noh K’öd Tẽ̖h, ind.10)
+Ponciano (/Hu̖d/, 05/07/1946, Sokw’ä̗t Noh K’öd Tẽ̖h, ind.10)
 
 As narrativas de mitos e sonhos e as exegeses de benzimentos são
 destacadas do texto pelas letras **M** (mito), **S** (sonho) e **B**
@@ -143,8 +378,8 @@ Num instante, a pequena clareira avistada do alto transforma-se numa
 cidade amazônica, São Gabriel da Cachoeira. O pequeno avião aterrissa
 num aeroporto militar, herança dos governos ditatoriais. Ao sair, o
 viajante sente o ar úmido em seus pulmões e o calor do sol penetrar a
-sua pele. No salão, oficiais militares, religiosos, comerciantes, pesquisadores,
-lideranças indígenas e funcionários do Estado saúdam-se e observam os
+sua pele. No salão, militares, religiosos, comerciantes, pesquisadores,
+lideranças indígenas e funcionários do estado saúdam-se e observam os
 que chegam. O asfalto da estrada conduz os carros por vilas periféricas.
 A madeira das casas e os telhados de zinco abrigam aqueles que vieram de
 longe. Os moradores viviam em comunidades nos rios Tiquié, Papuri,
@@ -357,7 +592,7 @@ sono.
 Logo cedo, a mesa já está repleta novamente de mingau, moqueados e
 beijus. Conversamos sobre minha pesquisa e sobre o tempo que eu teria de
 permanecer na comunidade de Taracuá-Igarapé. Como minhas primeiras
-incursões à região se darão através do trabalho com saúde pela
+incursões à região se derão através do trabalho com saúde pela
 Associação Saúde Sem Limites (SSL), em toda conversa falamos muito sobre
 os atendimentos das equipes de saúde do DSEI-RN. As reclamações sobre as
 poucas visitas de atendimento, os remédios vencidos, a demora nos
@@ -398,10 +633,10 @@ Passadas longas horas nesse trabalho que exige grande esforço, surge
 finalmente o porto de areia da comunidade de /Ta̗t-Dëh/. Tendo ouvido já
 há horas o barulho do motor de popa, muitas pessoas correm para a beira
 para ver e saudar quem está chegando. Depois de algumas viagens, foi com
-imensa saudade que passei a acenar aos moradores de /Ta̗t-Dëh/, que foram se
-tornando grandes amigos. Do estranhamento das primeiras estadas, comecei
-também a perceber os sorrisos e cumprimentos afetuosos depois de meses
-de distância. 
+imensa saudade que passei a acenar aos moradores de /Ta̗t-Dëh/, que foram
+se tornando grandes amigos. Do estranhamento das primeiras estadas,
+comecei também a perceber os sorrisos e cumprimentos afetuosos depois de
+meses de distância.
 
 Passei a entender também que meus interlocutores são, antes de mais
 nada, viajantes sedentos pelas notícias das terras distantes. O
@@ -411,18 +646,17 @@ constantes viagens a São Gabriel. Essas idas ao centro urbano
 alternam-se com as andanças pela mata para a pesca, caça e visita a
 parentes, que são também uma fonte inesgotável de causos e lembranças.
 Mas suponho que o gosto pelas notícias que eu trazia e o interesse por
-São Paulo tenham algo com a própria história de origem de seus
+São Paulo tenham algo a ver com a própria história de origem de seus
 ancestrais, os /hib’ah te͂h d’äh/. Saídos do Rio de Janeiro, do
-/Pu̗d-dëh-moh/, o “Lago-de-Leite”, os antepassados dos Hupd’äh
-viajaram por muito tempo dentro da /M’e̖h Ho͂h Tëg/, a
-“Cobra-Canoa”. Depois de ter chamado os seres humanos à existência,
-/K’e̖g Te͂h/ fez a Cobra-Canoa e mandou que todas as
-Gentes-Peixe embarcassem e rumassem para a região do Uaupés. Alguns não
-aguentaram a viagem longa e penosa, caíram da Cobra-Canoa e vivem hoje
-nas /Dëh-Mo̖y/, “Casas-do-Rio”, que existem nas profundezas dos
-rios Negro, Uaupés e Tiquié. Esses continuaram a ser Gente-Peixe, não se
-transformaram em Hupd’äh e, por isso, causam doenças e vivem tentando
-roubar nossos “espíritos”. 
+/Pu̗d-dëh-moh/, o “Lago-de-Leite”, os antepassados dos Hupd’äh viajaram
+por muito tempo dentro da /M’e̖h Hõh Tëg/, a “Cobra-Canoa”. Depois de ter
+chamado os seres humanos à existência, /K’e̖g Te͂h/ fez a Cobra-Canoa e
+mandou que todas as Gentes-Peixe embarcassem e rumassem para a região do
+Uaupés. Alguns não aguentaram a viagem longa e penosa, caíram da
+Cobra-Canoa e vivem hoje nas /Dëh-Mo̖y/, “Casas-do-Rio”, que existem nas
+profundezas dos rios Negro, Uaupés e Tiquié. Esses continuaram a ser
+Gente-Peixe, não se transformaram em Hupd’äh e, por isso, causam doenças
+e vivem tentando roubar nossos “espíritos”.
 
 A Cobra-Canoa foi abrindo o caminho dos rios pelos quais viajamos hoje
 em dia. Foi na cachoeira de Ipanoré, /Hib’a̖h Hu͂h/, que
@@ -588,7 +822,7 @@ venham se tornando cada vez mais fundamentais para a produção alimentar,
 principalmente nas comunidades mais populosas. Atualmente, há algumas
 aldeias que agregam de 100 a 200 indivíduos, enquanto outras continuam
 concentrando de 15 a 50 pessoas, como parece ser o padrão descrito pelos
-pesquisadores (Reid, 1979). Conforme o levantamento de Renato Athias, em 1995, o aumento
+pesquisadores (Reid, 1979). Conforme mostra Athias (1995), o aumento
 populacional e a maior duração da permanência da morada num local
 próximo aos grandes rios têm a ver com a agência missionária salesiana,
 que procurou agregar em grandes aldeias, designadas pelo pesquisador como
@@ -723,7 +957,7 @@ número de pesquisas e eram poucos os dados existentes até então. Antes
 de seu estudo, autores como Giacone (1969), Koch-Grünberg (1906/2010),
 Biocca (1965) e Münzel (1969) apresentaram apenas listas de palavras,
 descrições gerais da cultura material, comportamento e rituais,
-transcrições de mitos e resenhas bibliográficas. 
+transcrições de mitos e resenhas bibliográficas.
 
 Em outubro de 1968, Peter Silverwood-Cope viajava com Stephen e
 Christine Hugh-Jones para o rio Pira Paraná em busca de grupos maku na
@@ -749,7 +983,7 @@ complexidade revelada por seu trabalho aponta a necessidade da revisão
 da categorização desses povos como sendo caçadores e coletores nômades
 muito primitivos que, segundo a literatura científica, vinham sendo
 assimilados e escravizados por povos agricultores invasores
-(Silverwood-Cope, 1990, p. 103). 
+(Silverwood-Cope, 1990, p. 103).
 
 Numa perspectiva semelhante, o trabalho de Reid (1979) busca entender a
 cultura e o semi-nomadismo hup através da mobilidade e da fluidez desse
@@ -864,7 +1098,7 @@ foco minha atenção no mundo vivido, na concretude das experiências
 vividas pelos “comedores de coca” como viajantes, agentes-no-ambiente
 que percebem, atuam, pensam, aprendem e conhecem pelo seu envolvimento
 mútuo nas rodas e nos deslocamentos do caminhar e do benzer (Gow, 2001,
-p. 26; Ingold, 2000, p. 171). 
+p. 26; Ingold, 2000, p. 171).
 
 Em seus trabalhos, Lévi-Strauss (2002, 2003) mostra como inversões,
 novas relações, oposições, ambiguidades e contradições se abrem como
@@ -887,10 +1121,10 @@ dão no curso das ações dos participantes nas rodas e nos caminhos pela
 floresta que os fazem gerar transformações. Entretanto, de modo
 diferente, essas transformações geradas pelos viajantes hup não se dão
 como “noções abstratas encadeadas”, mas como deslocamentos nas posições
-ocupadas em campos mútuos de percepção e ação (Ingold, 2000). 
+ocupadas em campos mútuos de percepção e ação (Ingold, 2000).
 
-Ao benzer ou caminhar, os “comedores de coca” substituem-se por ação e
-movimentos em diferentes ambientes e realizam mediações progressivas
+Ao benzer ou caminhar, os “comedores de coca” substituem-se, por ação e
+movimentos, em diferentes ambientes e realizam mediações progressivas
 para transformar pessoas ou atitudes dos seres dessas outras regiões. A
 noção de plano-casa proposta por Lolli (2010) torna-se especialmente
 interessante para entender esses deslocamentos xamânicos. Há
@@ -901,7 +1135,7 @@ perspectivas à medida que assumem diferentes pontos de vista para
 interagir com os habitantes dessas moradas. As viagens xamânicas
 permitem também proteger ou curar os Hupd’äh dos malefícios causados
 pela circulação de pessoas e de afecções de pessoas pelos diversos
-planos-casa (Lolli, 2010, p. 24-25; p. 87-88). 
+planos-casa (Lolli, 2010, p. 24-25; p. 87-88).
 
 Contando sobre os ancestrais, viajando rumo às serras ou aos
 planos-casa, os senhores hup atuam na passagem entre contextos, na
@@ -932,7 +1166,7 @@ envelhecimento e com a participação da pessoa nos encontros noturnos e
 dos rumos por ela trilhados. Voltar o olhar para essa *mitopoeisis*
 (Gow, 2001, p. 90) das rodas de coca e dos caminhos é significativo para
 entender aprofundamentos na memória de eventos que ocorrem ao longo da
-vida e do mundo, como nas viagens às serras ou aos planos-casa. 
+vida e do mundo, como nas viagens às serras ou aos planos-casa.
 
 Apenas dessa maneira creio ser possível estar atento à configuração de
 uma memória ritual que se dá na recordação e no esquecimento,
@@ -976,7 +1210,7 @@ múltiplos planos-casa do universo (Severi, 2009; Gow, 2001). Procura-se,
 então, descrever o contexto de uso dos objetos e as transformações dos
 atos de fala para mostrar como o objeto transicional, ao tomar a
 palavra, age restituindo a presença da pessoa e de suas interações com
-os diversos seres (Severi, 2009). 
+os diversos seres (Severi, 2009).
 
 Dessa forma, a percepção dos encontros noturnos como contextos que
 associam os fazeres mítico, xamânico às andanças, a partir de uma forma
@@ -1020,7 +1254,7 @@ assim o lugar comum ao qual chegamos depois da gravação e/ou anotação
 das falas dos xamãs, da transcrição e tradução compartilhada, e da busca
 por analogias entre gestos, posturas e movimentos das pessoas nos
 eventos narrativos, nos eventos narrados, nas caminhadas e nas ações
-xamânicas (Bauman, 1977). 
+xamânicas (Bauman, 1977).
 
 Guiado por meus interlocutores, comecei a ver as exegeses de
 encantamentos não como textos, mas como modos de ação compostos pela
@@ -1033,7 +1267,7 @@ viagem para o transporte ponto a ponto, e mais “campos de rastros”
 através dos quais passa a ser possível ao viajante seguir pelos
 percursos, adentrar as moradas celestes, aquáticas, florestais de
 inúmeros seres para acalmá-los ou incitá-los à ação (Deleuze; Guattari,
-1995; Ingold, 2000). 
+1995; Ingold, 2000).
 
 Os longos textos xamânicos foram divididos em: *movimentos* (mov.),
 partes numeradas sequencialmente que correspondem a conjuntos de
@@ -1075,9 +1309,9 @@ surpreendentes condensações rituais fazem ver as ligações entre a
 *performance* noturna, os banhos na Serra Grande, as águas eméticas ou
 cerimônias de Jurupari como pontos nodais que geram possibilidades de
 convívio e crescimento pelos movimentos constantes entre paisagens
-(Houseman; Severi, 2009; Ingold, 2000). 
+(Houseman; Severi, 2009; Ingold, 2000).
 
-Na primeira parte, intitulada *Coca e Fumaça*, busco tanto descrever as
+Na Primeira Parte, intitulada *Coca e Fumaça*, busco tanto descrever as
 rodas de coca nelas mesmas quanto perseguir suas linhas de fuga
 expressas pelo caminho à Serra Grande e pelas viagens xamânicas dos
 encantamentos.
@@ -1653,7 +1887,7 @@ Science Research Council. Durante os primeiros meses de trabalho de
 campo, Reid realizou viagens circulares através da floresta e visitou 24
 aldeias hup. Sua estratégia de pesquisa envolveu a alternância entre
 períodos de maior convivência em determinados grupos locais e viagens às
-vilas e cidades próximas. 
+vilas e cidades próximas.
 
 O antropólogo recebeu o apelido de /Häw/ e alguns Hupd’äh mais velhos
 narram histórias sobre sua presença no convívio das aldeias. Nesta
@@ -1696,15 +1930,39 @@ grau de escravidão. (1990, p. 74)
 Nas linhas finais de sua tese, o antropólogo ressalta a importância de
 uma revisão da categorização desses povos como sendo caçadores e
 coletores nômades muito primitivos, que vêm sendo assimilados e
-escravizados por povos agricultores invasores.
-Silverwood-Cope relata ter observado casos de escravidão por dívida que
-atingiam tanto índios Tukano quanto índios Maku, não havendo a
-exclusividade desses últimos nesse papel, como afirmava Koch-Grünberg.
-Silverwood-Cope observa um nomadismo circular dos Bara-Maku que se dá,
-principalmente, através da mudança de aldeamento em intervalos de meses
-ou anos. O retorno sucessivo aos acampamentos de caça e o
-reestabelecimento de relações de parceria de troca com pessoas Tukano e
-Desano também indicariam esse nomadismo circular. 
+escravizados por povos agricultores invasores (Silverwood-Cope, p. 103).
+Com relação ao argumento sobre os “Maku escravos”, Silverwood-Cope
+relata ter observado casos de escravidão por dívida que atingiam tanto
+índios Tukano quanto índios Maku, não havendo a exclusividade desses
+últimos nesse papel, como afirmava Koch-Grünberg. Silverwood-Cope
+observa um *nomadismo circular* dos Bara-Maku que se dá, principalmente,
+através da mudança de aldeamento em intervalos de meses ou anos. O
+retorno sucessivo aos acampamentos de caça e o reestabelecimento de
+relações de parceria de troca com pessoas Tukano e Desano também
+indicariam esse nomadismo circular.
+
+A força que a “teoria das tribos marginais”, difundida pelo *Handbook of
+South American Indians* (1963), parece ter ainda na década de 1970 faz
+com que Reid (1979) critique as interpretações de Métraux, Steward,
+Lévi-Strauss e Lathrap. Para o autor, os argumentos em voga sustentavam
+(1) que os povos caçadores-coletores do Noroeste Amazônico teriam sido
+ribeirinhos agricultores que, pressionados por invasores, se afastaram
+para os interflúvios e se transformaram em caçadores-coletores
+(Lathrap), ou (2) que sua cultura teria se deteriorado porque ocupavam
+áreas ecologicamente mais pobres devido às pressões de outros povos
+(Lévi-Strauss) (Reid, 1979, p. 19-20).
+
+Reid demonstra a fragilidade dos dados que embasam essas suposições e
+contrapõe a elas aspectos do padrão de mobilidade e adaptação ecológica
+dos Hupd’äh. Seus dados demonstram a complexidade do seu modo de vida e
+tornam visível a presunção apriorística de que povos agricultores,
+ribeirinhos e sedentários teriam “culturas não deterioradas” ou “não
+marginais”. O etnógrafo mostra que, na visão dos Hupd’äh, seus
+antepassados teriam vindo do leste, rio abaixo, e seriam os primeiros
+habitantes da região. A caça-coleta teria sido sua principal atividade
+produtiva, e não a agricultura (1979, p. 21). Essas informações,
+contrapostas às teorizações em voga, vão revelando a importância de uma
+*abordagem compreensiva* alternativa.
 
 Desse modo, os antropólogos criticam o tipo de explicação causal e
 diacrônica que pretendia sustentar a subordinação dos Maku
@@ -1755,14 +2013,80 @@ trôpego vagaroso (1990, p. 34).
 
 Como afirma Silverwood-Cope, através das caminhadas na floresta e da
 participação nas caçadas, procurava estabelecer seu contato de modo
-diferente dos “patrões tukano” e dos padres salesianos.
-Esses modos de participação dos pesquisadores vão garantindo a
-constituição de uma imagem de si como sendo um tipo de “branco”
-diferente dos padres e freiras “italianos” e dos comerciantes e
-seringueiros “brasileiros”. 
+diferente dos “patrões Tukano” e dos padres salesianos (1990, p. 11).
+Como me relatou certa vez Ponciano, os /ingledäh/ talvez fossem um povo
+semelhante aos Hup’äh, capazes de caçar e viver na mata. Esses modos de
+participação dos pesquisadores vão garantindo a constituição de uma
+imagem de si como sendo um tipo de “branco” diferente dos padres e
+freiras “italianos” e dos comerciantes e seringueiros “brasileiros”.
+Aproximando-me de Ingold (2000, p. 98-100), entendo que, movendo-se com
+os Hupd’äh e Bara-Maku no ambiente da floresta, os /ingledäh/ iam
+conhecendo o mundo, inserindo-se num processo mútuo e generativo. Peter,
+correndo com seu tênis de basquete pela floresta, e /Häw/, caminhando
+pela mata, descalço, com sua zarabatana, tornavam-se “outros”, Brancos
+diferentes, e conduziam seus objetivos de vida num campo de relações com
+pessoas como o senhor João.
 
-Em certo ponto de sua tese, Silverwood-Cope menciona
-uma situação extrema que viveu já no final de seu trabalho de campo. O
+As metodologias adotadas contrastam com o tipo de pesquisa de campo
+realizada a partir da habitação permanente e individual do etnógrafo.
+Para Reid (1979), a “casa permanente” permite estruturar a rotina de
+trabalho através de entrevistas, participação, filmagens, gravações,
+escrita, etc. De modo alternativo, Reid (1979) define sua abordagem como
+uma *etnografia compreensiva* através da qual o pesquisador, habitando
+casas hup, tentava participar intensamente das atividades de caça, das
+caminhadas e das visitas a outras comunidades. Isso exigia uma postura
+diferente do pesquisador diante do grupo. Outra opção metodológica vem a
+ser a alternância entre períodos de convívio mais intenso com certos
+grupos locais e períodos de maior circulação entre diferentes
+comunidades.
+
+Conceitualmente, para Silverwood-Cope (1990), a observação da mobilidade
+passava pelo entendimento da *adaptação ecológica* dos Bara-Maku. A caça
+configura-se em sua reflexão como a atividade produtiva mais relevante
+para entender a relação que os grupos têm em diferentes momentos com a
+aldeia, os acampamentos e a aldeia dos “índios do rio” (1990, p. 37). A
+partir da observação da sociabilidade nesses espaços, o etnógrafo
+descreve os movimentos dos Bara-Maku em termos de padrões de mobilidade.
+O “ritmo” e o “sentimento de interação humana” variam de acordo com
+esses ambientes importantes para o comportamento social e econômico
+(Silverwood-Cope, 1990, p. 39).
+
+Analisando a *adaptação ecológica* à floresta tropical, Silverwood-Cope
+tenta mostrar como, em contraste com os “índios do rio”, os Maku se
+sentem bem na floresta, possuindo vasto conhecimento de trilhas que se
+estendem por grandes áreas de floresta. Durante as caminhadas,
+reconhecem áreas de caça antigas e a localização de árvores frutíferas.
+As aldeias são interligadas por caminhos. A caça e a pesca realizam-se a
+pé ao longo dos igarapés, diferente dos “índios do rio”, que pescam em
+canoas nos rios grandes. O antropólogo ressalta o vasto conhecimento que
+os Maku possuem sobre o comportamento das presas e do meio ambiente da
+floresta. Descreve os termos na língua Bara-Maku usados para a
+classificação do ambiente florestal, dos tipos de árvores e arbustos,
+das áreas de clareira e pântano. Além disso, apresenta dados
+quantitativos sobre a variedade de frutos e espécies animais
+comestíveis, a produtividade de cada caçador e as estratégias e técnicas
+de caça.
+
+Para Reid (1979), a interpretação dos padrões de mobilidade hup depende
+da compreensão da descrição dos movimentos que se dão através das
+dimensões ecológica, social e intelectual ou ideológica. No que diz
+respeito à dimensão ecológica, seguindo Turnbull, o pesquisador procura
+perceber como os Hupd’äh *exploram* o ambiente físico e social onde
+vivem, alternando suas ações em três “mundos” distintos. Um deles seria
+a aldeia onde vivem e para onde retornam periodicamente. A floresta, por
+sua vez, constituiria um segundo mundo onde habitam, principalmente por
+ocasião dos acampamentos de caça. Por fim, as aldeias dos “índios do
+rio” representam o terceiro mundo, onde permanecem temporariamente para
+trabalhar e para fazer trocas (Reid, 1979, p. 33). O enfoque de Reid
+procura mostrar os fatores que atraem e repelem as pessoas em cada um
+desses “mundos” e que os mantêm em constante circulação e movimento
+(Reid, 1979, p. 95). Portanto, é com base no impacto de uma série de
+fatores econômicos, sociais e rituais que um grupo muda seu aldeamento
+sempre mantendo certa proximidade com outro grupo local e com uma aldeia
+de “índios do rio”.
+
+Em certo ponto de sua tese, Silverwood-Cope (1990, p. 34-5) menciona uma
+situação extrema que viveu já no final de seu trabalho de campo. O
 etnógrafo viu-se abandonado numa parte desabitada da floresta ao sul do
 Uaupés. Tinha permanecido lá espera de um guia maku que o levaria a
 outra aldeia. O guia não apareceu e ele pôs-se a caminhar durante seis
@@ -1778,64 +2102,98 @@ da própria antropologia. Os movimentos,
 hábitos, percepções e sensibilidades do etnógrafo situavam-no num campo
 de relações de homens caçadores que sabiam orientar-se e permanecer na
 floresta. Seu processo de aquisição de habilidades deu-se em meio à
-convivência com mentores que mostravam a ele os sentidos daquele mundo.
+convivência com mentores que mostravam a ele os sentidos daquele mundo,
+revelando os comportamentos dos animais, os frutos bons para comer, os
+modos de andar e correr na mata, etc. O corpo, os gestos e os saberes do
+antropólogo eram também objeto de observação e reflexão. Se, no início,
+sua participação era divertida e inconveniente, a percepção que os
+Bara-Maku tinham desse “branco” foi mudando à medida que ele conseguia
+compreender, não apenas com a “mente”, mas também em termos de suas
+habilidades e sensibilidades, como mover-se e existir naquele ambiente.
+O *antropólogo perdido* é reflexivamente uma experiência de observação
+sobre esse outro, “inglês”, e uma autopercepção sobre a eficácia dos
+Bara-Maku em comunicar suas habilidades para serem adquiridas por esse
+“outro distante”.
 
 Através do relato de Silverwood-Cope, é fácil entender como as
 argumentações e sistematizações dos pesquisadores não advêm somente de
-conversas e enquetes[^8]. Silverwood-Cope procura apresentar a prática
-da caça através de descrições dos acampamentos, de formas de
-classificação e concepções cosmológicas sobre a atividade, além de detalhar
-minuciosamente as técnicas para a captura 
+conversas e enquetes, mas também de informações obtidas por eles que,
+como pessoas orientadas por outros, percebem através de seus movimentos
+relativos ao entorno[^8]. Conduzindo suas experiências principalmente
+por incursões à caça e por viagens a outras aldeias, as reflexões dos
+/ingledäh/ chegam a supor as atitudes e sentimentos das pessoas com que
+conviviam em termos de uma *especialização* e senso de identidade como
+caçadores, no caso de Silverwood-Cope, e de um prazer e um gosto maiores
+pelas atividades realizadas na floresta, no caso de Reid.
+Silverwood-Cope procura apresentar a prática da caça através de
+descrições dos acampamentos, de técnicas utilizadas, de dados
+quantitativos sobre a produção e consumo, de formas de classificação e
+concepções cosmológicas sobre a atividade. Descreve minuciosamente as
+técnicas para a captura de animais e os usos de arco e flecha,
+zarabatana e cães, de acordo com o tipo de caça. Estabelece também o
+contraste entre a adaptação ecológica dos Tukano e dos Maku, além de
+delinear as relações de trocas sociais e econômicas entre ambos (1990,
+p. 46-75).
 
 No trabalho de Reid, a prática da caça surge também como uma
 movimentação que desenvolve o conhecimento dos caminhos, a possibilidade
 de orientação noturna e o uso de técnicas e instrumentos de acordo com o
 tipo de animal e com seus hábitos e comportamentos. A partilha da carne
 entre as famílias presentes numa expedição e a interpretação do
-princípio de //k’e̗t kö’ ay/, “cruzar/ perambular”, revelam a
-atividade como uma especialidade para a produção econômica e também como
-um modo de mobilidade que integra formas específicas de interação social
-e de exploração do ambiente. 
+princípio de /k’e̗t kö’ ay/, “cruzar/ perambular”, revelam a atividade
+como uma especialidade para a produção econômica e também como um modo
+de mobilidade que integra formas específicas de interação social e de
+*exploração do ambiente* (Reid, 1979, p. 40-50).
 
-A oposição que Reid estabelece entre os tipos de atividades masculinas 
-de //k’e̗t kö’ ay/, “cruzar/perambular”, e /bɨ̗’ɨ̗y/,
-“trabalhar”, mostra-se especialmente interessante para a compreensão
-dos padrões de mobilidade dos Hupd’äh e de suas formas de interação nos
-distintos “mundos”.A primeira atividade abrange o conjunto de
-práticas realizadas na floresta que vão desde a caça e a pesca até a
-coleta de plantas, frutos e matéria prima para a produção de
-instrumentos de trabalho. Essas práticas seriam consideradas
-interessantes e prazerosas, pois elas ocorrem na floresta, um ambiente
-em contínua mudança. Já as atividades relacionadas ao “trabalho” – que
-envolvem a abertura de roças, o artesanato, a construção de casas,
-realizadas na aldeia ou, mediante trocas, nas comunidades dos “índios do
-rio” – seriam consideradas entediantes, desinteressantes e cansativas. <!-- A
-abordagem de Reid torna-se explícita no excerto a seguir: ]{}
+A oposição que Reid (1979) estabelece entre os tipos de atividade
+masculinas de /k’e̗t kö ay/, “perambular”, “cruzar”, e /bɨ̗’ɨ̗y/,
+“trabalhar”, mostra-se especialmente interessante para a compreensão dos
+padrões de mobilidade dos Hupd’äh e de suas formas de interação nos
+distintos “mundos”. A primeira atividade abrange o conjunto de práticas
+realizadas na floresta que vão desde a caça e a pesca até a coleta de
+plantas, frutos e matéria prima para a produção de instrumentos de
+trabalho. Essas práticas seriam consideradas interessantes e prazerosas,
+pois elas ocorrem na floresta, um ambiente em contínua mudança. Já as
+atividades relacionadas ao “trabalho” ‒ que envolvem a abertura de
+roças, o artesanato, a construção de casas, realizadas na aldeia ou,
+mediante trocas, nas comunidades dos “índios do rio” ‒ seriam
+consideradas entediantes, desinteressantes e cansativas. A abordagem de
+Reid torna-se explícita no excerto a seguir:
 
-[[A ]{}[ pode ser vista como outro princípio importante para a ]{}[ pelo
-homem Hupdʉ. Já discuti anteriormente o amplo espectro de
-técnicas utilizadas para a coleta de recursos florestais. Eles matam e
-alimentam-se de quase todas as espécies de caça da floresta tropical;
-utilizam certa variedade de métodos para pescar os peixes dos igarapés;
-e alimentam-se de boa variedade de espécies de insetos, frutas
-silvestres e castanhas. As técnicas empregadas para cada tarefa exigem
-diferentes proporções de ]{}[, ]{}[ e ]{}[. Três fatores governam a
-variedade das habilidades empregadas por qualquer indivíduo: a ]{}[(e
-consequentemente sua experiência e conhecimento), ]{}[, e suas próprias
-]{}[. Um quarto fator que repercute sobre as preferências pessoais vem a
-ser o leque de habilidades empregadas por outro corresidente ]{}]{}
+> *A* especialização de habilidades *pode ser vista como outro princípio
+> importante para a* bem-sucedida exploração do ambiente *pelo homem
+> Hupdʉ. Já discuti anteriormente o amplo espectro de técnicas
+> utilizadas para a coleta de recursos florestais. Eles matam e
+> alimentam-se de quase todas as espécies de caça da floresta tropical;
+> utilizam certa variedade de métodos para pescar os peixes dos
+> igarapés; e alimentam-se de boa variedade de espécies de insetos,
+> frutas silvestres e castanhas. As técnicas empregadas para cada tarefa
+> exigem diferentes proporções de* energia física*,* habilidades *e*
+> conhecimentos*. Três fatores governam a variedade das habilidades
+> empregadas por qualquer indivíduo: a* idade *(e consequentemente sua
+> experiência e conhecimento),* sua condição física*, e suas próprias*
+> preferências*. Um quarto fator que repercute sobre as preferências
+> pessoais vem a ser o leque de habilidades empregadas por outro
+> corresidente* (1979, p. 58, grifos meus).
 
-[**]{} -->  
-<!-- Podemos eliminar esse trecho?? -->
+A alternância entre ambos os modos de ação, “perambular” e “trabalhar”,
+seria chave para compreender as motivações de grupos ou indivíduos para
+realizarem expedições para caça e pesca e, assim, explorar o ambiente de
+acordo com a variedade de habilidades e técnicas que são aprendidas ao
+logo da vida. Esse aprendizado é visto como um processo de
+*especialização de habilidades* que, combinadas a idade, vigor físico e
+energia, garantem uma melhor exploração do ambiente em termos de acesso
+a uma maior variedade de animais, vistos como “recursos”.
 
-Refletindo com Ingold, a imagem do “caçador-especialista” 
-parece mesclar princípios da perspectiva teórica do homem econômico
-aos da perspectiva do *optimal forager*. Para a primeira perspectiva, 
-o avanço da cultura se dá contra um fundo de natureza resistente, 
-através da atuação do indivíduo na esfera social baseada em seu interesse  
-racional próprio. Para a segunda perspectiva, a racionalidade do *optimal forager* está 
-circunscrita pela natureza, e o domínio humano da sociedade e cultura é visto como 
-fonte de normas externas que podem desviar o indivíduo do “ótimo”. Na descrição das
+Refletindo com Ingold (2000, p. 28-9), a imagem do
+“caçador-especialista” parece mesclar princípios da perspectiva teórica
+do *homem econômico* aos da perspectiva do *optimal forager*. Para a
+primeira perspectiva, o avanço da cultura se dá contra um fundo de
+natureza resistente, através da atuação do indivíduo na esfera social
+baseada em seu interesse racional próprio. Para a segunda perspectiva, a
+racionalidade do *optimal forager* está circunscrita pela natureza, e o
+domínio humano da sociedade e cultura é visto como fonte de normas
+externas que podem desviar o indivíduo do *ótimo*. Na descrição das
 práticas de caça, Silverwood-Cope e Reid vinculam valor utilitário a
 cada tipo de recurso buscado pelo indivíduo, procurando mensurar a
 satisfação e o rendimento, calculando a estratégia “ótima” por recurso
@@ -1852,38 +2210,38 @@ ao conjunto de métodos de uma dada comunidade apontam para essa
 especialização de habilidades em termos de uma sociabilidade que se
 estabelece contra um fundo de natureza, pleno de recursos. Quanto mais
 especializado ou socializado na caça, mais recursos e satisfação o
-indivíduo obterá. <!-- O senso de identidade como “caçador-especialista” e o
+indivíduo obterá. O senso de identidade como “caçador-especialista” e o
 prazer por “perambular” pela mata reforçam a busca dos pesquisadores por
 interpretar essas atividades como sendo racionais por serem pautadas por
 saberes instrumentais e utilitários que fazem com que a imagem dos Maku
-oscile ]{} (Podemos eliminar esse trecho? Ou devemos completá-lo, tal qual
-aparece na dissertação? "a imagem dos Maku oscile entre, de um lado, indivíduos
-que, pela exploração do ambiente, impõe a cultura sobre a natureza, ou, de outro,
-pessoas que, distanciando-se do mundo da aldeia, do trabalho monótono, 
-circunscrevem-se na natureza, no mundo da floresta, seus interesses racionais
-para obter o máximo de recursos."-->
+oscile entre, de um lado, indivíduos que, pela exploração do ambiente,
+impõem a cultura sobre a natureza, ou, de outro, pessoas que,
+distanciando-se do mundo da aldeia, do trabalho monótono, circunscrevem
+na natureza, no mundo da floresta, seus interesses racionais para obter
+o máximo de recursos.
 
 Em *Os Maku* (Silverwood-Cope, 1990), a atividade agrícola aparece como
-uma prática feminina em que a mandioca (maniva) coloca como o principal
-gênero alimentício, sendo papel dos homens apenas o de abrirem as roças.
-O livro enfatiza, ainda, o caráter limitado da produção, certos aspectos
-do solo, o cultivo de algumas frutíferas e a participação dos filhos que
-auxiliam suas mães e irmãs. O preparo das refeições, o
-cultivo da roça, o cuidado com as crianças, o artesanato dos cestos, a
-coleta de insetos, frutos e cipós são práticas relacionadas, no trabalho
-de Reid, para caracterizar as atividades femininas como monótonas e
-árduas. Na tese de Silverwod-Cope são
-mencionadas a pesca com anzol, a pesca coletiva com timbó e o uso do
-arco e flecha. Ele ressalta a importância das estações para a subida ou
-descida dos peixes, a variedade de espécies comestíveis e as eficácias
-variáveis em tempos de seca ou chuva. Por outro lado, Reid atém-se
-mais à pesca, evidenciando sua relação íntima com a caça e com os
-percursos ao longo dos igarapés. No que diz respeito à coleta,
-Silverwood-Cope detalha os tipos de frutos comestíveis bem como os
-insetos e os modos de preparo. Reid indica a relação entre caça e coleta de frutos, mostrando a
-conexão entre o conhecimento sobre os frutos da mata e os hábitos
-alimentares dos animais, e também a importância de determinados frutos
-para a realização de rituais e festas.
+uma prática feminina em que a mandioca (maniva) se coloca como o
+principal gênero alimentício, sendo papel dos homens apenas o de abrirem
+as roças. O livro enfatiza, ainda, o caráter limitado da produção,
+certos aspectos do solo, o cultivo de algumas frutíferas e a
+participação dos filhos que auxiliam suas mães e irmãs (1990, p. 42-46).
+O preparo das refeições, o cultivo da roça, o cuidado com as crianças, o
+artesanato dos cestos, a coleta de insetos, frutos e cipós são práticas
+relacionadas, no trabalho de Reid, para caracterizar as atividades
+femininas como *monótonas* e *árduas* (Reid, 1979, p. 36-40). Na tese de
+Silverwod-Cope (1990), são mencionadas a pesca com anzol, a pesca
+coletiva com timbó e o uso do arco e flecha. Ele ressalta a importância
+das estações para a subida ou descida dos peixes, a variedade de
+espécies comestíveis e as eficácias variáveis em tempos de seca ou
+chuva. Por outro lado, Reid (1979) atém-se mais à pesca, evidenciando
+sua relação íntima com a caça e com os percursos ao longo dos igarapés.
+No que diz respeito à coleta, Silverwood-Cope detalha os tipos de frutos
+comestíveis bem como os insetos e os modos de preparo (Silverwood-Cope,
+1990, p. 43-53). Reid (1979) indica a relação entre caça e coleta de
+frutos, mostrando a conexão entre o conhecimento sobre os frutos da mata
+e os hábitos alimentares dos animais, e também a importância de
+determinados frutos para a realização de rituais e festas.
 
 Certamente a inserção de ambos os pesquisadores foi mais intensa nas
 formas de sociabilidade masculinas e, mais especificamente, a partir de
@@ -1939,21 +2297,21 @@ mobilidade com esses “outros viajantes”.
 
 A “história do Häw” foi contada por João em uma roda enquanto
 conversávamos, fumávamos e comíamos coca no início da noite. Em suas
-memórias, o /Häw/, além de bom caçador, surge como um
-/pu͂’u̖͂k wed i͂h/, um “comedor de coca”, falante da
-língua hup e bom ouvinte de benzimentos. Nas rodas noturnas, enquanto
-comem coca e fumam tabaco, os homens hup conversam sobre encantamentos e
-ações xamânicas, narram mitos e comentam sobre encontros com animais e
-andanças pela mata. Pelas lembranças de João, Reid parece ter
-presenciado esses encontros e partilhado a coca, o tabaco e as
-conversas. Apesar de refletir sobre mitos, encantamentos e andanças,
-elementos presentes e constitutivos dessa forma de sociabilidade das
-rodas, o pesquisador não os relaciona ao consumo coletivo de coca e
-tabaco. Tentando interpretar os escritos de Reid e o tema do “bom
-comedor de coca” e do “bom ouvinte de benzimentos” da narrativa de João,
-qual teria sido o motivo do silêncio quanto às práticas da coca e do
-tabaco? A participação e não descrição dessas práticas representaria um
-paradoxo com relação à etnografia compreensiva?
+memórias, o /Häw/, além de bom caçador, surge como um /pũ’u̖͂k wed i͂h/, um
+“comedor de coca”, falante da língua hup e bom ouvinte de benzimentos.
+Nas rodas noturnas, enquanto comem coca e fumam tabaco, os homens hup
+conversam sobre encantamentos e ações xamânicas, narram mitos e comentam
+sobre encontros com animais e andanças pela mata. Pelas lembranças de
+João, Reid parece ter presenciado esses encontros e partilhado a coca, o
+tabaco e as conversas. Apesar de refletir sobre mitos, encantamentos e
+andanças, elementos presentes e constitutivos dessa forma de
+sociabilidade das rodas, o pesquisador não os relaciona ao consumo
+coletivo de coca e tabaco. Tentando interpretar os escritos de Reid e o
+tema do “bom comedor de coca” e do “bom ouvinte de benzimentos” da
+narrativa de João, qual teria sido o motivo do silêncio quanto às
+práticas da coca e do tabaco? A participação e não descrição dessas
+práticas representaria um paradoxo com relação à etnografia
+compreensiva?
 
 Peter Silverwood-Cope refere-se às rodas da seguinte forma:
 
@@ -2006,7 +2364,7 @@ senso de pertencimento que se constitui mais no “mundo da floresta” do
 que no “mundo da aldeia”. Embora não haja notas sobre essa forma de
 sociabilidade hup, o antropólogo, em meio a um relato sobre as relações
 entre os Hupd’äh e os Tukano, escreve algumas linhas sobre as práticas
-da coca e do tabaco. 
+da coca e do tabaco.
 
 O tema do “roubo da coca” aparece recorrentemente na tese de Reid. Os
 Hupd’äh roubam a coca, o tabaco e a maniva para punir o homem tukano
@@ -2083,22 +2441,31 @@ também parecem agir estrategicamente buscando compensar o fato de terem
 menos xamãs e de estes serem menos poderosos.
 
 Desse modo, a coca e o tabaco tornam-se elementos de mediação
-circunscritos às atividades de “trabalho”, /bɨ̗’ɨ̗y/, em
-aldeias tukano e às práticas de cura, sendo que em ambos os casos se
-supõe haver uma inferioridade assimétrica dos Hupd’äh. A coca e o tabaco
-recebem atributos de imobilidade, enquanto o interesse em obter coca e
-tabaco motiva as atividades especializadas de /k’e̗t kö’ ay/,
-“perambulação”, que fazem com que a carne de caça seja trocada por essas
-substâncias. A especialização de habilidades capacita o homem a explorar
-a floresta, a falta de especialização, seja na agricultura, seja no ** a
-inserção e o interesse do nesse tipo de “atividades móveis”, entende-se
+circunscritos às atividades de “trabalho”, /bɨ̗’ɨ̗y/, em aldeias tukano e
+às práticas de cura, sendo que em ambos os casos se supõe haver uma
+inferioridade assimétrica dos Hupd’äh. A coca e o tabaco recebem
+atributos de imobilidade, enquanto o interesse em obter coca e tabaco
+motiva as atividades especializadas de /k’e̖t kö ay/, “perambulação”, que
+fazem com que a carne de caça seja trocada por essas substâncias.
+Supõe-se haver um desinteresse dos Hupd’äh pelo cultivo, mas um
+interesse pelo consumo que, apesar do “fraco xamanismo”, faz com que os
+homens se sujeitem a essa relação assimétrica. Enquanto a especialização
+de habilidades capacita o homem a explorar a floresta, a falta de
+especialização, seja na agricultura, seja no xamanismo, faz com que os
+Hupd’äh tenham interesse em viver próximo à aldeia Tukano para maximizar
+sua coca, tabaco, maniva, mercadorias e também as curas xamânicas, ao
+mesmo tempo em que podem se dedicar ao que lhes dá mais *prazer*, as
+atividades de *alta mobilidade*. Como a inserção e o interesse do
+antropólogo se encontram nesse tipo de “atividades móveis”, entende-se
 melhor a ausência de menção, em sua obra, às rodas de coca hup, o número
 reduzido de notas sobre o xamanismo e o aspecto de imobililidade
 característicos dessas práticas. Explicar o padrão de habitação próxima
 a aldeias tukano vem a ser o interesse último da análise de Reid que,
 para isso, contrasta ambos os povos em termos das diferenças de
-especialida]{} 
-<!-- O parágrafo possui muitas sentenças que foram interrompidas. Completar conforme a tese? Reduzir? -->
+especialidades e interesses. Numa outra chave, ressurgem elementos da
+contraposição “Nômades X Sedentários”, agora lidos não a partir da
+oposição entre “Humanos e Não Humanos”, mas sim a partir de um
+“racionalismo de mobilidade” e de um “racionalismo não móvel”.
 
 Para entender melhor esse paradoxo do “bom comedor de coca que não fala
 das rodas”, é necessário refletir um pouco mais sobre o modo como Reid
@@ -2115,23 +2482,29 @@ e de suas interações com outros seres. O xamã parece ter uma
 racionalidade que lhe permite interagir com os donos das casas do
 universo para recuperar as almas hup roubadas, para curar, para obter a
 liberação de maior número de animais para serem caçados ou mesmo para
-causar o mal a outrem. Já os não especialistas, apesar de pelo cosmos
-em sonhos, não compreendem conscientemente essas viagens e não conseguem
-interagir com os outros seres. P**]{}
+causar o mal a outrem. Já os *não especialistas*, apesar de viajarem
+pelo cosmos em sonhos, não compreendem conscientemente essas viagens e
+não conseguem interagir com os outros seres. Parece haver uma divisão
+entre os modos de percepção do cosmo, onde os *não especialistas*
+recebem estímulos efêmeros de dados sem sentido e, por isso, orientam-se
+com base nas classificações e símbolos organizados e transmitidos como
+representações duradouras pelos xamãs.
 
-As crenças fornecem um enquadramento conceitual para as
-interpretações dos Hupd’äh sobre como o mundo é e como tomou a forma
-atual. As performances rituais dos benzimentos, do Jurupari e do
-Dabucuri são descritas de modo a enfatizar as relações entre as crenças
-e práticas. No entanto, o etnógrafo relata não ter presenciado
-cerimônias de Jurupari ou Dabucuri já ocultando-os.
-Para descrever essas performances, o etnógrafo toma como base os relatos
-de seus interlocutores, diferentemente de suas narrativas sobre outros
-âmbitos da vida social, fundamentadas no envolvimento direto nas ações
-sociais. Ao apresentar uma breve descrição dos ritos de cura, esses se
-reduzem a fórmulas verbais que configuram sua eficácia a partir de uma
-estrutura fixa, da evocação de ancestrais e da utilização de
-determinados alimentos para a purificação do corpo.
+As crenças fornecem um *enquadramento conceitual* para as interpretações
+dos Hupd’äh sobre como o mundo é e como tomou a forma atual. As
+performances rituais dos benzimentos, do Jurupari e do Dabucuri são
+descritas de modo a enfatizar as relações entre as crenças e práticas.
+No entanto, o etnógrafo relata não ter presenciado cerimônias de
+Jurupari ou Dabucuri já que, diante da perseguição dos missionários a
+esses rituais, os Hupd’äh evitariam realizá-los diante dos “brancos”,
+ocultando-os (Reid, 1979, p. 151). Para descrever essas performances, o
+etnógrafo toma como base os relatos de seus interlocutores,
+diferentemente de suas narrativas sobre outros âmbitos da vida social,
+fundamentadas no envolvimento direto nas ações sociais. Ao apresentar
+uma breve descrição dos ritos de cura, esses se reduzem a fórmulas
+verbais que configuram sua eficácia a partir de uma estrutura fixa, da
+evocação de ancestrais e da utilização de determinados alimentos para a
+purificação do corpo.
 
 A descrição da sequência de ações das cerimoniais resume-se a uma
 sequência de ações prototípicas devido à inexistência de um
@@ -2142,24 +2515,30 @@ social, os processos naturais e o cosmos como um todo.
 Apesar dos poucos dados etnográficos, esses rituais são
 identificados como o modo de ação social por excelência, que permite aos
 indivíduos perceberem as inter-relações entre símbolos de diferentes
-sistemas de classificação e darem sentido a suas experiências. 
+sistemas de classificação e darem sentido a suas experiências.
 
-Tomando como referência as abordagens de Leach, Lévi-Strauss
-e Kelly, Reid descreve a cosmologia, as narrativas míticas
-e a classificação de animais, florestas e solos como sistemas de
-classificação, buscando demonstrar a coerência da visão de mundo dos
-Hupd’äh. Para tanto, sua análise explicita as relações metafóricas entre
-as formas de classificação. Uma estrutura tripartite, vista pelo autor
-como um “constructo”, ordenaria todas essas formas de classificação,
-gerando enquadramentos conceituais que permitem aos Hupd’äh dar sentido
-ao mundo. Haveria sempre elementos mediadores operando entre oposições,
-constituindo níveis intermediários de classificação, de modo complexo e
-harmônico. O movimento cósmico é compreendido não em termos das
-práticas, das experiências e das transformações que suscitam no ambiente
-e nas pessoas, mas sim em termos da fixação de grades de referência que
-orientam as ações das pessoas. Para os não especialistas, o sentido da
-inter-relação dos sistemas de classificação seria vivido e validado
-através da ação ritual pela composição de relações simbólico-metafóricas.
+É notável a mudança no eixo analítico da reflexão de Reid, já que ele
+passa a dar pouca ênfase nas práticas xamânicas e rituais, reduzidas a
+seus elementos verbais e classificatórios, a partir dos quais se
+estabelecem “grades de discriminação” que, enquadrando partes do
+contínuo da experiência, permitem aos indivíduos dar sentido e agir
+(Ingold, 2000, p. 158). Tomando como referência as abordagens de Leach
+(1976), Lévi-Strauss (2003) e Kelly (1955), Reid descreve a cosmologia,
+as narrativas míticas e a classificação de animais, florestas e solos
+como sistemas de classificação, buscando demonstrar a *coerência da
+visão de mundo* dos Hupd’äh. Para tanto, sua análise explicita as
+relações metafóricas entre as formas de classificação. Uma estrutura
+tripartite, vista pelo autor como um “constructo”, ordenaria todas essas
+formas de classificação, gerando enquadramentos conceituais que permitem
+aos Hupd’äh dar sentido ao mundo. Haveria sempre elementos mediadores
+operando entre oposições, constituindo níveis intermediários de
+classificação, de modo complexo e harmônico. O movimento cósmico é
+compreendido não em termos das práticas, das experiências e das
+transformações que suscitam no ambiente e nas pessoas, mas sim em termos
+da fixação de grades de referência que orientam as ações das pessoas.
+Para os não especialistas, o sentido da inter-relação dos sistemas de
+classificação seria vivido e validado através da ação ritual pela
+composição de relações simbólico-metafóricas (Reid, 1979, p. 266-7).
 
 Na tentativa de interpretação total, a “mudança de eixo” evidencia a
 opção do pesquisador pela decodificação. Enquanto o “movimento pelos
@@ -2170,7 +2549,7 @@ plasticidade do sistema clânico, por exemplo, os quadros de analogias e
 metáforas classificatórias compõem oposições, gradações, simetrias
 mediadas mais pelos trabalhos da “mente” e da ação ritual prototípica
 que pelos movimentos, gestos e ações das pessoas interagindo em meio à
-vida num dado ambiente. 
+vida num dado ambiente.
 
 Pode-se dizer que o processo vital é reduzido à forma, ao contrário de
 haver uma relação em que as classificações e suas analogias entre si
@@ -2178,11 +2557,15 @@ emergem com os “movimentos pelos mundos”, com a “fluidez social” e com
 as “ações rituais” constituídas a partir da experiência vivida. Os
 rituais são percebidos não pela mobilidade e pelas transformações que
 fomentam, mas pelas mensagens codificadas que conectam. A viagem do xamã
-pelo cosmos torna-se um movimento funcional e especializado para dar sentido às classificações.
- Refletindo com Deleuze e Guattari nas estruturas tripartites apresentadas por Reid, as
-multiplicidades suscitadas pelos movimentos vividos são organizadas,
-estruturadas, neutralizadas em eixos de significação, em um decalque que
-“já não reproduz senão ele mesmo quando crê reproduzir outra coisa”.
+pelo cosmos torna-se um movimento funcional e especializado para dar
+sentido às classificações. Os seres com quem os Hupd’äh se relacionam ao
+longo dos “mundos” em que habitam tornam-se figuras arranjadas a partir
+de critérios de classificação (Ingold, 2000, p. 98). Refletindo com
+Deleuze e Guattari (1995, p. 31), nas estruturas tripartites
+apresentadas por Reid, as multiplicidades suscitadas pelos movimentos
+vividos são organizadas, estruturadas, neutralizadas em eixos de
+significação, em um decalque que “já não reproduz senão ele mesmo quando
+crê reproduzir outra coisa”.
 
 O paradoxo que surge na justaposição entre as palavras de João aos
 escritos de Reid deixa ver como talvez, mesmo participando diretamente
@@ -2204,7 +2587,7 @@ refletem conjuntamente sobre seus modos de ação.
 
 Se a mediação da visão tukano leva Koch-Grünberg a expressar uma imagem
 total dos Maku através do nomadismo, onde a mobilidade é o fator
-explicativo que leva esses povos ao mesmo tempo, a “conhecerem a
+explicativo que leva esses povos, ao mesmo tempo, a “conhecerem a
 floresta como a palma de suas mãos” e a serem dominados pelos povos
 sedentários, o estudo dos movimentos de Reid circunscreve-se às
 dimensões exploratórias, formais e funcionais da mobilidade, o que gera
@@ -2213,14 +2596,17 @@ decodifica os sentidos ao mesmo tempo em que busca mostrar como tal
 decodificação se dá prototipicamente através das práticas rituais.
 Enquanto etnógrafo, foi simultaneamente sentando-me às rodas de coca e
 caminhando com os Hupd’äh rumo a morros, a outras aldeias e a
-acampamentos que comecei a mobilidade através dos fluxos entre
-experiências na aldeia, na mata e nos diversos planos cosmológicos.
-Esses movimentos geram modos de perceber, de atuar, de aprender e de
-conhecer em meio ao envolvimento mútuo ao longo de processos generativos
-e vividos. 
+acampamentos que comecei a descrever a mobilidade através dos fluxos
+entre experiências na aldeia, na mata e nos diversos planos
+cosmológicos. Esses movimentos geram modos de perceber, de atuar, de
+aprender e de conhecer em meio ao envolvimento mútuo ao longo de
+processos generativos e vividos.
 
-Na participação das rodas ou da vida da aldeia, os deslocamentos do narrar, do benzer ou do sonhar expressam, há todo momento, os vínculos com as andanças pela mata. Algo que permite refletir para além da
-oposição entre as “perambulações prazerosas” valorizando certa
+Na participação das rodas ou da vida da aldeia, os deslocamentos do
+narrar, do benzer ou do sonhar expressam, a todo momento, os vínculos
+com as andanças pela mata. Algo que permite refletir para além da
+oposição entre as “perambulações prazerosas” e o “trabalho árduo”,
+noções que parecem cindir o mundo vivido dos Hupd’äh, valorizando certa
 especialização de habilidades e atividades em detrimento de outras.
 Penso haver a possibilidade de olhar para o modo como o envolvimento
 global das pessoas umas com as outras vai fazendo-as, ao longo da vida,
