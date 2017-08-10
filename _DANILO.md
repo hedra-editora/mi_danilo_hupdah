@@ -5935,10 +5935,10 @@ disposto.*
 
 (Fernando Pessoa – Tabacaria)
 
-### A caminho da /Hũ̖t Wäg-Mo̖y/ ‒ “Morada-de-Semente de Tabaco”
+## A caminho da /Hũ̖t Wäg-Mo̖y/ ‒ “Morada-de-Semente de Tabaco”
 
 Depois de colhermos coca nas plantações do irmão de Américo, continuamos
-caminhando rumo à /K’a̗j-Pa̖ç/, “Serra-da-Cutiváia”. Íamos deixando o
+caminhando rumo à /K’a̗j-Pa̖ç/, “Serra da Cutiváia”. Íamos deixando o
 caminho largo das roças e penetrando uma trilha estreita por meio da
 qual nos aproximávamos cada vez mais do morro. Havia ainda algumas
 plantações da família de Américo. Andávamos rápido e logo já estávamos
@@ -5952,8 +5952,7 @@ bem no começo. A terra era muito boa para plantar, /M’aj’- kɨ̗’/, “te
 firme”. Mas logo sopraram um estrago (feitiço). As plantas começaram a
 morrer e já não brotou mais nada.
 
-Ainda no caminho, ouvimos o som de um pássaro, /uy-ta̖k/. ([]{#M10_Uy
-.anchor}**M10**) [[]{#OLE_LINK25 .anchor}]{#OLE_LINK26 .anchor}/U̖y-ta̖k/
+Ainda no caminho, ouvimos o som de um pássaro, /uy-ta̖k/. (**M10**) “/U̖y-ta̖k/
 é gente antigamente. Tem um irmão menor. Ele é o /sät/. Depois, não
 encontrou mulheres. Comeu o irmão menor mesmo. Fez sexo com ele”. O
 /u̖y-ta̖k/ que ouvíamos cantava do alto de uma árvore. Estava com seu
@@ -5964,7 +5963,7 @@ Marino para entregar-lhe esse presente de seu irmão. A coca o faria
 lembrar de suas terras, de suas roças, de sua vida em /Ta̗t-Dëh/ [^43].
 
 Desde que o velho Henrique faleceu, Marino não voltou mais a sua
-comunidade. Ele e a esposa, dona Mariquinha, estavam morando na casa do
+comunidade. Ele e a esposa, dona Mariquinha (/Ya’a̗m K’e̖g/, nasc. 1961, /Dög M’e̖h Te̖͂h/, ind. 41), estavam morando na casa do
 genro num bairro perifrico de São Gabriel. Suas filhas já viviam na
 cidade há alguns anos para estudar. Américo estava muito preocupado,
 pois diziam que seu irmão não parava de beber cachaça. Ele trabalhava
@@ -5987,20 +5986,18 @@ a porta para proteger-se”, disse. Continuamos a subida. Com o terçado,
 Américo cortou um cipó grande. Ergueu-o inclinando a parte cortada para
 sua boca e bebeu a água que escorria. Matamos nossa sede. Essa era uma
 “água pura”, /yõ̖h dëh/. O cipó chamava-se /pa̖ç-tɨ̗t/, “cipó da serra”.
-“Os soldados gostam muito”, comentou, “dá força”!
+“Os soldados gostam muito”, comentou, “dá força!”.
 
 Estávamos já no meio do morro quando chegamos a uma /Pa̖ç-Mo̖y/,
-“Casa-de-Pedra”, uma gruta. Uma pedra muito grande cobria o buraco que
+“Casa de Pedra”, uma gruta. Uma pedra muito grande cobria o buraco que
 levava para o interior do morro. Estávamos diante da morada antiga do
-ancestral [[]{#OLE_LINK27 .anchor}]{#OLE_LINK28 .anchor}/Hu̖͂t Wäg/,
-“Semente de Tabaco”. A rocha erguia-se como uma cobertura ampla para o
-abrigo fresco e bem preparado para a chuva. ([]{#M11_Hut
-.anchor}**M11**) Numa roda de coca, Miguel contou que /Hu̖͂t Wäg/ era um
+ancestral /Hu̖͂t Wäg/, “Semente de Tabaco”. A rocha erguia-se como uma cobertura ampla para o
+abrigo fresco e bem preparado para a chuva. (**M11**) Numa roda de coca, Miguel contou que /Hu̖͂t Wäg/ era um
 ancestral dos Yuhupdëh. Esse ancestral viveu com sua família em muitas
 Casas de Pedra[^46]. No chão de terra avermelhada dessas moradas, sempre
 é possível encontrar as /b’o̗kab b’a̗h/, as “lascas de cerâmica”, restos
 de suas panelas, fornos e utensílios de cozinha. Sua primeira morada
-fora a Serra-da-Cutiváia. Como o pai de Américo, esse ancestral fora o
+fora a Serra da Cutiváia. Como o pai de Américo, esse ancestral fora o
 primeiro a chegar lá. Depois se mudou para /Ni̗k-Hu̗͂-Pa̖ç/ e posteriormente
 para /B’ö̖’-Pa̖ç/. De lá, ele e a família subiram para o céu. Hoje em dia
 moram numa casa próxima à de /K’e̖g Te͂h/[^47]. Olhando para o chão,
@@ -6009,13 +6006,13 @@ encontrados os restos das panelas de /Hu̖͂t Wäg/. “Agora não tem mais,
 porque todo mundo vinha, pegava para contar a história e levava para
 casa. Acabou-se, mas tem ainda nas outras casas onde ele morou”, disse.
 
-[]{#Fig23_AmericoHut .anchor}Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P.
-Ramos, 2012)
+<!-- Fig. 12 -->
+Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P. Ramos, 2012)
 
 Continuamos a caminhada um pouco mais para cima até chegarmos à outra
 gruta. Essa era a /K’a̗j-Paç/, a caverna onde a Cutiváia[^48] entrou
-depois de fugir da Anta. ({#M12_Cutivaia .anchor}**M12**) “Essa
-Serra-da-Cutiváia tem história também”, Américo começou a contar
+depois de fugir da Anta. (**M12**) “Essa
+Serra da Cutiváia tem história também”, Américo começou a contar
 enquanto contorcíamos nossos corpos para chegarmos à entrada da caverna.
 “A Cutiváia foi pegar umari. Estava com muita vontade de comer umari.
 Quando já estava voltando, apareceu a Anta e começou a correr atrás
@@ -6031,14 +6028,14 @@ assim como Semente de Tabaco e o velho Henrique. A história da habitação
 da serra falava dos ancestrais e de suas ações de chegar ao morro e
 fazer dele suas moradas. A cada passo, os mitos e as memórias
 emaranhavam-se nas falas de Américo. Compunham um modo de falar do pai,
-do irmão e de sua vida naquele ambiente que, aos poucos, *temporalizava
-a paisagem.*
+do irmão e de sua vida naquele ambiente que, aos poucos, temporalizava
+a paisagem.
 
 Depois de descansarmos e tirarmos fotos de cada uma dessas moradas dos
 antigos, começamos a descer o morro. O meio do dia aproximava-se e já
 não aguentaríamos a fome por muito mais tempo. Ao terminarmos a descida,
 Américo mostrou algumas seringueiras de suas terras. Estavam sangradas.
-Outras pessoas teriam vindo à Serra-da-Cutiváia para explorar a
+Outras pessoas teriam vindo à Serra da Cutiváia para explorar a
 borracha. Ao mostrar a foto que tirei de uma seringueira, ele começou a
 rir. O corte que tinham feito era em formato de vagina. Antes de
 casar-se, Américo deixou /Ta̗t-Dëh/ por alguns anos. Trabalhara na
@@ -6046,25 +6043,26 @@ borracha e por isso sabia sangrar a seringueira daquele jeito também.
 
 Tomamos nosso rumo de volta. Deparamo-nos com um pé de pupunha. Havia
 sido plantado por seu pai, assim como as roças de coca um pouco à
-frente. Nas lembranças trazidaspela paisagem, sempre que íamos à roça
-ou à Serra-da-Cutiváia, o velho Henrique fazia-se presente. Em meus
+frente. Nas lembranças trazidas pela paisagem, sempre que íamos à roça
+ou à Serra da Cutiváia, o velho Henrique fazia-se presente. Em meus
 últimos dias de campo, quando voltávamos de /K’a̗j-Paç/, começamos a
 ouvir um barulho alto que vinha do morro. Passávamos pelas roças, quando
 Américo parou, voltou-se para a serra e disse: “Isso que tá zoando, esse
 barulho é o grito do meu pai, do /b’atɨ̖b’/ dele”.
 
-[]{#Fig25_CaminhadaSerraCutivaia .anchor}Caminhada à Serra-da-Cutiváia
+<!-- Fig. 13 -->
+Caminhada à Serra-da-Cutiváia
 
-1.  ### /Hũ̖t/ ‒ “tabaco”
+## /Hũ̖t/ ‒ “tabaco”
 
-    1.  #### Cigarro da origem
+### Cigarro da origem
 
 Na noite de 7 de janeiro de 2010, decidi fazer uma pergunta aos senhores
 com quem vinha me reunindo cotidianamente para comer coca e fumar.
 Enquanto conversavam, comiam e preparavam o alimento, eu ficava em
 silêncio, prestando atenção aos gestos, trocando algumas poucas palavras
 e respondendo às questões sobre minha família e vida em São Paulo. O
-lugar de onde eu vinha ˗ com seus prédios, carros e multidões ˗ parecia
+lugar de onde eu vinha – com seus prédios, carros e multidões – parecia
 ser um tema de grande interesse para todos. A saudade de meus parentes,
 suas fotos, nomes e idades eram também motivo de curiosidade. Mas
 sempre, depois de contar um pouco sobre a minha cidade, eles voltavam a
@@ -6073,13 +6071,13 @@ incomodava e que certamente causava desconforto a todos.
 
 Quando Jovino chegou à roda, coloquei-lhe uma questão em português.
 Disse-lhe querer saber sobre quais eram os tipos de histórias contadas
-durante os encontros noturns. Tinha em mente a classificação dos
-gêneros narrativos feita por Reid em *histórias de K’e̖g Tẽh*, sobre o
-mundo físico e os seres humanos; as *histórias dos heróis míticos*,
-sobre as ordens moral e cultural; as *histórias da criação da
-agricultura, da troca de mulheres e das atividades rituais*; e, por fim,
-as *histórias dos primeiros humanos*, sobre os aspectos metafísicos que
-os seres humanos encontram no mundo atual (1979, p. 242). Jovino
+durante os encontros noturnos. Tinha em mente a classificação dos
+gêneros narrativos feita por Reid em a) histórias de K’e̖g Tẽh, sobre o
+mundo físico e os seres humanos; b) histórias dos heróis míticos,
+sobre as ordens moral e cultural; c) histórias da criação da
+agricultura, da troca de mulheres e das atividades rituais; e, por fim,
+d) histórias dos primeiros humanos, sobre os aspectos metafísicos que
+os seres humanos encontram no mundo atual. Jovino
 traduziu a questão ao seu pai, Ponciano, que começou a contar sobre como
 o “deus”, /K’e̖h Tẽh/, deu aos “ancestrais”, /hib’a̗h tẽ̖h d’äh/ a coca e o
 tabaco como formas de ver e saber as histórias da criação, podendo
@@ -6090,93 +6088,91 @@ fumaça, os cigarros iluminavam as faces esverdeadas, a cuia de coca
 passava de mão em mão e a polifonia das vozes murmuradas tecia a
 narrativa na trama dos múltiplos diálogos.
 
-> [[[]{#M13_Coca .anchor}]{#OLE_LINK29 .anchor}]{#OLE_LINK30
-> .anchor}**M13.** [[]{#OLE_LINK31 .anchor}]{#OLE_LINK32 .anchor}**A
-> dádiva da coca e do tabaco**
->
-> /Hib’a̗h tẽ̖h/ viu o que aconteceu. \[...\] Nas origens ele estava
-> saindo. Passou como se fosse através do pensamento dele. \[...\]
-> /Hib’a̗h tẽ̖h/ pensou para poder deixar essa história para surgir agora
-> para a humanidade. Foi ele que disse, porque viu o que aconteceu no
-> começo. Ninguém de nós aqui no mundo indígena parece que não viu. Só o
-> Deus, o /K’e̖g Tẽh/ que deu esse pensamento, o que aconteceu, o mundo
-> de nada.
->
-> Aí, o homem descobriu o que aconteceu naquele tempo. Descobriu que a
-> história veio contando das origens. Por que ele deu tabaco. Deu essa
-> comida, coca. Com essa coca e tabaco ele teve como se fosse um
-> espírito iluminando na cabeça para poder fazer aparecer nesse mundo
-> para os /hib’a̗h tẽ̖h d’äh/. Ele deu para cada grupo um cigarro, coca, e
-> tudo para eles.
->
-> Esse cigarro ele fuma na origem. Esse /hib’a̗h tẽ̖h/, /Hũ̖t Wäg/, é como
-> se fosse um deus também. \[...\] Por isso, o pessoal diz: “O nosso
-> chefe, \[...\] na origem, entrou naquele morro. Veio primeiro na
-> origem”. Ele, como um deus, entrou em forma de pessoa no morro.
-> \[...\]
->
-> Você passa aqui no mato, encontra, por exemplo, aqui onde o Américo
-> está trabalhando a roça dele. Tem o Morro da Cutiváia, /Ka̗j-Paç/. Lá
-> deu caverna. Dentro você encontra um pedacinho de /b’a̖’/. /B’a̖’/,
-> “beijú”, quebrado! Eles falam: “Foram as nossas origens!” Tavam
-> vivendo em caverna. (...) No morro do Arara. Diz que é a origem do
-> Miriti-Tapuia, lá entrou a origem deles. (...) Quando saíram da canoa,
-> na origem deles, ele acompanhou. Foi acompanhando e daí entrou.
->
-> Ele deixou o outro, o segundo dele, o segundo irmão dele. Ele disse:
-> “Acompanha você agora, eu já acompanhei vocês lá”. Ele entrou. O
-> /hib’a̗h tẽ̖h/ também entrou lá. Primeiro, ele acompanhou, entrou lá. O
-> do Miriti-Tapuia também entrou lá. Diz que para eles também é como se
-> fosse deus. Querendo entrar, porta pra ele, daí entrou. \[...\]
-> Caverna, /Pa̖ç-Mo̖y/. Entrou. O resto, como se fosse o filho deles,
-> continua, a nossa origem. \[...\] Foi ele que fez. Esse que já deixou
-> tudo para eles o que vai usar nesse mundo. Acompanhou, \[...\] deu
-> nome para eles. Disse: “Pronto, eu já acompanhei, já. Então pronto”.
->
-> Por isso, na origem, foram eles que pegaram primeiro o tabaco, esses
-> que entraram, foram eles que pegaram o cigarro. \[...\] O deus viu
-> onde o pessoal estava saindo. Foi ele que acompanhou a saída deles. Um
-> grupo saiu, outro grupo veio, outro grupo... Quando saiu todo mundo,
-> ai ele deu esse poder para eles. Para cada grupo, só para a cabeça,
-> para o primeiro. Deu tudo, por que eles tinham saído da água, do rio,
-> da cobra \[...\].
->
-> Então, eles pensaram como foi, como era o mundo antes de nós. Ai, para
-> eles apareceu \[...\] o que era no mundo antes deles. Ele deu. Era
-> como se fosse um espírito iluminando na cabeça deles. Descobriram tudo
-> e passaram para os segundos que vieram para a segunda geração, e esses
-> foram passando até chegar hoje. Por que ninguém viu. Antes da saída
-> ninguém de nós viu.
->
-> A primeira vez, quando eles contavam assim, eu pensava: “Quem é que
-> viu para contar essa história? Quem é que são esses homens?” Eu
-> costumava pensar assim. O velho, ele nem sabia dizer. Eu pensava
-> assim. Na quarta vez que eu perguntava, aí ele explicava para mim, daí
-> eu peço isso. Acho que, para contar essa história, surgiu com essas
-> pessoas. Por que ninguém viu. Muita história que antes deles, muitas
-> histórias são com os /hib’a̗h tẽ̖h d’äh/, “ancestrais” \[...\].
-> Aconteceram com eles já \[...\].
->
-> Quando ele comeu, irmão maior e irmão menor, os dois foram procurando.
-> – “Como é que a gente vai viver no mundo?” Eles procuraram. “Como é
-> que a gente vai levar, como é que eles vão continuar a viver?” Para
-> ele apareceu na visão dele. Ele estava pensando. Os dois discutiram.
-> Isso aconteceu assim. Esse pensamento deu para todo mundo através
-> daquele cigarro.
->
-> Ele deu uns saberes, uma coisa para eles saberem entender as coisas.
-> Mas ninguém escreveu. \[...\] Na cabeça é que ele descobriu. Algumas
-> coisas... Terminou a coca. Diz que vão descansar. Tá bom já.
->
-> (Jovino traduzindo seu pai Ponciano, gravação sonora, 07/01/2010).
+**M13. A dádiva da coca e do tabaco**
+
+ /Hib’a̗h tẽ̖h/ viu o que aconteceu. (...) Nas origens ele estava
+ saindo. Passou como se fosse através do pensamento dele. (...)
+ /Hib’a̗h tẽ̖h/ pensou para poder deixar essa história para surgir agora
+ para a humanidade. Foi ele que disse, porque viu o que aconteceu no
+ começo. Ninguém de nós aqui no mundo indígena parece que não viu. Só o
+ Deus, o /K’e̖g Tẽh/ que deu esse pensamento, o que aconteceu, o mundo
+ de nada.
+
+ Aí, o homem descobriu o que aconteceu naquele tempo. Descobriu que a
+ história veio contando das origens. Por que ele deu tabaco. Deu essa
+ comida, coca. Com essa coca e tabaco ele teve como se fosse um
+ espírito iluminando na cabeça para poder fazer aparecer nesse mundo
+ para os /hib’a̗h tẽ̖h d’äh/. Ele deu para cada grupo um cigarro, coca, e
+ tudo para eles.
+
+ Esse cigarro ele fuma na origem. Esse /hib’a̗h tẽ̖h/, /Hũ̖t Wäg/, é como
+ se fosse um deus também. (...) Por isso, o pessoal diz: “O nosso
+ chefe, (...) na origem, entrou naquele morro. Veio primeiro na
+ origem”. Ele, como um deus, entrou em forma de pessoa no morro.
+ (...)
+
+ Você passa aqui no mato, encontra, por exemplo, aqui onde o Américo
+ está trabalhando a roça dele. Tem o Morro da Cutiváia, /Ka̗j-Paç/. Lá
+ deu caverna. Dentro você encontra um pedacinho de /b’a̖’/. /B’a̖’/,
+ “beiju”, quebrado! Eles falam: “Foram as nossas origens!” Tavam
+ vivendo em caverna. (...) No morro do Arara. Diz que é a origem do
+ Miriti-Tapuia, lá entrou a origem deles. (...) Quando saíram da canoa,
+ na origem deles, ele acompanhou. Foi acompanhando e daí entrou.
+
+ Ele deixou o outro, o segundo dele, o segundo irmão dele. Ele disse:
+ “Acompanha você agora, eu já acompanhei vocês lá”. Ele entrou. O
+ /hib’a̗h tẽ̖h/ também entrou lá. Primeiro, ele acompanhou, entrou lá. O
+ do Miriti-Tapuia também entrou lá. Diz que para eles também é como se
+ fosse deus. Querendo entrar, porta pra ele, daí entrou. (...)
+ Caverna, /Pa̖ç-Mo̖y/. Entrou. O resto, como se fosse o filho deles,
+ continua, a nossa origem. (...) Foi ele que fez. Esse que já deixou
+ tudo para eles o que vai usar nesse mundo. Acompanhou, (...) deu
+ nome para eles. Disse: “Pronto, eu já acompanhei, já. Então pronto”.
+
+ Por isso, na origem, foram eles que pegaram primeiro o tabaco, esses
+ que entraram, foram eles que pegaram o cigarro. (...) O deus viu
+ onde o pessoal estava saindo. Foi ele que acompanhou a saída deles. Um
+ grupo saiu, outro grupo veio, outro grupo... Quando saiu todo mundo,
+ aí ele deu esse poder para eles. Para cada grupo, só para a cabeça,
+ para o primeiro. Deu tudo, porque eles tinham saído da água, do rio,
+ da cobra (...).
+
+ Então, eles pensaram como foi, como era o mundo antes de nós. Aí, para
+ eles apareceu (...) o que era no mundo antes deles. Ele deu. Era
+ como se fosse um espírito iluminando na cabeça deles. Descobriram tudo
+ e passaram para os segundos que vieram para a segunda geração, e esses
+ foram passando até chegar hoje. Porque ninguém viu. Antes da saída
+ ninguém de nós viu.
+
+ A primeira vez, quando eles contavam assim, eu pensava: “Quem é que
+ viu para contar essa história? Quem é que são esses homens?” Eu
+ costumava pensar assim. O velho, ele nem sabia dizer. Eu pensava
+ assim. Na quarta vez que eu perguntava, aí ele explicava para mim, daí
+ eu peço isso. Acho que, para contar essa história, surgiu com essas
+ pessoas. Porque ninguém viu. Muita história que antes deles, muitas
+ histórias são com os /hib’a̗h tẽ̖h d’äh/, “ancestrais” (...).
+ Aconteceram com eles já (...).
+
+ Quando ele comeu, irmão maior e irmão menor, os dois foram procurando.
+ “Como é que a gente vai viver no mundo?” Eles procuraram. “Como é
+ que a gente vai levar, como é que eles vão continuar a viver?” Para
+ ele apareceu na visão dele. Ele estava pensando. Os dois discutiram.
+ Isso aconteceu assim. Esse pensamento deu para todo mundo através
+ daquele cigarro.
+
+ Ele deu uns saberes, uma coisa para eles saberem entender as coisas.
+ Mas ninguém escreveu. (...) Na cabeça é que ele descobriu. Algumas
+ coisas... Terminou a coca. Diz que vão descansar. Tá bom já.
+
+ (Jovino traduzindo seu pai Ponciano, gravação sonora, 07/01/2010).
 
 Enquanto narrava, Jovino deixava escapar a fumaça de sua boca. Num
 momento, estendeu as mãos como se fossem uma cuia oferecida pelo deus.
 Seus olhos abertos refletiam a iluminação surgida na cabeça dos /hib’a̗h
 tẽ̖h d’äh/ quando tragaram o cigarro e comeram a coca. As palavras
 misturadas às substâncias refaziam o ato ancestral de ver e contar.
-Partindo do /Pud-Dë̖h-Mo̗h/, “Lago-de-Leite”, local de surgimento da
-humanidade em resposta ao chamado de /K’e̖g Tẽh/ (M2), os ancestrais
+Partindo do /Pud-Dë̖h-Mo̗h/, “Lago de Leite”, local de surgimento da
+humanidade em resposta ao chamado de /K’e̖g Tẽh/ (**M2**), os ancestrais
 chegaram ao Uaupés após a viagem “na água, no rio, na cobra”. As
 “histórias da origem” e a possibilidade de narrar foram dádivas de /K’e̖g
 Tẽh/ aos /hib’a̗h tẽ̖h d’äh/. Sentados, conversando, “irmão maior”, /sät/,
@@ -6192,16 +6188,16 @@ Jovino é o filho mais velho de Ponciano. Quando criança, foi enviado à
 escola salesiana de Pari Cachoeira. Lá aprendeu a falar português e
 recebeu ensino escolar e religiso. Seu avô foi um poderoso dono da
 comunidade, um dos responsáveis pela concentração das famílias às
-margens do “Igarapé-Taracuá”, /Ta̗t-Dëh/. Como será analisado no Capítulo
+margens do “Igarapé-Taracuá”, /Ta̗t-Dëh/. Como será analisado no capítulo
 5, ao longo de décadas tomou curso um processo de afastamento da região
 da Serra Grande. Após a formação de diversos assentamentos menores e
 cada vez mais próximos do rio Tiquié, as famílias /Sokw’ät/ juntaram-se
 novamente para formar essa grande aldeia. Antes dispersos, os homens de
-referência desse clã, pertencentes a um mesmo *sibling* reaproximaram-se
+referência desse clã, pertencentes a um mesmo *sibling*, reaproximaram-se
 para estar mais próximos à aldeia tukano do Cunuri, no rio Tiquié, às
 atividades missionárias salesianas e aos pontos de parada dos
 comerciantes[^49]. Como contou Américo, depois de constituírem uma
-morada próxima à Serra-da-Cutiváia, Henrique e sua família juntaram-se à
+morada próxima à Serra da Cutiváia, Henrique e sua família juntaram-se à
 família de seu irmão, Antônio, avô de Jovino, às margens do /Ta̗t-Dëh/,
 para que também seus filhos pudessem estudar com os salesianos.
 
@@ -6221,12 +6217,12 @@ português deram os contornos de uma versão produzida através das
 conversas dos senhores hup, da explicação de Ponciano e de minha questão
 sobre os tipos de “histórias/mitos”, /pɨnɨ̖g/.
 
-Em M13, o ancestral que fuma o cigarro e entra na caverna da
-“Serra-da-Cutiváia”, /Kaj-Paç/, é justamente /Hũ̖t-Wäg/, “Semente de
+Em **M13**, o ancestral que fuma o cigarro e entra na caverna da
+“Serra da Cutiváia”, /Kaj-Paç/, é justamente /Hũ̖t-Wäg/, “Semente de
 Tabaco”, ancestral que habitou o morro em cujas proximidades o pai de
-Américo estabeleceu sua casa e suas plantações (M11). Na forma de
+Américo estabeleceu sua casa e suas plantações (**M11**). Na forma de
 pessoa, Semente de Tabaco recebeu o cigarro de /K’e̖g Te͂h/, fumou e comeu
-a coca com seu irmão menor. Vindo do Lago-de-Leite, saiu da “água, do
+a coca com seu irmão menor. Vindo do Lago de Leite, saiu da “água, do
 rio, da cobra”. Depois, entrou na caverna e passou a viver lá. O pedaço
 de beiju quebrado atesta sua presença pelos restos de seu alimento. Da
 mesma forma, as lascas de cerâmica, /b’o̗kab b’a̗h/, são os pedaços de
@@ -6237,7 +6233,7 @@ o “cigarro da origem”.
 
 Atualmente, o consumo de tabaco é feito a partir dos maços de fumo
 desfiado comprados dos regatões ou nos mercados da cidade. Muitos
-consideram esse “fumo dos brancos”forte demais por causar dores de
+consideram esse “fumo dos brancos” forte demais por causar dores de
 cabeça e tosses. Em /Ta̗t-Dëh/, apenas Manuel possui alguns pés de tabaco
 em sua roça. Recebeu de seu falecido pai, Francisco, as sementes para o
 cultivo. Em ocasiões especiais, como em rituais ou festas, ele colhe as
@@ -6264,6 +6260,7 @@ terra, não sendo preciso enterrá-las. Outra forma é lançá-las com a mão
 para que elas se espalhem pelo solo. Antigamente, em dias de vento era
 possível apenas abrir a mão e esperar que o vento as semeasse.
 
+<!-- Quadro 3. alguns tipos de tabaco. p. 179 do pdf -->
   -------------------- ---------------------
   **Tipo de tabaco**   **Tradução**
   /B’äb’äg-hu̖͂t/        Tabaco-cubiu
@@ -6313,23 +6310,23 @@ tabaco faz germinar a planta a partir da qual será feito o cigarro, o
 ancestral faz seus sucessores germinarem pela aquisição de saberes[^55].
 
 Apreende-se que esse processo estabelece as condições para o crescimento
-e desenvolvimento das plantas, dos filhos e dos narradores..
+e desenvolvimento das plantas, dos filhos e dos narradores.
 Transmitindo as sementes de tabaco e recebendo as histórias de Semente
-de Tabaco, plantando os pés decoca em roda e sentando-se em roda para
+de Tabaco, plantando os pés de coca em roda e sentando-se em roda para
 conversar e comer, os Hupd’äh participam do ambiente das plantas assim
 como as plantas participam do ambiente humano. As rodas, os modos de
 transmissão e as condições de crescimento são formas que emergem através
-do contexto de envolvimento mútuo num único e contínuo campo de relações
-(Ingold, 2000, p. 87).
+do contexto de envolvimento mútuo num único e contínuo campo de relações.
 
-#### Ver para contar
+
+###Ver para contar
 
 Nos encontros noturnos, a carne e o osso do Velho Cobra são assados e
 pilados durante o preparo da coca para a predação entre afins de um
-sogro perigoso (M9). Paralelamente, creio que a dádiva das sementes de
+sogro perigoso (**M9**). Paralelamente, creio que a dádiva das sementes de
 tabaco remeta à gênese do laço de consanguinidade pela atualização,
 geração após geração, da dádiva de /K’e̖g Tẽh/. De modo semelhante, os
-pedaços de beiju (M13) e os restos das panelas (M11) são também dádivas
+pedaços de beiju (**M13**) e os restos das panelas (**M11**) são também dádivas
 de Semente de Tabaco, pois possibilitam “ver para deixar a história”.
 Confirmam, como queria o menino Jovino, a existência do ancestral e das
 narrativas. As substâncias e as lascas vinculam os atos de fala,
@@ -6337,11 +6334,11 @@ diálogos entre irmãos, ao contexto culinário, à refeição como partilha
 de alimentos e palavras.
 
 Como me corrigiu Jovino, certa vez, os Hupd’äh não fumam tabaco como os
-Brancos, “nós chupamos o cigarro”, /ɨ̖n hũ̖t o̗no̗y/. Como visto,
+brancos, “nós chupamos o cigarro”, /ɨ̖n hũ̖t o̗no̗y/. Como visto,
 antigamente a coca também era chupada, o que caracteriza um modo próprio
 de consumo, uma etiqueta. Fumar cigarros atualmente permite intuir esse
 modo antigo de refeição, transformado ao longo dos tempos. Diferente da
-coca que é vista como uma comida, como o alimento por excelência, o
+coca, que é vista como uma comida, como o alimento por excelência, o
 tabaco é um condimento, um óleo que tempera a coca[^56]. /Hũ̖t pã̖, pũ’ũ̖k
 na̗g nɨ̗h/, “sem o tabaco a coca não tem óleo” é uma das expressões ditas
 em muitos encontros noturnos, principalmente naqueles em que há pouco
@@ -6355,7 +6352,7 @@ substâncias.
 
 Chupando a coca e o tabaco pela primeira vez, os ancestrais veem o que
 aconteceu, têm um “espírito iluminando” em suas cabeças. Esses alimentos
-de origem, substâncias irmãs,são /pɨ̗b/, “poderes”, forças que mostram
+de origem, substâncias irmãs, são /pɨ̗b/, “poderes”, forças que mostram
 os sentidos e fazem a pessoa hup adquirir habilidades para /hipã̗hã̗y/,
 “conhecer”. Em Hupd’äh, o verbo “pensar”, /wä’kë̗y/, aglutina dois
 radicais que correspondem aos verbos: /wä̗’/, “ouvir”, e /kë̗y/, “ver”.
@@ -6364,7 +6361,7 @@ nada”, ter um “espírito iluminando na cabeça” são todas imagens que
 remetem à visão que Semente de Tabaco e seu irmão menor tiveram ao
 comer, ver, falar e ouvir as histórias. Quando Jovino diz: “Quem é que
 viu para contar essa história?” e “Para ele apareceu na visão dele. Ele
-estava pensando. Os dois discutiram.” explicita que a refeição dos
+estava pensando. Os dois discutiram”, explicita que a refeição dos
 irmãos faz ver e faz conversar, altera a percepção sensorial do corpo
 para que o pensamento se torne um processo de procura entre pessoas que
 se acompanham mutuamente, assim como o alimento e seu acompanhamento.
@@ -6376,17 +6373,16 @@ como as cuias e os cigarros, entre irmãos. Nas rodas, a expressão /wä’
 dö’/, traduzida pelos Hupd’äh como “gravar”, é utilizada quando alguém
 está ouvindo uma história ou encantamento com o objetivo de aprendê-la.
 Como para os Suya, o ouvido é o órgão fundamental para que o aprendizado
-das palavras míticas e xamânicas seja incorporado pelo ato de gravar
-(Seeger, 1980).
+das palavras míticas e xamânicas seja incorporado pelo ato de gravar.
 
 Sentado ao lado do mentor, o aprendiz ouve e repete sempre a última
 palavra da fala do outro. Pode acenar com a cabeça e expressar o som:
-“hum”. É comum que aquele que ouv repita a última frase do interlocutor
+“hum”. É comum que aquele que ouve repita a última frase do interlocutor
 expressando dúvida. Tudo isso sinaliza ao narrador que o ouvinte está
 seguindo suas palavras, que está “gravando” em seu ouvido,
 acompanhando-o com o pensamento. O termo /wä’ wo̗n/ é traduzido por
-Ramirez (2006) nesse mesmo sentido como: seguir o pensamento, entender.
-O gesto de “sentar-se para escutar” é uma *ação corporal visível* que
+Ramirez nesse mesmo sentido como: seguir o pensamento, entender.
+O gesto de “sentar-se para escutar” é uma ação corporal visível que
 faz as outras pessoas presentes silenciarem para que o pensamento dos
 interlocutores continue seguindo direto, sem espalhar-se, sem perder o
 seu rumo. Dessa maneira, “sentar para conversar” é uma postura que
@@ -6398,18 +6394,18 @@ ação”, e um ouvinte que segue, acompanha. Seguindo um rumo /mɨnɨ̗g/,
 mesma”, ao longo de seu percurso guiado.
 
 Através de muitos diálogos, Ponciano ia compondo uma versão da narrativa
-a ser traduzida por seu filho para mim. Refletindo com Bauman (1977), no
+a ser traduzida por seu filho para mim. Refletindo com Bauman, no
 evento narrativo e no evento narrado, o pensamento vai surgindo com a
 refeição, fraternal ou paternal, de um “prato principal” (coca) que, bem
 temperado (tabaco), engendra visões e palavras para que os degustadores
 acompanhem-se em sua busca conjunta. De modo semelhante, ao longo do
-caminho para a Serra-da-Cutiváia, Américo pensa em seu pai, ouve seu
+caminho para a Serra da Cutiváia, Américo pensa em seu pai, ouve seu
 barulho no morro, vê a pupunheira, a plantação de coca e o lugar de
 pescar com pari. Narra histórias que ouvia do velho Henrique quando
 caminhavam juntos por aquelas terras. As narrativas falam dos seres que,
 como o pai, chegaram àquela serra e lá fizeram sua morada. Se o velho
 Henrique viera de /B’o̖t-Pe̗m-Dëh/, igarapé próximo à Serra Grande, /Hu̖͂t
-Wäg/ viera de longe também, do Lago-de-Leite viajando dentro da
+Wäg/ viera de longe também, do Lago de Leite viajando dentro da
 Cobra-Canoa. Os temas da “viagem”, da “entrada no morro” e da “morada”
 aproximam as narrativas e as experiências vividas por Américo e Jovino
 com seus pais. Configuram uma temporalidade dessas paisagens, através
@@ -6419,12 +6415,12 @@ trabalhavam, comiam e conversavam nesses lugares. Em meio à partilha dos
 /kɨhsä̗t/ ao longo de um percurso para que as visões e as palavras façam
 surgir as histórias com as pessoas para que saibam habitar o mundo.
 
-As *sementes de tabaco* e o *Semente de Tabaco* sintetizam a capacidade
+As sementes de tabaco e o Semente de Tabaco sintetizam a capacidade
 generativa das plantas associando-a à capacidade generativa dos Hupd’äh
-de recriarem as condições para ocrescimento e desenvolvimento da vida
+de recriarem as condições para o crescimento e desenvolvimento da vida
 pela concepção, pelo pensamento, pela segmentação e pela continuidade.
 Explicita-se uma relação próxima entre os atos de palavra, os atos de
-comensalidade e os atos de plantio, como *atos de relembrar* que geram
+comensalidade e os atos de plantio, como atos de relembrar que geram
 memórias, caminhos de movimento percorridos pela pessoa ao longo de sua
 vida.
 
@@ -6435,12 +6431,12 @@ aprenderem. Num certo sentido, Semente de Tabaco transmite-se a si
 mesmo, legando aos Hupd’äh a capacidade de constituírem-se como pessoas
 a partir dos saberes, dos nomes, da refeição e do pertencimento clânico.
 
-“Terminou a coca. Diz que vão descansar” foi a fala com que Jovino
+“Terminou a coca. Diz que vão descansar”, foi a fala com que Jovino
 encerrou nossa conversa naquela noite, deixando aberta a questão sobre
-os tipos de narrativas. O término o alimento, o levantar dos senhores,
+os tipos de narrativas. O término do alimento, o levantar dos senhores,
 os bocejos e os dizeres de boa noite concluíam o encontro. Buscando,
 como Reid, uma classificação que diferenciasse os gêneros narrativos,
-ouvi essa história que reúne, num mesmo *ato de rememorar,* seres e
+ouvi essa história que reúne, num mesmo ato de rememorar, seres e
 eventos que estariam separados pela diferenciação sequencial proposta
 pelo pesquisador. Naquela roda, o futuro era *progerado* e o passado
 regenerado num mesmo tempo em que os senhores hup produziam a memória e
@@ -6450,11 +6446,11 @@ distante, São Paulo, cidade que suscitava muito interesse e curiosidade.
 Querendo saber quem eram os ancestrais e quem tinha visto tais
 acontecimentos para garantir sua veracidade, Jovino foi, aos poucos,
 entendendo e ouvindo dos mais velhos e de seu pai as histórias.
-Caminhando para a Serra-da-Cutiváia, Américo se lembrava de seu pai e
+Caminhando para a Serra da Cutiváia, Américo se lembrava de seu pai e
 sentia saudades de seu irmão. Falando de minha família, eu a fazia
 presente e atenuava a saudade do meu lugar.
 
-#### Segurar o cigarro
+###Segurar o cigarro
 
 Numa manhã de junho, enquanto bebíamos caxiri depois do /bɨ’ hita̗m/,
 “mutirão”, que reuniu muitas pessoas para ajudar Jovino a capinar uma de
@@ -6465,52 +6461,51 @@ ritualmente. Em suas palavras o cigarro ia ganhando os atributos de um
 objeto fálico cujo preparo se faz à semelhança de um pênis,
 anatomicamente eficaz para o ato sexual. A folha de tabaco é “afiada” e
 origina-se do fio de cabelo da “Mulher da Caatinga”, /Mu̖n Ã̗y/, enquanto
-a folha de sororoca para enrolar o fumo, advém do cabelo da “Filha da
+a folha de sororoca para enrolar o fumo advém do cabelo da “Filha da
 Mulher da Mata”, /S’u̖g Ã̗y Tög/. Unidas, essas duas partículas femininas
-geram o cigarro que é como um pênis para penetrar as mulheres. Em M14,
+geram o cigarro que é como um pênis para penetrar as mulheres. Em **M14**,
 Ponciano mencionou também o surgimento do tabaco a partir do vômito de
 /We̖d B’ö̖’/ após ter ingerido o peixe moqueado[^57] dado pelo /M’e̖h Hup/,
-e contou da dádiva de /K’e̖g Tẽh/ no Lago-de-Leite, antes da viagem na
+e contou da dádiva de /K’e̖g Tẽh/ no Lago de Leite, antes da viagem na
 Cobra-Canoa. O narrador advertiu para os malefícios da gordura do tabaco
 e da pasta da coca que causam doenças a quem os consome sem ter sido
 benzido.
 
-> []{#M13_Tabaco .anchor}**M14.** [[]{#OLE_LINK34 .anchor}]{#OLE_LINK33
-> .anchor}**Sobre a dádiva do tabaco**
->
-> Antigamente, tinha uma folha de tabaco afiada, pontuda, que era o
-> cabelo da mulher da caatinga. Os antigos fumavam esse tabaco com uma
-> folha de sororoca da mata. Essa folha é também o cabelo da filha da
-> mulher da mata. O cigarro era preparado no formato de um pênis, com a
-> cabeça pequena e o corpo grande, como deve ser para penetrar a vagina
-> das mulheres.
->
-> Foi /M’e̖h Hup/ quem ofereceu comida e caxiri a seu genro, / We̖d B’ö̖’/.
-> Esse, um homem hup, comeu moqueado, beiju, bebeu caxiri e vomitou. De
-> seu vômito surgiu o tabaco. O tabaco tem a ver com os peixes
-> moqueados. Os diferentes tipos de tabaco têm os nomes dos diferentes
-> tipos de peixes. Só dois tem nome de árvores de fruta.
->
-> É preciso ser benzido para comer coca e fumar tabaco. A coca, o tabaco
-> e o breu têm essências ruins que ficam no testículo e a pessoa pode
-> ficar doente. O benzimento faz com que essas essências ruins saiam
-> pelos pés da pessoa. A coca tem em sua pasta a parte ruim. Já o tabaco
-> tem em sua gordura a parte ruim.
->
-> No Lago-de-Leite havia a casa dos ancestrais e o ancestral de cada
-> grupo tinha sua casa, seu banco, sua coca e seu tabaco. /K’e̖g Tẽh/ deu
-> a eles a cuia de coca, o banco e o tabaco. Quando voltou, todos tinham
-> escondido atrás de si esses poderes (Caderno de campo. 12/06/2011).
+**M14. Sobre a dádiva do tabaco**
+
+ Antigamente, tinha uma folha de tabaco afiada, pontuda, que era o
+ cabelo da Mulher da Caatinga. Os antigos fumavam esse tabaco com uma
+ folha de sororoca da mata. Essa folha é também o cabelo da filha da
+ Mulher da Mata. O cigarro era preparado no formato de um pênis, com a
+ cabeça pequena e o corpo grande, como deve ser para penetrar a vagina
+ das mulheres.
+
+ Foi /M’e̖h Hup/ quem ofereceu comida e caxiri a seu genro, / We̖d B’ö̖’/.
+ Esse, um homem hup, comeu moqueado, beiju, bebeu caxiri e vomitou. De
+ seu vômito surgiu o tabaco. O tabaco tem a ver com os peixes
+ moqueados. Os diferentes tipos de tabaco têm os nomes dos diferentes
+ tipos de peixes. Só dois tem nome de árvores de fruta.
+
+ É preciso ser benzido para comer coca e fumar tabaco. A coca, o tabaco
+ e o breu têm essências ruins que ficam no testículo e a pessoa pode
+ ficar doente. O benzimento faz com que essas essências ruins saiam
+ pelos pés da pessoa. A coca tem em sua pasta a parte ruim. Já o tabaco
+ tem em sua gordura a parte ruim.
+
+ No Lago de Leite havia a casa dos ancestrais e o ancestral de cada
+ grupo tinha sua casa, seu banco, sua coca e seu tabaco. /K’e̖g Tẽh/ deu
+ a eles a cuia de coca, o banco e o tabaco. Quando voltou, todos tinham
+ escondido atrás de si esses poderes (Caderno de campo. 12/06/2011).
 
 Atualmente, para preparar cigarros, cada pessoa conserva um estoque de
 folhas de caderno pautado, mantidas sempre próximas ao fogo de cozinha
-para que se mantenham secas e inodoas. Para a preparação do cigarro, a
+para que se mantenham secas e inodoras. Para a preparação do cigarro, a
 folha é dobrada em oito pedaços a serem destacados. Folhas escritas ou
 coloridas são evitadas, pois acredita-se que a tinta possa fazer mal e
 causar dores de cabeça. O tabaco desfiado é colocado no interior do
 pedaço de papel que é enrolado e selado com a saliva dos lábios. Para
-acender o cigarro, utilizam-se “fósforos”, /tëg s’ɨ̖k/ ou /tëg s’a̗/, e
-“isqueiros”, /tu̖j-tëg/. Os gravetos em brasa no forno são também
+acender o cigarro, utilizam-se fósforos, /tëg s’ɨ̖k/ ou /tëg s’a̗/, e
+isqueiros, /tu̖j-tëg/. Os gravetos em brasa no forno são também
 alternativas, caso haja escassez de acendedores. O maior teor de gordura
 do tabaco industrializado e a textura da folha de caderno são vistos
 como transformações que fazem o cigarro causar mais mal que os cigarros
@@ -6529,7 +6524,7 @@ de alimentos. Eram nesses encontros que as flautas Jurupari, /Döhö̗
 d’äh/, eram tocadas, podendo ser realizada a cerimônia de iniciação dos
 rapazes. Preparava-se um cigarro especial, enrolando uma folha de tabaco
 da caatinga, /hũ̖t sɨg k’e̖t/, “folha de tabaco afiada”, também chamada
-“cabelo-da-mulher-da-caatinga”, com uma variedade de folhas oriundas dos
+“cabelo da Mulher da Caatinga”, com uma variedade de folhas oriundas dos
 diversos tipos de solo da floresta como a /bed k’e̖t/ (caatinga), a /bahu
 k’e̖t/, “folha de cacau” (terra firme), a /wähuw k’e̖t/, “folha de tucumã”
 (terra firme)[^58] e /yawa̗k kẽ’ k’e̖t/, “folha de enterrar japurá” (terra
@@ -6537,7 +6532,7 @@ firme)[^59].
 
 Os antigos sentavam-se com seus cunhados (afins), bebiam caarpi comiam
 coca e acendiam o cigarro. O anfitrião, sentado, oferecia o cigarro ao
-hóspede, em pé. Cantando, este tinhaque descrever cada uma das folhas
+hóspede, em pé. Cantando, este tinha que descrever cada uma das folhas
 com que havia sido preparado o cigarro. Ao mesmo tempo, ele ia contando
 sobre suas origens a seus cunhados. Aquele que estivesse ouvindo, diante
 do cantador, não podia pegar o cigarro enquanto o outro não tivesse
@@ -6558,48 +6553,47 @@ intenções frustradas[^60].
 
 Ao “segurar o cigarro” a pessoa atende a um chamado feito por um /yo̖h/,
 “cunhado”, que inicia a ação da mesma forma que os /kɨhsä̗t/ começam as
-atividades coletivas. Em M14, /K’e̖g Tẽh/ dá o cigarro e, assim, chama os
+atividades coletivas. Em **M14**, /K’e̖g Tẽh/ dá o cigarro e, assim, chama os
 ancestrais para a existência no novo mundo, do mesmo modo como havia
 feito um chamado para que a humanidade, respondendo, começasse a existir
-no Lago-de-Leite (M2). O canto das origens é realizado a partir de um
+no Lago de Leite (**M2**). O canto das origens é realizado a partir de um
 ponto de vista agnático próximo à partilha da coca e ao tabaco que geram
 atos de relembrar, fundamentais para que a pessoa hup, constituindo-se,
-faça surgir histórias e saberes. Entretanto, diferente de M13, em M14 a
-dádiva do deus no Lago-de-Leite se dá num momento em que ancestrais de
+faça surgir histórias e saberes. Entretanto, diferente de **M13**, em **M14** a
+dádiva do deus no Lago de Leite se dá num momento em que ancestrais de
 clãs diversos estão reunidos entre afins, a mesma forma de interação que
 ocorre durante o oferecimento do cigarro nos Dabucuris.
 
 Sendo a coca, o tabaco e o banco poderes que fazem surgir as histórias
-da origem aos filhos (M13), entendo que “segurar o cigarro”, narrar a
-“história das origens” e “descrever asfolhas” sejam modos de ação que
+da origem aos filhos (**M13**), entendo que “segurar o cigarro”, narrar a
+“história das origens” e “descrever as folhas” sejam modos de ação que
 fazem o indivíduo apresentar-se como uma pessoa plena, conhecedora dos
 diferentes ambientes e solos em que germinam as plantas com que seus
 cunhados preparam o cigarro e da singularidade de seu clã perante os
 outros. Nesse sentido, o cantador “busca as folhas” em distintas
 paisagens que compõem o território do ofertante para preparar o cigarro
 através da tessitura da palavra, dos fios da vida e do objeto que
-segura. Faz as relações de afinidade surgirem *via* cigarro, e o cigarro
-surgir *via* afinidade (Gell, 1998, p.12). Por isso, haja talvez a
+segura. Faz as relações de afinidade surgirem via cigarro, e o cigarro
+surgir via afinidade. Por isso, haja talvez a
 ligação entre essa *performance* e o modo formal de realizar o pedido da
 noiva, apresentando as habilidades de convivência e de trabalho que
 fazem a pessoa estar apta ao casamento. Além disso, o cantador demonstra
 sua capacidade de compreender a existência social hup como uma
-*singularidade dividida* (Viveiros de Castro, 2002, p. 293).
+singularidade dividida.
 
 “Segurar o cigarro” mostra-se fundamental a essa forma de sociabilidade,
 já que é um sogro ou um cunhado (afim) quem o oferece para que o outro
-“faça surgir a história com a sua pessoa” (M13). É preciso tecer os
+“faça surgir a história com a sua pessoa” (**M13**). É preciso tecer os
 sentidos da própria história naqueles da história do cigarro. O diálogo
 cerimonial constitui um modo de observar e revelar-se a si mesmo, numa
-*reflexividade* que faz a pessoa relembrar as condições de seu
+reflexividade que faz a pessoa relembrar as condições de seu
 crescimento e desenvolvimento, trazendo à vida seus ancestrais, seu
-nome, seu clã para incluir-se num Nós e diferenciar-se daqueles que
-oferecem o cigarro (Turner, 1988). O ato de “segurar o cigarro”
+nome, seu clã para incluir-se num “nós” e diferenciar-se daqueles que
+oferecem o cigarro. O ato de “segurar o cigarro”
 coloca-se como um gesto de fusão dos pontos de vista com a conversão da
-distância extensiva e extrínseca em diferença intensiva (Viveiros de
-Castro, 2002).
+distância extensiva e extrínseca em diferença intensiva.
 
-Em M14, a folha de tabaco é vista como o cabelo da mulher da “caatinga”,
+Em **M14**, a folha de tabaco é vista como o cabelo da mulher da “caatinga”,
 /mu̖n/, tipo de paisagem caracterizada por floresta de vegetação baixa e
 solo arenoso, considerada ruim para a plantação de maniva ou coca[^61].
 São os locais de /mu̖n/ os mais buscados para a construção dos
@@ -6614,25 +6608,25 @@ buscado para a constituição das comunidades e para a abertura de roças.
 
 Desse modo, as caatingas são lugares adequados para a habitação humana
 temporária durante os acampamentos, enquanto as áreas de terra-firme são
-buscadas para a consolidação das aldias e das roças[^62]. Ora, a
+buscadas para a consolidação das aldeias e das roças[^62]. Ora, a
 maioria das folhas mencionadas por Miguel para envolver o tabaco é
 originária de áreas de “terra firme”, podendo ser solos trabalhados
 pelas roças, ou ser o solo das áreas de mata. Mesclando elementos das
 áreas de floresta e caatinga, o cigarro é preparado como um nexo entre
 essas duas paisagens relacionadas à sociabilidade das viagens e ao
 convívio mais permanente na aldeia. A folha de tabaco, parte de uma
-planta que cresce na caatinga, é também o cabelo da “mulher da
-caatinga”. Já a folha de sororoca, usada para envolver o tabaco, é o
-“cabelo da filha da mulher da mata”, algo que remete à origem não
+planta que cresce na caatinga, é também o cabelo da Mulher da
+Caatinga. Já a folha de sororoca, usada para envolver o tabaco, é o
+“cabelo da filha da Mulher da Mata”, algo que remete à origem não
 cultivada. Na combinação entre elementos femininos das folhas da mata e
 da caatinga, mesclam-se os fios de cabelo de uma mulher mãe e de uma
 filha. Ao mesmo tempo, descrevendo as folhas do cigarro preparadas a
 partir de fios de cabelo femininos, a aliança apresenta-se como um modo
-de reciprocidade entre as gerações de afins. Pensando com Ingold (2000,
-p. 198), as histórias são tramadas ao longo dos ciclos rituais de
+de reciprocidade entre as gerações de afins. Pensando com Ingold,
+as histórias são tramadas ao longo dos ciclos rituais de
 plantas e pessoas numa textura de superfície.
 
-Enquanto contava M14, Ponciano desenhou o cigarro dos antigos na areia
+Enquanto contava **M14**, Ponciano desenhou o cigarro dos antigos na areia
 com uma extremidade pontiaguda e um corpo largo e cheio. As linhas que
 compõem o desenho vão acompanhando sua descrição do cigarro cerimonial
 como um objeto fálico preparado a partir de cabelos/folhas femininas. As
@@ -6646,26 +6640,26 @@ se dar de modo apropriado entre afins, consumando a “boa aliança”. A
 penetração correta gera a vida, proporciona a sucessão clânica, a
 transmissão das histórias e, paralelamente, a troca de mulheres entre os
 grupos[^63], de mulheres que serão mães numa geração (0) e filhas na
-subsequente (-1). Tomando as palavras de Lévi-Strauss (2004, p. 213), “o
+subsequente (-1). Tomando as palavras de Lévi-Strauss<!--  (2004, p. 213), “o
 consumo é entendido ora no sentido próprio (alimentar), ora no sentido
-figurado (sexual) e, em algumas vezes, em ambos os sentidos \[...\]”.
+figurado (sexual) e, em algumas vezes, em ambos os sentidos \[...\]”. criar rodapé com referência ou manter assim?-->
 Entretanto, o caráter laminar do objeto parece também explicitar os
 limites e interdições para a troca em termos da inabilidade para o
 preparo do cigarro, do uso incorreto da palavra, do canto e da
 incompreensão do gesto de oferecimento e devolução. Como o /Aije/
-bororo, entendo que no ato de “segurar o cigarro” haja a “regulamentação
+bororo, entendo que no ato de “segurar o cigarro” haja a <!-- “regulamentação
 da sexualidade, assim como a representação da vida humana e social”
-(Caiuby Novaes, 1994, p. 184).
+(Caiuby Novaes, 1994, p. 184). criar rodapé ou manter assim? -->
 
 Essa dimensão fálica do cigarro faz lembrar algumas passagens de
 narrativas de “más alianças” ou de “incestos” que apontam para os
 perigos, limites ou problemas nas relações de afinidade. Enquanto
-caminhávamos para a Serra-da-Cutiváia, Américo contou do pássaro
+caminhávamos para a Serra da Cutiváia, Américo contou do pássaro
 /U̖y-Ta̖k/ que, frustrado em sua tentativa de encontrar mulher, “comeu o
 irmão mesmo”, ato incestuoso realizado pela impossibilidade de encontrar
-mulher. Em M4, o pênis pequeno do marido hup e a vagina grande de /Dö̗h
-Ã̗y/ fazem com que ela devore seu esposo e case-se com o “macaco da
-noite” possuidor de um pênis grande. Já em M1, em vez de penetrar a
+mulher. Em **M4**, o pênis pequeno do marido hup e a vagina grande de /Dö̗h
+Ã̗y/ fazem com que ela devore seu esposo e case-se com o Macaco da
+Noite possuidor de um pênis grande. Já em M1, em vez de penetrar a
 esposa com seu pênis, o /b’atɨ̖b’/ joga uma lança que perfura a mulher
 pelas costas e atravessa-lhe o peito, matando-a. Nesse sentido, o marido
 de Matumã (M8) pode ser visto como um mau marido por permanecer tempo
