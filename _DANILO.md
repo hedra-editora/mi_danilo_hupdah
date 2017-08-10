@@ -91,7 +91,7 @@ Segunda Parte
 
 5.4 No caminho da lagarta do tabaco
 
-6. Lagos-de-Leite
+6. Lagos de Leite
 
 6.1 /Bisi̗w/ e a Casa-dos-Animais
 
@@ -203,7 +203,7 @@ Segunda Parte
 
 [341 362](#section-18)
 
-[M18. “Serra-da-Iniciação” 362](#m18.-serra-da-iniciação)
+[M18. “Serra da Iniciação” 362](#m18.-serra-da-iniciação)
 
 [370 362](#section-19)
 
@@ -369,7 +369,7 @@ livro podem ser encontrados índices dos mitos e benzimentos.
 
 #Introdução
 
-## Viagem ao Tiquié
+##Viagem ao Tiquié
 
 As águas escuras escorrem por entre as árvores. Caminhos líquidos pisam
 e repisam o solo da densa mata. Esculpem os contornos das paredes de
@@ -656,7 +656,7 @@ parentes, que são também uma fonte inesgotável de causos e lembranças.
 Mas suponho que o gosto pelas notícias que eu trazia e o interesse por
 São Paulo tenham algo a ver com a própria história de origem de seus
 ancestrais, os /hib’ah te͂h d’äh/. Saídos do Rio de Janeiro, do
-/Pu̗d-dëh-moh/, o “Lago-de-Leite”, os antepassados dos Hupd’äh viajaram
+/Pu̗d-dëh-moh/, o “Lago de Leite”, os antepassados dos Hupd’äh viajaram
 por muito tempo dentro da /M’e̖h Hõh Tëg/, a “Cobra-Canoa”. Depois de ter
 chamado os seres humanos à existência, /K’e̖g Te͂h/ fez a Cobra-Canoa e
 mandou que todas as Gentes-Peixe embarcassem e rumassem para a região do
@@ -809,7 +809,7 @@ saberes. Espero, com esse trabalho, descrever
 um pouco esses aspectos da existência dos Hupd’äh que, com a amizade de
 Henrique, começaram a fazer parte de minha própria história.
 
-## Olhares para os Hupd’äh
+##Olhares para os Hupd’äh
 
 Os Hupd’äh habitam a região do Alto Rio Negro (AM), na fronteira entre
 o Brasil e a Colômbia. Suas comunidades situam-se às margens de igarapés
@@ -955,7 +955,7 @@ crítica da literatura sobre os povos maku feita por Bruno Marques
 pesquisadores que se dedicaram ao estudo dos povos maku. 
 
 O primeiro estudo etnográfico detalhado sobre um grupo maku, os
-Bara-Maku (Kákwa), foi realizado por Peter Silverwood-Cope (1972). O
+Bara-Maku (Kákwa), foi realizado por Peter Silverwood-Cope em 1972. O
 autor salienta que um dos objetivos de sua pesquisa foi o de contribuir
 para aumentar o conhecimento sobre os povos maku, já que era reduzido o
 número de pesquisas e eram poucos os dados existentes até então. Antes
@@ -1373,7 +1373,7 @@ paisagens e o engajamento mútuo em processos de transformação ao longo do mun
 
 (Dominguinhos/Chico Buarque)
 
-## Um viajante
+##Um viajante
 
 No dia 20 de abril de 1903, o então auxiliar científico do Museu
 Etnológico de Berlim Theodor Koch-Grünberg deixava a Alemanha rumo ao
@@ -1512,7 +1512,7 @@ outras etnias para elaborar seus apontamentos sobre os Maku. Os aspectos
 negativos revelam um complexo jogo especular na oposição entre esses
 “índios do mato” e seus vizinhos, povos sedentários, que serão
 denominados mais tarde “índios do rio”. Da perspectiva dos índios tukano,
-por exemplo, o modo de vida Maku é tomado como modelo do não-humano e do
+por exemplo, o modo de vida Maku é tomado como modelo do não humano e do
 animalesco. Para esse povo, os Maku habitam a floresta, não têm
 moradias fixas, não possuem conhecimentos sobre rituais nem
 ornamentos, casam-se com aqueles que falam a mesma língua,
@@ -1856,9 +1856,9 @@ o foco na mobilidade possibilitará a Peter Silverwood-Cope e Howard Reid
 uma profunda crítica etnográfica aos paradigmas evolucionistas que
 vinham informando o modo de reflexão científica sobre os povos Maku.
 
-# Outros viajantes
+##Outros viajantes
 
-## Peter Silverwood-Cope e Howard Reid
+###Peter Silverwood-Cope e Howard Reid
 
 Em outubro de 1968, Peter Silverwood-Cope viajou com Stephen e
 Christine Hugh-Jones para o rio Pira Paraná em busca de grupos maku na
@@ -1897,7 +1897,7 @@ uma crítica etnográfica às abordagens influenciadas por Koch-Grünberg,
 ao mesmo tempo em que consolidam um modo diferente de reflexão sobre a
 mobilidade dos povos maku. 
 
-## Contraposições
+###Contraposições
 
 Silverwood-Cope contrapõe-se à perspectiva difundida por
 Koch-Grünberg já nas primeiras linhas de seu trabalho, que “Os Maku eram
@@ -1929,7 +1929,7 @@ grau de escravidão. (1990, p. 74)
 Nas linhas finais de sua tese, o antropólogo ressalta a importância de
 uma revisão da categorização desses povos como sendo caçadores e
 coletores nômades muito primitivos, que vêm sendo assimilados e
-escravizados por povos agricultores invasores (Silverwood-Cope, p. 103).
+escravizados por povos agricultores invasores.
 Com relação ao argumento sobre os “Maku escravos”, Silverwood-Cope
 relata ter observado casos de escravidão por dívida que atingiam tanto
 índios Tukano quanto índios Maku, não havendo a exclusividade desses
@@ -1970,7 +1970,7 @@ subordinação aos agricultores sedentários, e passa a ser um aspecto
 inerente à sociabilidade, às atividades produtivas, e mesmo à identidade
 dos Maku. 
 
-## Dois irmãos
+###Dois irmãos
 
 <!-- Estilo de citação -->
 Esse /Häw/ comia coca. Eu o conheci lá em /Pɨ̖͂g-Dëh/
@@ -2021,7 +2021,7 @@ Aproximando-me de Ingold, entendo que, movendo-se com
 os Hupd’äh e Bara-Maku no ambiente da floresta, os /ingledäh/ iam
 conhecendo o mundo, inserindo-se num processo mútuo e generativo. Peter,
 correndo com seu tênis de basquete pela floresta, e /Häw/, caminhando
-pela mata, descalço, com sua zarabatana, tornavam-se “outros”, Brancos
+pela mata, descalço, com sua zarabatana, tornavam-se “outros”, brancos
 diferentes, e conduziam seus objetivos de vida num campo de relações com
 pessoas como o senhor João.
 
@@ -2048,7 +2048,7 @@ descreve os movimentos dos Bara-Maku em termos de padrões de mobilidade.
 O “ritmo” e o “sentimento de interação humana” variam de acordo com
 esses ambientes importantes para o comportamento social e econômico.
 
-Analisando a *adaptação ecológica* à floresta tropical, Silverwood-Cope
+Analisando a adaptação ecológica à floresta tropical, Silverwood-Cope
 tenta mostrar como, em contraste com os “índios do rio”, os Maku se
 sentem bem na floresta, possuindo vasto conhecimento de trilhas que se
 estendem por grandes áreas de floresta. Durante as caminhadas,
@@ -2290,7 +2290,7 @@ com os Hupd’äh e com os Bara-Maku, /Häw/ e Peter vão deixando de ser
 viajantes ao modo de Koch-Grünberg e aceitando aprender sobre a
 mobilidade com esses “outros viajantes”.
 
-## Paradoxo?
+##Paradoxo?
 
 A “história do Häw” foi contada por João em uma roda enquanto
 conversávamos, fumávamos e comíamos coca no início da noite. Em suas
@@ -2616,7 +2616,7 @@ educação da atenção a partir dos quais, ao mostrarem sentidos uns aos
 outros, revelam seus engajamentos perceptuais totais com o mundo vivido.
 
 
-## Algumas considerações 
+##Algumas considerações 
 
 É possível dizer que os aspectos de
 mobilidade descritos por Koch-Grünberg definem um modelo de natureza e
@@ -2649,9 +2649,9 @@ movediça. Tenta-se aqui religar os movimentos aos padrões de
 mobilidadeos mapas aos decalques ou as árvores-raízes aos rizomas, na
 perspectiva de Deleuze e Guattari. A partir de experiências
 vividas mutuamente entre o pesquisador e seus interlocutores, procuro
-situar-me no meio de oposições como “movimento vs. repouso”, “fluidez vs. forma”,
-“mobilidade vs. imobilidade”, “caos vs. ordem”, “simetria vs.
-assimetria”, “sedentário vs. nômade” uma orientação não dicotômica ou
+situar-me no meio de oposições como “movimento *vs.* repouso”, “fluidez *vs.* forma”,
+“mobilidade *vs.* imobilidade”, “caos *vs.* ordem”, “simetria *vs.*
+assimetria”, “sedentário *vs.* nômade” uma orientação não dicotômica ou
 tipologizante para descrever não as unidades de sentido ou a totalidade
 da “cultura hup”, mas as dimensões, as direções movediças percorridas
 pelos Hupd’äh ao longo de suas existências. 
@@ -2673,9 +2673,9 @@ pelos Hupd’äh ao longo de suas existências.
 (Almir Sater)
 
 
-## Serra Grande
+##Serra Grande
 
-### Pescando onças
+###Pescando onças
 
 30 de março de 2012
 
@@ -2839,7 +2839,7 @@ experimentando a superfície plana onde arbustos e pedras disputavam
 espaço. Nessa entrada, soldados tinham tentado construir uma casa.
 Segundo Demétrio, trouxeram baterias, panelas, redes. Moraram por algum
 tempo no canto para onde olhávamos. Quando iam começar a fazer sua base,
-surgiu ameaçadoramente o “dono da Serra-Grande”, /Paç-Pö̗g yo’o̖m ĩh/. Os
+surgiu ameaçadoramente o “dono da Serra Grande”, /Paç-Pö̗g yo’o̖m ĩh/. Os
 soldados foram embora correndo. Nem se lembraram de suas coisas. Foram
 os Hupd’äh da comunidade de /Tõ̗h-Haya̗m/, “Santo-Atanásio”, que
 encontraram seus pertences abandonados no topo da serra.
@@ -2933,7 +2933,7 @@ gente ali, tem gente ali”, Mandu apontava para o meio da selva de onde
 pareciam vir os ecos. A visão de longe, em perspectiva, era também uma
 possibilidade de audição em perspectiva. Em seu grito e no comentário de
 Mandu, de certo modo, a gênese da humanidade era retomada. (**M2**) No /Pud-dë̖h-mo̗h/, 
-no Lago-de-Leite, /K’e̖g Tẽh/ gritou e a humanidade respondeu.
+no Lago de Leite, /K’e̖g Tẽh/ gritou e a humanidade respondeu.
 E foi assim que surgiram os Hupd’äh, contou-me Miguel em uma roda de
 coca semanas antes[^15].
 
@@ -2990,7 +2990,7 @@ morro e ele a colocou bem na beira do lago/poço. Mas, tempos depois,
 pessoas de /Tõ̗h-Haya̗m/ vieram, tiraram a imagem e levaram-na embora.
 
 Com os banhos dos presentes e a enunciação de certas regras e
-interdiões começa a delinear-se uma sequência articulada de ações que
+interdições começa a delinear-se uma sequência articulada de ações que
 são repetidas de forma semelhante por todos. Um processo de condensação
 ritual passa a ocorrer através desses procedimentos que situam a busca
 pela purificação do sopro vital e do fortalecimento do corpo. Se, ao
@@ -3025,7 +3025,7 @@ na̖m/ ou curare[^17] (*Menispermaceae*), veneno para matar animais. Um
 mês antes, Ponciano havia me mostrado o pote de cerâmica onde guardava
 seu curare e contou-me uma narrativa sobre o surgimento do curare.
 
- **M3.** **/K’e̖g Tẽh/ e o aparecimento do curare**
+ **M3. /K’e̖g Tẽh/ e o aparecimento do curare**
 
  Certa vez, /K’e̖g Tẽh/ pegou sua flecha e foi caçar. Foi caminhando
  pela mata, até que ouviu dois tucanos no alto de uma árvore. Ele
@@ -3158,11 +3158,11 @@ que gera medo e terror àqueles que começam a ouvir seu chamado. Assim,
 /Dö̗h A̗͂y/, gritando no alto do morro, estava chamando sua presa, no caso
 meus companheiros e eu.
 
-Em M1, o /b’atɨ̖b’/ também “chama” seu cunhado para a pescaria por duas
+Em **M1**, o /b’atɨ̖b’/ também “chama” seu cunhado para a pescaria por duas
 vezes. Na primeira, ele aceita o chamado e segue com o /b’atɨ̖b’/ para
 pescar sarapós, mas atemoriza-se e abandona o companheiro depois de ver
 que as onças eram traíras de /b’atɨ̖b’/. Na segunda, ele atende ao
-chamado para depois fugir definitivamente com sua irmã. Em M2 e M3, é o
+chamado para depois fugir definitivamente com sua irmã. Em **M2** e **M3**, é o
 chamado de /K’e̖g Tẽh/ que faz surgir a humanidade e aparecerem os
 tucanos para serem abatidos. O ato de chamar a presa pode ser visto como
 um ato comum a diversas situações de caça e revela uma espécie de
@@ -3172,7 +3172,7 @@ ajudar a entender a importância desses chamados na relação com outros
 seres.
 
 Mandu seguiu na frente quando retomamos o caminho. Íamos num passo
-ritmado percorrdo a trilha que tinha a largura exata de nossos corpos.
+ritmado percorrido a trilha que tinha a largura exata de nossos corpos.
 Por vezes, apenas as hastes partidas de uma folha delineiam os traços na
 mata. Começamos a ouvir o canto de um /yë̖ç/, “jacu”[^20]. O som foi
 tornando-se mais alto a cada passo até que o caçador parou. Com seu
@@ -3193,15 +3193,15 @@ barulho do movimento do animal, leva as mãos à boca e cria um aparente
 aerofone para emitir sons que se assemelhem aos emitidos pelo animal em
 sua “fala”, /ɨ̗d/, ou “canto”, /ya̗m/. Em M3, para caçar os tucanos, /K’e̖g
 Tẽh/ também chama a presa que surge para ser abatida por sua flecha.
-Também a atitude de /Dö̗h A̗͂y/ e a do /b’atɨ̖b’/ (M1) podem ser vistas como
+Também a atitude de /Dö̗h A̗͂y/ e a do /b’atɨ̖b’/ (**M1**) podem ser vistas como
 “chamados à presa” que, nesses casos, são humanas.
 
 O momento de encontro entre caçador e presa pode ser percebido como
 propício para o estabelecimento de um diálogo entre humano e animal por
 meio do qual um toma o ponto de vista do outro, entendo que Mandu e
-/K’e̖g Tẽh/ (M3), realizando imitações sonoras dos animais para
+/K’e̖g Tẽh/ (**M3**), realizando imitações sonoras dos animais para
 chamá-los, buscam alterar suas posições no contexto de diálogo com as
-presas. Nesse sentido, o /b’atɨ̖b’/ (M1), chamando seu cunhado, está
+presas. Nesse sentido, o /b’atɨ̖b’/ (**M1**), chamando seu cunhado, está
 também chamando a presa, já que altera os contextos de diálogo com as
 substituições[^22] do sarapó pela traíra e depois da onça pelos
 humanos. Ao vestir sua roupa, /Dö̗h A̗͂y/ em seu modo de interagir com o
@@ -3209,7 +3209,7 @@ marido, também altera sua posição para devorá-lo.
 
 Os Hupd’äh dizem que o animal “surge”, “aparece”, /hũ̗ baha̗d/,
 estabelecendo-se assim um diálogo interpessoal entre as partes. A
-analogia com o chamado de /K’e̖g Tẽh/ (M2) na gênese da humanidade faz
+analogia com o chamado de /K’e̖g Tẽh/ (**M2**) na gênese da humanidade faz
 pensar que, ocupando posições nesse contexto dialógico, humanos e
 animais passam a existir, surgem reciprocamente uns para os outros.
 
@@ -3301,7 +3301,7 @@ Mas, voltando ao “chamado da /Dö̗h A̗͂y/”, ao “chamado dos animais” 
 “chamar como /popo̗ hup/”, pode-se entender a importância de saber
 posicionar-se nesses contextos de diálogo e de estar ciente do perigo
 que uma pessoa pode correr caso, ao atender a um chamado, ocupe o lugar
-de presa, como no caso do homem hup e seu cunhado, o /b’atɨ̖b’/ (M1). Na
+de presa, como no caso do homem hup e seu cunhado, o /b’atɨ̖b’/ (**M1**). Na
 interação entre o Vaga-Lume e o Besouro, o primeiro pode ser visto como
 um /kɨhsät/ por chamar a ação e por iluminar o caminho. Não atendendo ao
 chamado de pronto, o Besouro revela-se um mau “acompanhante”, restando
@@ -3327,7 +3327,7 @@ GPS, a câmera fotográfica e as pilhas.
 Os viajantes vieram todos à casa de Américo, onde eu estava. Sentamos,
 conversamos, comemos  fumamos juntos. Acertamos os últimos detalhes da
 viagem. “Vamos comer bem na mata, o Demétrio é bom caçador. Ele vai
-matar /ha̖t/, /moytu̖d/, /yë̖w/[^25]”, dizia Mandu enquanto pegava um pouco
+matar /ha̖t/, /moytu̖d/, /yë̖w/[,dizia Mandu enquanto pegava um pouco
 de minha farinha e uma rede emprestada. As crianças passavam correndo e
 brincavam dizendo que as onças iam me comer, que a /Dö̗h A̗͂y/ ia me levar
 embora. Todos estavam com suas botas de borracha calçadas para a
@@ -3453,7 +3453,7 @@ atenção para seus próprios movimentos práticos para o ambiente, pode-se
 ter a dimensão de como esse andar coletivo envolve a todos num processo
 de aquisição de habilidades. Saber observar os
 movimentos e índices de presença de outros seres, chamá-los através de
-imitações sonoras são ações comuns a Mandu, Patrício e /K’e̖g Tẽ̖h/ (M3)
+imitações sonoras são ações comuns a Mandu, Patrício e /K’e̖g Tẽ̖h/ (**M3**)
 nos encontros com os animais. Tais habilidades permitem que se situem em
 contextos de diálogo com seres com os quais coabitam.
 
@@ -3756,8 +3756,8 @@ nu̗p/, “Muito triste isso”, diziam retomando o caminho e a cadência dos
 passos.
 
 Logo depois, passamos por um outro lugar onde mais pessoas tinham
-morrido. Com uma expressão séria, Samuel ontou que andávamos pela
-“caatinga da bixiga”, /Pap dö̗h mu̖n/. Muitas pessoas tinham morrido ali
+morrido. Com uma expressão séria, Samuel contou que andávamos pela
+“caatinga da bexiga”, /Pap dö̗h mu̖n/. Muitas pessoas tinham morrido ali
 dessa doença dos brancos que atingiu a antiga comunidade como uma peste.
 Os andarilhos olharam ao redor dessa clareira, mas não pararam.
 Retomando as narrativas da expulsão dos soldados do topo da Serra Grande
@@ -3765,7 +3765,7 @@ e da retirada da imagem de Jesus da beira do lago, entende-se melhor
 como esses espaços constituem locais de disputa. Memórias carregadas de
 tensões, a percepção desses espaços e as narrativas ouvidas de seus pais
 aproximam o modo como meus companheiros entendem esses lugares como
-espaços da morte.
+“espaços da morte”.
 
 O espaço da morte revelava uma história de violência e crueldade nos
 confrontos com brancos e Tukano. Seus ancestrais tinham sido
@@ -3780,7 +3780,7 @@ Tukanos para a caça ao tatu canastra e para o conhecimento do repertório
 bélico destrutivo dos brancos. Já no caso do lugar do confronto com
 brancos e Tukanos, a tensão carregada pelo termo /tëg-hõ̗ ĩh/ vem à tona
 nessas cenas de morte evocadas pela memória. A peste da “caatinga da
-bixiga” é retomada também com assombro pelas mortes causadas por essa
+bexiga” é retomada também com assombro pelas mortes causadas por essa
 “doença de branco”. Vejo a “retirada da imagem de Jesus”, a “expulsão
 dos soldados” e as “flechas com curare” como sendo ações combativas e
 tentativas dos habitantes desses lugares de contraporem-se ao terror
@@ -3861,7 +3861,7 @@ constante. Revertia-se na produção de grande quantidade de alimento, em
 contraste com a caça, realizada ao longo do caminho, mas que gerava o
 abate de poucas presas.
 
-Retomando M1, é possível ver em que medida caça e pesca são tomadas como
+Retomando **M1**, é possível ver em que medida caça e pesca são tomadas como
 transformações perspectivas. O que para o /b’atɨ̖b’/ era minhoca e
 traíra, ou seja, pesca, para o homem hup era paca e onça, ou seja, caça.
 Na interação entre homem hup e seu cunhado, essas perspectivas em jogo
@@ -3926,7 +3926,7 @@ Samuel, reforçando a eficácia de nossa proteção.
 
 01 de março de 2012
 
-Na volta, cansados e famntos, chegamos finalmente ao sítio do Armando.
+Na volta, cansados e famintos, chegamos finalmente ao sítio do Armando.
 Conforme fomos entrando, todos derrubaram suas coisas no chão coberto da
 cozinha coletiva e foram cumprimentar cada um dos presentes. As mãos
 estendidas das mulheres e dos homens que nos esperavam iam sendo
@@ -3946,7 +3946,7 @@ alguns deitados, outros sentados, começamos a conversar.
 Ao meu lado, Mandu e Demétrio começaram a negociar comigo as trocas pela
 ajuda que tinham dado na viagem. Elaboramos uma lista com alguns itens
 como botas, facões, meias, redes, os quais seriam, segundo eles,
-utilizados também na incursão do próximo ano. Aujdei Demétrio a redigir
+utilizados também na incursão do próximo ano. Ajudei Demétrio a redigir
 um pedido à FUNAI para a aquisição de um tacho comunitário para
 prepararem beijus. As trocas eram vistas como recompensas pelas
 dificuldades passadas e, no meu caso, por terem “tomado conta de mim”,
@@ -3982,7 +3982,7 @@ ter ido à /Paç- Pö̗g/, iria beber o /bi’i̖d kapi/, o “caarpi benzido”
 o pajé Armando para ver se iria tornar-se /sä̗w/, “pajé”, /kä̗d hup ĩ̖h/,
 “xamã do banco”, ou /bi’i̖d hup ĩ̖h/, “xamã do sopro”. Seus irmãos não
 sabem benzimentos. Apenas ele foi quem começou a aprender. Jovino e
-Sabino estudaram muito a “cultura dos Brancos”, mele é quem estava
+Sabino estudaram muito a “cultura dos brancos”, mele é quem estava
 estudando a “cultura dos hup”.
 
 As três categorias que diferenciam os praticantes do xamanismo hup serão
@@ -4125,7 +4125,7 @@ viver com o marido no interior da /Paç-Pö̗g/.
 Quando Samuel e Demétrio começaram a contar essa história, já estávamos
 consumindo coca, caxiri e tabaco. As cuias iam sendo servidas
 alternadamente por João Paulo, o dono da coca, e pelas mulheres, donas
-das panelas de caxiri. Em M8, os narradores contam sobre a incursão à
+das panelas de caxiri. Em **M8**, os narradores contam sobre a incursão à
 pesca feita por um grupo hup numa região próxima à /Paç-Pö̗g/. Um
 /b’atɨ̖b’/, /Tõg Tẽg/, morador de uma das serras, aproxima-se para olhar
 as roupas e os ornamentos dos pescadores hup. Mas o pajé já esperava por
@@ -4136,7 +4136,7 @@ rituais em que as flautas sagradas são tocadas e exibidas aos jovens. A
 flauta que soa é, a um só tempo, o pajé e o instrumento, assim como as
 flautas atuais são os ancestrais do clã que vivem novamente pelo sopro,
 pelo movimento do ar em seus corpos. O som é sua “fala”, /ɨ̗d/, e,
-talvez, no contexto de M7, possa ser tomado como um chamado semelhante
+talvez, no contexto de **M7**, possa ser tomado como um chamado semelhante
 aos chamados de caça que, através da imitação, buscam fazer o animal
 surgir. Chamando os homens hup, a flauta atemoriza o /b’atɨ̖b’/, que
 corre com medo. Também Samuel e eu corremos de medo quando ouvimos o
@@ -4145,7 +4145,7 @@ imitação do som da flauta por Demétrio talvez tenha a ver com o lugar de
 presa e de mulher que o /b’atɨ̖b’/ /Tõg Tẽg/ ocupa nesse enfrentamento
 com o pajé-flauta.
 
-Já M8 trata da saída de um homem para caçar e do descumprimento de uma
+Já **M8** trata da saída de um homem para caçar e do descumprimento de uma
 interdição por parte de sua esposa, Matumã, ao preparar beiju com
 semente de ucuqui enquanto estava menstruada. Surge o jovem-onça que
 toca a flauta /pĩ̖h/, encanta-a ao pingar pussanga, um feitiço de
@@ -4155,7 +4155,7 @@ em que homens e mulheres bailam abraçados lado a lado. Dizem que o som
 da /Pĩ̖h/ deixa as mulheres /Mi͂ni̗͂g/, “loucas pelo homem”. Há, dessa
 maneira, um “chamado sedutor” que faz com que a mulher hup seja roubada
 de seu esposo e de seus filhos. Num outro plano, se são os mortos que
-vão morar na Serra Grande (M6), o “chamado sedutor” pode ser visto como
+vão morar na Serra Grande (**M6**), o “chamado sedutor” pode ser visto como
 uma predação por uma onça que faz com que toda a família passe a habitar
 a serra, uma morada dos mortos. É para evitar predação semelhante que o
 homem hup em M1 simula atender ao “chamado do b’atɨ̖b’ ” para depois
@@ -4173,12 +4173,12 @@ outras serras. A viagem rememorada por Samuel, entre mitos e lembranças,
 abria também a possibilidade de seu devir xamânico. Os eventos
 narrados falavam dos perigos nas relações entre os seres que atuam num
 mesmo ambiente sejam eles homens, mulheres, animais ou /b’atɨ̖b’/.
-Percebendo a centralidade do papel do pajé em M7, suponho que nossa
+Percebendo a centralidade do papel do pajé em **M7**, suponho que nossa
 conversa falava da importância da ação xamânica e da prática das
 viagens.
 
 Como conta Reid sobre o xamanismo hup, para tornar-se um xamã o
-noviço deve submeter-se a um controle rígido sobre a dieta e ocomportamento. Segundo o antropólogo, através do treinamento, a pessoa
+noviço deve submeter-se a um controle rígido sobre a dieta e o comportamento. Segundo o antropólogo, através do treinamento, a pessoa
 adquire uma maior capacidade de libertar a alma do corpo e viajar pelo
 espaço-tempo, pelas casas cosmológicas e encontrar seres sobrenaturais.
 Dormindo em “lagoas de /b’atɨ̖b’/”, andando por “caminhos, roças e
@@ -4714,7 +4714,7 @@ derramado na cuia e entregue aos velhos que estão ao lado do preparador.
 
 O que resta no pano é colocado novamente no pilão e retriturado. Esse
 procedimento repete-se até que a maior parte da mistura de coca com
-imbúba tenha se transformado em pó. Entre uma pilagem e outra, pequenas
+imbaúba tenha se transformado em pó. Entre uma pilagem e outra, pequenas
 porções são retiradas para que alguns participantes /we̖d kë̗y/,
 “experimentem”, a comida e digam se o “tempero” está bom. Muitas vezes,
 ao explicar-me o modo de preparo, os senhores diziam que é preciso
@@ -4907,7 +4907,7 @@ desmaiar, surgem o malefício de /äg na̗’ap i,h/, “morrer de beber” ou
 história, Jovino localizava o momento preciso em que surgiu esse
 malefício para indicar o momento do aparecimento do encantamento.
 
-Em M9, duas perspectivas, dois modos de percepção parecem estar em jogo.
+Em **M9**, duas perspectivas, dois modos de percepção parecem estar em jogo.
 Num primeiro momento, o ancestral hup ocupa a posição predominante, mata
 a Mulher Peixe com sua zarabatana e depois a acolhe. Tenta alimentá-la,
 mas ela se recusa a comer o que lhe é oferecido. Depois, a esposa viaja
@@ -4938,7 +4938,7 @@ Aproximando-me da reflexão de Gow, considero que os encontros
 noturnos, nas ações de preparação da coca, constituem gestualmente um
 “agora” estabelecido pelo ato de os participantes voltarem sua atenção
 mutuamente para eventos, movimentos e seres buscando situar-se entre as
-perspectivas. Se em M9 o “roubo do dedo” é condição para que a coca, o
+perspectivas. Se em **M9** o “roubo do dedo” é condição para que a coca, o
 tabaco e os benzimentos “apareçam” para os Hupd’äh, a transformação do
 “osso da coca” em todas as noites permite que diariamente esses
 alimentos, os encantamentos e as histórias “apareçam” para os
@@ -4974,7 +4974,7 @@ casca de tururi transformarem-se na água-pura que há dentro (dessas
  penetra o /hã̗wäg/. Lavamos com a água-pura e banhamos o corpo para
  refazê-lo.
 
-3º mov. Vocês Brancos estão ouvindo?
+3º mov. Vocês brancos estão ouvindo?
 
  Quantos tipos de coca abiu há. Cada um deles: coca abiu, coca preta,
  nós lavamos sua pasta e mandamos sair. Limpamos com a água-pura.
@@ -5150,7 +5150,7 @@ Na renovação da substância que compõe o sopro vital é a própria vida que
 é renovada. A “água do ramo de coca” é também a “água do /hã̗wäg/”, o
 sopro vital. Traduzida pela literatura como “alma”, é como sopro, ar
 pulsante que as pessoas se referem ao “Espírito” concentrado no peito.
-Mas em B1, o sopro vital manifesta também a composição líquida de sua
+Mas em **B1**, o sopro vital manifesta também a composição líquida de sua
 substância plena de águas-puras. A analogia entre os gestos de Demétrio
 e Paulino ilumina essa fabricação do corpo, que atribui uma nova
 identidade engendrada por um processo de limpeza e rejuvejenescimento. O
@@ -5163,7 +5163,7 @@ rituais da roda de coca e da iniciação xamânica. É essa reversão que
 torna a pessoa apta a participar de contextos de interação onde sentidos
 serão revelados a ela através da interação com “comedores de coca”,
 benzedores, pajés ou seres como donos das casas do universo, animais,
-plantas, etc.
+plantas etc.
 
 Assim, o encantamento é necessário a todos que começam a comer a coca
 com frequência. Mas o benzimento acompanha também a passagem do
@@ -5200,8 +5200,8 @@ uma potência primordial para situar-se entre as perspectivas da
 Entendendo os benzimentos como um modo de ação, tal como Gow
 concebe os mitos, percebo que neles a palavra xamânica ganha a forma de
 uma sequência de atos que vão transformando o corpo, o ambiente e os
-seres. O “benzimento da coca” (B1), a passagem pelo “primeiro banco” e a
-“história de /Wed B’ö̖’/ (M9) apresentam, assim, sequências de ações que
+seres. O “benzimento da coca” (**B1**), a passagem pelo “primeiro banco” e a
+“história de /Wed B’ö̖’/ (**M9**) apresentam, assim, sequências de ações que
 associam modos de relação num processo de torna-se um /pũ’ũ̖k we̗d ĩh/,
 um “comedor de coca”. Mito, benzimento e preparo promovem condensações
 rituais que combinam relações entre as diversas perspectivas. Se, como mostra Severi <!-- manter ou criar rodapé?(2009, p. 469) -->, um dos traços
@@ -5214,7 +5214,7 @@ verbais engendrados pelo consumo coletivo da coca e do tabaco.
 
 ##Alguns gestos
 
-###A lagarta e o bicho do pé
+###A lagarta e o bicho-de-pé
 
 /Amɨ̖h sö̖b hɨ̗d pũ’ũ̖k we̗de̗y. Hɨ̗d ni̗i̗h hɨ̗d nɨ̖h yu̖d, kë̗y/.
 
@@ -5222,7 +5222,7 @@ verbais engendrados pelo consumo coletivo da coca e do tabaco.
 (Caderno de campo, 07/09/2011).
 
 Atormentado pela dor em meu dedo do pé, pedi a Genésio[^37] que “visse
-se eu tinha bicho do pé”, /kë̗yë̗y a̗m te̖n n’a̗n ã̗h nííh?/”. Ficamos
+se eu tinha bicho-de-pé”, /kë̗yë̗y a̗m te̖n n’a̗n ã̗h nííh?/”. Ficamos
 sentados do lado de fora da casa onde eu estava. Ele tomou uma agulha e
 começou a olhar e a espetar meu dedo do pé. Foi então que olhou para mim
 surpreso e disse que havia dois bichos do pé em meu dedo e que eles já
@@ -5271,15 +5271,15 @@ gestos, palavras e movimentos.
 É comum que, durante os encontros noturnos, enquanto comem a coca e
 conversam, os participantes comecem a mirar suas lanternas para seus
 pés. Com as mãos, afastam os dedos e analisam atentamente. Caso encontrem
-algum bicho do pé, procuram logo espinhos para cavoucar o buraco e
-tirá-lo. “O bicho do pé fica nos dedos. Começa a comer sua coca. Depois
+algum bicho-de-pé, procuram logo espinhos para cavoucar o buraco e
+tirá-lo. “O bicho-de-pé fica nos dedos. Começa a comer sua coca. Depois
 procura o /hã̖wäg/ da pessoa para comê-lo. Pode causar muita dor e até
 mesmo a morte”, contou Ponciano numa roda, enquanto procurava o bicho
 entre os dedos. A pasta de dentes é utilizada para cicatrizar e vedar o
-machucado logo que o bicho do pé é extraído. Genésio explicou-me que os
+machucado logo que o bicho-de-pé é extraído. Genésio explicou-me que os
 bichos do pé gostam muito de pés com pelos. Era por isso que eu tinha
 tantos. Pediria a Ponciano que me benzesse com o /N’a̗n bi’i̖d/, o
-“benzimento do bicho do pé”. Esse encantamento impediria a entrada
+“benzimento do bicho-de-pé”. Esse encantamento impediria a entrada
 desses bichos do pé. Faria também com que não me oferecessem seu pote de
 caarpi.
 
@@ -5294,7 +5294,7 @@ tentam se deitar nas cinzas de imbaúba quentes.
 
 A atenção voltada para esse pequeno ser durante os encontros é
 importante para não sofrer com os perigos de sua ação no corpo. O bicho
-do pé faz pensar também na lagarta da folha de coca. Como visto em B1,
+do pé faz pensar também na lagarta da folha de coca. Como visto em **B1**,
 uma das principais ações de Paulino no “benzimento da coca” é fazer a
 lagarta da folha sair de sua rede e não oferecer seu caarpi àquele que
 começa a comer coca. É comum que durante a colheita das folhas de coca
@@ -5302,7 +5302,7 @@ sejam encontradas essas lagartas, ora penduradas em seus casulos, ora
 movimentando-se pelas folhas. A folha pode apresentar uma coloração
 amarelada, seca e com pedaços já consumidos pelo bicho. Essas folhas são
 geralmente extraídas e jogadas no chão. Mata-se o bicho com um pisão.
-Como revela B1, a lagarta come a coca hup, oferece sua cuia de caarpi e
+Como revela **B1**, a lagarta come a coca hup, oferece sua cuia de caarpi e
 faz com que o “comedor de coca” não queira sair de sua rede. Já o bicho
 do pé instala-se no dedo da pessoa, reúne-se para conversar e comer
 coca. Com o tempo, ele se dirige ao /hã̖wäg/ da vítima para devorá-lo.
@@ -5312,7 +5312,7 @@ poder dizer que a postura corporal, a gestualidade, as interações e o
 alimento comum a esses seres se apresentam também como índices de uma
 condição humana universalmente partilhada, <!-- “a essência antropomorfa de
 tipo espiritual, comum aos seres animados” (Viveiros de Castro, 2002, p.
-351) manter assim ou criar rodapé?-->. As ações do bicho do pé e da lagarta são humanas e visam à criação
+351) manter assim ou criar rodapé?-->. As ações do bicho-de-pé e da lagarta são humanas e visam à criação
 de relações com os participantes hup das rodas. Esses seres coabitam as
 rodas e manifestam suas presenças de modos diferentes.
 
@@ -5322,13 +5322,13 @@ plantação explicitava essa relação de semelhança entre as práticas hup e
 a prática das plantas de coca. A ponta da folha e a ponta do pé
 transformam-se em ambientes que situam as interações desses pequenos
 seres entre si e com seus hospedeiros. É por meio de seus gestos
-alimentares que o bicho do pé cria uma relação de predação com a pessoa
+alimentares que o bicho-de-pé cria uma relação de predação com a pessoa
 hup, come sua coca e pode oferecer seu caarpi explicitando que o sopro
-vital hup é a coca de bicho do pé. A lagarta devora a coca dos hup e
+vital hup é a coca de bicho-de-pé. A lagarta devora a coca dos hup e
 oferece sua cuia de caarpi aos mesmos. O gesto de oferecimento do
 caarpi, comum aos dois seres, é próximo ao do pajé hup em situações de
 cura ou iniciação. Mas os efeitos da partilha do caarpi da lagarta e do
-bicho do pé fazem enlouquecer aquele que o toma. Fausto, refletindo
+bicho-de-pé fazem enlouquecer aquele que o toma. Fausto, refletindo
 sobre a comensalidade e predação para as populações amazônicas afirma
 que “A comensalidade é um vetor de identificação que não se aplica apenas às
 relações sociologicamente visíveis entre parentes humanos. Ela é um
@@ -5341,13 +5341,13 @@ bichos do pé como interlocutores humanos, e assuma suas perspectivas.
 Num caso, adoece e só quer ficar na rede. No outro, pode ter seu sopro
 vital devorado.
 
-Se com M9 os Hupd’äh se mostram devoradores da carne e dos ossos da
-Gente-Cobra, a lagarta e o bicho do pé revelam-se pequenos e poderosos
+Se com **M9** os Hupd’äh se mostram devoradores da carne e dos ossos da
+Gente-Cobra, a lagarta e o bicho-de-pé revelam-se pequenos e poderosos
 predadores cuja interação pode levar à morte ou à loucura. Por um lado,
 a coca é o osso e carne do Velho Cobra, por outro é a fonte da “água do
 hã̗wäg”, substância que garante refazer a vida. Comendo as folhas da
 coca, a lagarta come também essa essência vital da pessoa hup. Já o
-bicho do pé procura devorar o próprio sopro vital. Sem saber o que é a
+bicho-de-pé procura devorar o próprio sopro vital. Sem saber o que é a
 coca da lagarta, sabe-se que ela, como os Hupd’äh, também se alimenta
 das plantas de coca que são carne e osso de Gente-Cobra, do ponto de
 vista hup. Essa comensalidade comum gera, a meu ver, o perigo de
@@ -5386,7 +5386,7 @@ postura sentada, seja em bancos, seja sobre folhas ou no chão. Proteger
 a pessoa hup para o consumo da coca envolve fazê-la sentar-se no
 “primeiro banco” à noite, como os senhores hup, e não permitir que ela
 fique “deitada na rede” durante o dia como a lagarta e nem que ela
-aceite beber seu caarpi (B1). Partindo das reflexões de Ingold e
+aceite beber seu caarpi (**B1**). Partindo das reflexões de Ingold e
 Kendon, entendo a postura como um alinhamento corporal para a
 ação. Percebo que os modos de sentar e os modos de deitar contribuem
 para a diferenciação dos seres quanto a suas perspectivas. Essa
@@ -5526,7 +5526,7 @@ Hupd’äh, “trabalham”, /bɨ̗’/.
 No banco ou na rede, sentados ou deitados, benzendo ou sonhando, os
 xamãs perfazem-se pessoas-sopro para viajar ao longo do mundo vivido.
 Tornam-se seres transicionais que são seus próprios movimentos
-realizados no entrecurso de perspectivas, paisagens, percepções e
+realizados no *entrecurso* de perspectivas, paisagens, percepções e
 sensibilidades. Passa a ser difícil delimitar onde a pessoa-sopro
 começa ou onde acaba, pois ela depende das relações externas que a
 estabelecem como um ponto de referência de si para lançar-se alhures.
@@ -5550,7 +5550,7 @@ viagens realizadas a partir da reconfiguração do xamã como
 mobilizando a energia do contínuo entre corpo e espírito, entre ego
 e alter, situando-se como viajantes ao longo dos caminhos.
 
-Toda essa movimentação surge nas “exegeses de benzimentos”, como em B1,
+Toda essa movimentação surge nas “exegeses de benzimentos”, como em **B1**,
 através da narrativa das ações do benzedor quando este interage com os
 diversos planos-casa e com as diversas perspectivas dos seres que
 habitam esses locais. Se a viagem da pessoa hup parece ocorrer a partir
@@ -5582,12 +5582,12 @@ hup, a recusa a um oferecimento é mal-vista.
 
 Contrariamente, é a recusa ao oferecimento que permite a proteção da
 pessoa hup quando em face a outros seres. Esse é o caso do oferecimento
-da cuia de caapi pela lagarta da coca ou pelo bicho do pé que pode fazer
-com que a pessoa hup enlouqueça. Já em M9, o oferecimento do caxiri, da
+da cuia de caapi pela lagarta da coca ou pelo bicho-de-pé que pode fazer
+com que a pessoa hup enlouqueça. Já em **M9**, o oferecimento do caxiri, da
 coca e dos diversos alimentos pela Mulher Peixe a seu marido faz com que
 /Wed B’ö̖’/ vomite e desmaie. Também na história de Matumã, depois de ter
 ido para a aldeia das Gentes-Onça, a mãe retorna e oferece alimento aos
-filhos (M8). Nas narrativas e nos benzimentos o gesto de oferecer surge
+filhos (**M8**). Nas narrativas e nos benzimentos o gesto de oferecer surge
 como um movimento que cria ou recria relações entre as pessoas e as
 perspectivas.
 
@@ -5601,7 +5601,7 @@ mudarem-se e formarem a comunidade de /Ta̗t-Dëh/. Ele e seus irmãos são
 reconhecidos como sendo os descendentes dos primeiros /Sokw’ä̗t Noh K’öd
 Tẽ̖h d’äh/. Foram esses os primeiros ancestrais hup a sair da
 “Cobra-Canoa”, /M’e̖h-Ho̗h-Tëg/, quando ela fez a viagem trazendo os
-diversos clãs hup do “Lago-de-Leite”, /Pu̗d-Dëh-Moh/, para habitarem as
+diversos clãs hup do “Lago de Leite”, /Pu̗d-Dëh-Moh/, para habitarem as
 terras do rio Uaupés. Entre seus consanguíneos, ele é o /sät/, o “irmão
 maior”, de quem é esperado que chame as ações. Para morar em /Ta̗t-Dëh/,
 é preciso que a família peça permissão a esse dono. Do mesmo modo, para
@@ -5613,7 +5613,7 @@ seus irmãos são igualmente donos da coca, assim como todos os agnatos
 desse clã que começam a comer coca nessa aldeia. Os /Sokw’ä̗t Noh K’öd
 Tẽ̖h d’äh/ possuem o maior número de roças, bem como têm acesso aos
 melhores igarapés para pescaria e a territórios privilegiados para a
-caça. No que diz reseito à coca, suas roças são as maiores e com mais
+caça. No que diz respeito à coca, suas roças são as maiores e com mais
 variedades dessa planta. Os ramos, na maioria das vezes, foram recebidos
 dos pais e avós, mas podem também ter sido adquiridos dos sogros e
 cunhados.
@@ -5769,7 +5769,7 @@ dessa “fala da origem” por meio dos quais são narradas as ações desses
 seres.
 
 Os encontros noturnos podem, a meu ver, ser entendidos de modo muito
-semelhante ao que Gow (2001) mostra ser uma *mitopoeisis*. O
+semelhante ao que Gow mostra ser uma *mitopoeisis*. O
 envelhecimento dos homens ocorre simultaneamente à sua participação nas
 rodas de coca. A autoridade para contar mitos e para executar práticas
 xamânicas tem como referência os “antigos” e sua participação em rodas
@@ -5815,7 +5815,7 @@ fogo”, ou clãs.
 Analisando as relações entre benzimentos e mitos yuhup, Lolli mostra que o benzedor e alguns heróis míticos, agindo entre
 planos-casa e múltiplas perspectivas, têm a função de “conseguir
 conectar os acontecimentos do presente aos processos ontogênicos de
-individuação”. Retomando M9, é possível perceber que a “origem da coca”
+individuação”. Retomando **M9**, é possível perceber que a “origem da coca”
 revela a transição entre perspectivas ocasionada por uma aliança.
 Hupd’äh e Gente-Cobra passam a ser afins, e o pai da moça, uma filha
 mais velha, torna-se um /wähä̗d/, um Velho Cobra. Tomando as palavras de
@@ -5903,7 +5903,7 @@ grupo, cultivados e transmitidos por cada clã e consumidos pelos que
 falam a mesma língua. Os saberes, benzimentos e mitos, patrimônios de
 cada grupo clânico, circulam nesses encontros e protegem os grupos de
 fogo e locais da aproximação das “outras gentes”, /sã̗p hupd’äh/. Esses
-outros, humanos, são tanto os gente-cobra, gente-onça, quanto bichos do
+outros, humanos, são tanto os Gente-Cobra, Gente-Onça, quanto bichos do
 pé, lagartas etc., e por isso é necessário, como nas caminhadas, estar
 atento aos mínimos sinais de suas presenças.
 
@@ -5938,7 +5938,7 @@ disposto.*
 ## A caminho da /Hũ̖t Wäg-Mo̖y/ ‒ “Morada-de-Semente de Tabaco”
 
 Depois de colhermos coca nas plantações do irmão de Américo, continuamos
-caminhando rumo à /K’a̗j-Pa̖ç/, “Serra da Cutiváia”. Íamos deixando o
+caminhando rumo à /K’a̗j-Pa̖ç/, “Serra da Cutivaia”. Íamos deixando o
 caminho largo das roças e penetrando uma trilha estreita por meio da
 qual nos aproximávamos cada vez mais do morro. Havia ainda algumas
 plantações da família de Américo. Andávamos rápido e logo já estávamos
@@ -5964,7 +5964,7 @@ lembrar de suas terras, de suas roças, de sua vida em /Ta̗t-Dëh/ [^43].
 
 Desde que o velho Henrique faleceu, Marino não voltou mais a sua
 comunidade. Ele e a esposa, dona Mariquinha (/Ya’a̗m K’e̖g/, nasc. 1961, /Dög M’e̖h Te̖͂h/, ind. 41), estavam morando na casa do
-genro num bairro perifrico de São Gabriel. Suas filhas já viviam na
+genro num bairro periférico de São Gabriel. Suas filhas já viviam na
 cidade há alguns anos para estudar. Américo estava muito preocupado,
 pois diziam que seu irmão não parava de beber cachaça. Ele trabalhava
 alguns dias numa pedreira e em outros cuidava do sítio de sua patroa,
@@ -5997,7 +5997,7 @@ ancestral dos Yuhupdëh. Esse ancestral viveu com sua família em muitas
 Casas de Pedra[^46]. No chão de terra avermelhada dessas moradas, sempre
 é possível encontrar as /b’o̗kab b’a̗h/, as “lascas de cerâmica”, restos
 de suas panelas, fornos e utensílios de cozinha. Sua primeira morada
-fora a Serra da Cutiváia. Como o pai de Américo, esse ancestral fora o
+fora a Serra da Cutivaia. Como o pai de Américo, esse ancestral fora o
 primeiro a chegar lá. Depois se mudou para /Ni̗k-Hu̗͂-Pa̖ç/ e posteriormente
 para /B’ö̖’-Pa̖ç/. De lá, ele e a família subiram para o céu. Hoje em dia
 moram numa casa próxima à de /K’e̖g Te͂h/[^47]. Olhando para o chão,
@@ -6012,7 +6012,7 @@ Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P. Ramos, 2012)
 Continuamos a caminhada um pouco mais para cima até chegarmos à outra
 gruta. Essa era a /K’a̗j-Paç/, a caverna onde a Cutiváia[^48] entrou
 depois de fugir da Anta. (**M12**) “Essa
-Serra da Cutiváia tem história também”, Américo começou a contar
+Serra da Cutivaia tem história também”, Américo começou a contar
 enquanto contorcíamos nossos corpos para chegarmos à entrada da caverna.
 “A Cutiváia foi pegar umari. Estava com muita vontade de comer umari.
 Quando já estava voltando, apareceu a Anta e começou a correr atrás
@@ -6035,7 +6035,7 @@ Depois de descansarmos e tirarmos fotos de cada uma dessas moradas dos
 antigos, começamos a descer o morro. O meio do dia aproximava-se e já
 não aguentaríamos a fome por muito mais tempo. Ao terminarmos a descida,
 Américo mostrou algumas seringueiras de suas terras. Estavam sangradas.
-Outras pessoas teriam vindo à Serra da Cutiváia para explorar a
+Outras pessoas teriam vindo à Serra da Cutivaia para explorar a
 borracha. Ao mostrar a foto que tirei de uma seringueira, ele começou a
 rir. O corte que tinham feito era em formato de vagina. Antes de
 casar-se, Américo deixou /Ta̗t-Dëh/ por alguns anos. Trabalhara na
@@ -6044,18 +6044,18 @@ borracha e por isso sabia sangrar a seringueira daquele jeito também.
 Tomamos nosso rumo de volta. Deparamo-nos com um pé de pupunha. Havia
 sido plantado por seu pai, assim como as roças de coca um pouco à
 frente. Nas lembranças trazidas pela paisagem, sempre que íamos à roça
-ou à Serra da Cutiváia, o velho Henrique fazia-se presente. Em meus
+ou à Serra da Cutivaia, o velho Henrique fazia-se presente. Em meus
 últimos dias de campo, quando voltávamos de /K’a̗j-Paç/, começamos a
 ouvir um barulho alto que vinha do morro. Passávamos pelas roças, quando
 Américo parou, voltou-se para a serra e disse: “Isso que tá zoando, esse
 barulho é o grito do meu pai, do /b’atɨ̖b’/ dele”.
 
 <!-- Fig. 13 -->
-Caminhada à Serra-da-Cutiváia
+Caminhada à Serra da Cutivaia
 
-## /Hũ̖t/ ‒ “tabaco”
+##/Hũ̖t/ ‒ “tabaco”
 
-### Cigarro da origem
+###Cigarro da origem
 
 Na noite de 7 de janeiro de 2010, decidi fazer uma pergunta aos senhores
 com quem vinha me reunindo cotidianamente para comer coca e fumar.
@@ -6186,7 +6186,7 @@ rodas, “descobrir em sua cabeça” e envelhecer.
 
 Jovino é o filho mais velho de Ponciano. Quando criança, foi enviado à
 escola salesiana de Pari Cachoeira. Lá aprendeu a falar português e
-recebeu ensino escolar e religiso. Seu avô foi um poderoso dono da
+recebeu ensino escolar e religioso. Seu avô foi um poderoso dono da
 comunidade, um dos responsáveis pela concentração das famílias às
 margens do “Igarapé-Taracuá”, /Ta̗t-Dëh/. Como será analisado no capítulo
 5, ao longo de décadas tomou curso um processo de afastamento da região
@@ -6197,7 +6197,7 @@ referência desse clã, pertencentes a um mesmo *sibling*, reaproximaram-se
 para estar mais próximos à aldeia tukano do Cunuri, no rio Tiquié, às
 atividades missionárias salesianas e aos pontos de parada dos
 comerciantes[^49]. Como contou Américo, depois de constituírem uma
-morada próxima à Serra da Cutiváia, Henrique e sua família juntaram-se à
+morada próxima à Serra da Cutivaia, Henrique e sua família juntaram-se à
 família de seu irmão, Antônio, avô de Jovino, às margens do /Ta̗t-Dëh/,
 para que também seus filhos pudessem estudar com os salesianos.
 
@@ -6218,7 +6218,7 @@ conversas dos senhores hup, da explicação de Ponciano e de minha questão
 sobre os tipos de “histórias/mitos”, /pɨnɨ̖g/.
 
 Em **M13**, o ancestral que fuma o cigarro e entra na caverna da
-“Serra da Cutiváia”, /Kaj-Paç/, é justamente /Hũ̖t-Wäg/, “Semente de
+“Serra da Cutivaia”, /Kaj-Paç/, é justamente /Hũ̖t-Wäg/, “Semente de
 Tabaco”, ancestral que habitou o morro em cujas proximidades o pai de
 Américo estabeleceu sua casa e suas plantações (**M11**). Na forma de
 pessoa, Semente de Tabaco recebeu o cigarro de /K’e̖g Te͂h/, fumou e comeu
@@ -6399,7 +6399,7 @@ evento narrativo e no evento narrado, o pensamento vai surgindo com a
 refeição, fraternal ou paternal, de um “prato principal” (coca) que, bem
 temperado (tabaco), engendra visões e palavras para que os degustadores
 acompanhem-se em sua busca conjunta. De modo semelhante, ao longo do
-caminho para a Serra da Cutiváia, Américo pensa em seu pai, ouve seu
+caminho para a Serra da Cutivaia, Américo pensa em seu pai, ouve seu
 barulho no morro, vê a pupunheira, a plantação de coca e o lugar de
 pescar com pari. Narra histórias que ouvia do velho Henrique quando
 caminhavam juntos por aquelas terras. As narrativas falam dos seres que,
@@ -6446,7 +6446,7 @@ distante, São Paulo, cidade que suscitava muito interesse e curiosidade.
 Querendo saber quem eram os ancestrais e quem tinha visto tais
 acontecimentos para garantir sua veracidade, Jovino foi, aos poucos,
 entendendo e ouvindo dos mais velhos e de seu pai as histórias.
-Caminhando para a Serra da Cutiváia, Américo se lembrava de seu pai e
+Caminhando para a Serra da Cutivaia, Américo se lembrava de seu pai e
 sentia saudades de seu irmão. Falando de minha família, eu a fazia
 presente e atenuava a saudade do meu lugar.
 
@@ -6593,7 +6593,7 @@ oferecem o cigarro. O ato de “segurar o cigarro”
 coloca-se como um gesto de fusão dos pontos de vista com a conversão da
 distância extensiva e extrínseca em diferença intensiva.
 
-Em **M14**, a folha de tabaco é vista como o cabelo da mulher da “caatinga”,
+Em **M14**, a folha de tabaco é vista como o cabelo da Mulher da Caatinga,
 /mu̖n/, tipo de paisagem caracterizada por floresta de vegetação baixa e
 solo arenoso, considerada ruim para a plantação de maniva ou coca[^61].
 São os locais de /mu̖n/ os mais buscados para a construção dos
@@ -6654,51 +6654,53 @@ da sexualidade, assim como a representação da vida humana e social”
 Essa dimensão fálica do cigarro faz lembrar algumas passagens de
 narrativas de “más alianças” ou de “incestos” que apontam para os
 perigos, limites ou problemas nas relações de afinidade. Enquanto
-caminhávamos para a Serra da Cutiváia, Américo contou do pássaro
+caminhávamos para a Serra da Cutivaia, Américo contou do pássaro
 /U̖y-Ta̖k/ que, frustrado em sua tentativa de encontrar mulher, “comeu o
 irmão mesmo”, ato incestuoso realizado pela impossibilidade de encontrar
 mulher. Em **M4**, o pênis pequeno do marido hup e a vagina grande de /Dö̗h
-Ã̗y/ fazem com que ela devore seu esposo e case-se com o Macaco da
-Noite possuidor de um pênis grande. Já em M1, em vez de penetrar a
+Ã̗y/ fazem com que ela devore seu esposo e case-se com o Macaco-da-Noite, 
+possuidor de um pênis grande. Já em **M1**, em vez de penetrar a
 esposa com seu pênis, o /b’atɨ̖b’/ joga uma lança que perfura a mulher
 pelas costas e atravessa-lhe o peito, matando-a. Nesse sentido, o marido
-de Matumã (M8) pode ser visto como um mau marido por permanecer tempo
+de Matumã (**M8**) pode ser visto como um mau marido por permanecer tempo
 demais longe de casa caçando, deixando aberta a possibilidade do
-Jovem-Onça seduzir e roubar sua esposa. Em M14, há o oferecimento de
+Jovem-Onça seduzir e roubar sua esposa. Em **M14**, há o oferecimento de
 beiju, caxiri e peixe moqueado pelo Velho Cobra a seu genro /Wed B’ö̖’/.
-Diferente de M9, não é a Mulher Cobra quem dá os alimentos, mas sim o
+Diferente de **M9**, não é a Mulher Cobra quem dá os alimentos, mas sim o
 sogro. Abastecer o sogro com peixes moqueados durante meses é justamente
 uma das prestações a serem pagas pelo genro ao sogro pelo casamento,
 atestando a “boa aliança”. Ao contrário, na aliança constituída entre
 “Velho Cobra” e /Wed B’ö̖’/ é o sogro quem paga ao genro.
 
 Desse modo, “segurar o cigarro” é um gesto que traz à tona os perigos
-existentes na relação de afinidade pela: impossibilidade da troca (M10),
-pelo mau intercurso sexual (M1) (M4),pela ausência (M8), ou pela não
-efetivação da prestação de serviços devida (M9)[^64]. No caso hup, tais
-atitudes evidenciam os perigos de situar-se *além da aliança* ou *aquém
-do parentesco* (Lévi-Strauss, 2004b, p. 41). Todos esses casos apontam
+existentes na relação de afinidade pela: impossibilidade da troca (**M10**),
+pelo mau intercurso sexual (**M1**) (**M4**),pela ausência (**M8**), ou pela não
+efetivação da prestação de serviços devida (**M9**)[^64]. No caso hup, tais
+atitudes evidenciam os perigos de situar-se além da aliança ou aquém
+do parentesco. Todos esses casos apontam
 para os perigos potenciais do ato de “segurar o cigarro” e de não
 efetivar a aliança em todas as suas dimensões esperadas. Entendo esses
 aspectos muito próximos à reflexão de Viveiros de Castro sobre a tensão
 característica da afinidade, em suas palavras,
 
-> *Essa combinação de uma diferença e de uma semelhança igualmente
-> necessárias cristaliza-se, frequentemente, na identificação dos
-> inimigos a afins: os cunhados-inimigos tupinambá são apenas o exemplo
-> mais célebre de uma configuração ameríndia muito geral, em que a
-> tensão característica da afinidade – relação que tem a semelhança como
-> base e a diferença como princípio – é utilizada para pensar a
-> categoria do inimigo e reciprocamente, isto é, onde os valores da
-> exterioridade predatória formam o subtexto da aliança matrimonial*
-> (2002, p. 289).
+<!-- Estilo de citação -->
+ Essa combinação de uma diferença e de uma semelhança igualmente
+ necessárias cristaliza-se, frequentemente, na identificação dos
+ inimigos a afins: os cunhados-inimigos tupinambá são apenas o exemplo
+ mais célebre de uma configuração ameríndia muito geral, em que a
+ tensão característica da afinidade – relação que tem a semelhança como
+ base e a diferença como princípio – é utilizada para pensar a
+ categoria do inimigo e reciprocamente, isto é, onde os valores da
+ exterioridade predatória formam o subtexto da aliança matrimonial
+ (2002, p. 289).
+ <!-- estilo de citação -->
 
 Além dos perigos da “má aliança”, o caráter laminar do cigarro e da
 folha de tabaco denota seu poder de fazer mal a outrem. Nos
 encantamentos, muitos seres possuem lanças, facas, terçados, objetos
 cortantes utilizados para causar doenças ou matar. Num encontro noturno
 de 8 de abril de 2012, Miguel contou que o feitiço que havia matado há
-alguns dias um tukano com os sintomas de dor de cabeça, vômito e
+alguns dias um Tukano com os sintomas de dor de cabeça, vômito e
 diarreia crônicos tinha sido um /hũ̖t döh/, um “feitiço de tabaco”. Para
 realizá-lo, é preciso mencionar todas as folhas com as quais se
 preparava o cigarro antigamente. Depois de aceso e tragado, o cigarro
@@ -6711,11 +6713,13 @@ outro objeto que depois será aceso e sua fumaça soprada para causar o
 mal. Reichel-Dolmatoff escreve algumas notas sobre o poder agressivo de
 um “feitiço do tabaco” realizado pelos Desana,
 
-> *O tabaco também pode ser um meio de agressões mágicas. Pronuncia-se
-> em encantamento sobre um grande cigarro e este é logo enterrado perto
-> da maloca ou do porto de um inimigo. Após uns dois ou três dias, esse
-> malefício causa uma série de enfermidades às pessoas que vivem na
-> maloca* (1986, p. 184).
+<!-- estilo de citação -->
+ O tabaco também pode ser um meio de agressões mágicas. Pronuncia-se
+ em encantamento sobre um grande cigarro e este é logo enterrado perto
+ da maloca ou do porto de um inimigo. Após uns dois ou três dias, esse
+ malefício causa uma série de enfermidades às pessoas que vivem na
+ maloca (1986, p. 184).
+ <!-- estilo de citação -->
 
 O mesmo ato de mencionar as folhas para celebrar os laços de afinidade
 pode, ao contrário, ser um modo de ação maléfica que causa a morte. O
@@ -6737,11 +6741,11 @@ adequadamente os atos sexuais. É no sentido de proteger a pessoa dessa
 tensão constitutiva da afinidade que o “benzimento do tabaco”, a ser
 discutido a seguir, torna-se fundamental para regenerar e cercar[^65].
 
-### /Bi’i̖d Hũ̖t/ ‒ “Cigarro benzido”
+##/Bi’i̖d Hũ̖t/ ‒ “Cigarro benzido”
 
 Foi numa tarde de julho de 2011 que Ponciano veio benzer-me para que eu
 pudesse fumar tabaco e comer coca sem me preocupar com os perigos do
-consumo dessas substâncias. Ele preparou ocigarro com um pouco do
+consumo dessas substâncias. Ele preparou o cigarro com um pouco do
 tabaco desfiado enrolado num pedaço de folha de caderno. Era um cigarro
 maior e mais grosso que os de nosso consumo usual. Aproximou o cigarro
 da boca e começou a proferir palavras murmuradas e a soprá-las para que
@@ -6757,7 +6761,7 @@ zonzo, precisei deitar na rede e dormir um pouco. À noite, durante a
 roda, os participantes disseram que agora poderiam se despreocupar com
 meu consumo de coca e tabaco.
 
-[]{#B2_Tabaco .anchor}**B2./Hũ̖t bi’i̖d/ ‒ Benzimento do tabaco**
+**B2./Hũ̖t bi’i̖d/  ‒ Benzimento do tabaco**
 
 1º mov. (*Com.*) Eu dou o cigarro para melhorar a vida, para não morrer.
 Você vai entender! Um dia você vai ouvir: “Primeiro, quem fez isso foi o
@@ -6772,55 +6776,55 @@ benzimento. Se acaba o tabaco que a gente faz, os jovens ficam sempre
 pequenos e a doença vai acabar com eles. Se a gente não faz esse cigarro
 benzido a doença encontra a gente nessa terra.
 
-> Eu tiro o tabaco da /Nute̖ne̖y-Mo̖y/, nossa casa de origem. Acompanho e
-> tiro das casas /Dëh-Sa̗k-Sö̗’ö̗y-Mo̖y/, /Hak-Te̖ne̖y-Mo̖y/,
-> /Dëh-K’et-Sö̗’ö̗y-Mo̖y/. Eu vou tirando o nosso /hã̗wäg/. Sento-me em meu
-> banco da vida, nosso banco do Lago-de-Leite.
->
-> Troco o cigarro, sentado no banco da vida, no banco do Lago-de-Leite.
-> Troco o cigarro com meu ser sentado no banco. Troco o bastão e sigo
-> trocando (continuamente). Tiro e vou reunindo. Meu /hã̗wäg/ todo, eu
-> tiro e vou levando. Falo e vou tirando a vida dos /Sokw’ä̗t Noh K’öd
-> Tẽ̖h däh/ e minha própria vida (dessa morada).
->
-> Eu falo e menciono para nossos ancestrais, para os /Sokw’ä̗t i͂han/, os
-> /B’ö̖’ Te̖͂h i͂han/, /Su̗g Yom’o̖y Tẽ̖h ĩh/, /So̗ Tẽ̖h ĩhan/, /Yë̖w Tẽ̖h ĩhan/,
-> /S’ẽ̖h (Sẽk?) Tẽh i͂han/, /Hõ̖p Tẽ̖h ĩhan/, /Poho̗t Tẽ̖h ĩhan/. (Menciono) o
-> cigarro, o banco da vida, o chapéu, o bastão deles. Com isso eu pego o
-> bastão. (Reúno esses poderes) para lá, no Lago-de-Leite, lá no fundo,
-> no final, no Rio de Janeiro.
+ Eu tiro o tabaco da /Nute̖ne̖y-Mo̖y/, nossa casa de origem. Acompanho e
+ tiro das casas /Dëh-Sa̗k-Sö̗’ö̗y-Mo̖y/, /Hak-Te̖ne̖y-Mo̖y/,
+ /Dëh-K’et-Sö̗’ö̗y-Mo̖y/. Eu vou tirando o nosso /hã̗wäg/. Sento-me em meu
+ banco da vida, nosso banco do Lago de Leite.
 
-2º mov. Vou para dentro da casa com a roupa do aracú pequeno. Entro e
-fico em pé com o /hã̗wäg/, o espelho, a espinha, o cigarro (do aracú
+ Troco o cigarro, sentado no banco da vida, no banco do Lago de Leite.
+ Troco o cigarro com meu ser sentado no banco. Troco o bastão e sigo
+ trocando (continuamente). Tiro e vou reunindo. Meu /hã̗wäg/ todo, eu
+ tiro e vou levando. Falo e vou tirando a vida dos /Sokw’ä̗t Noh K’öd
+ Tẽ̖h däh/ e minha própria vida (dessa morada).
+
+ Eu falo e menciono para nossos ancestrais, para os /Sokw’ä̗t i͂han/, os
+ /B’ö̖’ Te̖͂h i͂han/, /Su̗g Yom’o̖y Tẽ̖h ĩh/, /So̗ Tẽ̖h ĩhan/, /Yë̖w Tẽ̖h ĩhan/,
+ /S’ẽ̖h (Sẽk?) Tẽh i͂han/, /Hõ̖p Tẽ̖h ĩhan/, /Poho̗t Tẽ̖h ĩhan/. (Menciono) o
+ cigarro, o banco da vida, o chapéu, o bastão deles. Com isso eu pego o
+ bastão. (Reúno esses poderes) para lá, no Lago de Leite, lá no fundo,
+ no final, no Rio de Janeiro.
+
+2º mov. Vou para dentro da casa com a roupa do aracu pequeno. Entro e
+fico em pé com o /hã̗wäg/, o espelho, a espinha, o cigarro (do aracu
 pequeno). Entro e fico em pé com seu cigarro. Sopro a fumaça do tabaco.
 
-> *(Com.)* A fumaça do tabaco é pari dentro da gente. Vou benzendo com o
-> breu. A fumaça do breu é pari para dentro do corpo. Faz com que as
-> Cobras não vejam.
->
-> Entro com meu sopro vital. Fico em pé. A doença passa com o cigarro.
-> Falo para esse aracu pequeno, para aquela gente de trás do lago, para
-> aquela gente de acima do lago (k’ë̗t), para a Cobra do outro lado do
-> lago (hak). Para aquela gente, eu menciono os aracus pequenos.
->
-> Fico em pé e sopro com os cigarros dos aracus para que essas gentes
-> não apareçam com seus cigarros e para que as doenças delas passem com
-> o cigarro. Essa fumaça do cigarro é pari para dentro. Eu faço o
-> /hã̗wäg/ entrar e ficar em pé na casa dele (corpo).
->
-> *(Com.)* Fazendo isso, dizem que essas cobras não aparecem. \[...\]
-> Outro dia nós vemos essa gente. \[...\]
+ *(Com.)* A fumaça do tabaco é pari dentro da gente. Vou benzendo com o
+ breu. A fumaça do breu é pari para dentro do corpo. Faz com que as
+ Cobras não vejam.
+
+ Entro com meu sopro vital. Fico em pé. A doença passa com o cigarro.
+ Falo para esse aracu pequeno, para aquela gente de trás do lago, para
+ aquela gente de acima do lago (k’ë̗t), para a Cobra do outro lado do
+ lago (hak). Para aquela gente, eu menciono os aracus pequenos.
+
+ Fico em pé e sopro com os cigarros dos aracus para que essas gentes
+ não apareçam com seus cigarros e para que as doenças delas passem com
+ o cigarro. Essa fumaça do cigarro é pari para dentro. Eu faço o
+ /hã̗wäg/ entrar e ficar em pé na casa dele (corpo).
+
+ *(Com.)* Fazendo isso, dizem que essas cobras não aparecem. \[...\]
+ Outro dia nós vemos essa gente. \[...\]
 
 3º mov. Retorno e falo para os aracus pequenos do Igarapé-Grande onde há
 essa gente do Igarapé-Branco (...). Entro e fico em pé com meu cigarro
 para que eles entrem em sua casa com seu cigarro, com seu sopro vital.
 
-> *(Com.)* Essa fumaça do tabaco é pari dentro do corpo para esconder o
-> sopro vital. \[...\] Com esse cigarro, a doença passa, não aparece.
->
-> Falo para nossas crianças, para nossas mulheres, para nossas filhas.
-> Menciono tudo para (proteger) essas pessoas. Eu menciono e tiro para
-> os nossos parentes que acompanham.
+ *(Com.)* Essa fumaça do tabaco é pari dentro do corpo para esconder o
+ sopro vital. \[...\] Com esse cigarro, a doença passa, não aparece.
+
+ Falo para nossas crianças, para nossas mulheres, para nossas filhas.
+ Menciono tudo para (proteger) essas pessoas. Eu menciono e tiro para
+ os nossos parentes que acompanham.
 
 4º mov. Falo para as Cobras. Vou chegando para cá. Menciono a cuia de
 mel da origem. Digo e faço vir a cuia de mel da origem. Menciono todas
@@ -6830,18 +6834,18 @@ sopro vital da cuia de mel da origem, (para) o corpo da cobra da origem
 dentro dessa morada. Faço o /hã̗wäg/ entrar e ficar em pé. Prossigo
 falando.
 
-> *(Com.)* Com esse cigarro, com essa fumaça do cigarro o sopro vital
-> regenerado entra e fica em pé no corpo. Com essa fumaça, o /hã̗wäg/ de
-> nossas crianças, de nossas meninas, de nossos filhos entra e fica em
-> pé. Com esse cigarro, a doença passa, não aparece. (Desloco-me) na
-> rede. (É preciso) entrar na rede e ficar enrolado. (Ajo com) o nosso
-> banco para entrar, sentar e ver.
->
-> Menciono o pote de mel. Profiro as palavras com a abelha. Falo para o
-> sopro vital da abelha /tat/. (Dirijo-me) para dentro de sua morada.
-> Profiro as palavras com essa abelha. Profiro as palavras com o
-> mel-da-cotia. Entro com o mel-da-cotia e ergo-me. \[...\] (Ponciano,
-> gravação sonora de Patience Epps, 2011)
+ *(Com.)* Com esse cigarro, com essa fumaça do cigarro o sopro vital
+ regenerado entra e fica em pé no corpo. Com essa fumaça, o /hã̗wäg/ de
+ nossas crianças, de nossas meninas, de nossos filhos entra e fica em
+ pé. Com esse cigarro, a doença passa, não aparece. (Desloco-me) na
+ rede. (É preciso) entrar na rede e ficar enrolado. (Ajo com) o nosso
+ banco para entrar, sentar e ver.
+
+ Menciono o pote de mel. Profiro as palavras com a abelha. Falo para o
+ sopro vital da abelha /tat/. (Dirijo-me) para dentro de sua morada.
+ Profiro as palavras com essa abelha. Profiro as palavras com o
+ mel-da-cotia. Entro com o mel-da-cotia e ergo-me. \[...\] (Ponciano,
+ gravação sonora de Patience Epps, 2011)
 
 O encantamento acima foi contado por Ponciano à linguista Patience Epps,
 durante uma viagem de campo que fizemos juntos em 2011. Sentado, olhando
@@ -6868,9 +6872,9 @@ jocosamente de /hũ̖t yo’o̖m ĩh/, “dono do tabaco”.
 
 Se, como visto, /K’e̖g Tẽh/, Semente de Tabaco e os pais são aqueles que
 “dão tabaco”, num tempo em que o fumo é comprado e fabricado pelos
-Brancos, a piada explicitava uma justaposição do tipo: “dono
+brancos, a piada explicitava uma justaposição do tipo: “dono
 Branco/tabaco branco”. Diferente da reciprocidade da dádiva do tabaco, a
-compra coloca-se como uma forma de troca diferete, própria dos brancos,
+compra coloca-se como uma forma de troca diferente, própria dos brancos,
 através da qual eu era visto como alguém que tinha riqueza: /A̗m hũ̖t
 rico/, “Você é rico em tabaco”, diziam. Essa troca, estabelecida com os
 participantes das rodas iluminava, desse modo, a posição de poder que eu
@@ -6884,27 +6888,27 @@ pessoa, uma atenuação da diferença que marcava minha identidade e a
 possibilidade de, mesmo sem laços de parentesco com os demais, sentar-me
 com eles nas rodas.
 
-Como pode ser percebido, M9 enfatiza a dádiva do ramo de coca aos
+Como pode ser percebido, **M9** enfatiza a dádiva do ramo de coca aos
 Hupd’äh em meio a uma história sobre a obtenção dos alimentos
 cultivados. Apesar de a coca e o tabaco surgirem juntos do vômito de
 /Wed B’ö̖’/, o consumo e a importância do tabaco são pouco tematizados.
-Num último movimento do encantamento da coca (B1), a casca de tabaco e a
+Num último movimento do encantamento da coca (**B1**), a casca de tabaco e a
 casca de tururi são mencionadas para a criação de envoltórios duros que
 protegem o corpo. O benzedor diz que vai fumando o tabaco para que as
-essências ruins saiam. Entretanto, é apenas com M13, M14 e B2 que o
+essências ruins saiam. Entretanto, é apenas com **M13**, **M14** e **B2** que o
 tabaco revela-se como uma substância, um poder tão importante quanto a
 coca. Em *Do mel às cinzas*, Lévi-Strauss chama a atenção para a posição
-*além* da cozinha do tabaco, por ser incinerado para que se aspire a
-fumaça (2014, p. 14). Contrastivamente, o caráter complementar do
+além da cozinha do tabaco, por ser incinerado para que se aspire a
+fumaça. Contrastivamente, o caráter complementar do
 tempero para a “carne de Cobra” (coca) aparenta situar o tabaco hup a um
 só tempo dentro do registro culinário (infraculinário) ˗ em sua
-conjunção com a coca para a partilha de alimentos e palavras ˗ e *além*
+conjunção com a coca para a partilha de alimentos e palavras ˗ e além
 da cozinha ˗ ao ser soprado e incinerado como cigarro benzido
-(meta-culinário) (2014, p. 14).
+(meta-culinário).
 
 Por um lado, o tabaco, assim como a coca, marca uma forma de
 sociabilidade alimentar em que as conversas permitem pensar, narrar e
-trocar. Por outro, B2 ressalta a importância do tabaco para a agência
+trocar. Por outro, **B2** ressalta a importância do tabaco para a agência
 xamânica enquanto cura e proteção. Para entender melhor os usos dessa
 substância e seu papel nos modos de ação associados às rodas é preciso
 descrever um pouco mais como se dá o consumo do tabaco enquanto /bi’i̖d
@@ -6913,7 +6917,7 @@ hũ̖t/, “cigarro benzido”.
 Além das conversas, da aquisição de saberes e da aliança que
 caracterizam um modo alimentar de sociabilidade, pajés e benzedores
 utilizam principalmente os cigarros de “tabaco”, /hũ̖t/, e o “breu”,
-/wõh/, para a produção da fumaça. Os *cigarros benzidos* são preparados
+/wõh/, para a produção da fumaça. Os cigarros benzidos são preparados
 cotidianamente e seu consumo diferencia-se dos cigarros fumados para as
 conversas durante os encontros noturnos. Quando muitos senhores já se
 encontram sentados na roda, pessoas aproximam-se, dirigem-se a um deles
@@ -6934,7 +6938,7 @@ no cigarro, bem como o percurso a ser seguido.
 
 Os demandantes trazem um pouco de tabaco e folhas de papel para
 oferecerem ao benzedor. Este coloca um punhado de tabaco no papel e
-começa a enrolá-lo. Com a saliva da boca sela o cigaro. Diferente do
+começa a enrolá-lo. Com a saliva da boca sela o cigarro. Diferente do
 cigarro comum, que tem as extremidades abertas, o benzedor dobra as duas
 pontas para conservar a forma do objeto até ser consumido por aquele que
 receberá o encantamento. Os olhos mantêm-se fixos no cigarro ou em algum
@@ -6945,7 +6949,7 @@ benzedor então entrega, “dá o cigarro” fechado e apagado ao demandante.
 A pessoa, por sua vez, deve acendê-lo, tragá-lo e soprar sua fumaça no
 corpo para a cura ou para a proteção.
 
-No 1º movimento de B2, chama a atenção o modo como o ato de “dar
+No 1º movimento de **B2**, chama a atenção o modo como o ato de “dar
 cigarro” é tomado como a dádiva que gera uma reciprocidade entre
 “velhos”, /wähä̗d d’äh/, e “jovens”, /pesa̖w d’äh/. Iniciada por /K’e̖g
 Tẽh/, essa dádiva fortalece os jovens e os faz crescer, ao mesmo tempo
@@ -6953,7 +6957,7 @@ em que introduz a morte como possibilidade de continuidade, de sucessão,
 e de desenvolvimento: “nossa vida termina para os jovens crescerem”.
 Tabaco, velhos e encantamentos são elementos fundamentais para que não
 haja doenças e para que haja continuidade da vida. O benzedor viaja para
-o Lago-de-Leite e “tira o tabaco” das casas ancestrais, ao mesmo tempo
+o Lago de Leite e “tira o tabaco” das casas ancestrais, ao mesmo tempo
 em que tira dessas casas os elementos para compor o sopro vital.
 Veste-se com sua roupa de aracu para proteger-se das Cobras. Retorna,
 então, trazendo o tabaco e o sopro vital. A fumaça e a cuia de mel são
@@ -6974,7 +6978,7 @@ finos chamados de /sap ti̖w/, “caminhos corporais”.Quando o benzedor se
 movimenta pelo cosmos, a porção líquida desses princípios vitais
 permanece no corpo e apenas a porção ar, sopro, viaja pelo cosmos.
 Portanto, a viagem xamânica torna-se possível através da reconfiguração
-de si como *pessoa-sopro* (pensamento-sopro vital) pela continuidade que
+de si como pessoa-sopro (pensamento-sopro vital) pela continuidade que
 atravessa o sopro, a fala, o leite e a água-pura, substâncias vitais
 mobilizadas pelas ações de sentar no banco e de andar pelos caminhos.
 
@@ -6982,55 +6986,55 @@ Até o momento, a palavra “benzedor” vem sendo utilizada para designar
 aquele que realiza as ações xamânicas que visam à cura ou à proteção.
 Isso se deve, por um lado, à apropriação que os Hupd’h fazem da palavra
 “benzedor” do português para traduzir o termo /bi’i̖d ĩh/. Entretanto,
-como mostra Athias (1998), a palavra /bi’i̖d/, “benzimento/
+como mostra Athias, a palavra /bi’i̖d/, “benzimento/
 encantamento”, aproxima-se mais da palavra “sopro”, soprar, ação
 xamânica para a cura e proteção. Os benzedores poderiam ser denominados
-sopradores, já que esse gesto vem a ser a *ação corporal visível*
-marcante dessa prática (Kendon, 2004). Na tentativa de ampliar o léxico
+sopradores, já que esse gesto vem a ser a ação corporal visível
+marcante dessa prática. Na tentativa de ampliar o léxico
 e de aproximar-me do modo como os Hupd’äh diferenciam os praticantes do
 xamanismo, designo os /bi’i̖d hup i͂h/, “homens do benzimento”, como sendo
-*xamãs-sopradores*, e os /kä̖d hup i͂h/, “homens do banco”, como sendo
-*xamãs-do-banco*. Ambos têm no sopro sua principal ação xamânica,
+xamãs-sopradores, e os /kä̖d hup i͂h/, “homens do banco”, como sendo
+xamãs-do-banco. Ambos têm no sopro sua principal ação xamânica,
 diferente dos /säw/, *xamãs-pajés*, que, além de soprar, chupam e jogam
 água para curar e proteger. Uma análise mais detida sobre esses
 diferentes papéis será feita mais à frente, mas no momento creio que
 essa tradução possa contribuir para uma compreensão mais sensível às
 diferenciações feitas pelos Hupd’äh.
 
-Tendo analisado a centralidade do *sentar* e do *deitar* como posturas
+Tendo analisado a centralidade do sentar e do deitar como posturas
 corporais importantes na execução dos encantamentos e para a viagem como
 pessoa-sopro do xamã, creio ser necessário chamar aatenção para o modo
 como o ar e a fumaça são fabricados e situam reconfigurações da pessoa
-hup fundamentais à cura e à proteção. Como mostram Reichel-Dolmatoff
-(1976), Reid (1979), Buchillet (1983) e Athias (1998), os benzimentos
-realizam-se através de *atos de fala*. Esses atos de fala alternam-se
-com gestos que podem ser descritos como *atos de sopro*, num processo
+hup fundamentais à cura e à proteção. Como mostram Reichel-Dolmatoff,
+Reid, Buchillet e Athias, os benzimentos
+realizam-se através de atos de fala. Esses atos de fala alternam-se
+com gestos que podem ser descritos como atos de sopro, num processo
 contínuo de modelagem através do qual o ar é trabalhado como uma matéria
 prima pela fala e pela respiração. São essas duas “modelagens do ar” que
 marcam o primeiro momento da ação xamânica, no murmúrio para o cigarro.
-As palavras, o sopro e o cigarro tornam-se *instrumentos de percepção e
-ação* fabricados a partir da mesma essência que compõe a corporalidade
-da pessoa reconfigurada para a viagem ao Lago-de-Leite, o ar. Utilizando
+As palavras, o sopro e o cigarro tornam-se instrumentos de percepção e
+ação fabricados a partir da mesma essência que compõe a corporalidade
+da pessoa reconfigurada para a viagem ao Lago de Leite, o ar. Utilizando
 a fala e a respiração, os xamãs-sopradores hup estabelecem relações
 vivas consigo e com seus semelhantes.
 
 A sequência de sopros intercalados ao fluxo contínuo do murmúrio das
 palavras dá os contornos rítmicos e o andamento do gesto vocal. Quanto
-maior a velocidade com que forem mencionadas as *palavras que agem*,
-maior força terá o encantamento (Severi, 2009). A potência e a
+maior a velocidade com que forem mencionadas as palavras que agem,
+maior força terá o encantamento. A potência e a
 habilidade também são medidas em termos do não esquecimento de nenhuma
 palavra, ser ou lugar, o que torna mais poderoso aquele que detalha as
 ações do encantamento com maior precisão. Numa analogia com a
 musicologia, o cigarro, a palavra e a fumaça podem ser vistos talvez
-como *instrumentos vocais de sopro*, formas que emergem ao longo do
+como instrumentos vocais de sopro, formas que emergem ao longo do
 engajamento do benzedor com o ambiente em seu percurso, dos seus atos de
 fala e sopro enquanto está sentado em seu banco, e da incineração e
 produção de fumaça pelo demandante. Os elementos fonético e respiratório
 mostram sua base mímico-gestual através de um modo de ação que se revela
-como sendo uma regeneração mútua de si pelo outro (Benjamin, 1992).
+como sendo uma regeneração mútua de si pelo outro.
 
 Apesar de não estarem necessariamente juntos presencialmente, o
-demandante e o xamã-soprador avaliam e dizem se /bi’i̖d su̗’ yɨ̗’ɨ̗h/, “o
+demandante e o xamã-soprador avaliam e dizem se /bi’i̖d su̗’ yɨ̗’ɨ̗h/,  “o
 benzimento pegou”, ou se /bi’i̖d su̗’ nɨ̗h/, “o benzimento não pegou”. Uma
 fisgada, um alívio, uma pressão são as sensações que manifestam a
 eficácia do encantamento tanto para o benzedor quanto para  demandante.
@@ -7038,15 +7042,15 @@ Isso indica a existência de uma continuidade corpórea e perceptiva
 sincrônica entre ambos. Caso não tenha “pego”, o xamã pedirá o cigarro
 novamente, ou o mesmo será devolvido para que o encantamento seja
 refeito. Recebendo o sopro das palavras, o cigarro, à medida que vai
-sendo fabricado, realiza uma *abdução da agência* do benzedor para,
-posteriormente, realizar uma *transdução* que faz o encantamento agir na
-pessoa à medida que o demandante vai produzindo a fumaça (Gell, 1998). O
+sendo fabricado, realiza uma abdução da agência do benzedor para,
+posteriormente, realizar uma transdução que faz o encantamento agir na
+pessoa à medida que o demandante vai produzindo a fumaça. O
 cigarro, abdutor e transdutor, age no contínuo entre regimes corporais e
 perceptivos, transforma o modo de ação da viagem-palavra (sopro de ar)
 em um modo de ação de regeneração-cercamento (sopro de fumaça).
 
 Como me contou Ponciano, há dois modos diferentes de soprar a fumaça do
-cigarro. No caso de um *benzimento de cura*, a fumaça deve ser soprada
+cigarro. No caso de um benzimento de cura, a fumaça deve ser soprada
 para frente e inalada para que penetre na /B’oto̗k-Moy/, na
 “Casa-do-Ouvido”. Já no caso do *benzimento de cercar*, sopra-se a
 fumaça no peito, no /hã̗wäg/ da pessoa para que seu sopro vital seja
@@ -7060,15 +7064,15 @@ e demandantes, do mesmo modo que os tipos de fumaça distinguem os tipos
 de encantamento gestualmente. Como o gesto de “segurar o cigarro”, ao
 soprá-lo, o benzedor faz surgir o objeto com suas ações, assim como o
 demandante ao produzir a fumaça. Assim, a relação social entre o xamã e
-o demandante também surge *via* cigarro e fumaça.
+o demandante também surge via cigarro e fumaça.
 
 Como visto, o sopro é uma das formas de semear o tabaco para fazê-lo
 germinar e trazê-lo à vida. É possível diferenciar o “sopro para
 semear”, o “sopro das palavras” e o “sopro da fumaça” como seo três
-ações importantes para que o tabaco aja na cura e proteção. Em M13, a
+ações importantes para que o tabaco aja na cura e proteção. Em **M13**, a
 dádiva do tabaco/coca ao ancestral Semente de Tabaco é a oferta de um
 alimento a um humano/semente que, ao partilhar as substâncias e as
-palavras, lega à humanidade a habilidade de pensar e narrar. Já em B2,
+palavras, lega à humanidade a habilidade de pensar e narrar. Já em **B2**,
 evidencia-se a associação entre deus e pais, quando os xamãs são
 descritos como velhos que repetem o ato de fazer e dar tabaco, como
 /K’e̖g Tẽh/, para que os jovens cresçam sem doença. Como os pais que
@@ -7097,13 +7101,13 @@ como as plantas de tabaco na roça.
 
 A fumaça do cigarro não é a ação do benzedor, mas o ressoar, os ecos de
 seus movimentos e gestos ao longo de um percurso. Lembrando os versos de
-Fernando Pessoa (2002), ambos, xamã-soprador e demandane, seguem o fumo
+Fernando Pessoa, ambos, xamã-soprador e demandante, seguem o fumo
 em sua rota própria[^66]. Esculpido pelo benzedor, o cigarro torna-se um
-*instrumento vocal de sopro* na metamorfose de sua matéria operada pelo
-fumante. A fumaça emerge como o elemento mediador para a *conjunção de
-uma disjunção* que transpõe as ações realizadas num tempo relativo
-(viagem ao Lago-de-Leite) para um espaço absoluto (corpo), restituindo o
-“sopro vital em pé e cercado” (B2) (Lévi-Strauss, 2004b, p. 395).
+instrumento vocal de sopro na metamorfose de sua matéria operada pelo
+fumante. A fumaça emerge como o elemento mediador para a conjunção de
+uma disjunção que transpõe as ações realizadas num tempo relativo
+(viagem ao Lago de Leite) para um espaço absoluto (corpo), restituindo o
+“sopro vital em pé e cercado” (**B2**).
 
 O cigarro e a fumaça surgem como instrumentos de percepção fundamentais
 para a produção ativa da existência humana. Se, ao “segurar o cigarro”
@@ -7113,17 +7117,17 @@ entre afins, a fabricação dos “cigarros benzidos” consolida, nas rodas
 de coca, uma dinâmica constante de interações que possibilita a
 *progeneração*, o contínuo desdobrar de um campo de relações entre as
 gerações através do qual as pessoas crescem, pensam, curam e protegem-se
-mutuamente (Ingold, 2000, p. 142). As *sementes de tabaco* e os
-*cigarros benzidos* continuam a fazer os jovens lembrarem-se de Semente
+mutuamente). As sementes de tabaco e os
+cigarros benzidos continuam a fazer os jovens lembrarem-se de Semente
 de Tabaco e a verem os velhos como sendo aqueles que fazem germinar e
 regenerar a vida. A pupunheira plantada pelo pai de Américo continua a
-crescer perto da Serra-da-Cutiváia e a fazer esse filho contar as
+crescer perto da Serra da Cutivaia e a fazer esse filho contar as
 histórias ouvidas por aquelas trilhas. As viagens e as rodas de coca
 revelam-se *campos de percepção e ação* ao longo dos quais as pessoas
 hup crescem à medida que veem, ouvem e acompanham-se na busca por formas
-de habitar, trocar, curar e cercar (Merlau-Ponty, 2011; Ingold, 2000).
+de habitar, trocar, curar e cercar.
 
-### Sonhar com o pai
+##Sonhar com o pai
 
 No dia 2 de fevereiro de 2010, Marino começou a preparação da coca
 aquecendo as folhas. Foi ajudado por Miguel e por José, irmão (yB) de
@@ -7141,39 +7145,39 @@ sua viagem a São Paulo, de seu passeio pelo centro da cidade, do namoro
 com uma mulher xavante, das cachaças, dos cigarros e do aprendizado das
 práticas xamânicas com seu pai.
 
-> **S1. O pai conta em sonho**
->
-> (Você começou a comer a coca com quantos anos?) Vinte, vinte e cinco.
-> (Você comia com seu pai?) Não, daqui mesmo. (Depois que casou?) Sim,
-> depois que casei, já tinha minha filha.
->
-> (Mas benzimentos, você começou a aprender antes com seu pai?) É
-> \[...\] Ele contava, depois dessa hora. Depois de dormir, ir para a
-> rede, ele contava. Ele velho. Não dorme não. Ele dorme quase três
-> horas. Dorme três horas, acorda são cinco horas. Só dorme uma hora.
-> Toma o banho. \[...\] \[Ele comia coca?\] É, ele come. E meu tio
-> também come. (Teu tio também comia.) Eles morreram tudo. (...) Só
-> tenho a minha sobrinha daqui de Samaúma que está morando. São três.
-> \[...\] Outro dia nós vamos visitar. Chegar, uma semana, estar
-> pescando, e voltar. Ficar lá visitando eles.
->
-> (Mas daí você aprendeu benzimento em sonho?) Está benzendo ainda, com
-> cigarro. É a primeira coisa que benze. Tem, ele contava. (Em sonho ele
-> contava?). Benzendo. Ele tava benzendo com tabaco, cigarro. Ele fuma e
-> depois conta. É que sonha, ele mesmo tá contava. Ele mesmo, quando
-> você sonha, ele contava, daí não dorme mais. Quando você dorme, se
-> dorme você esquece.
->
-> (Ele aparecia, contava e você acordava). Rapaz, trabalho. É trabalho,
-> Danilo. Como médico. Nós que comemos dessa coca, comer, deitar na
-> nossa rede. Querer deitar. Nós botávamos assim, sentava perto do fogo,
-> sentava mais ainda.
->
-> Quando a gente dorme da criança, tá gritava. Outro dia tava lua
-> clarera. \[...\] Quando a gente, a menina tá dormindo, depois dorme,
-> quando acaba, fica silêncio. Nós deitávamos na nossa rede. Dormia
-> quase três horas. Acordei, já era sete horas. (Mandu, gravação sonora,
-> 02/02/2010).
+ **S1. O pai conta em sonho**
+
+ (Você começou a comer a coca com quantos anos?) Vinte, vinte e cinco.
+ (Você comia com seu pai?) Não, daqui mesmo. (Depois que casou?) Sim,
+ depois que casei, já tinha minha filha.
+
+ (Mas benzimentos, você começou a aprender antes com seu pai?) É
+ \[...\] Ele contava, depois dessa hora. Depois de dormir, ir para a
+ rede, ele contava. Ele velho. Não dorme não. Ele dorme quase três
+ horas. Dorme três horas, acorda são cinco horas. Só dorme uma hora.
+ Toma o banho. \[...\] \[Ele comia coca?\] É, ele come. E meu tio
+ também come. (Teu tio também comia.) Eles morreram tudo. (...) Só
+ tenho a minha sobrinha daqui de Samaúma que está morando. São três.
+ \[...\] Outro dia nós vamos visitar. Chegar, uma semana, estar
+ pescando, e voltar. Ficar lá visitando eles.
+
+ (Mas daí você aprendeu benzimento em sonho?) Está benzendo ainda, com
+ cigarro. É a primeira coisa que benze. Tem, ele contava. (Em sonho ele
+ contava?). Benzendo. Ele tava benzendo com tabaco, cigarro. Ele fuma e
+ depois conta. É que sonha, ele mesmo tá contava. Ele mesmo, quando
+ você sonha, ele contava, daí não dorme mais. Quando você dorme, se
+ dorme você esquece.
+
+ (Ele aparecia, contava e você acordava). Rapaz, trabalho. É trabalho,
+ Danilo. Como médico. Nós que comemos dessa coca, comer, deitar na
+ nossa rede. Querer deitar. Nós botávamos assim, sentava perto do fogo,
+ sentava mais ainda.
+
+ Quando a gente dorme da criança, tá gritava. Outro dia tava lua
+ clarera. \[...\] Quando a gente, a menina tá dormindo, depois dorme,
+ quando acaba, fica silêncio. Nós deitávamos na nossa rede. Dormia
+ quase três horas. Acordei, já era sete horas. (Mandu, gravação sonora,
+ 02/02/2010).
 
 Manuel Barbosa, o Mandu, é considerado um grande benzedor para mordidas
 de cobra, especificamente de jararaca, /tɨ̃hɨ̗̃y/ (cobras da família dos
@@ -7191,7 +7195,7 @@ para a conversação em língua hup.
 Sua história de participação nas rodas de coca confunde-se com o
 aprendizado dos encantamentos com o pai. É possível perceber a
 semelhança que esse processo de aprendizado entre pai e filho tem com a
-transmissão da coca, do cigarro e dos saberes de M13. Mandu escutava os
+transmissão da coca, do cigarro e dos saberes de **M13**. Mandu escutava os
 benzimentos quando seu pai se deitava na rede, depois de participar das
 rodas de coca. Mais tarde, após a morte do pai, ele continuou seu
 aprendizado em sonho. Comia coca, fumava, deitava-se na rede e sonhava.
@@ -7204,7 +7208,7 @@ deitado” (vigília) e depois com o “filho deitado” (onírico).
 
 A viagem a São Paulo, lembrada por Mandu, diz tanto do fascínio com esse
 mundo tão diferente quanto da perda de seu sobrinho, vítima de câncer
-seis meses depois da partida de ambos para o tratamento. Como em M13,
+seis meses depois da partida de ambos para o tratamento. Como em **M13**,
 “um novo mundo” surge através da viagem para um lugar distante, São
 Paulo. Mandu menciona também a relação de seu pai e seu tio, que comiam
 coca, o que salienta a importância das relações consanguíneas (eB/yB e
@@ -7219,7 +7223,7 @@ corporais se realizam em momentos específicos para garantir a eficácia
 dos sonhos e dos encantamentos. No intercâmbio verbal entre pai e filho,
 uma série de indicadores extralinguísticos (coca, tabaco, limpeza,
 gestos, sono) soma-se para dar sentido às palavras e à identidade dos
-interlocutores. Em S1, Mandu afirma a importância do tabaco para o
+interlocutores. Em **S1**, Mandu afirma a importância do tabaco para o
 benzedor, dizendo que o cigarro é “o primeiro a ser benzido”. No sonho
 narrado por Mandu, seu pai aparece benzendo com o tabaco, “ele fuma e
 depois conta”. A ação xamânica e o ato de fala ocorrem simultaneamente,
@@ -7230,31 +7234,31 @@ A ação xamânica do pai é fonte de proteção e de saber ao filho, que
 desperta para aprimorar sua habilidade como benzedor. Esse talvez tenha
 sido um primeiro sonho de Mandu, que pode ser considerado como uma
 continuidade de sua iniciação xamânica, preparando seu corpo para fumar,
-ver e contar. Como em B2, seu pai está “dando cigarro para melhorar a
+ver e contar. Como em **B2**, seu pai está “dando cigarro para melhorar a
 vida”, para proteger seu filho e fazê-lo crescer forte como um poderoso
 xamã-soprador. De certo modo, sua “vida acabou” para que o filho o
 sucedesse, mas, mesmo morto, ele continua a proteger, curar e ensinar.
 Seu pai não está narrando “fórmulas textuais” para serem decoradas por
-Mandu, como levam a crer as descrições de Dolmatoff (1976), Buchillet
-(1983), Reid (1979), Athias (1998). Ele está mostrando ao filho através
+Mandu, como levam a crer as descrições de Dolmatoff, Buchillet,
+Reid, Athias. Ele está mostrando ao filho através
 do fazer, da prática para que ele adquira a habilidade por sua própria
-ação, ao mesmo tempo em que está recebendo o tabaco (M13) (B2). Pensando
-com Ingold (2000, p. 37), o sonho pode ser visto como um modo de ação,
+ação, ao mesmo tempo em que está recebendo o tabaco (**M13**) (**B2**). Pensando
+com Ingold, o sonho pode ser visto como um modo de ação,
 uma viagem que possibilita a interação com um mentor experiente para a
 transmissão, não de representações ou fórmulas, mas de modos de
 engajamento prático com o ambiente que geram transformações através do
 ato de benzer. Realizando uma ação xamânica para proteger o filho com o
 “benzimento do tabaco”, o pai está preparando o corpo de seu filho para
 fumar. Ao mesmo tempo, está mostrando como o filho deve viajar ao
-Lago-de-Leite, visitar as casas dos ancestrais e juntar o sopro vital e
-o tabaco para regenerar a vida. A partir da narrativa de Mandu (S1), é
-possível verificar que, como mostra Reid (1978), as concepções sobre o
+Lago de Leite, visitar as casas dos ancestrais e juntar o sopro vital e
+o tabaco para regenerar a vida. A partir da narrativa de Mandu (**S1**), é
+possível verificar que, como mostra Reid, as concepções sobre o
 xamanismo dos Hupd’äh aproximam-se muito daquelas sobre as experiências
 de sonhos. Segundo o pesquisador, através da meditação, dos
 encantamentos ou do uso de dadas substâncias, o xamã viaja pelos
 diferentes níveis do cosmos. Para Reid, há mesmo xamãs que ao invés de
 receberem seu treinamento de outros xamãs, como é comum, o receberam
-inteiramente em sonhos (1979, p. 8-9). No caso, S1 ajuda a ver como se
+inteiramente em sonhos. No caso, **S1** ajuda a ver como se
 realiza essa forma de interação e como ela ocorre não apenas no caso do
 “xamã pajé”, /säw/, mas também dos xamãs-sopradores e dos xamãs-do-banco
 quando consomem a coca, fumam e sonham.
@@ -7266,16 +7270,16 @@ vai para debaixo da terra. Retomando M6, surge um segundo caminho dos
 mortos que explicita a fragmentação da pessoa hup após a morte. O
 /hã̗wäg/ ruma para a Serra Grande munido de farinha e fósforos,
 necessários ao sucesso de sua caminhada e à ascensão à “Casa de
-K’e̖g-Tẽh”. Já o /b’atɨ̖b’/ da pessoa, sua “sombra”, vaga pela floresta e
+K’e̖g-Tẽh”.  Já o /b’atɨ̖b’/ da pessoa, sua “sombra”, vaga pela floresta e
 depois vai para baixo, para a Casa Subterrânea onde outros /b’atɨ̖b’/ a
 esperam. Sentidos inversos separam essas duas viagens e distanciam
-cosmicamente esses princípios vitais. A conversa com Angélico dixa
+cosmicamente esses princípios vitais. A conversa com Angélico deixa
 claro que a interação onírica entre Mandu e seu pai, falecido, se dá
 entre suas pessoas reconfiguradas enquanto pessoa-sopro, ou seja,
 pessoas apartadas do elemento (duplo) /b’atɨ̖b’/ de seus seres.
 
 Todos os seres humanos são compostos pelo corpo, /sa̗p/, pelo sopro
-vital, /hã̗wäg/, e pela sombra, /b’atɨ̖b’/. Segundo Reid (1979), os
+vital, /hã̗wäg/, e pela sombra, /b’atɨ̖b’/. Segundo Reid, os
 Hupd’äh entendem a si mesmos como tendo o melhor equilíbrio entre esses
 três elementos. O sopro vital é pequeno quando a criança nasce e cresce
 através da participação nos rituais. O corpo cresce com a ingestão de
@@ -7290,13 +7294,13 @@ morte, o /b’atɨ̖b’/ deixa o corpo como duplo e se junta às outras sombras
 que habitam a floresta. Os /b’atɨ̖b’däh/ são vistos como seres
 solitários, malévolos, agressivos e noturnos. Tentam agarrar e devorar o
 sopro vital das pessoas hup, especialmente das crianças, e são
-responsáveis por causar doenças e morte (Reid, 1978, p. 11-2). Segundo
+responsáveis por causar doenças e morte. Segundo
 Athias, os feiticeiros hup manipulam seu /b’atɨ̖b’/ de modo a ocasionar
 doenças e infortúnios a suas vítimas, e agem com o /hã̗wäg/ para curar e
 proteger (1998, p. 253).
 
-Semelhante a M13, é possível perceber uma identificação, no sentido de
-Severi (2009), entre pai e filho que se realiza através de mudanças
+Semelhante a **M13**, é possível perceber uma identificação, no sentido de
+Severi, entre pai e filho que se realiza através de mudanças
 temporais (sequência), de *status* (papéis sociais), corporais de
 espaço (diferentes aldeias e diferentes lugares no cosmos).
 
@@ -7307,7 +7311,7 @@ roda e deitar na rede, do consumo de coca e tabaco, e da mobilidade
 onírica como pessoa-sopro. No sonho o pai aparece, é visto, há uma
 imagem formada segundo a representação de um ser que age, toma a palavra
 e restitui a presença paterna, num sentido próximo à atribuição de
-palavras a representações icônicas descrito por Severi (2009). O sonho
+palavras a representações icônicas descrito por Severi. O sonho
 leva a uma mudança de papel em que a oposição vivo/morto é relativizada,
 o pai/benzedor Mandu pode assumir novamente seu papel de filho/aprendiz
 que vê e ouve seu pai. Nessa interação verbal onírica, palavras e
@@ -7315,8 +7319,8 @@ imagens levam ao aprendizado dos encantamentos que serão murmurados e
 soprados no cigarro durante o deslocamento da pessoa reconfigurada pelo
 cosmos. Através do movimento, a conversa se dá como um encontro que
 interpenetra, cruza as linhas de vida de pai e filho, como uma
-*comunicação transversal* quando “pessoas particulares podem ir e vir,
-mas o processo da vida continua” (Ingold, 2000, p. 142).
+comunicação transversal quando “pessoas particulares podem ir e vir,
+mas o processo da vida continua”.
 
 Em relação ao ato de deitar do pai, há um conjunto de práticas corporais
 que são adquiridas pelo filho. A preparação corporal envolve sentar para
@@ -7326,18 +7330,18 @@ sonho, é preciso não dormir mais para não esquecer os encantamentos
 aprendidos. Identificações em termos de comportamentos fazem do corpo um
 meio através do qual se atualizam os laços entre pai e filho, permitindo
 a aproximação temporal e espacial para o aprendizado (ver, ouvir e
-contar), mesmo após a morte. Pensando com Taylor (1996), com a morte há
-a separação dos princípios vitais do corpo, o que gera uma *memória
-mutilada* pela substantivização da intersubjectividade do pai e do
+contar), mesmo após a morte. Pensando com Taylor, com a morte há
+a separação dos princípios vitais do corpo, o que gera uma memória
+mutilada pela substantivação da intersubjetividade do pai e do
 filho. O pai surge como uma pessoa hup no sonho de Mandu, uma
 singularidade genérica que expressa a condensação e a memória das
 disposições afetivas e dos saberes nutridos, partilhados e construídos
-no dia a dia de convivência (1996, p. 206).
+no dia a dia de convivência.
 
 Creio ser possível entender as mudanças corporais ocorridas através
 dessas práticas que geram transformações na identidade social como uma
-*fabricação do corpo* (Viveiros de Castro, 1979). A passagem da vida à
-morte do pai pode ser vista como um processo de metamorfose (humano 
+fabricação do corpo. A passagem da vida à
+morte do pai pode ser vista como um processo de metamorfose (humano para
 espírito). Essa transformação leva à reconfiguração da pessoa hup em
 /hã̗wäg/, que viaja rumo à Serra Grande e em /b’atɨ̖b’/, que vaga pela
 floresta e depois ruma para a Casa-Subterrânea. Há uma intervenção
@@ -7345,33 +7349,34 @@ consciente sobre a matéria para criar o corpo de um benzedor que pode
 continuar seu aprendizado oniricamente. Essa metamorfose e a
 possibilidade de interação onírica entre pai e filho para a aquisição de
 habilidades xamânicas parecem aproximar a concepção de morte dos hup
-daquela que Århem descreve para a ecosofia makuna. Em suas palavras,
+daquela que Århem descreve para a *ecosofia* makuna. Em suas palavras,
 
-> *\[...\] Os Makuna percebem a morte como transferência da alma de uma
-> forma de vida (ou forma de mundo) para outra \[...\] a morte é um
-> movimento entre a morte espiritual e as várias formas de mundo do
-> cosmos material visível; é um movimento entre dimensões do cosmos*
-> (1993, p.19).
+<!-- estilo de citação -->
+ \[...\] Os Makuna percebem a morte como transferência da alma de uma
+ forma de vida (ou forma de mundo) para outra \[...\] a morte é um
+ movimento entre a morte espiritual e as várias formas de mundo do
+ cosmos material visível; é um movimento entre dimensões do cosmos
+ (1993, p.19).
 
 A fragmentação e reconfiguração da pessoa separam /hã̗wäg/ e /b’atɨ̖b’/ e
 fazem com que duas viagens, dois movimentos de afastamento com relação
 aos vivos se iniciem. No sonho, depois de comer a coca, fumar e deitar,
 o xamã busca, então, um deslocamento para a aproximação, uma viagem rumo
 à morada do morto, /Paç-Pög/ ou /K’e̖g Tẽh-Mo̖y/ para conversar e, como em
-M13, “ter os encantamentos revelados”. “Dar cigarro” (S1) depois da
+**M13**, “ter os encantamentos revelados”. “Dar cigarro” (**S1**) depois da
 morte é uma ação que ajuda a perceber dimensões importantes do modo como
 os Hupd’äh entendem a morte. Com a dádiva de /K’e̖g Tẽh/, “dar cigarro”
 passa a ser a possibilidade de continuidade da vida após a morte através
-dos jovens que crescem, das sementes que germinam e dos ancetrais que
+dos jovens que crescem, das sementes que germinam e dos ancestrais que
 contam em sonho. “Dar o cigarro” e “soprar a fumaça” são *ações de*
 *manejo de potências primordiais* que fazem os atos de /K’e̖g Tẽh/
 ressoarem nos movimentos e deslocamentos dos senhores hup. Tomando as
 palavras de Århem (1993), a morte e a vida podem ser vistas como
 movimentos entre dimensões do cosmos.
 
-1.  ### Pari de fumaça
+##Pari de fumaça
 
-    1.  #### Às margens do Lagos-de-Leite
+###Às margens do Lagos de Leite
 
 Durante um encontro noturno, depois de estarmos todos sentados em roda
 comendo coca, um cachorro atravessou o espaço vazio dentro do círculo de
@@ -7379,63 +7384,64 @@ um lado a outro. Samuel e outros começaram a erguer seus braços como se
 fossem bater no animal e a gritar irritados: /Mo̗h pã̖, Mo̗h pã̖!/, “no lago
 não, no lago não!”, até que o cão saiu correndo assustado. Surpreso,
 perguntei a eles por que tinham afastado o cachorro daquela forma. Foi
-então que Samuel me contou sobre os Lagos-de-Leite que se formam quando
+então que Samuel me contou sobre os Lagos de Leite que se formam quando
 os senhores estão sentados conversando ou benzendo:
 
-> *No centro da roda forma-se um /Pud-Dë̖h Mo̗h/, um “Lago-de-Leite”
-> quando os velhos estão sentados conversando ou benzendo. Também no
-> centro da /Ä̗g-Mo̖y/, “Maloca”, forma-se um Lago-de-Leite quando todos
-> estão bebendo caxiri, cantando e dançando. As flautas jurupari
-> circulam em volta do Lago-de-Leite que se forma na Maloca quando são
-> tocadas. Uma das portas da Maloca é aberta para a /Dëh K’et-Yoh Mo̖y/,
-> “Casa da Cabeceira”, e a outra para /Dëh Sa̗ka̗n Mo̖y/, “Casa do Sol
-> Nascente”. Os troncos que sustentam o telhado da Maloca são como as
-> serras e o telhado é como o céu (Caderno de campo,*10/04/2012).
+<!-- estilo de citação -->
+ No centro da roda forma-se um /Pud-Dë̖h Mo̗h/, um “Lago de Leite”
+ quando os velhos estão sentados conversando ou benzendo. Também no
+ centro da /Ä̗g-Mo̖y/, “Maloca”, forma-se um Lago de Leite quando todos
+ estão bebendo caxiri, cantando e dançando. As flautas jurupari
+ circulam em volta do Lago de Leite que se forma na Maloca quando são
+ tocadas. Uma das portas da Maloca é aberta para a /Dëh K’et-Yoh Mo̖y/,
+ “Casa da Cabeceira”, e a outra para /Dëh Sa̗ka̗n Mo̖y/, “Casa do Sol
+ Nascente”. Os troncos que sustentam o telhado da Maloca são como as
+ serras e o telhado é como o céu (Caderno de campo, 10/04/2012).
+ <!-- estilo de citação -->
 
-Benzer e conversar em roda são atos que fazem surgir um Lago-de-Leite.
+Benzer e conversar em roda são atos que fazem surgir um Lago de Leite.
 Ao redor desse lago, os senhores hup sopram a fumaça dos cigarros
 enquanto contam histórias dos antigos. Sopram também os cigarros
-bendos para moldá-los a partir de suas ações durante as viagens ao
-Lago-de-Leite (B2), rio abaixo, /mer’ah sö̗’/, local onde a humanidade
-surgiu após o chamado de /K’e̖g Tẽh/ (M2), onde os ancestrais receberam
-os poderes (M14) e de onde partiram navegando dentro da Cobra-Canoa
-(M13). As conversas em meio à circulação das panelas de caxiri também
-fazem surgir um Lago-de-Leite na maloca. De forma semelhante, a dança e
-o toque das flautas Jurupari cria um Lago-de-Leite, ao redor do qual
-todos circulam. Em meio a atos de fala, sopro e dança, o “Lago-de-Leite”
+benzidos para moldá-los a partir de suas ações durante as viagens ao
+Lago de Leite (**B2**), rio abaixo, /mer’ah sö̗’/, local onde a humanidade
+surgiu após o chamado de /K’e̖g Tẽh/ (**M2**), onde os ancestrais receberam
+os poderes (**M14**) e de onde partiram navegando dentro da Cobra-Canoa
+(**M13**). As conversas em meio à circulação das panelas de caxiri também
+fazem surgir um Lago de Leite na maloca. De forma semelhante, a dança e
+o toque das flautas Jurupari cria um Lago de Leite, ao redor do qual
+todos circulam. Em meio a atos de fala, sopro e dança, o “Lago de Leite”
 emerge como uma poderosa *paisagem de vida* que estabelece a presença
-imanente do espaço-tempo da criação (M2), da dádiva (M13) (M14) e da
-possibilidade de cura, proteção e regeneração (B2).
+imanente do espaço-tempo da criação (**M2**), da dádiva (**M13**) (**M14**) e da
+possibilidade de cura, proteção e regeneração (**B2**).
 
 Os cachorros, muito valorizados para a caça e acompanhamento nas
 caminhadas, são correntemente enxotados das rodas. São eles que trazem
 os bichos-do-pé, que procuram o calor das cinzas de imbaúba para
-eitar-se e que podem, farejando, derrubar a cuia de coca e atrapalhar o
+deitar-se e que podem, farejando, derrubar a cuia de coca e atrapalhar o
 encontro. Seus latidos e lambidas repentinas impedem a concentração, o
 benzimento e as conversas. São seres que precisam estar afastados para
 longe do convívio dessa forma de interação, pois seus movimentos e ações
 tornam-se incompatíveis com os afazeres dos encontros. Indesejados e
-impuros, no sentido de Douglas (1976), os cães são afastados e tornam-se
+impuros, no sentido do estudo de Douglas, os cães são afastados e tornam-se
 seres marginais, potencialmente perigosos por serem fontes de predadores
 minúsculos e por ameaçarem a boa sequência das ações dessa forma
 relacional.
 
-No 1º movimento de B2, no Lago-de-Leite o xamã tira o tabaco de cada uma
+No 1º movimento de **B2**, no Lago de Leite o xamã tira o tabaco de cada uma
 das casas ancestrais para reestabelecer a vida do doente. Ao mesmo
 tempo, ele vai retirando o /hã̗wäg/ da pessoa dessas mesmas casas para
-/hikad ni̗/, “trocar”, a vida. Sentado em seu “banco-de-leite”,
+/hikad ni̗/, “trocar”, a vida. Sentado em seu “banco de leite”,
 /pud-kä̖d/, designado também como “banco da vida”, /ɨ̗b’-kä̖d/, o benzedor
 troca com os ancestrais dos diversos clãs agnatos o cigarro, o bastão e
 o chapéu. Essa substância e os ornamentos são reunidos e depois levados
 na viagem de volta. Para entender melhor esse processo de regeneração da
 pessoa hup (que se dá com a retirada do sopro vital e do tabaco das
-casas) e a formação de Lagos-de-Leite durante as rodas de coca, creio
-ser importante descrever em que medida a *paisagem dos lagos* se
-configura como um campo de percepção e ação (Merlau-Ponty, 2011; Ingold,
-2000).
+casas) e a formação de Lagos de Leite durante as rodas de coca, creio
+ser importante descrever em que medida a paisagem dos lagos se
+configura como um campo de percepção e ação.
 
 Os Hupd’äh denominam /k’ɨ̗/, “verões”, os períodos em que há poucas
-chuvas e diminui o volume dos rios e igarapés. Esses verões são mais
+chuvas e diminui-se o volume dos rios e igarapés. Esses verões são mais
 longos e intensos no período de setembro a novembro [^68], e mais curtos
 no restante do ano. São marcados por mudanças significativas na
 hidrografia regional e têm um papel relevante para a pesca. Com a
@@ -7449,8 +7455,8 @@ cantos, caxiris e namoros.
 
 Nesses períodos, muitas famílias deixam a aldeia para constituir
 acampamentos de pesca ao longo dos igarapés, rios e lagos da região.
-Retomando B2, elas viajam aos lagos, num sentido próximo à viagem do
-benzedor ao Lago-de-Leite. Os lagos que represam, cercam os peixes que
+Retomando **B2**, elas viajam aos lagos, num sentido próximo à viagem do
+benzedor ao Lago de Leite. Os lagos que represam, cercam os peixes que
 se reproduzem intensamente. Isso faz com que as famílias obtenham grande
 quantidade desse alimento. O excedente é moqueado para a conservação e
 para a troca com outros parentes. É justamente através da fumaça e do
@@ -7466,7 +7472,7 @@ próximos a seus donos sem ser enxotados.
 
 Com o reinício das chuvas desfazem-se os lagos e iniciam-se as
 piracemas, a subida dos peixes rio acima, muito favorável à pesca com
-arco-e-flecha, timbós[^69], malhadeiras, matapis e paris[^70]. Os
+arco e flecha, timbós[^69], malhadeiras, matapis e paris[^70]. Os
 “paris”, /b’e̖’/, são armadilhas em forma de cerca. Preparadas a partir
 de varas de paixiubinha e trançadas com “cipós de arumã”, /moho̖y yu̗b/,
 essas armadilhas são dispostas ao longo do curso do igarapé para
@@ -7475,16 +7481,16 @@ arma o pari fixando-o no leito do igarapé. Dirige-se a outros pontos do
 córrego para continuar sua pesca com anzol enquanto os peixes vão
 acumulando-se no pari. Assim como os lagos, impede-se a passagem dos
 peixes, represando-os e envolvendo-os. Era com essa técnica que o velho
-Henrique pegava muitos peixes na Serra-da-Cutiváia, como lembrou
+Henrique pegava muitos peixes na Serra da Cutivaia, como lembrou
 Américo.
 
 “Cercar”, /ta̗’/, é o modo como os benzedores hup designam o procedimento
 de criar envoltórios em torno de pessoas, lugares e princípios vitais.
-Num momento, em B2, revela-se que “a fumaça é pari para dentro”, para
+Num momento, em **B2**, revela-se que “a fumaça é pari para dentro”, para
 cercar o /hã̗wäg/, fazer com que uma estrutura dura envolva o sopro vital
 e torne invisível a pessoa hup às Cobras[^71]. Envolve-se o sopro vital
 da mesma forma como os paris e os lagos envolvem os peixes, alimentos
-necessários à vida. Retomando B1, a casca de tururi e a casca de tabaco
+necessários à vida. Retomando **B1**, a casca de tururi e a casca de tabaco
 são criadas pelo benzedor em torno da pessoa para protegê-la, cercá-la.
 De modo interessante, a roupa de aracu, um dos peixes mais pescados e
 moqueados durante os verões, protege o xamã, envolve-o, cerca-o. As
@@ -7494,13 +7500,15 @@ de tabaco conserva-as para a transmissão e plantio[^72]. Entre os
 Desana, essa relação entre o tabaco e o ato de cercar é descrita por
 Reichel-Dolmatoff da seguinte maneira:
 
-> *Soprando fumo ao redor de um lugar ou objeto, esse forma uma “cerca”
-> mágica que protege contra perigos. \[...\] Em um sentido horizontal, o
-> cigarro atua então de duas maneiras: ao soprar seu fumo sobre algo ou
-> em direção a algo, estabelece uma barreira circular que aumenta ao
-> passo que o fumo vai diminuindo; o fumo “abre os olhos” dos agentes do
-> Mal que, em seu lugar, vêem uma cerca; cria-se, pois, um limite no
-> espaço* (1986, p. 184).
+<!-- estilo de citação -->
+ Soprando fumo ao redor de um lugar ou objeto, esse forma uma “cerca”
+ mágica que protege contra perigos. \[...\] Em um sentido horizontal, o
+ cigarro atua então de duas maneiras: ao soprar seu fumo sobre algo ou
+ em direção a algo, estabelece uma barreira circular que aumenta ao
+ passo que o fumo vai diminuindo; o fumo “abre os olhos” dos agentes do
+ Mal que, em seu lugar, vêem uma cerca; cria-se, pois, um limite no
+ espaço (1986, p. 184).
+ <!-- estilo de citação -->
 
 Os lagos, os paris, a fumaça dos cigarros, as cascas e as escamas ajudam
 a ver como as formas e os gestos necessários à ação xamânica de cercar
@@ -7514,13 +7522,13 @@ Nas rodas, quando algum dos presentes demonstra interesse em aprender um
 encantamento perguntando a um dos benzedores, este tem a obrigação de
 revelar a ele os movimentos que devem ser feitos, os lugares a serem
 visitados e os elementos como plantas, animais e armas a serem
-menciados. Entretanto, todos sabem que o conhecedor “cerca”, /ta̗’/,
+mencionados. Entretanto, todos sabem que o conhecedor “cerca”, /ta̗’/,
 seus saberes, contando apenas uma parte. O aprendizado do restante
 depende dos sonhos e dos encontros de cada participante com os
 ancestrais de seu clã, seus antepassados agnatos, como no caso do
-diálogo de Mandu e seu pai (S1). Nos encontros noturnos, o participante
+diálogo de Mandu e seu pai (**S1**). Nos encontros noturnos, o participante
 deve ter a habilidade de não contar os encantamentos por inteiro,
-“escondendo os poderes de seu clã atrás de si” (M14) para cercá-los.
+“escondendo os poderes de seu clã atrás de si” (**M14**) para cercá-los.
 
 Substância fundamental para as conversas que atualizam a dádiva de /K’e̖g
 Tẽh/, o tabaco revela-se potencialmente perigoso devido aos riscos de
@@ -7531,37 +7539,39 @@ invisíveis aos demais ancestrais como o ato de “não contar por inteiro”
 nas rodas. Esse gesto previne, protege contra os riscos da má
 reciprocidade entre afins e dos feitiços. Assim, as habilidades
 xamânicas de cada clã diferenciam-se de acordo com os saberes que vão
-sendo aprendidos e cercados. Como os ancestrais no Lago-de-Leite, os
+sendo aprendidos e cercados. Como os ancestrais no Lago de Leite, os
 xamãs-sopradores recebem os poderes e cercam-nos, escondendo-os atrás de
-si (M14).
+si (**M14**).
 
-[]{#Fig27_PoncianoCercar .anchor}Ponciano mostra o cercar (foto: Danilo
-P. Ramos, 2012)
+<!-- Fig. 13 -->
+Ponciano mostra o cercar (foto: Danilo P. Ramos, 2012)
 
-[]{#Fig28_GrafismoCercar .anchor}Grafismo do ato de cercar
+<!-- Fig. 14 -->
+Grafismo do ato de cercar
 
 Num encontro noturno, pedi a Ponciano e Samuel para me explicarem como
 se dava a ação xamânica do cercar durante a execução de encantamentos.
 Ponciano voltou-se para o chão e, com o dedo, começou da desenhar na
 areia. Seus traços delinearam um círculo no interior do qual estava uma
 pessoa sentada em um banco[^73]. A postura é denominada /ɨ̗b’ kä̖dä̖t/,
-“estar sentado no banco-da-vida”, ou /pud-dë̖h kä̖dä̖t/, “estar sentado no
-banco-de-leite”. Ainda que não se esteja sentado em um banco de sorva, a
+“estar sentado no banco da vida”, ou /pud-dë̖h kä̖dä̖t/,  “estar sentado no
+banco de leite”. Ainda que não se esteja sentado em um banco de sorva, a
 postura acocorada ou sentada no chão com o tronco curvado para frete e
-as pernas contraídas é igualmente denominada “banco-da-vida”. Com a
+as pernas contraídas é igualmente denominada “banco da vida”. Com a
 postura corporal, a parte inferior das costas e as nádegas formam um
 banco, presente na anatomia humana desde que o feto se forma na barriga.
 
 Num sentido parecido, o benzedor deve estar deitado dentro de uma “rede
 de leite” para viajar até o lago e retornar. Como uma canoa, a rede
-torna-se um veículo de navegação pelo “Rio-de-Leite”, /Pu̖d-Dëh/. Um
-pedço de tabaco sustenta a rede pendurada e aberta para que o benzedor
+torna-se um veículo de navegação pelo “Rio de Leite”, /Pu̖d-Dëh/. Um
+pedaço de tabaco sustenta a rede pendurada e aberta para que o benzedor
 se movimente deitado. É esse pedaço de tabaco que “cerca” a rede,
 ocultando o xamã-soprador das vistas da Gente-Cobra para que faça uma
-viagem segura durante o trajeto. Enquanto traduzíamos o B2, Samuel deu
+viagem segura durante o trajeto. Enquanto traduzíamos o **B2**, Samuel deu
 essa explicação sobre a locomoção do benzedor e fez um desenho.
 
-[]{#Fig29_RedeLeite .anchor}Rede de leite e pedaço de tabaco
+<!-- Fig. 14 -->
+Rede de leite e pedaço de tabaco
 
 O leite torna-se a substância comum com a qual são feitos o banco, a
 rede, o sopro vital, o pensamento e o lago evidenciando a continuidade
@@ -7572,38 +7582,38 @@ a mobilidade e a agência necessárias. “Sentada em seu banco de leite” e
 “deitada em sua rede de leite”, a pessoa alinha seu corpo a partir de
 posturas de vida que precisam, elas mesmas, ser protegidas. O círculo é
 o envoltório criado pelo gesto de cercar com o qual o benzedor produz um
-pari. /Be’ ta’yɨ’ɨh/, o “pari cerca’, diz-se. O pedaço de tabaco,
+pari. /Be’ ta’yɨ’ɨh/, o “pari cerca”, diz-se. O pedaço de tabaco,
 sustentando, dá forma à rede e envolve a pessoa-sopro, cerca-a ao longo
-do percurso de navegação pelo Rio de Leite. Se um Lago-de-Leite se forma
+do percurso de navegação pelo Rio de Leite. Se um Lago de Leite se forma
 diante dos senhores sentados em roda, na areia, no centro da roda,
 Ponciano desenhava uma pessoa sentada em seu banco de leite e cercada
 pelo círculo de fumaça. Sentados em seus bancos, os benzedores
-cercavam-se a si mesmos e ao Lago-de-Leite com a fumaça de seus
+cercavam-se a si mesmos e ao Lago de Leite com a fumaça de seus
 cigarros, pari para envolver a vida e proteger a todos. Com o
 “benzimento do tabaco”, o pai de Mandu cercava-o enquanto ele estava
 deitado, sonhando em sua rede.
 
-O Lago-de-Leite pode ser visto como uma paisagem que represa, que cerca
+O Lago de Leite pode ser visto como uma paisagem que represa, que cerca
 os princípios vitais, para que a vida possa ser renovada. Tornando-o
 presente diante de si durante a roda, os participantes estão cercando o
 entorno a partir dos princípios vitais das águas do lago (leite e
 água-pura), das casas ancestrais às suas margens e dos ornamentos
-necessários às danças e rituais (B2). Enquanto paisagem, o Lago-de-Leite
+necessários às danças e rituais (**B2**). Enquanto paisagem, o Lago de Leite
 é a forma como os Hupd’äh experienciam e reconhecem os contornos por
 meio de relações criadas nas atividades práticas das rodas. Os paris
 configuram os contornos no curso da atividade pesqueira. A fumaça, nos
-atos de benzimento. Creio que a diferenciação que Ingold (2000, p.22)
+atos de benzimento. Creio que a diferenciação que Ingold
 faz das cifras e chaves (*clues*) seja interessante para entender melhor
-esses sentidos da paisagem do Lago-de-Leite.
+esses sentidos da paisagem do Lago de Leite.
 
-Menos um código e mais uma chave, um indício, um vestígio, um *campo de
-rastros*, a paisagem do Lago-de-Leite parece guiar o benzedor através de
+Menos um código e mais uma chave, um indício, um vestígio, um campo de
+rastros, a paisagem do Lago de Leite parece guiar o benzedor através de
 sentidos desse centro do mundo que se encontram imanentes aos afazeres
-diários. As rodas de coca e o Lago-de-Leite mostram-se como *centros de
-atividade progenerativa* que situam as pessoas no mundo, numa paisagem
+diários. As rodas de coca e o Lago de Leite mostram-se como centros de
+atividade progenerativa que situam as pessoas no mundo, numa paisagem
 nodal onde as trilhas e as linhas dos movimentos de cada um se cruzam
-para formar um *campo de percepção e ação*. Comendo a coca e postando-se
-às margens do Lago-de-Leite, os senhores hup nutrem-se com substâncias e
+para formar um campo de percepção e ação. Comendo a coca e postando-se
+às margens do Lago de Leite, os senhores hup nutrem-se com substâncias e
 palavras, crescem e fazem crescer, ao mesmo tempo em que são nutridos
 pelos ancestrais. Sentando-se às rodas, as pessoas passam por linhas de
 movimento e troca de substâncias com os presentes, os ancestrais e
@@ -7612,25 +7622,25 @@ demais seres.
 Assim, tanto a expulsão do cachorro quanto o desenho do cercar mostram
 os limites e contornos desse ambiente protegido para que os senhores se
 alinhem corporalmente e, assumindo suas posturas de vida, façam surgir e
-possam proteger o Lago-de-Leite. Revelam-se os múltiplos estratos da
+possam proteger o Lago de Leite. Revelam-se os múltiplos estratos da
 experiência numa forma unificada, numa paisagem que orienta e abre o
 mundo para uma percepção melhor e mais aprofundada. Com a fumaça dos
 cigarros os senhores hup cercam a paisagem e a vida, delineando os
 contornos dos círculos de coca e fumaça a partir de suas viagens.
 
-#### Duas viagens
+###Duas viagens
 
 Em 4 de março de 2012, a partir de um desenho de Samuel em meu caderno
 durante a roda de coca, Miguel foi apontando as casas próximas ao
-Lago-de-Leite. Disse que nos /pë̗’ bi’i̖d/, “benzimento de cura”, é
-preciso viajar até o Lago-de-Leite. Banha-se a pessoa e seu /hã̗wäg/ com
+Lago de Leite. Disse que nos /pë̗’ bi’i̖d/, “benzimento de cura”, é
+preciso viajar até o Lago de Leite. Banha-se a pessoa e seu /hã̗wäg/ com
 as águas do lago para “trocá-los”, /hikad ni̗/, “transformá-los”. Deve-se
 parar diante de cada casa, entrar e mostrá-la à pessoa, para que esta
 veja e aprenda a história dos antigos. O percurso torna-se um caminho ao
 longo do qual a pessoa vai sendo socializada ou ressocializada na
 paisagem, nas histórias, nas substâncias e ornamentos essenciais para a
 fabricação do ser hup. Nesse sentido, em que medida seria possível
-pensar a viagem à Serra Grande como uma viagem ao Lago-de-Leite?
+pensar a viagem à Serra Grande como uma viagem ao Lago de Leite?
 
 Um dos principais objetivos durante a viagem à Serra Grande era o de
 subir o morro e banhar-se nas águas dos lagos para refazer o corpo,
@@ -7639,11 +7649,11 @@ morte”.O lago é dividido em uma metade masculina e outra metade
 feminina. Para banhar-se a pessoa acocora-se, encosta suavemente a palma
 da mão no centro do lago e, em seguida, passa a mão umedecida no peito,
 morada do sopro vital, e depois nos braços. No alto do morro, Lucas
-gritou como se estivesse chamando a humanidade (M2) e deixou um cigarro
+gritou como se estivesse chamando a humanidade (**M2**) e deixou um cigarro
 para os ancestrais no lago.
 
-[]{#Fig30_CigarroLago .anchor}Cigarro no lago (foto: Danilo P. Ramos,
-2012)
+<!-- Fig. 15 -->
+Cigarro no lago (foto: Danilo P. Ramos, 2012)
 
 Como já foi assinalado, no alto da serra, um processo de condensações
 rituais situa-se através do complexo jogo de identificações com os
@@ -7651,21 +7661,21 @@ ancestrais que toma curso pelos gestos dos viajantes, pela manipulação
 dos elementos presentes e pelas suas posturas corporais. Nessa casa do
 ancestral /Sokw’ät ĩh/, deixar o cigarro no lago é um gesto que se
 aproxima da troca do tabaco com os ancestrais realizada pelo benzedor
-(B2) ou de uma inversão de papéis, já que é um jovem, um filho quem está
+(**B2**) ou de uma inversão de papéis, já que é um jovem, um filho quem está
 dando cigarro aos antepassados. Como pode ser percebido na foto, o
 cigarro é deixado na metade masculina do lago, algo que remete à
 reciprocidade agnática e à possibilidade de entrelaçamento das linhas de
 vida do jovem e dos ancestrais num modo próximo à comunicação
-transversal de S1.
+transversal de **S1**.
 
 Tirar o /hã̗wäg/ e o tabaco das quatro casas aponta para a associação
-fundamental entre o princípio vital e essa substância. Com B1 foi
+fundamental entre o princípio vital e essa substância. Com **B1** foi
 possível entender que banhando o /hã̗wäg/, o xamã purifica e renova a
 porção líquida do sopro vital com a água pura do ramo de coca. Como
 ressaltou Samuel acima, o sopro vital é composto por água-pura, leite e
-sopro. Banhando a pessoa com a água do Lago-de-Leite, composta também
+sopro. Banhando a pessoa com a água do Lago de Leite, composta também
 por leite e água-pura, o benzedor troca e regenera esses elementos
-vitais. Ele fuma o tabaco em seu banco-de-leite para criar um pari e
+vitais. Ele fuma o tabaco em seu banco de leite para criar um pari e
 cercar o /hã̗wäg/. Na viagem à Serra Grande, o banho no lago da serra
 purificava e renovava o /hã̗wäg/ ao mesmo tempo que tornava pele e ossos
 estruturas duras que, como um pari de fumaça, cercavam nossos sopros
@@ -7677,7 +7687,7 @@ brigado na noite anterior. A comunidade de /Ta̗t-Dëh/ é dividida em
 /kopot/ ou /potan duy d’äh/, respectivamente “agrupamentos”, “vilas”,
 sendo quatro no total. Em mesmo número que as Casas Ancestrais, esses
 /kopot/ estão dispostos como se estivessem às margens de um
-Lago-de-Leite no centro. Dos diferentes /kopot/, os benzedores fazem
+Lago de Leite no centro. Dos diferentes /kopot/, os benzedores fazem
 sopros para cercar o lago e proteger a aldeia de doenças. Cercam também
 a maloca para que não haja briga durante as festas. “Uma hora são os
 /Sokw’ä̗t/ que estão segurando, outra são os Dâw, outra os /Ɨ̖h Noh Te̖͂h/.
@@ -7685,7 +7695,7 @@ Eles cercam para não ter doença.”, disse Samuel. Quando pessoas começam
 a brigar, adoecer ou morrer é preciso que um xamã de outro clã faça o
 encantamento novamente, pois aquele que foi feito começa a demonstrar
 sinais de fraqueza. Esse encantamento denomina-se /haya̗m bi’i̖d/,
-“benzimento da aldeia”, e é realizado principalmente com breu. Em B2,
+“benzimento da aldeia”, e é realizado principalmente com breu. Em **B2**,
 Ponciano menciona que, como a fumaça do cigarro, a “fumaça do breu é
 pari para dentro do corpo”.
 
@@ -7703,13 +7713,13 @@ posteriormente, preparar os pedaços de breu para as ações xamânicas. O
 breu pode ser usado também no reparo das canoas, na pintura de objetos
 cuias, adornos), e na fabricação de instrumentos musicais.
 
-[]{#Fig32_AldeiaCercada .anchor}Aldeia cercada (foto: Danilo P. Ramos,
-2012)
+<!-- Fig. 16 -->
+Aldeia cercada (foto: Danilo P. Ramos, 2012)
 
 Como o gesto de “segurar o cigarro”, central para a aliança e para a
 continuidade da vida pela prática sexual, os benzedores de diferentes
 clãs “seguram a fumaça” que cerca a comunidade e protege o
-Lago-de-Leite, progenerando a vida a partir do centro, o ponto nodal das
+Lago de Leite, progenerando a vida a partir do centro, o ponto nodal das
 vidas e ações dos habitantes. No desenho que Samuel fez na areia, os
 traços mostram um grupo de pessoas sendo envolvidas por uma estrutura
 que as contém, ao mesmo tempo em que a linha superior se apresenta menor
@@ -7734,57 +7744,57 @@ Recebendo os poderes e escondendo-os atrás de si, aprendendo
 encantamentos nas rodas e nos sonhos, os saberes de cada grupo
 magnificam-nos diferencialmente e fazem da alternância na ação de
 “segurar a fumaça” um processo vital e nunca completo. Creio que essa
-ação de cercar a aldeia se dê como um afazer no sentido de Ingold (2000,
-p. 195), um *taskscape*, uma atividade prática executada por um
+ação de cercar a aldeia se dê como um afazer no sentido de Ingold,
+um *taskscape*, uma atividade prática executada por um
 *agente-no-ambiente* em meio a suas ocupações diárias. Numa forma de
 atuação mútua e coletiva, as ações xamânicas dos benzedores se dão
 conjunta e alternadamente. Sempre cercada, a aldeia nunca está protegida
 por completo.
 
 A morfologia da aldeia, tida como a disposição das casas em torno do
-Lago-de-Leite ajuda a entender a presença imanente da paisagem da origem
+Lago de Leite ajuda a entender a presença imanente da paisagem da origem
 criada e recriada no curso do processo vital e da habitação. O “mundo em
 miniatura” revelado pela *vista* do alto da Serra Grande permite agora
 entender melhor a perspectiva minimalista que leva à admiração e ao
 sorriso dos viajantes. O lago diante dos viajantes, pequeno como uma
 poça, delineia-se proporcional em sua forma e tamanho às serras,
 Casas-Ancestrais minúsculas que surgem ao longe, nos cantos do mundo.
-Com a *vista do topo*, os viajantes percebem o aspecto pluridimensional
-dos seres, das coisas e do mundo (Chaumeil, 1983, p. 103). A paisagem da
-criação emerge em sua *aura*, aparição única de algo distante, o que
+Com a vista do topo, os viajantes percebem o aspecto pluridimensional
+dos seres, das coisas e do mundo. A paisagem da
+criação emerge em sua aura, aparição única de algo distante, o que
 permite à pessoa experienciar a existência numa identificação sensorial
-extrema com os ancestrais à beira do Lago-de-Leite (Benjamin, 1993).
+extrema com os ancestrais à beira do Lago de Leite.
 
-Os gestos de “deixar o cigarro no lago” e “chamar a humanidade” (M2)
+Os gestos de “deixar o cigarro no lago” e “chamar a humanidade” (**M2**)
 apontam para a força da identificação vivida através da totalidade do
 ser do viajante a partir de seu corpo, de sua percepção e de sua ação.
 Da mesma forma que há uma reconfiguração da pessoa a partir do sopro
 (ar) para o deslocamento pelo cosmos, a “fumaça do tabaco é pari para
 dentro”, pois cerca o sopro vital, envolve com cascas duras o corpo. No
-Lago-de-Leite, é preciso reunir simultaneamente o sopro vital e o tabaco
+Lago de Leite, é preciso reunir simultaneamente o sopro vital e o tabaco
 para que a pessoa esteja protegida desde esse momento de regeneração.
 Fumaça e pari, o tabaco consegue, ao mesmo tempo, envolver os elementos
 líquidos e aéreos da pessoa hup, possibilitando e renovando a vida. O
-tabaco nas margens cerca o Lago-de-Leite. Os senhores fumando cercam a
+tabaco nas margens cerca o Lago de Leite. Os senhores fumando cercam a
 roda de coca. A fumaça no corpo cerca o /hã̗wäg/. Começa-se a entender um
-pouco a analogia entre a pessoa hup e a paisagem do Lago-de-Leite.
+pouco a analogia entre a pessoa hup e a paisagem do Lago de Leite.
 
 À luz do comentário de Samuel, creio poder dizer que, depois de nossa
-caminhada, enquanto nos banhávamos no alto da serra, um Lago-de-Leite
+caminhada, enquanto nos banhávamos no alto da serra, um Lago de Leite
 tenha igualmente surgido para que nós, como nos encantamentos,
-regenerássmos a vida. Mas o banho na serra traz doença e morte se for
+regenerássemos a vida. Mas o banho na serra traz doença e morte se for
 tomado apenas uma vez, por isso deve haver um retorno para que o
 rejuvenescimento se torne efetivo. Suponho que o risco da viagem única
 diga respeito ao perigo da analogia entre os viajantes e os mortos. Como
 dito acima, o /hã̗wäg/ viaja para a serra, ascende ao topo e depois parte
-para o céu, para a casa de /K’e̖g Tẽh/ (M6). O /b’atɨ̖b’/ viaja para o
+para o céu, para a casa de /K’e̖g Tẽh/ (**M6**). O /b’atɨ̖b’/ viaja para o
 subterrâneo. A separação definitiva dos princípios vitais atesta a morte
 como um “não retorno” e uma “não junção” desses princípios vitais no
 corpo. Já os xamãs-sopradores, preparando o corpo, comendo coca, fumando
 e banhando-se vão e retornam, encontram-se com os ancestrais, trocam com
 eles, conversam, e voltam a seus corpos, a seus bancos, a suas casas, a
 suas rede. Como nas perigosas identificações com a “lagarta que oferece
-caarpi” (B1) e o “bicho do pé que, comendo coca, devora o /hã̗wäg/”,
+caarpi” (**B1**) e o “bicho-de-pé que, comendo coca, devora o /hã̗wäg/”,
 “viajar como os mortos” talvez gere o perigo de partilhar com eles seus
 destinos e não retornar da viagem.
 
@@ -7794,10 +7804,10 @@ iniciação xamânica do percurso, que se completa quando o andarilho
 consegue bebe a água do lago dos ancestrais, aproximando-se deles para
 aprender encantamentos, mas, ao mesmo tempo, consegue retornar. Acordar
 depois de encontrar o pai em sonho é uma habilidade que permite lembrar
-para benzer, para contar (S1), como fazem os ancestrais em M13 que fumam
-e comem coca para “ver e contar”. Ao voltar do Lago-de-Leite, o
+para benzer, para contar (**S1**), como fazem os ancestrais em **M13** que fumam
+e comem coca para “ver e contar”. Ao voltar do Lago de Leite, o
 xamã-soprador faz o sopro vital ficar em pé novamente dentro do corpo do
-doente, fora da rede, desperto (B2). Num dado momento de B2, o benzedor
+doente, fora da rede, desperto (**B2**). Num dado momento de **B2**, o benzedor
 diz: “para cá eu vou chegando”, expressão que explicita a viagem
 xamânica realizada durante o ato de benzer e a importância do
 deslocamento e do retorno. Manejando o tabaco, o sopro, as palavras e as
@@ -7807,11 +7817,11 @@ modo como se dá essa forma de mobilidade, e não apenas a comunicação que
 ela proporciona, é fundamental para entender a agência xamânica
 suscitada pelas rodas de coca[^75].
 
-A habilidade de ir e voltar adquirida na caminhada à Serra Grade é a
+A habilidade de ir e voltar adquirida na caminhada à Serra Grande é a
 mesma de fazer o percurso dos mortos, na totalidade de sua pessoa,
 dominando os processos de transformação que envolvem a reconfiguração da
 pessoa e sua metamorfose. Esse também é um processo de socialização
-correspondente à viagem ao Lago-de-Leite, pois o caminhante passa pelas
+correspondente à viagem ao Lago de Leite, pois o caminhante passa pelas
 “moradas antigas”, pelas “moradas das onças”, da /Dö̗h A̗͂y/, até chegar à
 morada do /Sokw’ät ĩh/, ancestral hup dono da serra.
 
@@ -7820,28 +7830,30 @@ tinha sido difícil e demorado o percurso. Ele então disse que havia duas
 formas de viajar e de movimentar-se: /sa̗pa̗t/, como
 “pessoa-corporificada”, e /hã̗wäg ha̗m/, como “pessoa-sopro” (sopro vital
 que vai). Comentava, rindo, que a viagem pelo caminho, como
-*pessoa-corporificada*, demora muito e é muito difícil. Já a viagem em
-benzimento ou sonho, com o deslocamento como *pessoa-sopro*, é rápida:
-“nã demora, chega logo”. Nos encontros noturnos, o Lago-de-Leite
+pessoa-corporificada, demora muito e é muito difícil. Já a viagem em
+benzimento ou sonho, com o deslocamento como pessoa-sopro, é rápida:
+“não demora, chega logo”. Nos encontros noturnos, o Lago de Leite
 forma-se diante dos benzedores sentados em círculo e fumando tabaco,
 deslocando-se como pessoa-sopro à paisagem da criação para banhar,
 tirar, concentrar e regenerar. Simetricamente, caminhando rumo à serra,
-viajávamos como pessoas corporificadas rumo a um Lago-de-Leite para,
+viajávamos como pessoas corporificadas rumo a um Lago de Leite para,
 como fazem os benzedores, nos banharmos e regenerarmos a vida. Chaumeil
 diferencia duas formas de viagem que ocorrem durante o processo de
 iniciação dos xamãs yagua,
 
-> *O xamã é por definição aquele que cruza os limites. Embora a viagem
-> possa apresentar poucos atrativos ao viajante simples, ela se revela
-> fonte de inspiração e de aprendizado para o xamã. De meu ponto de
-> vista, é necessário considerar a imagem do xamã fora do meio familiar,
-> e mesmo fora do meio tradicional, como uma transposição, sobre o plano
-> material, da “viagem da alma”: ambos experimentam, em níveis
-> diferentes, a mesma vontade de ultrapassar os limites categoriais e
-> mesmo os limites de si mesmo* (1983, p. 102).
+<!-- estilo de citação -->
+ O xamã é por definição aquele que cruza os limites. Embora a viagem
+ possa apresentar poucos atrativos ao viajante simples, ela se revela
+ fonte de inspiração e de aprendizado para o xamã. De meu ponto de
+ vista, é necessário considerar a imagem do xamã fora do meio familiar,
+ e mesmo fora do meio tradicional, como uma transposição, sobre o plano
+ material, da “viagem da alma”: ambos experimentam, em níveis
+ diferentes, a mesma vontade de ultrapassar os limites categoriais e
+ mesmo os limites de si mesmo (1983, p. 102).
+ <!-- estilo de citação -->
 
 Essa oposição entre mobilidade espiritual e material também é utilizada
-por Reid (1978) para compreender as viagens oníricas e xamânicas como a
+por Reid para compreender as viagens oníricas e xamânicas como a
 “liberação da alma do corpo” num processo que possibilita um maior
 conhecimento do mundo não material. Não creio que a diferenciação
 estabelecida por Mandu diga respeito a uma oposição entre uma “viagem da
@@ -7849,7 +7861,7 @@ alma” e uma “viagem material” que faça transpor os movimentos etéreos
 sobre um plano material, ou que liberte a alma para o conhecimento do
 mundo não material. Para além das oposições material/imaterial,
 continente/conteúdo, parte/todo que informam essas visões, creio que
-andando pelos caminhos ou navegando pelo Rio-de-Leite os viajantes
+andando pelos caminhos ou navegando pelo Rio de Leite os viajantes
 assumem regimes distintos de corporalidade, perfazem-se como
 pessoas-corporificadas ou pessoas-sopro a partir de seus movimentos que
 os permitem concentrar em si potências de intensidades diferenciais de
@@ -7860,27 +7872,27 @@ golpes de terçado, escalando os morros, os viajantes projetam-se,
 lançam-se num contínuo de interação com árvores, rochas, solos, animais
 e seres diversos a partir da reconfiguração de si como
 pessoas-corporificadas que vencem inúmeros obstáculos para agir no
-entrecurso de perspectivas, paisagens, percepções e sensibilidades. De
-modo diferente, a desconstrução e reconfiguração que marca o *devir
-pessoa-sopro* parece convergir para si potências intensas de velocidade,
+*entrecurso* de perspectivas, paisagens, percepções e sensibilidades. De
+modo diferente, a desconstrução e reconfiguração que marca o devir
+pessoa-sopro parece convergir para si potências intensas de velocidade,
 roupas-cósmicas, instrumentos de vida e substâncias que permitem fluir
 com rapidez entre o aqui e o lá, entre os pontos de vista, entre
 posições em campos relacionais, entre as moradas e corpos de diversos
 seres.
 
-Como diz Mandu (S1), benzer e sonhar (/hã̗wäg ha̗m/) são “trabalhos de
+Como diz Mandu (**S1**), benzer e sonhar (/hã̗wäg ha̗m/) são “trabalhos de
 médico”, /yõ̖h d’äh bɨ̗’ ey ten yɨ̗’/. Ambos são “árduos” e, ao mesmo
 tempo, formas rápidas e menos cansativas de chegar à Serra Grande, ao
 contrário da viagem pelo caminho (/sa̗pat/). A *viagem como pessoa-sopro*
 e a *viagem como pessoa-corporificada* mostram-se duas formas de
 mobilidade que articulam campos relacionais pelos movimentos,
 posicionamentos e ações do viajante. Esse ponto de vista permite rever a
-oposição de Reid (1979), na qual o /bɨ̗’ɨ̗y/, “trabalho”, seria realizado
+oposição de Reid, na qual o /bɨ̗’ɨ̗y/,  “trabalho”, seria realizado
 na aldeia como uma atividade árdua e de pouca mobilidade, enquanto o
 “passeio/ perambulação”, /k’ët k’ö̗’ a̗y/, seria uma atividade prazerosa,
 plena de sentido e de alta mobilidade. Sentados nas rodas, deitados na
 rede e andando pelos caminhos, os senhores hup deslocam-se pelo narrar,
-pel benzer, pelo sonhar e pelo vagar, modos de ação que revelam o
+pelo benzer, pelo sonhar e pelo vagar, modos de ação que revelam o
 envolvimento global com o mundo por meio das atividades diárias,
 “afazeres”, /bɨ̗’/, e “deslocamentos”, /k’ët k’ö̗’ a̗y/. Essa retradução
 dos termos talvez ajude a ver os viajantes hup no contínuo movimento de
@@ -7895,27 +7907,29 @@ progenera continuamente a pessoa e a paisagem da criação.
 De diferentes formas, endurecer, /tab’a̗’/, e cercar, /ta̗’/, pela fumaça,
 casca, paris ou margens do lago conservam e protegem as pessoas hup da
 ação dos seres malfazejos. Durante o encontro noturno, sentados em
-círculo, os senhores criam diante de si um Lago-de-Leite semelhante ao
+círculo, os senhores criam diante de si um Lago de Leite semelhante ao
 visitado em benzimento, sonho ou nas caminhadas. A percepção dessa
 paisagem é um ato de rememoração que se dá não pela projeção, pela
 evocação de uma imagem estocada na mente, mas por um ato de engajar-se
-perceptuamente com um ambiente fértil (*pregnant*) de seu passado
+perceptualmente com um ambiente fértil (*pregnant*) de seu passado
 através das viagens como pessoa-corporificada e pessoa-sopro. Pensando
-com Merleau-Ponty (2011), não há uma projeção coletiva de um quadro do
+com Merleau-Ponty, não há uma projeção coletiva de um quadro do
 passado, mas sim o ato mútuo de enveredar no horizonte do passado para
 ver um sentido imanente emergir, fazendo convergir as múltiplas
 perspectivas de seres, planos-casa e paisagens para proteger,
 envolvendo, e curar, regenerando. Assim, o modo de percepção nas rodas
 se estabelece muito próximo à reflexão do filósofo quando mostra que:
 
-> *Perceber não é experimentar um sem-número de impressões que trariam
-> consigo recordações capazes de completá-las, é ver jorrar de uma
-> constelação de dados um sentido imanente sem o qual nenhum apelo às
-> recordações seria possível. Recordar-se não é trazer ao olhar da
-> consciência um quadro do passado subsistente em si, é enveredar no
-> horizonte do passado e pouco a pouco desenvolver suas perspectivas
-> encaixadas, até que as experiências que ele resume como que vividas
-> novamente em seu lugar temporal* (2011, p. 48).
+<!-- estilo de citação -->
+ Perceber não é experimentar um sem-número de impressões que trariam
+ consigo recordações capazes de completá-las, é ver jorrar de uma
+ constelação de dados um sentido imanente sem o qual nenhum apelo às
+ recordações seria possível. Recordar-se não é trazer ao olhar da
+ consciência um quadro do passado subsistente em si, é enveredar no
+ horizonte do passado e pouco a pouco desenvolver suas perspectivas
+ encaixadas, até que as experiências que ele resume como que vividas
+ novamente em seu lugar temporal (2011, p. 48).
+<!-- estilo de citação -->
 
 O *lago diante de si* e o *lago de destino* envolvem cada participante
 na essência da totalidade de suas relações. É através do movimento
@@ -7924,27 +7938,30 @@ percurso da trilha para a Serra Grande (/sa̗pa̗t/) que essa paisagem é
 experienciada como um nexo em si, distinto de outros. As rodas de coca e
 a viagem à Serra Grande mostram-se formas de sociabilidade ritual
 imersas nos afazeres diários. Sua temporalidade social não é marcada por
-enquadramentos (frames), mas pela atenção que as pessoas, no curso de
+enquadramentos (*frames*), mas pela atenção que as pessoas, no curso de
 suas atividades necessárias à habitação, dão a essas *performances*. O ato
 de caminhar para a Serra Grande refaz as trilhas e regenera a pessoa
-através dos banhos. A viagem xamânica ao Lago-de-Leite socializa com os
+através dos banhos. A viagem xamânica ao Lago de Leite socializa com os
 atos de mostrar as casas, os ornamentos, as paisagens.
 
-O cachorro que atravessa o lago torna-se um elemento indesejado já que
+O cachorro que atravessa o lago torna-se um elemento indesejado, já que
 se está compondo, coletivamente, uma paisagem que situa o espaço-tempo
 do surgimento da humanidade, da dádiva do cigarro/coca e da
 reciprocidade entre a pessoa hup e seus antepassados através de uma
 sequência de ações que pode ser afetada pela presença canina. A
 identificação que permite ao benzedor trocar o tabaco e os ornamentos
-com os ancestrais das casas (B2) assemelha-se àquela que garante o
-aprendizado de Mandu em sonho com o pai morto (S1) e à dádiva da
+com os ancestrais das casas (**B2**) assemelha-se àquela que garante o
+aprendizado de Mandu em sonho com o pai morto (**S1**) e à dádiva da
 coca/tabaco para revelar, geração após geração, as histórias dos antigos
-(M13). A paisagem do Lago-de-Leite é o mundo tal como ele é conhecido
+(**M13**). A paisagem do Lago de Leite é o mundo tal como ele é conhecido
 por aqueles que existem movendo-se pelos caminhos vividos. É o lugar de
 nascimento e de contínuo renascimento da humanidade através da palavra,
 das substâncias, das viagens e dos círculos de fumaça.
 
-Caminhos abertos
+
+#Segunda Parte - Círulos e Caminhos
+
+#Caminhos abertos
 
 *Caminho por uma rua*
 
@@ -7956,7 +7973,7 @@ Caminhos abertos
 
 (Carlos Drummond de Andrade – Canção Amiga)
 
-### O caminho das nuvens 
+##O caminho das nuvens 
 
 Às vésperas de nossa viagem às serras para pescar e visitar os lugares
 sagrados, a chuva insistia em cair. Parecia mais forte a cada dia. No
@@ -7989,15 +8006,13 @@ despejem suas águas, raios e trovões sobre a aldeia. Sentados em
 círculo, comíamos coca, fumávamos e conversávamos num grupo de nove
 pessoas.
 
-> []{#B3_Chuva .anchor}**B3. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a
-> chuva/o inverno**
->
-> Você fala o nome de /Mu’se’/, aquele da bíblia. Você se levanta e abre
-> os braços como ele fez para abrir o Mar Vermelho. Como ele, você
-> afasta as águas para as cabeceiras.
->
-> []{#B4_Chuva2 .anchor}**B4. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a
-> chuva/inverno**
+**B3. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/o inverno**
+
+ Você fala o nome de /Mu’se’/, aquele da bíblia. Você se levanta e abre
+ os braços como ele fez para abrir o Mar Vermelho. Como ele, você
+ afasta as águas para as cabeceiras.
+
+**B4. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/inverno**
 
 1º mov. Lê-se a tartaruga vermelha e sua canoa. A tartaruga preta e sua
 canoa. Fala-se para ela colocar todas as suas coisas em sua casa, dentro
@@ -8026,11 +8041,13 @@ fizeram com que a fumaça que saía de sua boca fosse lançada em direção
 “Casa-da-Cabeceira”. Sobre a relação entre as nuvens e a fumaça do
 tabaco no xamanismo desana, Reichel-Dolmatoff diz que,
 
-> *Há uma reação entre o fumo e a chuva, sendo esta última naturalmente
-> um elemento fertilizador. Assim como a chuva apaga o fogo, o fumo de
-> tabaco é uma imitação das nuvens, pode dispersá-las ou também
-> aglutiná-las. Por outro lado, o fumo torna invisível e é, por
-> conseguinte, um elemento de defesa* (1986, p. 183).
+<!-- estilo de citação -->
+ Há uma reação entre o fumo e a chuva, sendo esta última naturalmente
+ um elemento fertilizador. Assim como a chuva apaga o fogo, o fumo de
+ tabaco é uma imitação das nuvens, pode dispersá-las ou também
+ aglutiná-las. Por outro lado, o fumo torna invisível e é, por
+ conseguinte, um elemento de defesa (1986, p. 183).
+ <!-- estilo de citação -->
 
 Como visto no capítulo anterior, os senhores hup fumam para conversar,
 ouvir encantamentos e histórias que permitem nutrir e fazer crescer a um
@@ -8042,24 +8059,24 @@ fumaça celeste. O benzedor imitava o nado da tartaruga abrindo os braços
 e espalhando o ar à sua frente. Moisés abriu o Mar Vermelho. Estendeu a
 mão e Javé fez soprar um vento oriental muito forte que perdurou a noite
 inteira e dividiu as águas em duas. Lançando o braço à frente, Ponciano
-imitava o ancestral dos Brancos. A coluna de nuvens que acompanhava o
+imitava o ancestral dos brancos. A coluna de nuvens que acompanhava o
 “povo de deus” retirou-se da frente deles e colocou-se atrás. Assim, o
 “povo de deus” pôde seguir, atravessando o Mar Vermelho com os “pés
 enxutos”. Continuaram pelo caminho indicado por Javé, que os levaria ao
 Monte Sinai e à Terra Prometida, onde corre leite e mel. Pela manhã,
 quando os soldados egípcios atravessavam o mar aberto, Javé fez as
-colunas de água desabarem sobre eles, aniquilando-os completamente (Ex.
-3,14; 4,33; 1990).
+colunas de água desabarem sobre eles, aniquilando-os completamente (Êxodo,
+3,14; 4,33).
 
 Para que pudéssemos viajar para os morros e para as Moradas Antigas, o
 xamã alterou o rumo das nuvens da tempestade para a cabeceira, fazendo
 com que os caminhos alagados secassem. Creio que essas múltiplas
 interações com as nuvens, de humanos e quelônios, sejam possíveis a
-partir da *observação* e da *imitação*, possibilitadas por processos de
-educação da atenção desses atores em seus ambientes, tal como Ingold
+partir da observação e da imitação, possibilitadas por processos de
+educação da atenção desses atores em seus ambientes, tal como <!-- Ingold
 propõe (2000, p. 37): “observar é ter atenção aos movimentos dos outros;
 imitar é alinhar essa atenção aos seus próprios movimentos práticos
-orientados para o ambiente”.
+orientados para o ambiente”. citação -->
 
 Nesse sentido, o xamã observa os corpos celestes, as tartarugas e o
 profeta. Suas palavras, movimentos corporais e fumaça são gestos que
@@ -8089,24 +8106,18 @@ fumaça faz com que as nuvens mudem seus rumos e dirijam-se à cabeceira.
 A comunidade é cercada através desse procedimento que, ao afastar a
 chuva, impede que a fúria do Trovão atinja a aldeia.
 
-  ----------------------------------- --------------- ----------------- ------------------------------------
-  **Modos de ação correlacionados**
-  Um profeta
-  A tartaruga
-  Um benzedor
-  ----------------------------------- --------------- ----------------- ------------------------------------
-
-**Figura 1.** Quadro comparativo de ações
+ <!-- QUADRO COMPARATIVO DE AÇÕES P. 231 do pdf -->
+  Quadro comparativo de ações
 
 As ações do benzedor, do profeta e da tartaruga geram mudanças num dado
 ambiente com o qual se relacionam. De modo muito interessante, a viagem
 de Moisés e seu povo rumo à Terra Prometida parece ser uma
-*transformação* da viagem da tartaruga com destino à Casa-da-Cabeceira.
+transformação da viagem da tartaruga com destino à Casa-da-Cabeceira.
 Soprando essas agências para o cigarro, o deslocamento da fumaça e o
 movimento corporal alteram o destino da tempestade.
 
-Pensando com Carneiro da Cunha (1998), B3 pode ser tomada como uma
-tradução xamânica de B4, possivelmente elaborada após a consolidação dos
+Pensando com Carneiro da Cunha, **B3** pode ser tomada como uma
+tradução xamânica de **B4**, possivelmente elaborada após a consolidação dos
 “povoados-missão” como /Ta̗t-Dëh/ e da participação das missas, das
 escolas salesianas, dos batismos que foram situando os Hupd’äh num
 processo de evangelização já em curso com outros povos da região. Como o
@@ -8114,20 +8125,22 @@ Povo de Israel, eles viajavam para terras distantes, para longe das
 cabeceiras, das /Paç-Mo̖y/, “Casas-de-Pedra”, próximas às quais seus
 ancestrais procuraram sempre constituir suas moradas. Como aponta Reid,
 
-> *A partir desses dados fica claro que, antes de 1890 e até 1950,
-> virtualmente todos os Hupdʉ viviam nas cabeceiras dos igarapés
-> tributários aos que ocupam atualmente. Alguns Hupdʉ afirmam que
-> Salesianos ordenaram que migrassem rio abaixo, ao mesmo tempo em que
-> os Índios do rio foram ordenados a fazer o mesmo (1930-40).
-> Entretanto, fica evidente que os Hupdʉ não fizeram isso até o início
-> dos anos de 1940, sendo que a maior parte mudou-se apenas nos anos de
-> 1950. Os novos assentamentos estabeleceram-se entre uma e quatro horas
-> de caminhada com relação aos grandes rios. Em alguns anos, esses
-> assentamentos mudavam-se para áreas das imediações, ao longo do
-> igarapé onde já estavam situados ou para igarapés próximos.
-> Atualmente, os Hupdʉ estão vivendo principalmente nas partes rio
-> abaixo dos igarapés tributários aos que ocupavam previamente* (1979,
-> p. 28).
+<!-- estilo de citação -->
+ A partir desses dados fica claro que, antes de 1890 e até 1950,
+ virtualmente todos os Hupdʉ viviam nas cabeceiras dos igarapés
+ tributários aos que ocupam atualmente. Alguns Hupdʉ afirmam que
+ Salesianos ordenaram que migrassem rio abaixo, ao mesmo tempo em que
+ os Índios do rio foram ordenados a fazer o mesmo (1930-40).
+ Entretanto, fica evidente que os Hupdʉ não fizeram isso até o início
+ dos anos de 1940, sendo que a maior parte mudou-se apenas nos anos de
+ 1950. Os novos assentamentos estabeleceram-se entre uma e quatro horas
+ de caminhada com relação aos grandes rios. Em alguns anos, esses
+ assentamentos mudavam-se para áreas das imediações, ao longo do
+ igarapé onde já estavam situados ou para igarapés próximos.
+ Atualmente, os Hupdʉ estão vivendo principalmente nas partes rio
+ abaixo dos igarapés tributários aos que ocupavam previamente (1979,
+ p. 28).
+<!-- estilo de citação -->
 
 De acordo com o antropólogo, antes de 1890 e até 1950 os Hupd’äh viviam
 na região das cabeceiras dos igarapés ao longo dos quais se encontram as
@@ -8136,47 +8149,47 @@ Entretanto, a violência posta em prática com o “*boom* da borracha”
 (1890 a 1900) e com a atuação dos representantes governamentais
 (Manducas)[^77] teria levado os Tukano a deixarem a área ribeirinha para
 fixarem-se em aldeamentos nas áreas florestais, a algumas horas de
-caminhada. Segundo Reid (1979), esse deslocamento populacional tukano
+caminhada. Segundo Reid, esse deslocamento populacional tukano
 levou as comunidades hup a afastarem-se para áreas ainda mais próximas
-às cabeceiras. Como visto, durante a viagem à Serra Grande, os *espaços
-da morte* povoam a região trazendo lembranças dos confrontos e das
+às cabeceiras. Como visto, durante a viagem à Serra Grande, os “espaços
+da morte” povoam a região trazendo lembranças dos confrontos e das
 vítimas. Os representantes governamentais, os exploradores de borracha
-e, mesmo, os Tukano muitas vezes atacavam as aldeias hup para assassinar
-e escravizar pessoas (Reid, 1979, p. 25-6).
+e mesmo os Tukano muitas vezes atacavam as aldeias hup para assassinar
+e escravizar pessoas.
 
-Tomando os Hupd’äh como /S’u̖g Hup/, “gente da floresta”, Reid (1979)
+Tomando os Hupd’äh como /S’u̖g Hup/, “gente da floresta”, Reid 
 reforça a ideia de que seriam eles, enquanto Maku, os “primeiros
 habitantes” do Uaupés, caçadores-coletores que constituíam suas aldeias
-numa vasta região interfluvial. Enquanto Koch-Grunberg (1906/2010) e
-Nimuendaju (1982) veem a pressão exercida pelas populações Tukano e
-Aruaque como o fator que teria levado ao *afastamento dos Maku para as
-cabeceiras* (S.E.  N.O.), Reid (1979) retoma essa hipótese numa chave
-que considera os não-indígenas e os Tukano como sendo os agentes
+numa vasta região interfluvial. Enquanto Koch-Grunberg e
+Nimuendaju veem a pressão exercida pelas populações Tukano e
+Aruaque como o fator que teria levado ao afastamento dos Maku para as
+cabeceiras (S.E. para N.O.), Reid retoma essa hipótese numa chave
+que considera os não indígenas e os Tukano como sendo os agentes
 políticos que forçam os Hupd’äh a migrarem, refugiando-se na região
 montanhosa. Para além dessa visão que oscila entre a caracterização
 dessas áreas como refúgios ou repositórios de recursos econômicos, creio
 que nossa jornada às cabeceiras possa ajudar a perceber a importância
-ritual que faz desses lugares *paisagens de vida* fundamentais para a
+ritual que faz desses lugares paisagens de vida fundamentais para a
 interação dos Hupd’äh com esses Outros.
 
 Nos anos 40, ocorreu a aproximação dos salesianos, muitas vezes mediada
 pelos Tukano. Os missionários balizavam seu “projeto civilizatório” no
 aprendizado do português, na moradia em casas nucleares e na conversão
 cristã, além de condenarem a ação dos exploradores de borracha. Para
-Reid (1979), o fato de os religiosos apresentarem-se como uma
-alternativa face ao terror praticado pelos demais Brancos provoca, na
+Reid, o fato de os religiosos apresentarem-se como uma
+alternativa face ao terror praticado pelos demais brancos provoca, na
 década de 1950, a migração de muitas aldeias para as imediações dos
 grandes rios e, anos mais tarde, a consolidação das grandes comunidades,
-denominadas por Athias (1995) como “povoados-missão”.
+denominadas por Athias como “povoados-missão”.
 
 À luz da analogia bíblica, esse movimento migratório para as cabeceiras
 assemelha-se ao Êxodo, uma fuga da perseguição dos soldados egípcios. O
 paralelo entre os percursos e os sentidos dos deslocamentos desses
 vários agentes dos encantamentos torna-se interessante para entender o
 processo histórico que levou à constituição da grande aldeia de
-/Ta̗t-Dëh/. Retomando B3 e B4, num caso, os “filhos de Israel” conseguem
+/Ta̗t-Dëh/. Retomando **B3** e **B4**, num caso, os “filhos de Israel” conseguem
 fugir dos exércitos egípcios “passando pelo mar com os pés enxutos” rumo
-à Terra Prometida (1990, Ex.3, 14; 4,33). No outro, para que não haja
+à Terra Prometida (Êxodo, 3, 14; 4, 33). No outro, para que não haja
 trovões e doenças, para que possamos viajar tranquilos para os “lugares
 sagrados” e para que a roda de coca não precise transferir-se para o
 coberto, a fumaça faz as nuvens afastarem-se. Lê-se a tartaruga vermelha
@@ -8191,18 +8204,18 @@ pessoas-corporificadas, andando pelos caminhos, num percurso semelhante
 ao deslocamento /hã̗wägat/, como pessoas-sopro, que faz os xamãs hup
 chegarem às Casas-de-Pedra. Surpreendentemente, o Êxodo até o Mar
 Vermelho e a migração dos Hupd’äh para as imediações do rio Tiquié são
-deslocamentos populacionais que se dão no sentido N.O.  S.E. Na leitura
+deslocamentos populacionais que se dão no sentido N.O. para S.E. Na leitura
 xamânica hup do texto bíblico, Moisés desloca as nuvens para trás, para
 as cabeceiras, distanciando-as do Mar Vermelho assim como as nascentes
 estão distantes do rio Tiquié. No mesmo eixo, a viagem que faríamos aos
-lugares sagrados, o percurso da tartaruga em B4 e o afastamento das
-nuvens estabelecem-se no sentido inverso S.E.  N.O. Caminhando, iríamos
+lugares sagrados, o percurso da tartaruga em **B4** e o afastamento das
+nuvens estabelecem-se no sentido inverso S.E. para N.O. Caminhando, iríamos
 abrir as trilhas fechadas pela floresta e pelo tempo.
 
 Nos dias que se seguiram, não houve mais tempestades e começamos a
 preparar nossas coisas para a jornada. Viajaríamos num grupo a ser
 formado por rapazes e senhores. Nesses dias de espera, as mães dos
-jovens viajantestorraram uma quantidade suficiente de farinha para que
+jovens viajantes torraram uma quantidade suficiente de farinha para que
 seus filhos não passassem fome no percurso. Ponciano preparou sua flecha
 com curare, caso fossemos surpreendidos por uma onça. Todos ajeitaram
 seus arcos e seus caniços para a caça e pesca. Nos encontros noturnos e
@@ -8218,9 +8231,9 @@ Casas-de-Pedra. Os rapazes nunca tinham percorrido aquelas paisagens
 distantes e seu fascínio pela empreitada fazia com que todas as noites
 viessem à roda de coca para conversar com os mais velhos e prepararem-se
 para a viagem. Nossa jornada aos “lugares sagrados” constituir-se-ia ao
-mesmo tempo de *atos de relembrar* dos mentores que visitariam os
+mesmo tempo de atos de relembrar dos mentores que visitariam os
 lugares onde cresceram e conviveram com seus pais e avós, e de
-*percursos de observação*, ao longo dos quais os jovens conheceriam
+percursos de observação, ao longo dos quais os jovens conheceriam
 histórias e seres através de seus próprios movimentos e ações, e por
 meio das indicações e narrativas dos mais velhos.
 
@@ -8229,13 +8242,13 @@ Para que estivéssemos bem protegidos durante a viagem, além do
 /ti̖wi̖t hamap bi’i̖d ta̗’/, “benzimento dos caminhos”, para cercar os
 viajantes das ações maléficas dos seres que pudéssemos encontrar.
 
-[]{#Fig35_ViagemSerrasCaminhos .anchor}Viagem às serras: Caminhos
-(/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas
+<!-- Fig. 17 -->
+Viagem às serras: Caminhos (/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas
 (/Mo̖y-Höd/)
 
-1.  ### Caminhos cruzados
+## Caminhos cruzados
 
-    1.  #### O caminho dos Hupd’äh
+### O caminho dos Hupd’äh
 
 Com a certeza de que não haveria mais chuvas, deixamos a aldeia depois
 dos banhos e de nossa refeição matinal. Uns levavam jamaxins às costas,
@@ -8245,7 +8258,7 @@ guiados por dois senhores, Ponciano e seu irmão menor, José. As serras
 que visitaríamos situavam-se todas nas dimensões territoriais de domínio
 dos /Sokw’ät-Noh-Köd-Tẽ̖h/, cujo representante superior vivo é Ponciano.
 
-Todos carregavam seus arcos-e-flechas nas mãos junto aos caniços para a
+Todos carregavam seus arcos e flechas nas mãos junto aos caniços para a
 pesca. Apenas Ponciano levava uma /mo̖m-mu̖h/, flecha com a ponta de ferro
 munida de curare. Essa era nossa proteção contra as onças ou seres
 malfazejos que viessem ao nosso encontro. As pontas das flechas de cada
@@ -8270,112 +8283,109 @@ mão até que todos tivessem soprado a fumaça em seus corpos. O cigarro
 tinha sido preparado dias antes com o “benzimento dos caminhos” para que
 todos estivessem protegidos ao longo do percurso.
 
-> []{#B5_Caminhos .anchor}**B5. /Ti̖wi̖t hamap bi’i̖d ta’/ ‒ Benzimento dos
-> caminhos**
->
-> [[]{#B5_Caminhos .anchor}]{#b5_caminhos .anchor}
+**B5. /Ti̖wi̖t hamap bi’i̖d ta’/ ‒ Benzimento dos caminhos**
 
 1º mov. História de benzimento para cercar, para ajudar nos caminhos.
 
-> Faço (o corpo) estar dentro da canoa da cobra uirapixuna. (...) Nessa
-> canoa você manda ficar até o final do caminho.
->
-> (Menciono a) canoa da cobra-uirapixuna, canoa de pau amarelo, canoa de
-> folha longa de louro, canoa de louro-sapo, canoa de árvore /s’i̗d tëg/,
-> canoa da cobra uirapixuna. Eu faço existir uma canoa para que o corpo
-> esteja dentro da pele da cobra ancestral e se possa fazer a viagem.
->
-> *(Com.)* Diz-se que, fazendo dessa forma a cobra /daha/ não aparece
-> para nós.
->
-> Faço com que haja uma casca de tururi em torno de nossa perna para
-> seguirmos.
->
-> PISAR Eu *piso* essa canoa de banco.
+ Faço (o corpo) estar dentro da canoa da cobra uirapixuna. (...) Nessa
+ canoa você manda ficar até o final do caminho.
+
+ (Menciono a) canoa da cobra-uirapixuna, canoa de pau amarelo, canoa de
+ folha longa de louro, canoa de louro-sapo, canoa de árvore /s’i̗d tëg/,
+ canoa da cobra uirapixuna. Eu faço existir uma canoa para que o corpo
+ esteja dentro da pele da cobra ancestral e se possa fazer a viagem.
+
+ *(Com.)* Diz-se que, fazendo dessa forma a cobra /daha/ não aparece
+ para nós.
+
+ Faço com que haja uma casca de tururi em torno de nossa perna para
+ seguirmos.
+
+ PISAR Eu *piso* essa canoa de banco.
 
 2º mov. Vou até /Sõ̖hahan/. Vou para lá e começo a cercar a vida (da
 pessoa) com pari. Seguro o pari contra o chão para proteger das
 jararacas ao longo do caminho. Eu coloco a vida da pessoa dentro do pari
 para cercá-la das jararacas e dou comida para elas.
 
-> (Ofereço) coca, dou a cuia da seiva da coca. (Ofereço) a cuia da coca
-> seiva de sorva, a cuia de coca seiva de /mo̗t/.
->
-> (Eu vou mencionando) as jararacas, e mando as jararacas /b’a̗w/ para
-> suas casas. Mando as cobras /dëh-ha̖t/ para a casa subterrânea. (Mando
-> entrar) as cobras que ficam no oco das árvores. Falo para essas
-> cobras. Mando para sua casa subterrânea as cobras /dëh-pu̖pan/. Falo
-> para as surucucus irem para dentro de suas casas de terra (argila),
-> para sua casa preta. (...)
->
-> Dou de comer a essas cobras e faço-as sentar com a cuia de coca da
-> seiva de sorva, com a cuia de coca da seiva de /mo̗t/. Faço-as entrar
-> em suas casas e depois eu entro e me sento. Eu faço haver tristeza em
-> seus corpos. Dou o cigarro e a cuia de coca para elas comerem e faço
-> com que se sintam tristes. Eu dou essa comida, coca, para elas
-> comerem. Ofereço cigarro para elas fumarem e permanecerem sentadas. Eu
-> faço o queixo delas grudar para que depois não nos mordam (...).
+ (Ofereço) coca, dou a cuia da seiva da coca. (Ofereço) a cuia da coca
+ seiva de sorva, a cuia de coca seiva de /mo̗t/.
+
+ (Eu vou mencionando) as jararacas, e mando as jararacas /b’a̗w/ para
+ suas casas. Mando as cobras /dëh-ha̖t/ para a casa subterrânea. (Mando
+ entrar) as cobras que ficam no oco das árvores. Falo para essas
+ cobras. Mando para sua casa subterrânea as cobras /dëh-pu̖pan/. Falo
+ para as surucucus irem para dentro de suas casas de terra (argila),
+ para sua casa preta. (...)
+
+ Dou de comer a essas cobras e faço-as sentar com a cuia de coca da
+ seiva de sorva, com a cuia de coca da seiva de /mo̗t/. Faço-as entrar
+ em suas casas e depois eu entro e me sento. Eu faço haver tristeza em
+ seus corpos. Dou o cigarro e a cuia de coca para elas comerem e faço
+ com que se sintam tristes. Eu dou essa comida, coca, para elas
+ comerem. Ofereço cigarro para elas fumarem e permanecerem sentadas. Eu
+ faço o queixo delas grudar para que depois não nos mordam (...).
 
 3º mov. Falo para cercar a cuia de beber e as armas das abelhas /na̖’/ e
 das abelhas pretas /bɨ̗g/.
 
-> *(Com.)* Se estivermos no caminho, as abelhas pretas /bɨ̗g/ podem nos
-> oferecer (caarpi) da cuia delas.
->
-> Faço com que coloquem suas armas sobre o jirau. Menciono o caniço e a
-> faca delas. (Falo) para as abelhas /bä̗g/, para as cabas /wɨwɨ̗h/. Cerco
-> a cuia de caarpi e as armas (facas) da jararaca /b’a̗w/, da
-> cobra-de-duas-cabeças. Assim, eu vou fazendo para todos esses (seres),
-> para que não ofereçam da cuia de caarpi deles.
->
-> *(Com.)* Com isso não ficamos “bêbados” no caminho, não escorregamos e
-> não caímos no chão, no pau, disse já.
+ *(Com.)* Se estivermos no caminho, as abelhas pretas /bɨ̗g/ podem nos
+ oferecer (caarpi) da cuia delas.
+
+ Faço com que coloquem suas armas sobre o jirau. Menciono o caniço e a
+ faca delas. (Falo) para as abelhas /bä̗g/, para as cabas /wɨwɨ̗h/. Cerco
+ a cuia de caarpi e as armas (facas) da jararaca /b’a̗w/, da
+ cobra-de-duas-cabeças. Assim, eu vou fazendo para todos esses (seres),
+ para que não ofereçam da cuia de caarpi deles.
+
+ *(Com.)* Com isso não ficamos “bêbados” no caminho, não escorregamos e
+ não caímos no chão, no pau, disse já.
 
 4º mov. Falo para as Gentes-Árvore. Faço-as ir para suas casas, para a
 Casa-da-Caatinga, para a Casa-da-Mata, para a Casa-de-Lama, para a
 Casa-de-Pedra.
 
-> Faço-as juntarem suas armas (facas) e estarem dentro de suas casas
-> para que eu entre e fique em pé. Faço-as juntarem e largarem o pedaço
-> de pau de tabaco delas, as suas armas. É ai que nós entramos e ficamos
-> em pé. (Mando-as) para a Casa-da-Caatinga, para a Casa-de-Lama.
-> Faço-as juntarem todas (as suas armas) no chão, entro e fico em pé.
+ Faço-as juntarem suas armas (facas) e estarem dentro de suas casas
+ para que eu entre e fique em pé. Faço-as juntarem e largarem o pedaço
+ de pau de tabaco delas, as suas armas. É ai que nós entramos e ficamos
+ em pé. (Mando-as) para a Casa-da-Caatinga, para a Casa-de-Lama.
+ Faço-as juntarem todas (as suas armas) no chão, entro e fico em pé.
 
 5º mov. Faço as cobras para quem ofereci a coca e fiz entristecerem-se
 entrarem e sentarem dentro da Casa-da-Cachoeira. Por isso elas não saem.
 Se eu dou a coca, elas não saem para observar-nos, permanecem sentadas.
 
-> Falo e cerco o bastão das cobras, o bastão das Gentes-Árvore, o bastão
-> dos /b’atɨ̖b’/.
->
-> *(Com.)* Caso eles nos batam com seu bastão (/kötö̖w-tëg/) ou com seu
-> caniço, quando estivermos no caminho, diz-se que temos /kɨ̃kɨ̃nɨ̃’ih/
-> (dor de carne).
->
-> (Para que não nos) batam com o bastão de embaúba /sãy/, com o bastão
-> de embaúba /wag/, eu cerco-os todos. Faço com que larguem seus bastões
-> dentro de suas casas e faço com que as cobras entrem e fiquem em pé.
->
-> Vou dizendo e dirigindo-me até chegar a outra comunidade. Chego e
-> saio.
+ Falo e cerco o bastão das cobras, o bastão das Gentes-Árvore, o bastão
+ dos /b’atɨ̖b’/.
+
+ *(Com.)* Caso eles nos batam com seu bastão (/kötö̖w-tëg/) ou com seu
+ caniço, quando estivermos no caminho, diz-se que temos /kɨ̃kɨ̃nɨ̃’ih/
+ (dor de carne).
+
+ (Para que não nos) batam com o bastão de imbaúba /sãy/, com o bastão
+ de imbaúba /wag/, eu cerco-os todos. Faço com que larguem seus bastões
+ dentro de suas casas e faço com que as cobras entrem e fiquem em pé.
+
+ Vou dizendo e dirigindo-me até chegar a outra comunidade. Chego e
+ saio.
 
 6º mov. Falo para as lagartas do tabaco. Falo para as lagartas pequenas
 no caminho delas. Digo para as lagartas pequenas e entro no caminho
 delas. Eu entro na aldeia delas e saio. Eu entro no caminho da lagarta
-pequena, a counidade dos filhos, eu entro em cima do banco da vida.
+pequena, a coumidade dos filhos, eu entro em cima do banco da vida.
 Faço o meu /hã̗wäg/ entrar e ficar em pé, disse já. Chego e entro com o
 tabaco, com o banco e fico em pé.
 
-> (Vou transformando meu corpo) no corpo do muçum pequeno, no corpo do
-> calango, faço-os sair e ficar em pé. No corpo dos calangos. No corpo
-> dos calangos pequenos, no corpo do curió pequeno, faço o corpo dos hup
-> ser como o corpo deles, sair e estar em pé. Eu faço (esses seres)
-> saírem e ficarem em pé. Faço os muçuns saírem e descerem para a beira.
->
-> Faço o corpo dos hup entrar e ficar em pé dentro da casa dos muçuns
-> para que tenhamos seu corpo, seu pedaço de tabaco, suas armas (faca).
-> Falo, entro no corpo do muçum e faço o corpo dos hup assemelhar-se ao
-> deles. Entro, fico em pé e saio para fora.
+ (Vou transformando meu corpo) no corpo do muçum pequeno, no corpo do
+ calango, faço-os sair e ficar em pé. No corpo dos calangos. No corpo
+ dos calangos pequenos, no corpo do curió pequeno, faço o corpo dos hup
+ ser como o corpo deles, sair e estar em pé. Eu faço (esses seres)
+ saírem e ficarem em pé. Faço os muçuns saírem e descerem para a beira.
+
+ Faço o corpo dos hup entrar e ficar em pé dentro da casa dos muçuns
+ para que tenhamos seu corpo, seu pedaço de tabaco, suas armas (faca).
+ Falo, entro no corpo do muçum e faço o corpo dos hup assemelhar-se ao
+ deles. Entro, fico em pé e saio para fora.
 
 7º mov. Vou para a mata e entro na casa do pedaço de tabaco do esquilo
 pequeno. Entro e fico em pé. Eu falo para o esquilo pequeno, para o
@@ -8383,15 +8393,15 @@ esquilo marrom. Falo para o esquilo marrom, para seu pedaço de tabaco
 para fazer com que dentro da casa dos Hupd’äh (seja como) dentro da casa
 do esquilo. Eu entro e fico em pé.
 
-> *(Com.)* Dizem que, se vamos passear em outra comunidade, é perigoso,
-> pois a doença pode pegar a gente, disse já.
->
-> Faço muitos desses esquilos marrons saírem, ficarem em pé e passo para
-> que nessa comunidade (os seres malfazejos) não saibam da gente.
->
-> Vou para a mata e entro no corpo das onças pequenas, da onça /dɨ̗d/,
-> disse já. Para dentro dessa onça eu me dirijo, para dentro dos
-> esquilos marrons, para dentro das onças.
+ *(Com.)* Dizem que, se vamos passear em outra comunidade, é perigoso,
+ pois a doença pode pegar a gente, disse já.
+
+ Faço muitos desses esquilos marrons saírem, ficarem em pé e passo para
+ que nessa comunidade (os seres malfazejos) não saibam da gente.
+
+ Vou para a mata e entro no corpo das onças pequenas, da onça /dɨ̗d/,
+ disse já. Para dentro dessa onça eu me dirijo, para dentro dos
+ esquilos marrons, para dentro das onças.
 
 8º mov. Menciono a água-pura do maracujá pequeno. Com a água-pura do
 maracujá eu (banho) a pessoa. Faço-a entrar e deitar em sua rede. Faço
@@ -8402,9 +8412,9 @@ como se fosse a flor /pu̗͂p s’o̗/.
 PISAR O benzedor não aparece por estar dentro do pedaço de tabaco e,
 dentro da rede, ele entra e deita.
 
-> Então, a pessoa vai pelo caminho passear. E aqui termina. Nós vamos
-> pelo caminho e esse é o nosso benzimento. Esse é o nosso benzimento
-> para irmos para outra comunidade. Aqui termina.
+ Então, a pessoa vai pelo caminho passear. E aqui termina. Nós vamos
+ pelo caminho e esse é o nosso benzimento. Esse é o nosso benzimento
+ para irmos para outra comunidade. Aqui termina.
 
 Banhando a pessoa hup com a água-pura do maracujá e fazendo-a estar
 deitada em sua rede dentro da flor do maracujá é que o benzedor protege
@@ -8417,14 +8427,14 @@ com a água-pura.
 Os caminhantes devem estar dentro da canoa da cobra-uirapixuna durante
 todo o trajeto. Essa cobra, conhecida como muçurana (*pseudoboa
 cloelia*), é uma cobra não peçonhenta e devoradora de jararacas. De
-acordo com Von Ihering (Von Ihering, 1940, p. 539), essa cobra é tida
-como uma “limpa mato”. A palavra muçurana origina-se do Tupi e seu
+acordo com Von Ihering, essa cobra é tida
+como uma “limpa mato”. A palavra muçurana origina-se do tupi e seu
 significado evoca a semelhança dessa serpente com o muçum, peixe próximo
-à enguia. Em Tupi, além do termo muçurana, essa cobra também é chamada
+à enguia. Em tupi, além do termo muçurana, essa cobra também é chamada
 /boirú/, “a cobra que come outras cobras”. Logo, essa é uma serpente que
 “abre os caminhos” devorando as jararacas, uma das principais ameaças
 aos viajantes. Caso não consigam enxergá-las, os andarilhos podem ser
-atingidos por suas presas na região dos pés e da panturrilha. Em B5,
+atingidos por suas presas na região dos pés e da panturrilha. Em **B5**,
 para proteger-se do ataque das jararacas, a pessoa hup deve caminhar
 envolvida pela pele da cobra-uirapixuna. Em torno de suas pernas deve
 haver uma casca dura de tururi. Essas seriam, portanto, duas proteções
@@ -8433,7 +8443,7 @@ corporais que cercam os andarilhos e auxiliam-nos a abrir os caminhos.
 Em 2011, Samuel, filho de Ponciano, sofreu um acidente ofídico quando
 retornava pelo trecho que liga a aldeia de /Ta̗t-Dëh/ às margens do rio
 Tiquié. Fora atingido nos dedos do pé pelas presas de uma jararaca.
-Quando chegouà aldeia, sentia-se muito mal. Deitou-se em sua rede e
+Quando chegou à aldeia, sentia-se muito mal. Deitou-se em sua rede e
 pediu que o benzessem. Nenhum dos parentes próximos, seus filhos,
 esposa, pai ou irmãos, podia vê-lo. Caso se aproximassem, o veneno se
 espalharia rapidamente e o ferido morreria. Todos comeram pimenta e
@@ -8445,10 +8455,10 @@ seriam muito importantes para o livro de benzimentos que estávamos
 fazendo. Tratava-se dos encantamentos do caminho e do filho, /ti̖wi̖t
 ha̗ma̗p bi’i̖d ta̗’/ e /tẽh bi’i̖d/.
 
-Como a viagem ao Lago-de-Leite, que o xamã deve realizar no benzimento
-do tabaco (B2), no encantamento para cercar os caminhos, a proteção vai
+Como a viagem ao Lago de Leite, que o xamã deve realizar no benzimento
+do tabaco (**B2**), no encantamento para cercar os caminhos, a proteção vai
 constituindo-se à medida que o benzedor desloca-se, visita as casas de
-diversos sees, acalma-os ou convoca-os para auxiliá-lo. Primeiro, o
+diversos seres, acalma-os ou convoca-os para auxiliá-lo. Primeiro, o
 xamã ruma para /Sõ̖hahan/, a “Casa-da-Chuva” ou “Casa-do-Inverno”. Do
 alto dessa morada, ele crava o pari no chão para cercar os viajantes.
 Voando, retorna à Terra e dirige-se às casas das cobras peçonhentas. Faz
@@ -8467,14 +8477,14 @@ fazem o foco da ação do xamã mudar de um ser a outro, de uma morada a
 outra. As expressões tornam-se evocativas do deslocamento que faz o xamã
 sair da casa das cobras e viajar até a casa das abelhas procurando
 cercar a cuia de caarpi, arma comum aos insetos e às serpentes. Seguindo
-De Certeau (2011), nessa *retórica ambulatória* “haveria uma homologia
-entre as figuras verbais e as figuras ambulatórias”, sendo que a
-expressão pode ser tomada como um assíndento, já que suprime a descrição
+De Certeau, nessa retórica ambulatória <!-- “haveria uma homologia
+entre as figuras verbais e as figuras ambulatórias” (De Certeau, 2011, p. 167-68). rodapé?-->, sendo que a
+expressão pode ser tomada como um assíndeto, já que suprime a descrição
 do percurso entre as casas, como a figura de linguagem que omite os
 termos de ligação, as conjunções e os verbos. Nesse mesmo sentido, as
 casas, figuras que sintetizam o mundo vivido desses seres compostas por
 suas moradas, roças, igarapés e caminhos, parecem ter o sentido de
-sinédoques desses universos (De Certeau, 2011, p. 167-68).
+sinédoques desses universos. 
 
 O xamã segue sua jornada e “fala para” as Gentes-Árvore, faz com que
 entrem em suas casas, coloquem suas armas no chão e “fiquem em pé”.
@@ -8499,7 +8509,7 @@ pé. Vai então transformando seu corpo e o dos viajantes no corpo do
 muçum pequeno, dos calangos, do curió. Faz com que a pessoa hup esteja
 dentro do corpo desses seres que saem armados de suas casas. O xamã
 entra, fica em pé e sai, vai para a mata. Adentra as moradas e os corpos
-do esquilo e da onça. Ele *fala para* o pedaço de tabaco do roedor e
+do esquilo e da onça. Ele fala para o pedaço de tabaco do roedor e
 cria uma relação de homologia entre as casas do esquilo marrom e dos
 Hupd’äh. Diferente da postura ereta dos seres malfazejos que deixam seus
 afazeres bélicos para saudar o forasteiro, os animais auxiliares
@@ -8511,22 +8521,24 @@ essa postura entre os desana, refletindo sobre o conceito de /pesi
 k’ranyeári/ (/peri/, “ouvir”, “entender”; /k’rapíri/, “pisar”; /nyeári/,
 “agarrar”):
 
-> *Mentalmente, esta expressão está acompanhada por uma imagem fixa: um
-> homem em pé, firmemente plantado sobre a terra como um eixo cósmico,
-> pisando seguro. O mero entendimento, /pesí turágë/ \[...\] é muito
-> distinto, pois somente se refere à agilidade intelectual, à boa
-> memória e à eloquência, mas “entender-pisar-agarrar” abarca uma
-> dimensão mais profunda, já que dá sabedoria e não mero conhecimento.
-> Chegar a esse estado de reflexão, de “estabilização” e equilíbrio, é o
-> ideal do homem desana, porque somente a partir daí alcança a segurança
-> pela compreensão da religião e pela função da mesma na vida social.
-> Entretanto, para alcançá-lo, é importante saber ouvir o eco das
-> coisas; em outras palavras, é preciso conhecer as ramificações do
-> sistema simbólico e poder reduzi-las a suas bases elementares*
-> (Reichel-Dolmatoff, 1986, p. 118).
+<!-- estilo de citação -->
+ Mentalmente, esta expressão está acompanhada por uma imagem fixa: um
+ homem em pé, firmemente plantado sobre a terra como um eixo cósmico,
+ pisando seguro. O mero entendimento, /pesí turágë/ \[...\] é muito
+ distinto, pois somente se refere à agilidade intelectual, à boa
+ memória e à eloquência, mas “entender-pisar-agarrar” abarca uma
+ dimensão mais profunda, já que dá sabedoria e não mero conhecimento.
+ Chegar a esse estado de reflexão, de “estabilização” e equilíbrio, é o
+ ideal do homem desana, porque somente a partir daí alcança a segurança
+ pela compreensão da religião e pela função da mesma na vida social.
+ Entretanto, para alcançá-lo, é importante saber ouvir o eco das
+ coisas; em outras palavras, é preciso conhecer as ramificações do
+ sistema simbólico e poder reduzi-las a suas bases elementares
+ (Reichel-Dolmatoff, 1986, p. 118).
+<!-- estilo de citação -->
 
 Viajando como pessoa-sopro, o benzedor hup chega, entra na casa/corpo de
-diversos seres, pisa e parte. Sua *postura ereta* dentro da morada
+diversos seres, pisa e parte. Sua postura ereta dentro da morada
 desses Outros é a de alguém que “se planta sobre a terra”, “pisa seguro”
 e compreende esses outros mundos nos quais se posiciona ao ponto de
 influir nos campos de percepção e ação, alterando as posturas e
@@ -8536,11 +8548,13 @@ A observação das casas dos animais mostrava-se um recurso fundamental
 para a caça. Dentro de suas tocas ou próximos a elas, os animais podem
 ser mais facilmente atraídos, capturados ou mortos. Como afirma Reid,
 
-> *\[...\] a floresta e seus habitantes fornecem muitos modelos a partir
-> dos quais os Hupdʉ estabelecem sua compreensão dos mundos social e
-> espiritual \[...\]. Os Hupdʉ podem ler os “sinais” da floresta tão bem
-> quanto um europeu pode ler um livro, e estão em contínua comunicação
-> com esta* (1979, p. 72-73).
+<!-- estilo de citação -->
+ \[...\] a floresta e seus habitantes fornecem muitos modelos a partir
+ dos quais os Hupdʉ estabelecem sua compreensão dos mundos social e
+ espiritual \[...\]. Os Hupdʉ podem ler os “sinais” da floresta tão bem
+ quanto um europeu pode ler um livro, e estão em contínua comunicação
+ com esta (1979, p. 72-73).
+<!-- estilo de citação -->
 
 No caminho, Ari parou para analisar um tronco de árvore. Disse que um
 /moytu̖d/, “urumutum”[^79], tinha corrido quando ele se aproximava. Esse
@@ -8550,23 +8564,23 @@ wä̗’ä̗y a̗m?/, o que ouvíamos era a fala das aves /moytu̖d/, que ecoava
 pela mata enquanto tentávamos dormir. Um pouco mais à frente, Lucas viu
 um buraco de tatu. Parou para ver se o bicho ainda estava lá dentro.
 Abaixou-se e inclinou o corpo para cutucar o buraco com seu terçado.
-Refletindo sobre B5, fazer animais e seres malfazejos irem para suas
+Refletindo sobre **B5**, fazer animais e seres malfazejos irem para suas
 casas e largarem suas armas coloca-os em uma posição passiva, distinta
 daquela assumida quando estão fora de suas moradas e procuram atacar.
 Enquanto isso, os animais auxiliares devem estar fora de suas casas ou
 mesmo nos caminhos, como é o caso da lagarta do tabaco e da muçurana.
 Situar-se dentro ou fora da casa remete também às posturas corporais:
-*sentado no banco (dentro)* e *em pé (fora)*. Para comer a coca e fumar
+sentado no banco (dentro) e em pé (fora). Para comer a coca e fumar
 o tabaco o ser deve largar suas armas, repousá-las sobre o jirau e
 assumir um estado contemplativo (tristeza). Já aqueles que auxiliam o
 xamã situam-se fora da casa, munidos de seus pedaços de tabaco, de seus
 bastões, de suas armas. Para protegerem-se, o xamã ou a pessoa hup podem
 abrigar-se na casa desses outros seres. Penetrar o corpo da onça, da
 lontra, caminhar envoltos pela pele da muçurana ou posicionar-se no
-caminho da lagarta do tabaco correspondem também a ações que *cercam* a
+caminho da lagarta do tabaco correspondem também a ações que cercam a
 pessoa.
 
-Como descreve Reid (1979), os Hupd’äh percebem a existência de um grande
+Como descreve Reid, os Hupd’äh percebem a existência de um grande
 número de “casas florestais” subterrâneas cujo acesso se dá por buracos
 ou grutas. Os animais e seres que vivem nelas possuem suas malocas,
 roças, igarapés e florestas em seus interiores. Cada uma dessas casas
@@ -8578,11 +8592,11 @@ sem autorização prévia, os donos expressam sua ira causando tempestades
 plenas de trovões, ventos fortes e relâmpagos. Quando a caça escasseia,
 os xamãs comunicam-se com os donos dos animais para pedir que liberem
 animais para a floresta em troca do oferecimento de almas humanas e/ou
-tabaco (Reid, 1979, p. 261-3).
+tabaco.
 
 Desse modo, para garantir o aumento das presas e a autorização para as
 caçadas, os xamãs viajam às casas dos animais e interagem com seus
-donos. Em B5, são igualmente as viagens e interações do xamã que
+donos. Em **B5**, são igualmente as viagens e interações do xamã que
 permitem aos viajantes hup deslocarem-se de casa em casa, de aldeia em
 aldeia, de domínio em domínio. Antes de iniciarmos nossa viagem, o
 benzimento dos caminhos revelava-se como uma longa jornada que,
@@ -8613,13 +8627,13 @@ dificultavam nosso trajeto e nossa orientação. Atentos às histórias e à
 convivência com os antepassados nesses lugares, movíamo-nos de um lugar
 a outro dento de uma região de memórias.
 
-A cada passo, os caminhos fechados iam tornando-se *caminhos vividos*
+A cada passo, os caminhos fechados iam tornando-se caminhos vividos
 nos quais nos posicionávamos pelo itinerário contínuo de nossos
 movimentos. Atentos ao entorno, os jovens ouviam seus guias e os sons da
 mata, voltavam-se para olhar atentamente quaisquer plantas, animais,
 paisagens mostradas pelos mais velhos. Percebendo o ambiente a partir de
 todos os lugares, os saberes iam sendo gerados em campos de prática que
-faziam convergir eventos da viagem xamânica de B5 com situações
+faziam convergir eventos da viagem xamânica de **B5** com situações
 ocorridas durante o percurso.
 
 Estávamos caminhando próximos uns dos outros quando Ponciano gritou:
@@ -8627,7 +8641,7 @@ Estávamos caminhando próximos uns dos outros quando Ponciano gritou:
 ferroada causa dores insuportáveis. Nós, que andávamos compassadamente,
 corremos para fora da trilha, pelo meio da mata para despistar nossas
 perseguidoras. Retomamos nosso ritmo vagarosamente à medida que nos
-distanciávamos do local do encontro. Em B5, as cabas são mencionadas
+distanciávamos do local do encontro. Em **B5**, as cabas são mencionadas
 pelo xamã em meio a uma enumeração de seres, como as abelhas, as
 jararacas e as cobras-de-duas-cabeças que nos atacam com suas cuias de
 caarpi, facas e caniços. Para que não nos ofereçam a cuia de caarpi e
@@ -8665,8 +8679,8 @@ galhos das árvores, muitas vezes castanheiras de casca dura.
 Alimentam-se principalmente de castanhas, frutas, insetos, fungos,
 folhas, flores e cascas de árvores. Graças à força de sua dentição, o
 esquilo amazônico é capaz de roer castanhas extremamente duras e, mesmo,
-cascas de árvore. Na mata, é localizado pelo barulho que faz ao roer
-(Emmons, 1990, p. 166-67). Em B5, a casa do esquilo, feita de casca de
+cascas de árvore. Na mata, é localizado pelo barulho que faz ao roer.
+Em **B5**, a casa do esquilo, feita de casca de
 tabaco, faz pensar tanto nas árvores de casca dura, castanheiras,
 habitadas pelo roedor, quanto em sua capacidade de trituração, capaz
 talvez de destruir os envoltórios duros de outros seres.
@@ -8676,7 +8690,7 @@ oferece às cobras para colar seu queixo e impedir as mordidas. O barulho
 da árvore que chama os companheiros de percurso é emitido por um tronco
 oco[^80], análogo ao envoltório de casca de tururi que cerca a perna dos
 andarilhos e onde algumas cobras peçonhentas procuram abrigo para morar
-(B5). Sua madeira permite a comunicação com aqueles que estão distantes
+(**B5**). Sua madeira permite a comunicação com aqueles que estão distantes
 e a construção de canoas para a navegação. De modo interessante, a
 atenção para os seres e elementos do entorno parece aproximar a
 percepção e ação do xamã que viaja /hã̗wägat/, como pessoa-sopro, àquelas
@@ -8699,7 +8713,7 @@ coca grudenta que amordaça as jararacas advêm da mesma árvore e são bons
 sinais para a continuidade da jornada.
 
 Também a *viagem da tartaruga* relaciona-se com nosso itinerário, uma
-*viagem dentro da muçurana*. Em B4, o casco da tartaruga é tomado a um
+*viagem dentro da muçurana*. Em **B4**, o casco da tartaruga é tomado a um
 só tempo como sua canoa e sua casa. É dentro dessa canoa que o anfíbio
 deve guardar suas armas e ornamentos para seguir rumo à cabeceira. Ora,
 durante o trajeto, os caminhantes hup seguem, como a tartaruga, dentro
@@ -8710,7 +8724,7 @@ com que as jararacas, cobras que gostam de rastejar em terrenos úmidos,
 permaneçam longe das trilhas. Com relação às jararacas, a muçurana
 situa-se na posição de predadora, já que esta devora aquelas e é imune a
 seu veneno. Ao mesmo tempo, a muçurana e a tartaruga não representam
-perigo aos humanos podendo ser facilmente capturadas e mesmo consumidas.
+perigo aos humanos, podendo ser facilmente capturadas e mesmo consumidas.
 São animais que podem ser vistos como protetores, isto é, animais
 auxiliares que cercam os caminhos, da mesma forma que o esquilo, o
 muçum, o calango, a lagarta do tabaco, a onça e o curió.
@@ -8718,7 +8732,7 @@ muçum, o calango, a lagarta do tabaco, a onça e o curió.
 A *viagem na cobra-canoa* faz com que, em vez de serem vistos como
 presas para quem se oferece o caarpi embriagante, os viajantes estejam
 ocultos sob a pele fria desse poderoso predador. Como sugere
-Lévi-Strauss (2002), creio que seja a observação de uma lógica das
+Lévi-Strauss, creio que seja a observação de uma lógica das
 qualidades sensíveis que explicite as inter-relações entre animais e
 viajantes entrelaçadas pelos encantamentos e pelo curso da viagem.
 
@@ -8748,7 +8762,7 @@ macaco-prego[^83], por exemplo.
 Ao anúncio do /kɨhsä̗t/ de que pararíamos para pescar e acampar naquele
 local, os jovens largaram suas bagagens e saíram com os terçados à mão
 para buscar varas e folhas de caranã. Apesar de não haver a ameaça de
-chuva, preparamosbarracas para que pudéssemos dormir e comer
+chuva, preparamos barracas para que pudéssemos dormir e comer
 tranquilos. Em alguns minutos, os rapazes já haviam voltado e começavam
 a fincar as varas que suportariam as redes e a cobertura. Outros
 trouxeram lenha para que pudéssemos moquear e cozer os peixes mais
@@ -8761,13 +8775,15 @@ escapavam da boa pontaria dos jovens. Reid escreve algumas notas sobre
 os percursos realizados por jovens com mentores experientes chamando a
 atenção para pontos semelhantes aos observados em nossa viagem,
 
-> *Quando essas viagens são realizadas por jovens e homens maduros, os
-> jovens percorrem longas distâncias com eles, deslocam-se por marcos
-> familiares, tipos de vegetação, pela direção do fluxo dos igarapés
-> conhecidos, e possivelmente pela orientação do sol enquanto é visível.
-> Durante o percurso, eles aprendem detalhes da topografia da floresta
-> local, e sobre onde é possível encontrar os recursos de fauna e flora*
-> (1979, p. 150).
+<!-- estilo de citação -->
+ Quando essas viagens são realizadas por jovens e homens maduros, os
+ jovens percorrem longas distâncias com eles, deslocam-se por marcos
+ familiares, tipos de vegetação, pela direção do fluxo dos igarapés
+ conhecidos, e possivelmente pela orientação do sol enquanto é visível.
+ Durante o percurso, eles aprendem detalhes da topografia da floresta
+ local, e sobre onde é possível encontrar os recursos de fauna e flora
+ (1979, p. 150).
+<!-- estilo de citação -->
 
 Desse modo, o interesse dos rapazes em conhecer as Moradas Antigas e as
 Casas-de-Pedra nos morros ancestrais dava-se ao longo de um percurso que
@@ -8777,7 +8793,7 @@ habitado com seus pais e avós. A viagem socializava os jovens e fazia os
 ancestrais e as paisagens interpenetrarem-se a cada passo e a cada
 palavra dos nossos guias.
 
-#### O caminho da tartaruga 
+###O caminho da tartaruga 
 
 Pouco antes do nascer do sol, todos saíram para pescar. Retornaram com
 muitos peixes, o suficiente para que nos alimentássemos com uma boa
@@ -8789,13 +8805,13 @@ namorou-a. Foi também com belas moças que Valter sonhou. Ponciano
 comentou que esses eram sonhos bons. Faríamos uma boa caminhada.
 
 Deixamos o acampamento e em poucas horas chegamos à base do morro de
-/D’o̗k-Paç/, “Serra-do-Acarápuru”[^84]. Fomos subindo vagarosamente,
+/D’o̗k-Paç/, “Serra do Acarapuru”[^84]. Fomos subindo vagarosamente,
 caminhando por entre as árvores e arbustos que se espalhavam por toda a
 superfície. O morro ia elevando aos poucos a vegetação e a terra firme.
 Esgueirávamo-nos por entre as árvores e avançávamos lentamente. Valter e
 Maurício iam à frente explorando o terreno. De repente, depararam-se com
 um conjunto rochoso e chamaram-nos. Tinham encontrado uma gruta, uma
-/Paç-Mo̖y/. Como na Serra Grande e na Serra-da-Cutiváia, essa
+/Paç-Mo̖y/. Como na Serra Grande e na Serra da Cutivaia, essa
 Casa-de-Pedra também havia sido local de morada de ancestrais.
 
 Seguindo nossos guias, começamos a entrar e logo estávamos todos dentro
@@ -8815,9 +8831,9 @@ oliva. O casco é acatado e largo na região posterior. Ela habita as
 secas para os corpos de água principais (rios, lagos, paranás,
 ressacas), em busca de praias para desovar. Seu período de desova ocorre
 de setembro a novembro, quando as chuvas escasseiam, o nível dos rios
-diminui e as praias aparecem (Pritchard, 1979; Velasquez, 2007). Assim,
+diminui e as praias aparecem. Assim,
 seu padrão de mobilidade sazonal relaciona-se com a variação pluvial, o
-que permite entender que em B4 a tartaruga desempenha um papel mediador
+que permite entender que em **B4** a tartaruga desempenha um papel mediador
 quanto à precipitação das chuvas. A /mi̖h pög/ que encontramos nessa
 Casa-de-Pedra estava possivelmente abrigando-se na caverna. Durante o
 dia, predadores, como as onças, perambulam pelas margens dos igarapés em
@@ -8845,12 +8861,12 @@ Além da carne que é consumida, partes do corpo das tartarugas[^85]
 servem para a fabricação de alguns objetos. Um instrumento que pude
 observar certa vez em campo, o /mi̖h k’e̖g/, “ossos de tartaruga”, é feito
 a partir da perfuração dos ossos do quelônio, para que um fio de tucum
-ou nylon os atravesse. Quem manipula o objeto deve segurá-lo com as duas
-mãos e esticá-lo num ângulo de 45º. Os ossinhos vão deslocando-se de
+ou *nylon* os atravesse. Quem manipula o objeto deve segurá-lo com as duas
+mãos e esticá-lo num ângulo de 45 graus. Os ossinhos vão deslocando-se de
 cima a baixo e, de acordo com a forma como se aglutinam, a pessoa saberá
 quem está chegando à comunidade. Pode-se prever se os visitantes
 vindouros são da mesma etnia ou de outra, a que clã pertencem e quantos
-são. Reid (1978) descreveu esse objeto como sendo um “brinquedo
+são. Reid descreveu esse objeto como sendo um “brinquedo
 oracular” cuja capacidade premonitória se assemelha à dos sonhos dos
 xamãs.
 
@@ -8858,7 +8874,7 @@ Se a mediação climática da viagem da tartaruga seca os caminhos, sua
 carne alimenta os viajantes e seus ossos religados permitem antever a
 chegada dos forasteiros. O réptil revela-se um importante mediador tanto
 para aqueles que se movimentam pelos caminhos quanto para aqueles que
-permanecem nas aldeias. Em B5, uma das ações do benzedor é a de
+permanecem nas aldeias. Em **B5**, uma das ações do benzedor é a de
 deslocar-se para a mata e adentrar a casa/corpo do esquilo marrom. Ereto
 dentro da morada do roedor, o xamã cria uma homologia entre a casa dos
 Hupd’äh e a casa do esquilo. Na exegese, as palavras “casa” e “corpo”
@@ -8866,14 +8882,14 @@ alternam-se, sendo que, como para a tartaruga, o corpo é entendido como
 a casa do /hã̗wäg/. Revestindo a estrutura dessa casa com o pedaço de
 tabaco de um animal que habita árvores duras, o benzedor cria, para os
 viajantes hup, um envoltório que faz lembrar o casco do quelônio.
-Enquanto o oráculo esquelético permite antever, ver sem ser *visto*, o
+Enquanto o oráculo esquelético permite antever, ver sem ser visto, o
 deslocamento dentro da casa do esquilo assegura ao xamã e aos andarilhos
 chegarem à outra morada sem serem vistos pelos seres malfazejos, ou
-seja, serem *imprevistos*.
+seja, serem imprevistos.
 
 Durante as festas de caxiri de antigamente, a partir do casco da
 tartaruga era produzido um instrumento de percussão, o /mi̖h b’o̗k/,
-“tambor de tartaruga”[^86] (jaboti). Para a fabricação do instrumento, o
+“tambor de tartaruga”[^86](jaboti). Para a fabricação do instrumento, o
 casco era escavado após o consumo da carne. Uma das extremidades era
 vedada com cera, sendo que a caixa acústica podia ser polida com breu, o
 que veda possíveis orifícios indesejados e dá um brilho especial ao
@@ -8894,7 +8910,7 @@ folhas do tabaco para apresentar-se aos cunhados ou ao futuro sogro, o
 tambor-de-tartaruga dá a base para um cantor (a) que, contando sua
 história, procura encantar o (a) pretendente. Descrevendo o som desses
 tambores de tartaruga, Reichel-Dolmatoff diz que o som é como um uivo
-vibrante (1986, p. 141). No sonho de Ponciano (S2), as duas moças
+vibrante. No sonho de Ponciano (**S2**), as duas moças
 chupando cana seduzem o xamã que as namora na roça. No caso, chupar cana
 e friccionar o tambor enquanto se canta *chamam* para o namoro através
 dos sons ritmados de uma vibração bucal e de uma vibração manual. O som
@@ -8911,14 +8927,13 @@ carne do réptil. Seus ossos servem para a fabricação do instrumento
 premonitório que permite antever os viajantes que chegarão à comunidade.
 Nesse sentido, ela pode ser vista como um ser mediador não só com
 relação a regiões (cabeceiras e rios) e estações (verão e inverno), mas
-também entre a *temporalidade da viagem* e a *temporalidade das
-aldeias*. Para a tartaruga convergem percepções simultâneas sobre a
-mobilidade e a permanência que a tornam uma espécie de *ser movediço*
-(Deleuze e Guattari (1995).
+também entre a temporalidade da viagem e a temporalidade das
+aldeias. Para a tartaruga convergem percepções simultâneas sobre a
+mobilidade e a permanência que a tornam uma espécie de ser movediço.
 
-Em B4, ela deve guardar suas /hẽ̖h/, coisas/ armas, em seu casco e seguir
+Em **B4**, ela deve guardar suas /hẽ̖h/, coisas/ armas, em seu casco e seguir
 nadando. Como visto na análise da pesca do jandiá e da caça ao jacaré
-(Capítulo 2), também, nesse caso, é necessário entender que o corpo dos
+(capítulo 2), também, nesse caso, é necessário entender que o corpo dos
 animais é descrito a partir de múltiplas anatomias. A primeira anatomia
 equivale a um discurso biomédico de diferenciação e nominação das partes
 do corpo. A segunda vem a ser a anatomia da /bi’i̖d ɨ̗d/, “linguagem dos
@@ -8935,7 +8950,7 @@ quelônio e sua ação são percebidas de acordo com a seguinte relação:
 **(casco : nadadeira :: canoa : remo) :: casa : armas**
 
 A partir de sua tesoura/ remo é que a tartaruga corta a água ao mesmo
-tempo em que viaja para a cabeceira. Como os animais auxiliares em B5,
+tempo em que viaja para a cabeceira. Como os animais auxiliares em **B5**,
 ela atende ao chamado do xamã, coloca suas coisas em sua casa/casco e
 desloca-se fazendo uso de seus membros, armas laminares. Seu nado, ao
 cortar as águas do rio, afeta o rumo das nuvens, o que demonstra haver
@@ -8948,7 +8963,7 @@ hup. É interessante notar que não é a mudança climática que faz com que
 elas rumem para a cabeceira, mas é seu deslocamento que gera a mudança
 climática e cria as condições necessárias à desova e à viagem dos
 Hupd’äh. Nesse sentido, as tartarugas estão mais próximas de Moisés do
-que dos animais barométricos descritos por Lévi-Strauss (2004b)[^89]. No
+que dos animais barométricos descritos por Lévi-Strauss[^89]. No
 xamanismo hup, seu comportamento não reflete ou sinaliza a nova estação.
 Pelo contrário, assim como Moisés é capaz, por sua ação, de deslocar as
 nuvens para a retaguarda, as tartarugas, nadando, abrem as águas e
@@ -8962,7 +8977,7 @@ situa bem esse ser como mediador entre pessoas, temporalidades e regiões
 distintas. Entendo que na prática dos benzimentos haja a articulação
 entre um modo totêmico, com a ênfase em aspectos da morfologia e
 anatomia, e a um modo anímico, com a ênfase no movimento, postura e
-comportamento dos seres (Ingold, 2000, p. 127). Desse modo, a tartaruga
+comportamento dos seres. Desse modo, a tartaruga
 que tem em seu casco um abrigo e uma canoa pode ser vista como um ser
 especialmente interessante por condensar em si, em seu corpo, a morada e
 o meio de transporte. De modo singular, ela está dentro e fora de sua
@@ -8971,9 +8986,9 @@ navega em sua casa, os Hupd’äh caminham sobre uma canoa. O “povo de
 deus”, por sua vez, viaja sem casa rumo à Terra Prometida e atravessa o
 Mar Vermelho sem canoa, com os pés enxutos.
 
-#### O caminho do “povo de deus”
+###O caminho do “povo de deus”
 
-Segundo Athias (2006, 1995), foi apenas nas décadas de 1960 e 1970 que
+Segundo Athias, foi apenas nas décadas de 1960 e 1970 que
 os missionários salesianos iniciaram atividades mais intensas para
 evangelizar e transformar o que entendiam ser o “modo tradicional de
 vida” dos Hupd'äh. Trabalhando já há décadas com os Tukano, os padres
@@ -8981,24 +8996,24 @@ salesianos pretendiam intervir na suposta “posição de inferioridade
 hierárquica” dos Hupd'äh em relação aos Tukano, o que faria, segundo
 eles, com que os primeiros devessem prestar determinados serviços, como
 o trabalho nas roças, afazeres domésticos e construção de casas para os
-Tukano (Athias, 1995; Reid, 1979). Reid sustenta que, no final dos anos
+Tukano. Reid sustenta que, no final dos anos
 de 1940 e ao longo dos anos de 1950, iniciou-se o processo migratório
 que levou as aldeias hup a afastarem-se da região das cabeceiras
 (interflúvios) e começarem a fixar-se nas áreas próximas aos grandes
-rios e às aldeias tukano e desano (1979, p. 28).
+rios e às aldeias tukano e desano.
 
-Como mencionado, para Reid (1979) ambos os povos, Tukano e Hupd’äh,
+Como mencionado, para Reid ambos os povos, Tukano e Hupd’äh,
 teriam se refugiado nessa região interfluvial para proteger-se da
 violência dos representantes do governo (Manducas) e dos exploradores de
-borracha. Nesse novo movimento migratório (N.O.  S.E.), os Hupd’äh
+borracha. Nesse novo movimento migratório (N.O. para S.E.), os Hupd’äh
 sucediam os Tukano que começaram a migrar já nos anos 1930 e 1940. A
 conversão cristã, a moradia baseada na família nuclear e o aprendizado
 da língua portuguesa eram os pilares de um processo de evangelização que
 fazia uso de métodos como a queima das malocas, a destruição ou
 exposição às mulheres das flautas Jurupari, a abdução forçada de
 crianças para as escolas internas, os castigos corporais e a chantagem
-econômica para atingir seus objetivos (Reid, 1979, p. 27). Pensando com
-Taussig (1993), uma verdadeira *cultura do terror* foi instaurando-se
+econômica para atingir seus objetivos. Pensando com
+Taussig, uma verdadeira cultura do terror foi instaurando-se
 com uma agência missionária que se justificava como alternativa à
 violência da empresa borracheira[^90].
 
@@ -9008,18 +9023,17 @@ morros e às Casas-de-Pedra. Uma das traduções hup para /Paç-Mo̖y/,
 “Casa-de-Pedra”, é a expressão “lugares sagrados”, algo que evoca
 sentidos religiosos e cristãos. Migrando para sudeste, os antigos foram
 aceitando a presença missionária, as orações, a permanência dos filhos
-nas escolas, as roupas, os castigos e a violência. Como conta Reid
-(1979), os padres negociaram áreas com donos tukano e desano que cederam
+nas escolas, as roupas, os castigos e a violência. Como conta Reid,
+os padres negociaram áreas com donos tukano e desano que cederam
 parte de seus territórios para a criação dos assentamentos hup. Nesses
 locais, os salesianos faziam com que o aldeamento das famílias, clãs e
 grupos locais hup se desse de modo misturado, compondo grandes aldeias.
 Outra estratégia foi a de ordenar que os Hupd’äh abrissem amplos
 caminhos, modificassem a estrutura e os materiais com os quais faziam
-suas casas e preparassem grandes roças (Reid, 1979, p. 293-4). O
+suas casas e preparassem grandes roças. O
 antropólogo chama a atenção para os diversos problemas surgidos, como o
 aumento da tensão social, a desnutrição pelo esgotamento dos recursos
-próximos, as epidemias e o aumento da taxa de mortalidade (Reid, 1979,
-p. 309-310).
+próximos, as epidemias e o aumento da taxa de mortalidade. 
 
 Durante a viagem à Serra Grande, os viajantes riram muito do roubo da
 imagem de Jesus que o pe. Afonso tinha colocado próxima ao lago. O padre
@@ -9028,7 +9042,7 @@ ajudante tukano. De certo modo, com o intuito de tornar cristão esse
 local de morada dos mortos e de banhos, o sacerdote viajara à cabeceira,
 como os xamãs hup e a tartaruga, buscando disputar o “lugar sagrado hup”
 para transformá-lo em um “lugar sagrado cristão”. A imagem de Cristo à
-beira de um “Lago-de-Leite” insere-se nesse contexto em que os padres
+beira de um “Lago de Leite” insere-se nesse contexto em que os padres
 agiam para fazer com que os Hupd’äh fossem morar em áreas distantes das
 cabeceiras. De modo interessante, o missionário tornava-se um caminhante
 e viajava pelos caminhos hup. Entendo que, tirando a imagem cristã da
@@ -9038,30 +9052,32 @@ identificação entre “lugar sagrado” e o “lugar sagrado cristão” e ent
 Ponciano fez todos os presentes rirem quando contou dos padres e freiras
 que chegaram primeiro às aldeias hup.
 
-> *Os padres João e Chiqué foram os primeiros a chegar. Foram longe para
-> encontrar os Hupd’äh. O pe. Afonso foi até onde hoje é o sítio do
-> Armando. Lá é uma Morada Antiga. Depois veio o pe. Numberto. A
-> comunidade era do outro lado do igarapé, onde hoje é o /Mo̖y-Höd/. Foi
-> ele quem quis que a comunidade mudasse para a “caatinga”, /mu̖n/, na
-> areia. Construiu uma escola de lata, zinco, e uma igreja. As duas já
-> caíram, se acabaram. Na escola várias irmãs ajudaram. Primeiro veio a
-> irmã Terezinha. Depois foi o Antônio, pai de Rosalino, que veio dar
-> aula. Era um Tukano do Cunuri. Uma desana, Maria da Graça, veio
-> ajudá-lo, mas quando o pe. Afonso descobriu que ela tinha marido
-> colocou-o para correr e tirou-a daqui. Ele era bravo, o pe. Afonso. O
-> pe. Numberto, não. Então foi a vez da irmã Sandra. Ela trouxe fogão e
-> muitas coisas. Foi ela quem trouxe o armário que está hoje na casa de
-> Jovino. Fez sua casa no final da comunidade. Depois a casa caiu e
-> acabou-se. Ela sempre queria trocar as coisas, zarabatana, aturá,
-> balaio. Dava fósforo, roupas, terçado, sal, tabaco. Ela morreu em
-> Manaus. A irmã Josefina, que também veio dar aula aqui, está em
-> Taracuá. Houve também a irmã Olga, mas depois foram todas embora. Os
-> Hupd’äh roubaram muito as coisas delas. Desistiram* (Caderno de campo,
-> 25/02/2012).
+<!-- estilo de citação -->
+ Os padres João e Chiqué foram os primeiros a chegar. Foram longe para
+ encontrar os Hupd’äh. O pe. Afonso foi até onde hoje é o sítio do
+ Armando. Lá é uma Morada Antiga. Depois veio o pe. Numberto. A
+ comunidade era do outro lado do igarapé, onde hoje é o /Mo̖y-Höd/. Foi
+ ele quem quis que a comunidade mudasse para a “caatinga”, /mu̖n/, na
+ areia. Construiu uma escola de lata, zinco, e uma igreja. As duas já
+ caíram, se acabaram. Na escola várias irmãs ajudaram. Primeiro veio a
+ irmã Terezinha. Depois foi o Antônio, pai de Rosalino, que veio dar
+ aula. Era um Tukano do Cunuri. Uma desana, Maria da Graça, veio
+ ajudá-lo, mas quando o pe. Afonso descobriu que ela tinha marido
+ colocou-o para correr e tirou-a daqui. Ele era bravo, o pe. Afonso. O
+ pe. Numberto, não. Então foi a vez da irmã Sandra. Ela trouxe fogão e
+ muitas coisas. Foi ela quem trouxe o armário que está hoje na casa de
+ Jovino. Fez sua casa no final da comunidade. Depois a casa caiu e
+ acabou-se. Ela sempre queria trocar as coisas, zarabatana, aturá,
+ balaio. Dava fósforo, roupas, terçado, sal, tabaco. Ela morreu em
+ Manaus. A irmã Josefina, que também veio dar aula aqui, está em
+ Taracuá. Houve também a irmã Olga, mas depois foram todas embora. Os
+ Hupd’äh roubaram muito as coisas delas. Desistiram. (Caderno de campo,
+ 25/02/2012)
+ <!-- estilo de citação -->
 
 É como “chegadas” que os movimentos de aproximação dos padres são
-percebidos. Como o xamã hup em B5, os padres viajam até as moradas hup,
-querem criar uma homologia entre a “casa hup” e a “casa dos Brancos”.
+percebidos. Como o xamã hup em **B5**, os padres viajam até as moradas hup,
+querem criar uma homologia entre a “casa hup” e a “casa dos brancos”.
 Como os “Filhos de Israel”, os missionários são pessoas sem casa que
 passam pelas aldeias hup. Semelhante aos seres maléficos que levam
 principalmente o /hã̗wäg/ das crianças, os religiosos sequestram as
@@ -9069,21 +9085,23 @@ crianças para mantê-las nos colégios internos. Fazem-nas viver em casas
 separadas por sexo, aprender o português e apanhar, se não agirem de
 acordo com o esperado. São inúmeras as histórias das fugas de crianças
 hup dos internatos salesianos, contadas hoje pelos libertos como grandes
-proezas. Para Reid (1979), as vantagens do acesso permanente a fontes de
+proezas. Para Reid, as vantagens do acesso permanente a fontes de
 mercadorias, a possibilidade de entender melhor o mundo não indígena
 através da educação e a percepção dos padres como patrões seriam fatores
 que teriam levado os Hupd’äh a suportar essa situação. Nas palavras de
 Reid,
 
-> *\[…\] o medo que os Hupdʉ têm dos padres e o modo como os veem
-> enquanto super-patrões e, consequentemente, como patrões diretos foram
-> fatores importantes para a formação e manutenção das missões. Os Hupdʉ
-> foram preparados para tolerar um alto grau de comportamento
-> ininteligível e irracional dos missionários, em vez de ofenderem-nos e
-> manifestarem contra eles a sua “raiva”, o que poderia incitar a
-> feitiçaria de vingança por parte dos padres. O comportamento submisso
-> é constantemente utilizado pelos Hupdʉ na relação com os Índios do
-> rio, e estendido para interações com não Indígenas* (1979, p. 314).
+<!-- estilo de citação -->
+ \[…\] o medo que os Hupdʉ têm dos padres e o modo como os veem
+ enquanto super-patrões e, consequentemente, como patrões diretos foram
+ fatores importantes para a formação e manutenção das missões. Os Hupdʉ
+ foram preparados para tolerar um alto grau de comportamento
+ ininteligível e irracional dos missionários, em vez de ofenderem-nos e
+ manifestarem contra eles a sua “raiva”, o que poderia incitar a
+ feitiçaria de vingança por parte dos padres. O comportamento submisso
+ é constantemente utilizado pelos Hupdʉ na relação com os Índios do
+ rio, e estendido para interações com não indígenas. (1979, p. 314)
+ <!-- estilo de citação -->
 
 Ponciano conta que os missionários moravam perto da escola de lata e
 traziam suas coisas, armários, fogão, camas, roupas, comidas. Depois de
@@ -9112,7 +9130,7 @@ hib’a̗h-tẽ̖h pɨnɨ̖g/, as “histórias dos ancestrais dos brancos”.
 
 Enquanto contava sobre o modo de realizar o benzimento para afastar a
 chuva, Ponciano também ria ao falar de /Mu’sé/, “Moisés”. A barba do
-ancestral dos Brancos, sua estranha capacidade de agir como uma
+ancestral dos brancos, sua estranha capacidade de agir como uma
 tartaruga para cortar as água e fazer as nuvens irem para a retaguarda,
 a Casa-da-Cabeceira, faziam Moisés surgir como uma figura ao mesmo tempo
 poderosa e divertida, em tudo semelhante aos padres. Nas orações
@@ -9142,18 +9160,18 @@ sensibilidades que se desenvolveram ao longo de sua vida na região das
 cabeceiras e, posteriormente, no território ribeirinho, revela sua
 atenção aguçada para movimentos, sons e gestos dos animais e dos
 ancestrais hup. Ao mesmo tempo, suponho que a atenção para com as
-histórias dos ancestrais dos Brancos, num contexto marcado pela ação
+histórias dos ancestrais dos brancos, num contexto marcado pela ação
 missionária e pelas orações e histórias bíblicas, tenha sido fundamental
 para muitos da geração de Ponciano. A bíblia e o velho testamento trazem
 outros ancestrais, outros poderes, outros ambientes e outros tipos de
-ação característicos dos Brancos. A exegese do benzimento (B3) é também
+ação característicos dos brancos. A exegese do benzimento (**B3**) é também
 uma hermenêutica do texto bíblico, feita por pessoas que observam os
 missionários, seus ancestrais e suas ações. Imitando-os, mobilizam para
 si poderes desses Outros e ampliam suas possibilidades de ação no
 ambiente ribeirinho que passavam a habitar.
 
 De forma semelhante, o convívio com os padres e as freiras permite a
-compreensão de aspectos do modo de vida e comportamento dos Brancos. A
+compreensão de aspectos do modo de vida e comportamento dos brancos. A
 aversão ao “roubo” faz, por exemplo, com que ao roubar os Hupd’äh
 afastem os missionários e riam deles. O casamento das noviças indígenas
 causa a ira do padre e permite que as moças retornem às suas vidas
@@ -9162,19 +9180,19 @@ missionária que os antigos hup possuíam, sendo capazes de atrair e
 afastar os religiosos como quem afasta as nuvens de uma tempestade.
 
 A ação de Ponciano embasa-se numa observação, enquanto atenção aos
-movimentos do ancestral dos Brancos e das tartarugas, e numa imitação,
+movimentos do ancestral dos brancos e das tartarugas, e numa imitação,
 um alinhamento da atenção para com o próprio movimento prático orientado
-para o ambiente (Ingold, 2000, p. 37). As ações do benzimento parecem
+para o ambiente. As ações do benzimento parecem
 correlacionar agências de seres que ocupam lugares estruturais
 semelhantes. Observando e imitando a ação de Moisés, Ponciano realiza
 uma hermenêutica do texto bíblico e, ao mesmo tempo, faz com que o
-ancestral dos Brancos, abrindo o Mar Vermelho, afaste as nuvens negras
+ancestral dos brancos, abrindo o Mar Vermelho, afaste as nuvens negras
 para trás, para a retaguarda, para a Casa-da-Cabeceira, para que o “povo
 hup” possa caminhar rumo aos “lugares sagrados”.
 
 Creio que a ação de Ponciano mobilize uma atenção simultânea para com os
-movimentos e comportamento (*anímica*) e para com a anatomia e
-morfologia (*totêmica*) do ancestral dos Brancos e da tartaruga. Isso
+movimentos e comportamento (anímica) e para com a anatomia e
+morfologia (totêmica) do ancestral dos brancos e da tartaruga. Isso
 permite refletir sobre a *transformação da tartaruga em Moisés* nos
 benzimentos para afastar a chuva a partir de seus gestos. O gesto de
 erguer a mão e separar o Mar Vermelho assemelha-se ao gesto da tartaruga
@@ -9195,10 +9213,10 @@ origem presente em sua mão, o xamã corta o ar com seu sopro, assim como
 o profeta Moisés que fez um vento soprar para dividir o mar e secar o
 caminho dos Filhos de Israel. É preciso lembrar que o cigarro tem também
 sua propriedade cortante, pois antigamente era preparado a partir da
-folha de tabaco afiada, “cabelo-da-mulher-da-caatinga” (M14).
-Mobilizando propriedades cortantes do ancestral dos Brancos, da
+folha de tabaco afiada, “cabelo da Mulher da Caatinga” (**M14**).
+Mobilizando propriedades cortantes do ancestral dos brancos, da
 tartaruga, do tabaco e de seu próprio corpo, o xamã consegue afastar as
-nuvens. De modo diferente, em B5 é a partir da Casa-da-Chuva, uma morada
+nuvens. De modo diferente, em **B5** é a partir da Casa-da-Chuva, uma morada
 celeste, que o benzedor lança o pari e cerca o caminho hup como se
 criasse paredes que separam o percurso da mata. Também o Mar Vermelho,
 dividido, pode ser tomado como uma estrutura lateral, liquida, que
@@ -9222,7 +9240,7 @@ acompanhados pelos filhos que os seguem.
 
 Apenas com essa incursão pela história recente dos Hupd’äh marcada pelo
 afastamento para as cabeceiras e pela habitação de áreas ribeirinhas, é
-possível entender o poder que B3 tem de afastar as nuvens e abrir os
+possível entender o poder que **B3** tem de afastar as nuvens e abrir os
 caminhos para que os rapazes sigam livres dos perigos. Os jovens
 viajantes com quem eu rumava para as cabeceiras desconheciam os
 caminhos, nunca haviam estado nos morros, mas conheciam inúmeras
@@ -9231,15 +9249,17 @@ rapazes cresceram nas grandes aldeias e observavam cada detalhe de nosso
 percurso. Sobre o distanciamento que passa a existir em relação à região
 das cabeceiras, Reid coloca a seguinte hipótese,
 
-> *Nas décadas de 1920 e 1930, os Hupdʉ viviam em áreas rio acima e
-> faziam seus acampamentos de caça rio abaixo. Por volta da década de
-> 1950, esse padrão se reverteu, com a mudança dos Hupdʉ para porções
-> rio abaixo do território, o que os fez caçarem rio acima. Ainda não é
-> claro se esses movimentos se deram puramente em resposta a pressões
-> externas colocadas sobre eles pelos Índios do rio e, mais
-> recentemente, pelos não indígenas, ou se foram parte do ciclo de
-> utilização dos recursos do qual apenas uma parte foi registrada*
-> (1979, p. 32).
+<!-- estilo de citação -->
+ Nas décadas de 1920 e 1930, os Hupdʉ viviam em áreas rio acima e
+ faziam seus acampamentos de caça rio abaixo. Por volta da década de
+ 1950, esse padrão se reverteu, com a mudança dos Hupdʉ para porções
+ rio abaixo do território, o que os fez caçarem rio acima. Ainda não é
+ claro se esses movimentos se deram puramente em resposta a pressões
+ externas colocadas sobre eles pelos Índios do rio e, mais
+ recentemente, pelos não indígenas, ou se foram parte do ciclo de
+ utilização dos recursos do qual apenas uma parte foi registrada.
+ (1979, p. 32)
+<!-- estilo de citação -->
 
 À sua hipótese, gostaria apenas de acrescentar mais um ponto que me
 parece relevante para refletir sobre as motivações que levaram a esse
@@ -9252,41 +9272,41 @@ cercar as Moradas Antigas e morros, fechando os caminhos para que os
 locais de convívio dos antigos, dos ancestrais e o local de destino dos
 mortos sejam mantidos distantes dos padres e das imagens de Cristo. No
 sentido levistraussiano, a transformação de tartarugas em Moisés revela
-algo sobre a percepção de um mundo onde os Brancos e seus ancestrais
+algo sobre a percepção de um mundo onde os brancos e seus ancestrais
 passam a ser vistos como pessoas presentes, atuantes e potencialmente
 violentas nesse ambiente diferente onde os Hupd’äh passaram a viver.
 
-1.  ### Morros e grutas
+## Morros e grutas
 
-    1.  #### /Paç-Mo̖y/ ‒ “Casa-de-Pedra” 
+### /Paç-Mo̖y/ ‒ “Casa-de-Pedra” 
 
 Depois de nosso encontro com a tartaruga, continuamos explorando a
 caverna. Num recanto iluminado, próximo ao abrigo do quelônio,
 encontramos uma morada antiga de /Hũ̖t-Wäg/, Semente de Tabaco. Diferente
-de sua Casa-de-Pedra na Serra-da-Cutiváia, essa morada ainda era
+de sua Casa-de-Pedra na Serra da Cutivaia, essa morada ainda era
 habitada pelo ancestral. Sempre que viaja por aquelas serras, é nessa
 caverna que ele procura abrigar-se. No chão de areia, um caminho de água
 escorria para fora da gruta. Estávamos numa nascente que a alguns metros
 dali dava origem ao igarapé /Dëh-Po̗-Te͂h/. Nosso /kɨhsä̗t/ contou que os
 antigos bebiam grandes quantidades dessa água para vomitar. Dormiam nas
 cavernas para sonhar e aprender encantamentos. Esses locais são
-denominados /Ho̗n-Hö̖d/, “Lugares-de-Vomitar” ou “Lugares-de-Sonhar”.
+denominados /Ho̗n-Hö̖d/,  “Lugares-de-Vomitar” ou “Lugares-de-Sonhar”.
 
 Sobre a percepção desana dos morros e cavernas, Reichel-Dolmatoff
 destaca que:
 
-> Nas florestas do Uaupés, encontram-se formações rochosas dispersas que
-> sobressaem como grandes relevos obscuros no horizonte. Com suas
-> paredes abruptas e, geralmente, aplanadas em sua parte alta, essas
-> serras isoladas são repletas de cavernas e grutas. Determinados
-> lugares são moradas de /Waí-maxsë/ \[...\] onde, cercado de seus
-> animais, domina a floresta. Por outro lado, as corredeiras dos rios
-> onde as correntes passam por entre as rochas gigantescas ou formam
-> profundos rodamoinhos, são as habitações de /Waí-maxsë/ como protetor
-> dos peixes. Ambas habitações são imaginadas como grandes malocas,
-> tanto nos morros quanto nas águas, onde vivem todos os animais e de
-> onde saem para a selva ou para os rios. Essas “casas dos morros” ou
-> “casas das águas” são lugares sagrados e perigosos *(1986, p. 105).*
+ Nas florestas do Uaupés, encontram-se formações rochosas dispersas que
+ sobressaem como grandes relevos obscuros no horizonte. Com suas
+ paredes abruptas e, geralmente, aplanadas em sua parte alta, essas
+ serras isoladas são repletas de cavernas e grutas. Determinados
+ lugares são moradas de /Waí-maxsë/ \[...\] onde, cercado de seus
+ animais, domina a floresta. Por outro lado, as corredeiras dos rios
+ onde as correntes passam por entre as rochas gigantescas ou formam
+ profundos rodamoinhos, são as habitações de /Waí-maxsë/ como protetor
+ dos peixes. Ambas habitações são imaginadas como grandes malocas,
+ tanto nos morros quanto nas águas, onde vivem todos os animais e de
+ onde saem para a selva ou para os rios. Essas “casas dos morros” ou
+ “casas das águas” são lugares sagrados e perigosos *(1986, p. 105).*
 
 Como para os Desana, a percepção hup dos morros volta a atenção para as
 cavernas, lugares sagrados que foram as moradas de ancestrais, e para as
@@ -9317,19 +9337,19 @@ havia na lateral do morro. O piso arenoso e a água a escorrer pelo chão
 faziam a caverna assemelhar-se às grutas de /D’o̗k-Paç/. Estávamos diante
 de mais uma /Hũ̖t-Wäg-Mo̖y/, “Morada-de-Semente de Tabaco”. No chão havia
 restos de cerâmica espalhados. As lascas que não puderam ser vistas na
-Serra-da-Cutiváia, deviam somar uma dezena nessa caverna. Designadas
+Serra da Cutivaia, deviam somar uma dezena nessa caverna. Designadas
 pelos Hupd’äh como /b’ok-ka̗b b’a̗h/, essas lascas eram os fragmentos da
 “cuia de beber água”, /ä̗g b’o̖’/, e da “cuia de comer”, /we̗d b’o̖’/, do
 ancestral. Assim, como o consumo do cigarro, a ingestão de água das
 Casas-de-Pedra era uma prática comum aos antigos hup e àquele que deixou
-as histórias e as visões aos Hupd’äh, Semente de Tabaco (M13). Pegando
+as histórias e as visões aos Hupd’äh, Semente de Tabaco (**M13**). Pegando
 as lascas do chão enquanto Ponciano comentava sobre Semente de Tabaco,
 os viajantes pediram que eu tirasse uma foto para que eles pudessem
 mostrar os restos dos utensílios culinários do ancestral a seus
 parentes.
 
-[]{#Fig37_ViajantesLascas .anchor}Viajantes exibem as lascas de cerâmica
-(foto: Danilo P. Ramos, 2012)
+<!-- Fig. 18 -->
+Viajantes exibem as lascas de cerâmica (foto: Danilo P. Ramos, 2012)
 
 Assustado, olhando fixamente para ao chão, Ari chamou Ponciano:
 /Guerrilhero s’i̖b/, “pegada de guerrilheiro” exclamava. Sem dúvida era o
@@ -9341,7 +9361,7 @@ morros para esconder-se do exército brasileiro. Antes de nossa partida
 de /Ta̗t-Dëh/, os principais temores dos viajantes eram o encontro com
 onças e com os guerrilheiros, por haver muitas notícias de sequestros de
 rapazes indígenas pelas milícias. Temerosos da violência que esses
-Brancos poderiam praticar contra nós, encurtamos nossa visita e descemos
+brancos poderiam praticar contra nós, encurtamos nossa visita e descemos
 apressadamente o morro para retomarmos nosso percurso rumo a /B’ö̖’-Paç/.
 
 Atordoados com o sinal de presença do guerrilheiro, deixamos
@@ -9358,7 +9378,7 @@ atolavam a cada passo e seguíamos com dificuldade. José contou que, ali,
 a ancestral /Tud-Asa̗w/ jogava água e lama nos rapazes para seduzi-los.
 
 Andamos por cerca de uma hora até encontrarmos a base da
-“Serra-do-Tucunaré”, /B’ö̖’-Paç/. Diferente dos dois outros morros, esse
+“Serra do Tucunaré”, /B’ö̖’-Paç/. Diferente dos dois outros morros, esse
 apresentava uma vegetação mais rasteira, composta principalmente por
 arbustos. O solo, como nos outros morros, era de /paç s’a̗h/, “terra de
 serra”, considerada extremamente fértil: /paç s’a̗h tuhu̗p/, exclamava
@@ -9375,7 +9395,7 @@ outra “Morada-de-Semente de Tabaco” onde havia um /ho̗n-hö̖d/. O filete d
 pareciam dar contornos a esse cenário ideal para a prática xamânica.
 Ponciano, Ari e eu abaixamo-nos e bebemos um pouco da água: /käh, käh
 hisa̗p, tuhu̗p/, “doce, muito doce, pura”, exclamaram. Como o líquido do
-maracujá em B5, essa água possui princípios que curam e purificam o
+maracujá em **B5**, essa água possui princípios que curam e purificam o
 corpo, sendo considerada uma /yõ̖h-dëh/, uma “água-pura”. Ingerindo
 grandes quantidades dessa água, o pai de Ponciano vomitava para limpar o
 corpo do /nag/, “óleo”, que há na carne de caça e no peixe moqueado, e
@@ -9425,7 +9445,7 @@ xamânicas. Observando o desenho feito por Samuel, é possível ver uma
 casa que é, ela mesma, uma serra constituída por três morros. O primeiro
 deles, à esquerda, trata-se da morada dos homens cuja porta é aberta
 para o sol nascente. Essa casa é denominada /Dëh-Sa̗ka̗n-Du̗y-Mo̖y/,
-“Casa-do-Sol-Nascente”. Como as casas dos Brancos, essa casa possui
+“Casa-do-Sol-Nascente”. Como as casas dos brancos, essa casa possui
 janelas. O piso de areia faz com que a cor amarela predomine, irradiando
 sua luminosidade para as portas e janelas. No meio, há uma casa onde
 todos os dias as Gentes-Onça oferecem a coca a seu dono, o Trovão. É lá
@@ -9436,19 +9456,19 @@ janela menores voltadas para o pôr do sol. É considerada a cozinha e,
 por isso, recebe o nome de /Po̗ho̗y-Mo̖y/, “Casa-da-Fermentação”, algo que
 alude ao preparo do caxiri feito pelas Mulheres-Onça e Mulheres-Trovão.
 
-[]{#Fig38_CasaTrovao .anchor}Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel
-Brasil Monteiro, 2012)
+<!-- Fig 19 -->
+Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel Brasil Monteiro, 2012)
 
 Assim, a arquitetura celeste da Casa-do-Trovão torna-se especialmente
 interessante para refletir sobre as Casas-de-Pedra dos ancestrais hup. O
 chão de areia das Moradas de Semente de Tabaco é como aquele da
 Casa-do-Trovão. É principalmente o ato de entrar na caverna que
-transforma as grutas em moradas. Em M13, a Serra-da-Cutiváia passa a ser
+transforma as grutas em moradas. Em **M13**, a Serra da Cutivaia passa a ser
 uma morada de Semente de Tabaco após sua entrada. Do mesmo modo, fugindo
-da Anta, a Cutiváia esconde-se na caverna dessa serra, transforma-se
-numa onça que passa a habitar e a dominar o morro (M12). A entrada dos
+da Anta, a Cutivaia esconde-se na caverna dessa serra, transforma-se
+numa onça que passa a habitar e a dominar o morro (**M12**). A entrada dos
 xamãs hup nas cavernas para beber água, vomitar, dormir e sonhar
-transforma os /ho̗n-hö̖d/ em moradas que abrigam os senhores hup nesses
+transforma os /ho̗n-hö̖d/   em moradas que abrigam os senhores hup nesses
 períodos de afastamento de suas aldeias. Se é na /Dëh-K’et-Yoh-Mo̖y/ que
 o Trovão e as Onças comem coca e guardam suas flautas Jurupari, as
 cavernas nos morros são igualmente “Casas-da-Cabeceira” para os Hupd’äh,
@@ -9457,16 +9477,18 @@ maior capacidade dos xamãs em cercar suas comunidades durante as
 cerimônias em que as flautas Jurupari são tocadas. No xamanismo desana,
 o poder de entrar é descrito por Reichel-Dolmatoff da seguinte maneira,
 
-> *O poder de “penetrar” possui várias interpretações. Por um lado,
-> possui um sentido visual, de ver o que está oculto para os demais. Por
-> outro lado, possui uma interpretação sexual, pois o pajé \[...\]
-> representa um conceito fálico de procriação. Outro aspecto do poder de
-> “penetrar” é a capacidade do êxtase e do voo mágico que permite ao
-> pajé sair da biosfera e “penetrar” outro plano existencial. Um pajé é,
-> no fundo, o especialista em realizar essa ruptura de nível, tanto num
-> sentido extático espacial, quanto no sentido de passar de uma unidade
-> conceitual de tempo à outra, já que o êxtase equivale à morte e é,
-> assim, um processo de aceleração do tempo* (1986, p. 156).
+<!-- estilo de citação -->
+ O poder de “penetrar” possui várias interpretações. Por um lado,
+ possui um sentido visual, de ver o que está oculto para os demais. Por
+ outro lado, possui uma interpretação sexual, pois o pajé \[...\]
+ representa um conceito fálico de procriação. Outro aspecto do poder de
+ “penetrar” é a capacidade do êxtase e do voo mágico que permite ao
+ pajé sair da biosfera e “penetrar” outro plano existencial. Um pajé é,
+ no fundo, o especialista em realizar essa ruptura de nível, tanto num
+ sentido extático espacial, quanto no sentido de passar de uma unidade
+ conceitual de tempo à outra, já que o êxtase equivale à morte e é,
+ assim, um processo de aceleração do tempo. (1986, p. 156)
+<!-- estilo de citação -->
 
 Dessa forma, entrar na caverna é penetrar a Morada-de-Semente de Tabaco.
 É também um movimento que configura a caverna como uma maloca, própria
@@ -9502,17 +9524,19 @@ proporcionada pelas palavras do mentor.
 Analisando o processo de ingestão de yagé e caxiri dos Barasana, C.
 Hugh-Jones ressalta que:
 
-> *O vômito, induzido pela ingestão de yagé e caxiri durante o canto,
-> também ocorre no lugar masculino no fundo da maloca. Beber yagé e
-> vomitar, ouvir discursos e respondê-los, inspirar e expirar são todos
-> processos de dois sentidos envolvendo entrada e saída pela boca (ou
-> orelhas). Esses processos são também associados às idas e vindas
-> através da porta dos homens e a processos rituais de regeneração
-> patrilinear* (C. Hugh-Jones, 1976, p. 199).
+<!-- estilo de citação -->
+ O vômito, induzido pela ingestão de yagé e caxiri durante o canto,
+ também ocorre no lugar masculino no fundo da maloca. Beber yagé e
+ vomitar, ouvir discursos e respondê-los, inspirar e expirar são todos
+ processos de dois sentidos envolvendo entrada e saída pela boca (ou
+ orelhas). Esses processos são também associados às idas e vindas
+ através da porta dos homens e a processos rituais de regeneração
+ patrilinear. (C. Hugh-Jones, 1976, p. 199)
+<!-- estilo de citação -->
 
 Nos /ho̗n-hö̖d/, a água entra pela boca e por ela saem as impurezas
 causadas pelo barulho do Trovão e pelos alimentos moqueados. Como no
-benzimento da coca (B1), que faz surgirem orifícios nos pés para a saída
+benzimento da coca (**B1**), que faz surgirem orifícios nos pés para a saída
 da gordura e pasta, a água doce transforma-se no estômago, absorve a
 sujeira e purifica o ouvido para que, na Casa-da-Audição, a
 semente-do-ouvido esteja limpa e possa crescer com as palavras ouvidas
@@ -9522,16 +9546,15 @@ digestão. A ingestão das águas que absorvem a sujeira e a doença é uma
 “super-digestão” capaz de fazer as impurezas não digeridas dos alimentos
 saírem pelo orifício bucal.
 
-Segundo a descrição de Reid (1979), o Trovão coabita a zona superior do
+Segundo a descrição de Reid, o Trovão coabita a zona superior do
 cosmos com /K’e̖g Te͂h/. É tido como o responsável pelo aparecimento das
 doenças e das formas de curá-las. De forma semelhante, o antropólogo
 menciona que para prevenir a entrada de doenças causadas pelos trovões,
-os Hupd’äh tapam os ouvidos (1976, p. 227). No esquema cosmográfico
-proposto por Reid (1979), abaixo desse nível superior haveria um
+os Hupd’äh tapam os ouvidos. No esquema cosmográfico
+proposto por Reid, abaixo desse nível superior haveria um
 cinturão rochoso, uma zona central, habitada por Onças[^93]. As Onças
 são capazes de gerar trovões e, assim, causar doenças. São controladas
-pelo Trovão, visto como um dono dos xamãs (Reid, 1979, p. 225; p.
-232-3). Como enfatizavam meus companheiros, quando o Trovão e as Onças
+pelo Trovão, visto como um dono dos xamãs. Como enfatizavam meus companheiros, quando o Trovão e as Onças
 deixam de reunir-se na Casa-da-Cabeceira para comer coca, formam-se as
 nuvens de chuva (água celeste)[^94]. A tempestade atrapalha as rodas de
 coca hup, suja o ouvido e causa doenças. Por outro lado, bebendo a água
@@ -9542,10 +9565,10 @@ se reúnam nas rodas e talvez faça também com que as Onças voltem a
 oferecer coca a seu dono.
 
 Vimos no capítulo anterior que o nome de uma das casas situadas às
-margens do Lago-de-Leite é justamente /Pe̗͂y-Mo̖y/, Casa-do-Trovão. Como na
+margens do Lago de Leite é justamente /Pe̗͂y-Mo̖y/, Casa-do-Trovão. Como na
 arquitetura celeste, fazem parte da paisagem da origem uma
 Casa-do-Trovão, uma Casa-do-Sol-Nascente e uma Casa-da-Cabeceira. Se,
-como Samuel contou, há um Lago-de-Leite na maloca quando as flautas
+como Samuel contou, há um Lago de Leite na maloca quando as flautas
 Jurupari são tocadas, há também uma porta para o nascer do sol e outra
 para o pôr do sol. As colunas que sustentam o telhado são como os morros
 que alicerçam o céu quando a maloca se torna um espaço masculino
@@ -9563,7 +9586,7 @@ peles tornando-as resistentes como paris ou cascas de turi. Após a
 segunda viagem à Serra Grande, é possível aos andarilhos beber a água do
 lago que age como um caarpi, gerando sonhos e fazendo com que a pessoa
 encontre ancestrais e aprenda mitos e encantamentos. Doce como a coca
-(B1), a água que escorria pelos /ho̗n-hö̖d/ era capaz de causar vômitos
+(**B1**), a água que escorria pelos /ho̗n-hö̖d/ era capaz de causar vômitos
 para limpar e purificar. De forma parecida, essa água das nascentes faz
 sonhar, como o caarpi e a água do lago da Serra Grande. Assim, os fios
 de água dos “lugares de vomitar” são fontes de água-pura que preparam o
@@ -9577,7 +9600,7 @@ as tempestades a partir de sua morada celeste. Nuvens e cabeceiras são,
 portanto, nascentes de águas celeste e terrestre. Bebendo a água das
 cabeceiras, os xamãs viajam oniricamente e encontram-se com seus
 ancestrais. Bebendo a água do Trovão (Serra Grande) represada como um
-Lago-de-Leite, os senhores hup aproximam-se da potência desse ser, algo
+Lago de Leite, os senhores hup aproximam-se da potência desse ser, algo
 perigoso, desafiador e importante para o desenvolvimento xamânico.
 Rumando para a cabeceira, a tartaruga dirige-se para a nascente
 terrestre das águas, age sobre a nascente celeste e, de certo modo,
@@ -9586,21 +9609,21 @@ reverte o impacto da ação maléfica do Trovão.
 As Casas-de-Pedra são pontos fixos para os movimentos de seus ocupantes
 e visitantes, ninhos e abrigos para onde os seres retornam regularmente.
 Essas Casas-de-Pedra são organismos vivos cujas histórias são
-desdobramentos de suas relações com humanos e seres diversos . Aceitando
+desdobramentos de suas relações com humanos e seres diversos. Aceitando
 caminhar aos morros, os viajantes iniciavam uma jornada ao desconhecido
 desses centros nodais, plenos de forças primordiais e aterradoras.
 Penetrando as cavernas, os andarilhos recriavam-nas como Casas-de-Pedra
 e recriavam-se a si mesmos como filhos de Semente de Tabaco. Os rastros
 do ritual xamânico praticado desde o tempo de Semente de Tabaco e as
-cavernas tornam-se *vistas*; o deslocamento entre uma vista e outra gera
-*transições* que, como ocorre com a passagem do xamã de casa em casa
-(B5), descrevem percursos de movimento, de percepção e de ação ao longo
-de *caminhos vividos*. Percorrendo tais caminhos e bebendo a água das
+cavernas tornam-se vistas; o deslocamento entre uma vista e outra gera
+transições que, como ocorre com a passagem do xamã de casa em casa
+(**B5**), descrevem percursos de movimento, de percepção e de ação ao longo
+de caminhos vividos. Percorrendo tais caminhos e bebendo a água das
 nascentes, os rapazes vão seguindo os passos de seus predecessores e
 posicionando-se na matriz dos movimentos que constituem a região das
 cabeceiras e estende-se até a Casa-do-Trovão.
 
-#### Na pele da onça 
+###Na pele da onça 
 
 No dia 12 de março de 2012, quando deixamos a morada de Semente de
 Tabaco de /Ni̗k-Hũ̗-Paç/, continuamos a explorar um pouco mais o morro,
@@ -9629,13 +9652,13 @@ Meu cheiro, de Branco, podia ser sentido à distância pelas onças e pela
 que nos acompanhar, seguir conosco /hã̗wägat/, viajando como
 pessoa-sopro, com seu /se͂he̖͂k hãwäg/, “sopro de paricá”.
 
-Em B5, é para o corpo da “onça pequena” /dɨ̗d/ que se dirige o benzedor.
+Em **B5**, é para o corpo da “onça pequena” /dɨ̗d/ que se dirige o benzedor.
 Ele penetra também o corpo do esquilo marrom. Assume as formas corporais
 de um peixe-cobra, o muçum (água), de uma ave pequena, o curió (ar), e
 dos calangos (terra). Os últimos vivem em terrenos secos, tendo
 permanente contato com o chão. A transmutação e penetração corporais são
 procedimentos fundamentais para a proteção, para o deslocamento e para o
-contato seguro doxamã com os seres malfazejos. Observando-nos de longe,
+contato seguro do xamã com os seres malfazejos. Observando-nos de longe,
 Armando protegia-nos. Fez-se visível para mostrar que não estávamos
 sozinhos e para assustar-nos. Consumindo o paricá em sua casa, ele
 vestiu sua “roupa de onça”, /ya’a̗m yu̖d/, e seguiu viajando pelos
@@ -9643,19 +9666,21 @@ caminhos para acompanhar-nos. Sua jornada dava-se a um só tempo
 /hã̗wägat/, “indo como pessoa sopro”, e /sa̗pa̗t/, “indo como pessoa-onça
 corporificada”. Sobre o xamanismo Desana, Reicheil-Dolmatoff afirma que:
 
-> A transformação em jaguar poder ter dois objetivos: ou o pajé se
-> converte em jaguar para proteger uma maloca ou a um caçador solitário
-> contra os perigos, caso no qual o jaguar se mantem invisível para os
-> seres humanos e é percebido apenas pelos seres sobrenaturais; ou se
-> converte visivelmente em jaguar \[...\] e ataca um inimigo (1986, p.
-> 163).
+<!-- estilo de citação -->
+ A transformação em jaguar poder ter dois objetivos: ou o pajé se
+ converte em jaguar para proteger uma maloca ou a um caçador solitário
+ contra os perigos, caso no qual o jaguar se mantem invisível para os
+ seres humanos e é percebido apenas pelos seres sobrenaturais; ou se
+ converte visivelmente em jaguar \[...\] e ataca um inimigo. (1986, p.
+ 163)
+<!-- estilo de citação -->
 
 De forma semelhante, a transformação do pajé hup em jaguar tem o
 objetivo de proteger o grupo de viajantes dos perigos. Conforme me
 explicou Samuel, as /yu̖d/, “roupas cósmicas”, são poderes fundamentais
 para a agência xamânica de benzedores e pajés. Permitem seu deslocamento
-entre os diversos *planos-casa* e sua segurança durante a interação com
-outros seres (Lolli, 2010). Gentes-Árvore, /B’atɨ̖b’/, Gentes-Cobra, /Dö̗h
+entre os diversos planos-casa e sua segurança durante a interação com
+outros seres. Gentes-Árvore, /B’atɨ̖b’/, Gentes-Cobra, /Dö̗h
 Ã̗y/, todos possuem roupas e são capazes de vesti-las para assumirem
 outras perspectivas, circular pelo cosmos e fazer mal aos Hupd’äh. Esse
 foi o caso do /b’atɨ̖b’/ que Ponciano matou com seu terçado quando
@@ -9668,20 +9693,22 @@ do lagarto é também saber identificar a habilidade de metamorfose dos
 outros seres a partir de suas roupas cósmicas. Analisando as roupas
 cósmicas wauja, Barcelos Neto salienta que:
 
-> *A “roupa” é um dispositivo de atributos instrumentais e anatômicos –
-> asas, no caso dos seres alados, garras e/ou presas, no caso dos
-> predadores, etc. – que enseja capacidades físico – locomotoras
-> específicas: voar, nadar, saltar, correr velozmente etc. Os humanos
-> são naturalmente os sem-“roupa”, com exceção dos feiticeiros, que
-> podem fazer uso de “roupas” especiais (chamadas /iyeyá/) para entrar
-> nas casas de outras pessoas ou viajar a grandes distâncias em
-> curtíssimo tempo. Uma “roupa” sempre envolve consequências práticas
-> imediatas, pois ela é uma forma funcional: dentes e garras afiadas,
-> nadadeiras, bicos alongados etc., coisas que servem para realizar
-> tarefas específicas, as quais os humanos fazem com o auxílio de uma
-> série de artefatos, muitos deles originalmente criados pelos
-> /yerupoho/ \[...\] e posteriormente transferidos para o mundo dos
-> humanos via doenças, xamanismo e ritual* (2008, p. 69).
+<!-- estilo de citação -->
+ A “roupa” é um dispositivo de atributos instrumentais e anatômicos –
+ asas, no caso dos seres alados, garras e/ou presas, no caso dos
+ predadores, etc. – que enseja capacidades físico – locomotoras
+ específicas: voar, nadar, saltar, correr velozmente etc. Os humanos
+ são naturalmente os sem-“roupa”, com exceção dos feiticeiros, que
+ podem fazer uso de “roupas” especiais (chamadas /iyeyá/) para entrar
+ nas casas de outras pessoas ou viajar a grandes distâncias em
+ curtíssimo tempo. Uma “roupa” sempre envolve consequências práticas
+ imediatas, pois ela é uma forma funcional: dentes e garras afiadas,
+ nadadeiras, bicos alongados etc., coisas que servem para realizar
+ tarefas específicas, as quais os humanos fazem com o auxílio de uma
+ série de artefatos, muitos deles originalmente criados pelos
+ /yerupoho/ \[...\] e posteriormente transferidos para o mundo dos
+ humanos via doenças, xamanismo e ritual (2008, p. 69).
+<!-- estilo de citação -->
 
 No caso da roupa de onça, o grau de poder varia de acordo com o tamanho
 e a capacidade destrutiva da fera. Os pajés possuem roupas de onças
@@ -9691,17 +9718,17 @@ de caçadores, essa parece ser a única variedade que não demonstra medo e
 ataca ainda que esteja em desvantagem. A roupa de onça-preta revela o
 poder de Armando e sua capacidade de proteger-nos durante a viagem. Como
 no xamanismo wauja, além dos dentes e garras afiadas, ao vestir-se com a
-roupa de onça, o xamã leva consigo o arco-e-flecha, a lança e a faca
+roupa de onça, o xamã leva consigo o arco e flecha, a lança e a faca
 felinas, armas que fazem dele um poderoso caçador-guerreiro. Segundo
-Reid (1979, p. 264), “No pensamento Hupdʉ, os jaguares também são
+<!-- Reid (1979, p. 264), “No pensamento Hupdʉ, os jaguares também são
 associados muito intimamente aos xamãs, que, embora sejam reconhecidos
 como humanos, ocupam a mais ambígua e marginal das posições na sociedade
-humana”.
+humana”. citação -->
 
-[]{#Fig39_RoupaOnca .anchor}Roupa de onça, armas e alimentos (Desenho:
-M’e̖h Sɨh/ Samuel Brasil Monteiro)
+<!-- Fig. 20 -->
+Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)
 
-Em B5, penetrando a onça pequena, Ponciano mostra-se igualmente como um
+Em **B5**, penetrando a onça pequena, Ponciano mostra-se igualmente como um
 poderoso /kä̖d hup ĩh/, já que poucos “xamãs-do-banco” são capazes de
 vestir roupas de onça. A onça /dɨ̗d/, jaguatirica, pode ser vista como
 sendo o menor felino a viver na planície amazônica[^95]. Envolto em seu
@@ -9713,7 +9740,7 @@ Viveiros de Castro (2002), os corpos das onças servem como modelos para
 que os humanos se vistam e para que os animais se dispam de suas vestes
 animais e revelem sua essência humana (Viveiros de Castro, 2002, p.389).
 
-A onça pintada (*pantera onca*) é considerada o maior felino da América
+A onça-pintada (*Panthera onca*) é considerada o maior felino da América
 do Sul, mas as que habitam as florestas tendem a ser menores que aquelas
 que habitam áreas abertas. Seu peso varia entre 35 e 130 kg, e seu
 tamanho entre 1,7 e 2,4 metros. O corpo musculoso e ágil permite ao
@@ -9722,7 +9749,7 @@ sua pelagem varia do amarelo-claro ao castanho-ocreáceo, sendo
 caracterizada por manchas (rosetas) pretas espalhadas por todo o corpo.
 As onças que possuem pelagem preta e manchas são denominadas
 onças-pretas. As características específicas da garganta do felino, que
-possui uma ossificação incompleta do osso hióid, permitem que ele emita
+possui uma ossificação incompleta do osso hióide, permitem que ele emita
 esturros, sons fortes e graves, fundamentais para a comunicação com
 outros indivíduos, principalmente no período reprodutivo. Sendo as onças
 animais solitários e territoriais, são principalmente os esturros e o
@@ -9733,8 +9760,7 @@ floresta atuam principalmente durante o dia. Apesar da grande capacidade
 de predação do felino, que chega a alimentar-se de 85 espécies na região
 amazônica, as onças buscam principalmente grandes mamíferos ‒ como
 queixadas, tamanduás, capivaras, antas ‒ e répteis ‒ como os jacarés e
-as tartarugas (Seymour, 1989; Jaguar Conservation Fund, 2013; Emmons,
-1990).
+as tartarugas.
 
 Para os viajantes, os sinais da presença de onça são percebidos pelo
 forte odor de sua urina, pelo som grave de seus esturros, pelas pegadas
@@ -9747,15 +9773,15 @@ lança-se contra a presa ferindo-a em sua nuca e costas. No que diz
 respeito à comensurabilidade, há a interdição de consumo das onças
 grandes. Entretanto, as onças pequenas, que se alimentam de herbívoros,
 podem ser comidas apenas após um longo processo de cozimento com pimenta
-para diminuir a acentuada concentração de raiva e calor de seus corpos
-(Reid, 1979, p. 253). As visitas aos morros tornam-se especificamente
+para diminuir a acentuada concentração de raiva e calor de seus corpos.
+As visitas aos morros tornam-se especificamente
 perigosas, pois as cavernas e rochas são muito procuradas pelas onças
 que fazem delas suas moradas. Uma breve recapitulação das menções a esse
 padrão habitacional das onças feitas em narrativas discutidas
 anteriormente pode ser interessante para entender melhor a importância
 das interações e da coabitação das onças para os Hupd’äh.
 
-Em M1, as onças são pescadas por um /b’atɨ̖b’/ que as percebe, de sua
+Em **M1**, as onças são pescadas por um /b’atɨ̖b’/ que as percebe, de sua
 perspectiva, como traíras. Chegando com seu cunhado hup a uma clareira
 próxima à Serra Grande, o pescador lança pacas, minhocas de seu ponto de
 vista, para atrair as onças. Elas aproximam-se segundo uma ordem de
@@ -9774,19 +9800,21 @@ também à capacidade de retirar a roupa felina dos xamãs, revelando suas
 essências humanas uma a uma, e evidenciando a fraqueza do homem hup.
 Como mostra Viveiros de Castro,
 
-> *O homem ritualmente vestido de animal é a contrapartida do animal
-> sobrenaturalmente nu: o primeiro, transformado em animal, revela para
-> si mesmo a distintividade “natural” do seu corpo; o segundo, despido
-> de sua forma exterior e se revelando como humano, mostra a semelhança
-> “sobrenatural” dos espíritos* (2002, p. 389).
+<!-- estilo de citação -->
+ O homem ritualmente vestido de animal é a contrapartida do animal
+ sobrenaturalmente nu: o primeiro, transformado em animal, revela para
+ si mesmo a distintividade “natural” do seu corpo; o segundo, despido
+ de sua forma exterior e se revelando como humano, mostra a semelhança
+ “sobrenatural” dos espíritos. (2002, p. 389)
+<!-- estilo de citação -->
 
 Novamente, voltando à viagem à Serra Grande, para que não corrêssemos o
 risco de ser surpreendidos pelas feras durante nosso sono, Mandu quebrou
 um cupinzeiro em quatro partes, tocou fogo e espalhou as tochas
-incandescentes pelos quatro xtremos de nosso acampamento de modo a
+incandescentes pelos quatro extremos de nosso acampamento de modo a
 envolver com a fumaça o grupo de viajantes deitados em suas redes.
 Incapazes de ver suas presas, ocultas pela fumaça, as onças choram. À
-luz de B2, o círculo de fumaça gerado pelas tochas pode ser visto como
+luz de **B2**, o círculo de fumaça gerado pelas tochas pode ser visto como
 semelhante à ação de cercar a pessoa ou a comunidade com a fumaça do
 cigarro. A invisibilidade protege os viajantes dessa fera, que tem na
 observação um importante recurso para o ataque certeiro. Por outro lado,
@@ -9802,15 +9830,15 @@ onírica. A convergência das moradas de onça, moradas de ancestrais e
 lugares de práticas xamânicas hup faz com que as cavernas sejam tomadas
 não só como espaços de interação com ancestrais, mas também como lugares
 perigosos pela iminência do encontro com as feras. Ao subirmos o morro
-da Cutiváia, Américo enfatizava que, após fugir da Anta, a Cutiváia
+da Cutivaia, Américo enfatizava que, após fugir da Anta, a Cutivaia
 entrou naquela serra, transformou-se em onça e fez das rochas o local
-para onde retorna todas as noites para dormir (M12). A forma de onça
+para onde retorna todas as noites para dormir (**M12**). A forma de onça
 garante à Anta o domínio do morro e da Casa-de-Pedra. Descrevendo alguns
-hábitos das onças, Emmons (1990, p. 153) ressalta que “Elas gostam de
+hábitos das onças, Emmons (1990, p. 153) ressalta que “<!-- Elas gostam de
 caminhar à noite nas trilhas abertas pelos humanos (assim como outros
-felinos). As onças frequentemente fazem uso de habitats úmidos ou à
+felinos). As onças frequentemente fazem uso de *habitats* úmidos ou à
 beira d’água, onde caçam capivaras, tartarugas, jacarés e peixes.
-Pegadas de grandes felinos nas praias dos rios costumam ser de onças”.
+Pegadas de grandes felinos nas praias dos rios costumam ser de onças”. citação -->
 
 Assim, ao vestirem suas roupas de onça e rumarem para as serras, os
 xamãs hup assemelham-se às onças não apenas para interagirem com os
@@ -9835,19 +9863,18 @@ corporalidade parece ser simultânea à incrível capacidade da onça de
 assenhorar-se dos caminhos, das Casas-de-Pedra, das Moradas Antigas, das
 roças e de devorar o corpo hup. À roupa de onça adere a onipresença do
 canibalismo como horizonte predicativo que faz do corpo o lugar de
-emergência da diferença (Viveiros de Castro, 2002, p. 388). Como mostram
+emergência da diferença. <!-- CITAÇÃO EM FRANCÊS, ELIMINAR! Como mostram
 Houseman e Severi a propósito da relação entre o xamã e o jaguar para o
-xamanismo ameríndio,
+xamanismo ameríndio, -->
 
-> *Plus récemment encore, on a aussi remarqué que l’objet principal de
-> l’action rituelle, dans le cas du chamanisme, n’est pas “l’exploration
-> cosmologique”, mais plutôt un processus bien particulier de
-> métamorphose impliqué par le motif du voyage, ainsi que l’execution
-> rituelle par le chaman d’une prédation symbolique de l’esprit mauvais.
-> Ainsi, chanter pour soigner une personne, c’est, dans de nombreuses
-> traditions amérindiennes, chaser le plus dangereux des chasseurs
-> d’êtres humains, souvent incarné, nous l’avons vu, par un animal
-> surnaturel (un Jaguar ou un Serpent)* (2009, p. 266).
+<!-- Plus récemment encore, on a aussi remarqué que l’objet principal de
+l’action rituelle, dans le cas du chamanisme, n’est pas “l’exploration
+cosmologique”, mais plutôt un processus bien particulier de
+métamorphose impliqué par le motif du voyage, ainsi que l’execution
+rituelle par le chaman d’une prédation symbolique de l’esprit mauvais.
+Ainsi, chanter pour soigner une personne, c’est, dans de nombreuses
+traditions amérindiennes, chaser le plus dangereux des chasseurs
+d’êtres humains, souvent incarné, nous l’avons vu, par un animal surnaturel (un Jaguar ou un Serpent)* (2009, p. 266). -->
 
 Animal de hábito solitário, que delimita seu território, é
 potencialmente perigoso e interage com a fêmea apenas para acasalar, a
@@ -9859,18 +9886,17 @@ dos ancestrais hup afastar as feras apontam tanto para a disputa desse
 espaço quanto pelo convívio e interações constantes. O xamã transforma
 sua identidade e incorpora aspectos subjetivos do inimigo felino,
 realizando, assim, uma predação que torna possível a viagem com o corpo
-predador e as práticas rituais nos /ho̗n-hö̖d/ (Viveiros de Castro, 2002;
-Houseman; Severi, 2009).
+predador e as práticas rituais nos /ho̗n-hö̖d/  .
 
 Num mesmo sentido, o rastro do guerrilheiro que vimos em /Ni̗k-Hũ̗-Paç/
-permite perceber que esses Brancos (guerrilheiros), que possuem armas de
+permite perceber que esses brancos (guerrilheiros), que possuem armas de
 fogo e habitam as cavernas sozinhos, assemelham-se às onças. Na
 Casa-do-Trovão, as Onças possuem suas espingardas, assim como os
 guerrilheiros. Muitas vezes, os estrondos dos trovões são causados pelo
 disparo de suas armas. Viajando periodicamente a São Gabriel, as Onças
 compram cachaça e voltam às cabeceiras e à Casa-do-Trovão bêbadas,
 agressivas e disparando suas espingardas. A analogia aproxima
-diretamente a violência potencial dos Brancos,
+diretamente a violência potencial dos brancos,
 “gentes-do-barulho-da-arma-de-fogo”, ao felino, que adquire também o
 hábito etílico e o comportamento agressivo devido à embriaguez da
 “bebida de branco”. Constituindo suas moradas nas grandes aldeias dos
@@ -9878,7 +9904,7 @@ hábito etílico e o comportamento agressivo devido à embriaguez da
 moradas antigas, destinando-se cada vez mais às incursões periódicas a
 São Gabriel, um mundo hup, pleno de vida nas lembranças de Ponciano e
 José, começa a ser dominado pelas onças que são, em muitos aspectos,
-como os Brancos.
+como os brancos.
 
 No que diz respeito especificamente aos caminhos, a comparação das onças
 com as tartarugas é especialmente significativa. Cunhadas do Trovão, as
@@ -9920,15 +9946,15 @@ corpo da onça-preta. Consumindo o parica em sua morada, o xamã passava
 por uma transformação ritual que estabelecia sua identidade felina a
 partir da condensação de conotações contraditórias que o metamorfoseavam
 de presa em predador, capaz de proteger envolvendo os andarilhos pelos
-limites englobantes de seu território (Houseman; Severi, 2009, p. 267).
+limites englobantes de seu território.
 Constituindo-se como territórios de domínio das onças que ameaçam os
 viajantes, a região dos morros era também cercada e protegida por esses
-felinos dos Hupd’äh e dos Brancos. Como os pajés-vestidos, as terríveis
+felinos dos Hupd’äh e dos brancos. Como os pajés-vestidos, as terríveis
 predadoras capazes de embebedar-se com cachaça, atirar com espingardas e
 devorar pessoas mantinham as moradas ancestrais cercadas e inacessíveis,
 envolvendo o mundo hup como o xamã-onça envolvia os caminhantes.
 
-#### O vestido de /Dö̗h Ã̗y/
+###O vestido de /Dö̗h Ã̗y/
 
 Quando chegamos aos arredores da /Hu͂ya̗w-Paç/, preparamos o acampamento à
 beira do /Ta̗t-Dëh/ e fomos pescar. Estávamos cansados da caminhada e
@@ -9966,7 +9992,7 @@ Aproximávamo-nos vagarosamente da morada de /Dö̗h Ã̗y/. Todos nós
 estávamos muito atentos aos ruídos. Não queríamos ser surpreendidos.
 Fomos até a metade do morro, e lá nos detivemos. Ponciano alertou que o
 topo do morro fora um dos lugares onde o vômito de /K’e̖g Tẽh/ se
-derramou (M3). Sua má digestão da carne crua dos tucanos fez brotar uma
+derramou (**M3**). Sua má digestão da carne crua dos tucanos fez brotar uma
 grande quantidade de plantas de “curare”, /n’am tɨt/. Entretanto,
 diferente do veneno recolhido no alto da /Paç Te͂h/, “Serra Pequena” ‒
 esse tinha um potencial mortífero muito maior. A simples inalação de seu
@@ -9986,7 +10012,7 @@ A relação entre /Dö̗h Ã̗y/ e a caça é agora evidenciada pelas narrativas
 pela cosmografia que situam sempre os Hupd’äh na posição de caçadores ou
 pescadores que podem virar presas dessa terrível sedutora. A devoradora
 de gente é tida como uma *dona dos animais* que investe contra os
-caçadores com sua lança, arco-e-flecha, faca ou mordida fatal para
+caçadores com sua lança, arco e flecha, faca ou mordida fatal para
 “assegurar a vida de seus protegidos”. É igualmente uma *dona do
 veneno*, do tipo de curare mais poderoso que perfuma sua morada. Em
 muitas conversas que tive com meus companheiros sobre os encontros com
@@ -10022,7 +10048,7 @@ Em M4, /Dö̗h Ã̗y/ surge como uma mulher hup. Ela é assassinada pelo marido
 devido à dor que sua vagina exacerbada causava no pênis pequeno do
 homem. A vítima renasce e vinga-se do cônjuge. Veste sua roupa de /Dö̗h
 Ã̗y/ e devora-o vivo. Sacia assim seu apetite gustativo, mas, para saciar
-seu apetite sexual, ela casa-se com o Macaco da Noite, animal que possui
+seu apetite sexual, ela casa-se com o Macaco-da-Noite, animal que possui
 um pênis avantajado[^97]. Como a roupa de onça-preta do xamã, a mulher
 hup veste uma roupa cósmica denominada /Dö̗h Ã̗y/, com a qual devora seu
 companheiro. Nesse sentido, a roupa não apenas transforma sua
@@ -10034,14 +10060,14 @@ predadora que garante a ela matar e comer seu marido.
 Ao contrário da roupa de onça-preta, a roupa de /Dö̗h Ã̗y/ é um vestido
 longo cheio de babados, costurada a partir de um tecido acinzentado. O
 desenho feito por Samuel, retrata a vestimenta com a aparência de uma
-antiga roupa feminina dos Brancos. Assim, o apetite atroz e assassino da
-esposa vingativa realiza-se pelo uso de uma roupa dos antigos Brancos,
+antiga roupa feminina dos brancos. Assim, o apetite atroz e assassino da
+esposa vingativa realiza-se pelo uso de uma roupa dos antigos brancos,
 algo que converte percepções sobre a violência, a etiqueta e a
 sexualidade em poderes acessados com o uso do vestido /Dö̗h Ã̗y/. Ao mesmo
 tempo, a roupa é uma /wayrö̖’-tëg/, um veículo que permite à mulher-fera
 voar de morro em morro e perseguir seus inimigos com grande agilidade.
 /Wayrö̖’-Tëg/ é também a palavra em língua hup para avião, o admirável
-veículo de voo considerado como um grande poder dos Brancos.
+veículo de voo considerado como um grande poder dos brancos.
 
 []{#Fig40_RoupaDoh .anchor}Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho:
 M’e̖h Sɨh/Samuel Brasil Monteiro)
@@ -10052,10 +10078,10 @@ Branco que dota essa vingadora de atributos comuns à onça e aos
 caçadores hup. Os humanos se vestem com roupas de animais para assumir
 seus atributos e perspectivas. Os animais despem-se de seus trajes para
 revelar suas essências humanas. O traje feminino sedutor pode ser visto
-como uma alta costura capaz de tramar a violência e terror dos Brancos
+como uma alta costura capaz de tramar a violência e terror dos brancos
 com as linhas de sua corporalidade revestida pelas roupas de pano e pela
 predação animalesca. Reid (1979) ressalta que os Hupd’äh percebem os
-Brancos como seres dotados de “forte raiva” como os espíritos da
+brancos como seres dotados de “forte raiva” como os espíritos da
 floresta e como os Tukano. Em suas palavras,
 
 > Todos eles organizam seus assentamentos a partir de padrões elaborados
@@ -10075,21 +10101,21 @@ floresta e como os Tukano. Em suas palavras,
 > \[…\] *(Reid, 1979, p. 212-3).*
 
 A tecnologia, os hábitos sexuais e alimentares combinam-se à raiva e
-dotam os Brancos de poderes xamânicos e de semelhança com /b’atɨ̖b’/,
+dotam os brancos de poderes xamânicos e de semelhança com /b’atɨ̖b’/,
 seres selvagens, e como os Tukano. Esses atributos parecem condensar-se
 no tecido dessa roupa poderosa que faz uma mulher hup, mobilizando
-poderes dos Brancos, metamorfosear-se num “espírito da floresta”, uma
+poderes dos brancos, metamorfosear-se num “espírito da floresta”, uma
 predadora voraz em busca de vingança. A roupa, uma arma sedutora,
 potencializa sua raiva, sua sexualidade e seu regime alimentar
 antropofágico. De modo interessante, essa roupa cósmica converte
-características dos Brancos em marcas de uma animalidade poderosa. De
+características dos brancos em marcas de uma animalidade poderosa. De
 forma semelhante, as Onças, que retornam de São Gabriel bebendo cachaça
 e disparando suas espingardas/trovões, nutrem-se da tecnologia, da raiva
-e da bebida dos Brancos para expressar sua força, violência e seu
+e da bebida dos brancos para expressar sua força, violência e seu
 domínio.
 
 O xamã vestido de onça e a mulher hup em trajes de /Dö̗h Ã̗y/ utilizam o
-arco-e-flecha, a lança e a faca, todas elas armas dos antigos caçadores
+arco e flecha, a lança e a faca, todas elas armas dos antigos caçadores
 e guerreiros hup. Veículos que garantem velocidade e agilidade, essas
 roupas cósmicas são também envoltórios de guerra que permitem combater
 os inimigos e proteger os animais, de um lado, e os viajantes hup, de
@@ -10181,7 +10207,7 @@ uma territorialidade que cerca e assegura as viagens e a reprodução. De
 modo diferente, a caçadora vestida, uma antropófaga com sede de
 vingança, parece cercar os animais para atrair os homens e devorá-los.
 Como o /b’atɨ̖b’/, que atrai as onças/traíra com pacas/minhocas, essa
-caçadora seduz com seu vestido e suas criaturas. Já os Brancos seduzem
+caçadora seduz com seu vestido e suas criaturas. Já os brancos seduzem
 com suas roupas e mercadorias para as regiões ribeirinhas e para São
 Gabriel.
 
@@ -10189,7 +10215,7 @@ De forma parecida, as onças delineiam os contornos de seu território de
 vida e de caça. Num caso, a ameaça se faz por uma disputa por presas
 entre predadores humanos e felinos numa dada região. No outro, o embate
 coloca-se pelo fato de /Dö̗h Ã̗y/ ter se tornado uma dona dos animais,
-algo que ocorre após seu casamento com um animal, o Macaco da Noite,
+algo que ocorre após seu casamento com um animal, o Macaco-da-Noite,
 que, ao contrário de seu marido hup, sacia-a sexualmente. Vestido com a
 roupa de onça-preta, Armando acompanhava-nos e nos cercava, como um
 benzedor ao criar um círculo de fumaça, movendo-se como uma onça que nos
@@ -10305,7 +10331,7 @@ permanentes, seriam populações de cultura rudimentar que habitam os
 centros da mata (1950, p. 169). O *afastamento para as cabeceiras*
 ocasionado pela ocupação territorial tukana é afirmado por Bruzzi Alves
 da Silva (1962), e figura, na visão de Métraux (1963), como um
-deslocamento populacional face ao contato com os não-indígenas, que
+deslocamento populacional face ao contato com os não indígenas, que
 teria resultado numa cultura decadente de grupos Maku-Nômades,
 descendentes de antigos Maku ribeirinhos e agricultores. Por fim, Reid
 (1979) toma como referência as narrativas hup para dizer que os Hupd’äh
@@ -10333,17 +10359,17 @@ que passaram por aquelas searas e, por vezes, ainda retornam a suas
 habitações ctônicas. Tomando as cabeceiras, e não os grandes rios, como
 pontos de partida para observar os movimentos dos grupos populacionais
 hup, deixam-se de ter grupos hup “pressionados” ou “refugiados” face ao
-inexorável avanço dos Tukano e Aruaque, ou dos Brancos. Há, sim, grupos
+inexorável avanço dos Tukano e Aruaque, ou dos brancos. Há, sim, grupos
 hup que se aproximam desses *centros/meios progenerativos* para, a
 partir deles, lançar seus paris e interagir com esses Outros que são
-Onças, Trovão, jararacas, Tukano, Brancos, /Dö̗h Ã̗y/, vestidos e armados
+Onças, Trovão, jararacas, Tukano, brancos, /Dö̗h Ã̗y/, vestidos e armados
 para trocas e combates, para a reciprocidade e para a predação.
 
 É no percurso *entre* as rodas de coca, os caminhos e as Casas-de-Pedra,
 movendo-se como pessoa-corporificada, como pessoa-sopro ou como
 pessoa-onça vestida, que múltiplas condensações rituais ocorrem a partir
 do modo como os viajantes se posicionam num *campo de rastros* deixados
-pelos ancestrais, presas, feras, Brancos, etc. Tomando as palavras de
+pelos ancestrais, presas, feras, brancos, etc. Tomando as palavras de
 Deleuze e Guattari,
 
 > *De um lado, as multiplicidades extensivas, divisíveis e molares;
@@ -10377,12 +10403,12 @@ caminham por paisagens selvagens, ctônicas, lácteas, celestes que os
 levam ao encontro de ancestrais, feras, vingadores antropófagos,
 tartarugas e profetas. As Casas-de-Pedra são assim *centros/meios de
 progeneração da vida*, que posicionam os benzedores dentro de uma
-Casa-do-Trovão às margens do Lago-de-Leite. De lá, os viajantes aprendem
+Casa-do-Trovão às margens do Lago de Leite. De lá, os viajantes aprendem
 a lançar seus paris e a transformar todos os caminhos em Rios-de-Leite
 para a navegação numa Cobra-Canoa que os leva aos morros e à cidade de
 São Gabriel.
 
-Lagos-de-Leite 
+Lagos de Leite 
 ---------------
 
 *Que nada, *
@@ -10599,18 +10625,18 @@ estar com que os menores ouvem sobre esse dono dos animais.
 > apareceram as flautas.
 >
 > Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para cada grupo no
-> Lago-de-Leite. Do corpo queimado dele surgiram as flautas, muitas.
+> Lago de Leite. Do corpo queimado dele surgiram as flautas, muitas.
 > Outros grupos podem contar mais, saber mais, mas a gente conta assim.
 > /K’e̖g Te͂h/ encontrou o /Bisi̗w/ queimado e levou as flautas para o
-> Lago-de-Leite para dar à humanidade. As flautas eram os ossos de
-> /Bisi̗w/. Do Lago-de-Leite a humanidade veio embaixo d’água na
+> Lago de Leite para dar à humanidade. As flautas eram os ossos de
+> /Bisi̗w/. Do Lago de Leite a humanidade veio embaixo d’água na
 > /M’e̖h-Hoh-Të̖g/, a “Cobra-Canoa”, até “Ipanoré”, /Hib’a̗h-Höd/. Então,
-> desceram de novo até o Lago-de-Leite e subiram de novo, invisíveis.
+> desceram de novo até o Lago de Leite e subiram de novo, invisíveis.
 > Foi aí que /K’e̖g Te͂h/ entregou para cada grupo as flautas. Aí, a
 > humanidade teve cada um a sua flauta. Já subiram com a flauta na
 > canoa. Essa transformação da canoa foi em Ipanoré. Subiram todos os
 > rios: Uaupés, Papuri, Tiquié. Subiram de canoa e vieram todos se
-> encontrar nessa “Serra-da-Menstruação/Iniciação/Pedaço”,
+> encontrar nessa “Serra da Menstruação/Iniciação/Pedaço”,
 > /Te͂h-S’ɨ̗g-Mo̖y-Paç/. Saíram de canoa em Ipanoré e, andando,
 > atravessaram em São Tomé, perto de Boca da Estrada. Lá tem a pedra
 > onde eles atravessaram. Foram se encontrar nessa Serra da Iniciação e
@@ -10648,9 +10674,9 @@ estar com que os menores ouvem sobre esse dono dos animais.
 > 04/07/2011).
 
 Essas duas passagens da história dos gêmeos /Wed B’ö̖’/ e /Bisi̗w/ foram
-contadas por Jovino (M15) e seu pai, Ponciano (M16). Na noite de 4 de
+contadas por Jovino (**M15**) e seu pai, Ponciano (**M16**). Na noite de 4 de
 julho de 2011, sentado ao lado do pai enquanto comíamos coca, Jovino
-traduzia a narrativa (M16) que era gravada por mim. Em alguns momentos,
+traduzia a narrativa (**M16**) que era gravada por mim. Em alguns momentos,
 o narrador mencionava meu nome, ou deixava frases no ar para que eu
 repetisse como perguntas, *enunciados fáticos* que certificavam o
 narrador da atenção do ouvinte (Buchillet, 1983, p. 117). Em muitos
@@ -10667,7 +10693,7 @@ a gravação. A emissão fez todos rirem da voz de Ponciano imersa nos sons
 do pilão e das panelas do preparo da coca.
 
 Um mês depois, numa roda de coca, Jovino sentou-se ao meu lado e
-continuou a contar a história dos gêmeos (M15). Conversamos longamente
+continuou a contar a história dos gêmeos (**M15**). Conversamos longamente
 sobre a história de /Bisi̗w/ e das “flautas Jurupari”, /döhö̗ d’äh/.
 Quando era criança, por volta dosez anos de idade, ele e Marino
 fugiram de suas mães, escondidas na mata, enquanto os homens tocavam as
@@ -10677,7 +10703,7 @@ zeloso quanto às interdições rituais, repreendeu-os e obrigou-os a
 participar de todo o cerimonial. Essa foi a primeira vez que Jovino viu
 as flautas.
 
-Em M15, /Bisi̗w/ pune as crianças transformando-se em um toco de pau.
+Em **M15**, /Bisi̗w/ pune as crianças transformando-se em um toco de pau.
 Cria uma tempestade no céu para que elas busquem abrigar-se em seu
 corpo. O ser, que tem forma de gente, zoa à medida que se movimenta. O
 som de seu corpo será depois o som das flautas Jurupari, macho e fêmea.
@@ -10724,9 +10750,9 @@ xamânica que permitem que a interação com esse dono dos animais resulte
 na abertura do morro para que as presas saiam para a mata. A
 desobstrução da passagem parece em tudo análoga à criação, pela palavra
 paterna, de orifícios no corpo da gestante para o nascimento dos gêmeos
-(M16). Enquanto M15 pode ser visto como uma narrativa sobre o
+(**M16**). Enquanto **M15**pode ser visto como uma narrativa sobre o
 canibalismo anal ao qual os humanos estão sujeitos caso desrespeitem o
-ancestral, M16 revela a possibilidade de abertura e nascimento através
+ancestral, **M16** revela a possibilidade de abertura e nascimento através
 do uso correto da palavra. Caso não haja o pedido formal de permissão a
 esse dono, além de diminuírem os animais, os caçadores hup tornam-se
 presas fáceis desse ancestral, que rouba e devora o /hã̗wäg/.
@@ -10805,7 +10831,7 @@ Ao meu lado, Samuel comentou que as condições adversas do nascimento
 tinham tornado frágil a proteção criada pelo avô através do “benzimento
 do filho”, já que a menina chorava sem parar e estava ficando muito
 doente. Samuel levantou-se e mostrou auligem impregnada nas palhas do
-telhado da cozinha: “Na viagem pelo Rio-de-Leite, o /bi’i̖d hup i͂h/,
+telhado da cozinha: “Na viagem pelo Rio de Leite, o /bi’i̖d hup i͂h/,
 ‘xamã-soprador’, acompanha a criança. Vai mostrando todas as /Dëh-Mo̖y/,
 “Casas-do-Rio”. Caso não a proteja da fuligem oleosa do telhado dessas
 casas, a criança pode ficar muito doente, faz muito mal para ela”. A
@@ -10828,7 +10854,7 @@ pela bebê, creio que seja importante adotar o ponto de vista de McCallum
 > desenvolvimento de outra pessoa, especialmente o próprio cônjuge ou
 > filhos* (1998, p. 221).
 
-A jornada pelo Rio-de-Leite para trazer o sopro vital da mãe e do bebê
+A jornada pelo Rio de Leite para trazer o sopro vital da mãe e do bebê
 ocorre quando o xamã realiza o “benzimento do filho” e desloca-se
 /hã̗wägät/, “como *pessoa-sopro*”, pelo cosmos até a paisagem da criação
 para /te͂h yoho̗y/, “procurar o filho”. A mesma expressão é utilizada para
@@ -10971,8 +10997,8 @@ sua casa e voltar-se (com a cabeça) para cima. Cerco. \[...\]
 >
 > 7º mov. No dia em que a mulher fica parada, faço-a sentar (e sopro) a
 > mãe e a criança com a folha /bu̗y k’e̖t/. \[...\] Vou até a beira do
-> Lago-de-Leite, tiro a folha /bu̗y k’e̖t/ e trago-a para cá. Lá, à beira
-> do Lago-de-Leite, faço a mulher sair, sentar-se e banho seu corpo com
+> Lago de Leite, tiro a folha /bu̗y k’e̖t/ e trago-a para cá. Lá, à beira
+> do Lago de Leite, faço a mulher sair, sentar-se e banho seu corpo com
 > a folha /bu̗y k’e̖t/.
 >
 > Vou juntando o /hã̗wäg/ da mulher. Menciono as plumas e o
@@ -11003,10 +11029,10 @@ as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
 banco-de-plumas do pato /pup/ d’água, no nco-de-plumas do pato d’água.
 Então, (o hã̗wäg) vem.
 
-> Trago a folha /bu̗y k’e̖t/ da beira do Lago-de-Leite, a folha pequena e
+> Trago a folha /bu̗y k’e̖t/ da beira do Lago de Leite, a folha pequena e
 > a folha grande, para defumar a mulher e (banhar) seu corpo com água.
 > Tiro o /hã̗wäg/ da mulher (e da criança), faço-os sair e sentar.
-> Desloco-me para o outro lado do Lago-de-Leite, para o final. Lá eu
+> Desloco-me para o outro lado do Lago de Leite, para o final. Lá eu
 > tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo da mãe.
 >
 > Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu /hã̗wäg/
@@ -11065,7 +11091,7 @@ cuias (de caarpi) e suas facas. Cerco todas as (suas armas).
 
 > Para quando (a mulher) voltar (da roça) e entrar em casa, eu falo para
 > a água-pura dela (leite), essa água que ela tem. Faço-a sentar-se em
-> seu banco-de-leite, deitar-se em sua rede-de-leite.
+> seu banco de leite, deitar-se em sua rede-de-leite.
 >
 > (Para que possamos) chegar até aqui, para sair, (sopro com) a /bu̗y
 > k’ë̗t/, eu vou retornando e parando. Com a /bu̗y k’ë̗t/ eu falo para
@@ -11095,7 +11121,7 @@ cabeçudos pequenos, das canoas do pato d’água e do inambu d’água.
 PISAR Então, (faço) a mulher subir, ficar em pé. Para nós já está bom.
 Nós fizemos tudo e ela já pode sair.
 
-O encantamento revela-se uma longa jornada ao Lago-de-Leite. Ele envolve
+O encantamento revela-se uma longa jornada ao Lago de Leite. Ele envolve
 a interação com diversos seres, a passagem por muitas casas ancestrais e
 a manipulação de elementos como folhas, fumaças, bancos e armas.
 Pensando com Merleau-Ponty (2011, p.149), a pessoa hup constitui-se em
@@ -11218,14 +11244,14 @@ criança para aliviar a dor. Pela manhã, os pais pedem para seus filhos
 maiores apanharem espinhos de patauá no mato. Começam, então, a extração
 de bichos do pé do bebê que chora no colo paterno com as espetadas. Tão
 logo a criança nasça, a fumaça do breu e/ou do tabaco ajudarão a
-protegê-la, cercando as cuias de caarpi do bicho do pé, das abelhas, das
+protegê-la, cercando as cuias de caarpi do bicho-de-pé, das abelhas, das
 minhocas, das cobras-de-duas-cabeças, dos calangos. Aceitando beber o
 caarpi oferecido por esses seres em sonho, a criança sofrerá de /o̗t
 mi̗͂gi̗͂/, “choro enlouquecedor” (B6). Assim, por meio desses cuidados
 externos, os familiares protegem a criança para que dê seus primeiros
 passos, ao mesmo tempo que começa a deslocar-se oniricamente.
 
-Às margens do Lago-de-Leite, o xamã colhe as folhas /bu̗y k’e̖t/ e faz o
+Às margens do Lago de Leite, o xamã colhe as folhas /bu̗y k’e̖t/ e faz o
 sopro vital da mãe e da criança sentarem-se em bancos-de-plumas de
 diversas aves. O mentor leva-os para a “Casa-do-Nascimento”,
 /Dëh-Säk-Mo̖y/, onde reúne os fragmentos dos seus /hã̗wäg/ que, antes,
@@ -11246,7 +11272,7 @@ colocar os componentes das pessoas fazem que essa pessoa distribuída
 volte a se concentrar no corpo da pessoa”.
 
 O xamã começa, então, a conduzi-los de volta à aldeia e aos seus corpos
-viajando pelo /Pud-Dëh/, o “Rio-de-Leite”. Ao longo do percurso, uma
+viajando pelo /Pud-Dëh/, o “Rio de Leite”. Ao longo do percurso, uma
 navegação, os viajantes param diante das casas primordiais, as
 “Casas-do-Rio”, /Dëh-Mo̖y/, moradas das Gentes-Cobra. entor entra com
 seus protegidos e mostra os interiores, os objetos mobiliários e os
@@ -11291,12 +11317,12 @@ diminui os riscos.
 
 O benzimento do filho é composto de muitos encantamentos como o /hã̗wäg
 bi’i̖d/, “benzimento do sopro vital”, o /n’a̖n bi’i̖d/, “benzimento do
-bicho do pé”, o /bu̗y k’e̖t bi’i̖d/, o “benzimento da folha /bu̗y k’e̖t/”,
+bicho-de-pé”, o /bu̗y k’e̖t bi’i̖d/, o “benzimento da folha /bu̗y k’e̖t/”,
 dentre outros que podem ser somados pelo xamã para garantir a proteção e
 concentração da pessoa distribuída[^103] (Gell, 1998). Nessa tradução
 apresentada acima, muitos desses encantamentos correspondem aos
 movimentos, sequências de ações e interações realizadas pelo xamã em
-dadas regiões do cosmos (planos casa). Como em relatos de viagem, é
+dadas regiões do cosmos (planos-casa). Como em relatos de viagem, é
 comum que nas exegeses de benzimentos em cada um dos “movimentos” haja
 explicações e comentários que instruem o ouvinte aprendiz sobre as ações
 que precisam ser executadas em um deslocamento.
@@ -11304,7 +11330,7 @@ que precisam ser executadas em um deslocamento.
 O aprendizado e a habilidade de um benzedor para a realização desse
 encantamento variam enormemente. Resultam dos aprendizados com o pai, da
 participação nas rodas, das viagens oníricas, da quantidade de jornadas
-ao Lago-de-Leite já realizadas e dos conhecintos de caça e pesca. Os
+ao Lago de Leite já realizadas e dos conhecintos de caça e pesca. Os
 detalhes dos trajetos, das moradas e dos elementos presentes nos vários
 ambientes, bem como a destreza para a manipulação das fumaças, líquidos
 e matérias vitais aprimoram-se com o tempo e com a quantidade de filhos
@@ -11320,10 +11346,10 @@ Marijane fora a exposição que sofreu à fuligem oleosa do telhado de uma
 depende da conversa dos afins nas rodas de coca, da nova execução do
 encantamento e da observância às restrições alimentares e de
 comportamento pelos pais. Pensando e conversando, como fizeram os
-ancestrais quando receberam a coca e o tabaco (M13), os senhores hup
+ancestrais quando receberam a coca e o tabaco (**M13**), os senhores hup
 buscam a origem, a causa do mal para ajudar o avô ou a pessoa
 responsável pela ação xamânica a refazer o benzimento. Retornando ao
-Lago-de-Leite, é preciso juntar novamente o sopro vital do recém-nascido
+Lago de Leite, é preciso juntar novamente o sopro vital do recém-nascido
 e protegê-lo bem com paris e fumaças, atenuar as cores e brilhos,
 transformar todas as águas em sumos de água-pura para restituir o
 /hã̗wäg/ ao peito e acalmar o choro. Interrompe-se a identificação com a
@@ -11333,7 +11359,7 @@ que vão permitindo a melhora do doente, e no caso, o nascimento da
 pessoa (2010, p. 72).
 
 A fumaça do caroço de ucuqui queimado pelos rapazes faz /Bisi̗w/ sofrer
-com uma /pë̗’/, “doença”, um desmaio (M15). Esse devorador de /hã̗wäg/ de
+com uma /pë̗’/, “doença”, um desmaio (**M15**). Esse devorador de /hã̗wäg/ de
 crianças faz a humanidade adoecer para sofrer como ele, causando doenças
 e males. O “choro enlouquecedor” pode ser visto como uma primeira
 doença, um malefício que acomete a criança em seus momentos iniciais de
@@ -11357,7 +11383,7 @@ incomodam facilmente com o cheiro de sangue dos corpos da mãe e do bebê.
 Além disso, a fuligem é considerada um resíduo oleoso. Como visto em B1,
 orifícios corporais devem ser abertos para que a pasta/óleo da coca seja
 expelido, deixando o corpo pela sola dos pés. Essa pasta/óleo é o cerume
-da vagina de uma Mulher Peixe filha de um Velho Cobra (M9).
+da vagina de uma Mulher Peixe filha de um Velho Cobra (**M9**).
 
 “Para as cobras, o sangue da mãe e do bebê cheira a timbó”, contou-me
 Samuel certa vez. Muito utilizado para tinguejar os igarapés, o veneno
@@ -11393,7 +11419,7 @@ enquanto as Cobras ofendem-se com o odor de sangue/timbó do corpo
 infantil e materno, o que as conduz ao ataque e à predação. O “choro
 enlouquecedor” é uma doença causada pelo /hã̗wäg s’ë̗kë̗y/, o “roubo do
 sopro vital”, que faz o recém-nascido sofrer como os rapazes que se
-recusaram a fazer o Dabucuri (M15), como os caçadores que matam presas
+recusaram a fazer o Dabucuri (**M15**), como os caçadores que matam presas
 sem a autorização do dono.
 
 Partindo da reflexão de Buchillet (1983), é possível dizer que, como
@@ -11423,7 +11449,7 @@ Se o banho com fumaça e sumos /s’i̗d/, “lava”, o /hã̗wäg/, o barulho
 (gemido), o odor (fuligem) e o forte colorido (pinturas) causam doenças
 poluindo ou perturbando a pessoa a partir de seus sentidos. Visão,
 olfato e paladar são sentidos que parecem ser potencializados no
-nascimento, uma viagem pelo Rio-de-Leite ao longo da qual, a qualquer
+nascimento, uma viagem pelo Rio de Leite ao longo da qual, a qualquer
 momento, o sopro vital da mãe e do bebê pode ser abduzido e
 desconstruído pela ação dos muitos seres malfazejos incomodados pelo
 odor ofensivo exalado por seus corpos. Ao deslocar-se, o neófito começa
@@ -11474,7 +11500,7 @@ Cobra”, os encontros noturnos são também momentos de amamentação
 coletiva, não de bebês, mas de senhores que preparam e degustam o pó
 verde. A piada ficava mais engraçada quando Tereza pegava o pote de coca
 dos donos e dizia brincando: “lata de leite ninho!” Benzendo e
-conversando diante do Lago-de-Leite, sentados em seus bancos de leite,
+conversando diante do Lago de Leite, sentados em seus bancos de leite,
 os velhos riam, concordando com a professora, afinal, estavam mamando.
 
 Na hora do parto, o feto encontra-se sentado em seu banco de leite,
@@ -11528,7 +11554,7 @@ narrativas leva os velhos a contar com base em sua experiência de vida.
 Assim, as viagens de Ponciano à Casa-dos-Animais fazem-no contar a
 história de /Bisi̗w/ a partir de sua participação em eventos rituais e de
 suas visitas oníricas. No mesmo sentido, as muitas viagens xamânicas
-realizadas pelo benzedor ao Lago-de-Leite tornam-no capaz de sintetizar
+realizadas pelo benzedor ao Lago de Leite tornam-no capaz de sintetizar
 as ações e trajetos aos netos.
 
 /Tɨ̗h wähä̗d/, “velhos/ anciões”, e /tɨ̗h wähä̗d bɨ̖gay/, “velhos antigos”,
@@ -11549,7 +11575,7 @@ vestígios deixados pelos ancestrais. Como durante nossa caminhada à
 pegadas ou brincando com os filhotes de animais, os netos vão
 familiarizando-se com aspectos de um universo que será a referência para
 a prática xamânica e para os afazeres da caça e da pesca. A viagem pelo
-Rio-de-Leite (B7, ver p. 277) e a viagem pela mata são *caminhos
+Rio de Leite (B7, ver p. 277) e a viagem pela mata são *caminhos
 vividos* que inserem as crianças em contextos para a aprendizagem
 através de suas ações e movimentos.
 
@@ -11627,7 +11653,7 @@ Deitados em suas redes de leite, os avós deslocam-se oniricamente depois
 das rodas de coca. O avô encontra seus ancestrais e aconselha-se sobre
 qual o melhor nome a ser dado a seu neto recém-nascido. O nome cerca o
 /hã̗wäg/ no peito, faz com que o sopro vital mantenha-se concentrado na
-/Hãg-Sa̗k-Mo̖y/, a “Casa-do-Pulsar”. Às margens do Lago-de-Leite, dentre
+/Hãg-Sa̗k-Mo̖y/, a “Casa-do-Pulsar”. Às margens do Lago de Leite, dentre
 os muitos nomes que constituem o estoque onomástico de seu clã, o avô
 deve chamar o ancestral cujo nome será dado ao neto. Evocando o nome do
 antepassado, o xamã retira e concentra as parcelas distribuídas do
@@ -11658,8 +11684,8 @@ Nesse jogo de identificações, o *feto sentado* surge como os ancestrais
 que, após o chamado de /K’e̖g Te͂h/, sentaram-se em seus bancos e, às
 margens do lago, receberam a coca, o tabaco, o bastão, as flautas
 Jurupari, a zarabatana, os adornos rituais e as pinturas corporais
-(M14). Em B6, depois de concentrar as pessoas da mãe e do bebê, o xamã
-começa a conduzi-los na viagem de volta pelo Rio-de-Leite, visita as
+(**M14**). Em **B6**, depois de concentrar as pessoas da mãe e do bebê, o xamã
+começa a conduzi-los na viagem de volta pelo Rio de Leite, visita as
 Casas-do-Rio. Ao longo dessa jornada, o nascituro e a mãe aproximam-se
 dos ancestrais, homens e mulheres, de suas moradas e de seus pertences.
 Simultaneamente, enquanto se desloca, o xamã faz o /hã̗wäg/ entrar no
@@ -11668,7 +11694,7 @@ dessa forma, uma semelhança entre o corpo materno que abriga o feto
 sentado e a paisagem da criação.
 
 Durante a gravidez, o ventre e o peito maternos tornam-se
-Lagos-de-Leite. O leite forma-se no seio, /Pud/, próximo ao peito, à
+Lagos de Leite. O leite forma-se no seio, /Pud/, próximo ao peito, à
 /Hãg-Sa̗k-Mo̖y/. Essa parte do corpo, que pode ser traduzida como “peito”,
 é onde se situam o coração e o pulmão. Esses órgãos são percebidos pelos
 Hupd’äh principalmente pelos movimentos de pulsar e inflar, através do
@@ -11677,7 +11703,7 @@ verbo /hãg-sa̗k/, “pulsar/respirar”. Como em /B’oto̗k-Mo̖y/, “orelha
 compor o sentido de uma “Casa-do-Pulsar/Respirar”, que é também uma
 morada do /hã̗wäg/, “sopro vital”, e, portanto, uma /ɨ̗b’ mo̖y/, uma
 “Casa-da-Vida”. A semente de pedra, um quartzo peitoral, talvez seja,
-nos pajés e no nascituro, a cristalização de um Lago-de-Leite que
+nos pajés e no nascituro, a cristalização de um Lago de Leite que
 protege a partir do peito.
 
 Além da “Casa-do-Pulsar/Respirar” e da “Casa-da-Audição”, outras partes
@@ -11692,8 +11718,8 @@ sopro. É a partir dessas casas que se torna possível a transformação do
 regime corporal /sa̗pa̗t/ em /hã̗wägät/. “Caminhos corporais”, /sa̗p ti̖w/,
 estendem-se de uma casa a outra traçando os elos entre os sentidos que
 permitem os distintos regimes de percepção. As casas/órgãos situam-se às
-margens do Lago-de-Leite e ligam-se por caminhos que fazem do corpo a
-própria superfície das viagens cósmicas. Às margens do Lago-de-Leite, a
+margens do Lago de Leite e ligam-se por caminhos que fazem do corpo a
+própria superfície das viagens cósmicas. Às margens do Lago de Leite, a
 Casa-do-Pulsar, a Casa-da-Audição, a Casa-da-Respiração e a Casa-da-Fala
 assemelham-se à Casa-do-Sol-Nascente, à Casa-da-Cabeceira, à
 Casa-do-Meio, à Casa-do-Trovão.
@@ -11702,12 +11728,12 @@ Desse modo, viajando para a paisaem da criação distante, o xamã
 percorre os caminhos corporais e retira as parcelas distribuídas
 simultaneamente das Casas-Ancestrais e das Moradas-Órgãos corpóreas,
 corporificando os poderes de criação e de movimento do ancestral. As
-moradas corporais às margens do Lago-de-Leite parecem apontar para uma
+moradas corporais às margens do Lago de Leite parecem apontar para uma
 noção de vida expressa pela própria *cosmografia do corpo*.
 
 A pessoa corporifica a essência da localidade em seu próprio ser,
 formando, na junção dos sopros vitais, a substância de sua identidade. A
-percepção de Lagos-de-Leite, casas vitais e caminhos no corpo faz da
+percepção de Lagos de Leite, casas vitais e caminhos no corpo faz da
 pessoa hup um nexo em si, um elo generativo do ser com o mundo. Sentados
 em seus bancos, os *fetos comedores de coca* e os *velhos que mamam* têm
 um *lago diante de si*, e fazem convergir as potências generativas *para
@@ -11725,10 +11751,10 @@ bebê (Taylor, 1996, p. 204). Se, após a nominação, o bebê é o ancestral,
 ao longo da primeira infância, a convivência com os avós é fundamental
 para que os noviços comecem a reconhecer, e os velhos comecem a
 esquecer. Nas rodas de coca, alimentando-se com a coca/leite, os
-senhores hup postam-se diante do Lago-de-Leite, criam e movimentam-se no
+senhores hup postam-se diante do Lago de Leite, criam e movimentam-se no
 universo imanente da paisagem da criação. Como a paisagem da origem, o
 corpo mostra-se um ambiente pleno de casas situadas às margens de um
-Lago-de-Leite. O corpo materno revela-se a própria paisagem da criação,
+Lago de Leite. O corpo materno revela-se a própria paisagem da criação,
 diante da qual o feto se situa sentado e recebe seus pertences rituais,
 começando a vida como um velho em plena roda de coca.
 
@@ -11898,7 +11924,7 @@ prenha”, utilizado para referir-se a fêmeas, como a paca ou a anta.
 Outro modo de referir-se à gestante é comentar que os “seios mostram o
 leite”, /pud-dë̖h bë̗y/. A metamorfose corporal faz com que o ventre e o
 peito da mulher sejam percebidos continuamente pelos xamãs como
-Lagos-de-Leite que nutrem, protegem e desenvolvem a criança. O feto
+Lagos de Leite que nutrem, protegem e desenvolvem a criança. O feto
 cresce na chamada /uk b’o̖’/ ou /hib’a̗h u̗k b’o̖’/, respectivamente “útero”
 e “útero de nascimento”. A expressão compõe-se pela junção do
 substantivo “cuia’, /b’o̖’/, ao verbo /u̗k/, “cobrir”. Nas conversas
@@ -11914,7 +11940,7 @@ circulam nas rodas, uma “panela”, um utensílio culinário feminino onde o
 feto cresce protegido.
 
 Numa tarde, conversando com Suzana e Catarina sobre a gravidez de minha
-esposa, elas me pediram para ensinar-lhes os nomes que os Brancos dão
+esposa, elas me pediram para ensinar-lhes os nomes que os brancos dão
 aos órgãos genitais. Em seguida listaram os diversos nomes com os quais
 os Hupd’äh se referem ao pênis e à vagina:
 
@@ -11935,12 +11961,12 @@ Para conceber, o útero deve conter a /ɨ̗b’ dëh/, a “água da vida”, um
 líquido feminino. É também como /dë̖h/, “líquido/água”, que os xamãs se
 referem ao esperma, /si̖w/, substância masculina que, nas conversas
 corriqueiras, é chamada também /tak/, “seiva”. O esperma é produzido a
-partir das águas do Lago-de-Leite que há no ventre e no peito masculino.
+partir das águas do Lago de Leite que há no ventre e no peito masculino.
 É composto por /hãg-sa̗k/, “sopro vital/ pulsar”, /pud-dë̖h/, “leite”, e
 /yõ̖h dëh/, “água-pura”, substâncias capazes de gerar a vida. Penetrando
 o útero, uma “panela/cuia” plena de “água da vida”, o esperma mistura-se
 a essa /ɨ̗b’ dëh/, compondo uma solução que cerca o esperma, impede sua
-passagem e faz a criança surgir sentada em seu banco-de-leite (B6). Do
+passagem e faz a criança surgir sentada em seu banco de leite (B6). Do
 esperma, visto como a contribuição paterna da concepção, originam-se os
 “ossos”, /k’e̖g/, e o /hã̗wäg/, “sopro vital”, da criança. Feitiços que
 visem a tornar a mulher estéril fazem com que essa “água da vida” seque
@@ -12207,7 +12233,7 @@ endurecimento do bebê. Como mostra Hugh-Jones para os Tukano,
 
 A *inversão da panela* pode ser vista como uma manipulação xamânica
 desse artefato identificado ao útero que retoma a ação primordial de
-junção do /hãwäg/ da mãe às margens do Lago-de-Leite (B6). As *panelas
+junção do /hãwäg/ da mãe às margens do Lago de Leite (B6). As *panelas
 de plumas* e os *bancos de plumas* são artefatos, potências primordiais
 cujo manejo assegura a concentração da pessoa, o aleitamento e o
 resfriamento dos corpos. Ao banhar o corpo da mulher ritualmente com a
@@ -12340,7 +12366,7 @@ Assumindo essa postura, a mulher senta-se em seu banco de leite, um
 *alinhamento corporal* formado pela contração da coxa e da cintura
 pélvica, assume a postura primordial para trazer uma nova pessoa à vida.
 O *xamã sentado* e a *mãe acocorada* tiram o banco da criança para que
-ela se desloque do Lago-de-Leite à aldeia, do ventre aos braços da mãe.
+ela se desloque do Lago de Leite à aldeia, do ventre aos braços da mãe.
 
 A obstetrícia designa como posição vertical a postura acocorada assumida
 por gestantes para dar a luz, diferenciando-a da postura do decúbito
@@ -12355,7 +12381,7 @@ parturiente alinha-se corporalmente, encontra sustentação no fêmur
 (coxa) e no quadril (cintura pélvica) para o movimento expulsivo, alivia
 a dor e sustenta-se como as fêmeas para parir.
 
-Ainda que não sejam *mulheres tapadas* (sem anus nem vagina) (M16), as
+Ainda que não sejam *mulheres tapadas* (sem ânus nem vagina) (**M16**), as
 mães hup têm pequenos orifícios se comparadas às fêmeas mamíferas
 (Lévi-Strauss, 2004b). Postar-se sentada no banco de leite é uma
 habilidade comum à mulher hup e às fêmeas que também contraem a região
@@ -12487,13 +12513,13 @@ e relacional favorável à imitação e à metamorfose corporal que tem na
 observação do comportamento e da morfologia de certos animais um
 horizonte importante de referência generativa.
 
-Em B5, para proteger os viajantes das ameaças do percurso, o xamã
+Em **B5**, para proteger os viajantes das ameaças do percurso, o xamã
 dirige-se para dentro do corpo do esquilo marrom, para dentro do corpo
 da onça pequena. Mamíferos, esses animais ocultam os andarilhos com seus
 corpos e pedaços de tabaco. Um processo de contração, redução corporal,
 invisibiliza e protege. Num sentido inverso, vestida de /Döh Ã̗y/, a
 mulher hup revela-se uma insaciável amante, dona de uma enorme vagina, e
-uma devoradora de homens, dona de uma boca ferina (M4). O vestido de
+uma devoradora de homens, dona de uma boca ferina (**M4**). O vestido de
 Branca maximiza sua corporalidade e sua ferocidade, fazendo os homens
 correrem para não vê-la. Ou seja, o processo de expansão corporal de
 /Döh Ã̗y/ acentua sua visibilidade, indesejada pelos viajantes.
@@ -12693,7 +12719,7 @@ cestaria primordial compõe o corpo físico, como os bancos de leite,
 constituindo a estrutura lombar da pessoa. Maiores e mais resistentes
 nas mulheres, esses cestos conferem-lhes uma capacidade superior no
 carregamento de pesos, da mesma forma que o banco de leite feminino
-dota-as de quadris largos para o parto. Já os arcos-e-flechas,
+dota-as de quadris largos para o parto. Já os arcos e flechas,
 zarabatanas, facões são maiores nos homens. São os membros superiores e
 inferiores, braços e pernas, que concentram essas armas, carregadas
 manualmente nas andanças pela mata. A mãe tamanduá possuía perigosas e
@@ -12776,13 +12802,13 @@ provisório” (Deleuze; Guattari, 1997, p. 85).
 []{#Fig45_Isabel .anchor}Isabel terminando um aturá (foto: Danilo Paiva
 Ramos, 2012)
 
-Com o crescimento corporal, os aturás e os arcos-e-flechas aumentam de
+Com o crescimento corporal, os aturás e os arcos e flechas aumentam de
 tamanho, os meninos e a meninas tornam-se mais hábeis para construí-los.
 Os meninos adquirem melhor mira e tonus muscular, enquanto as mãos
 femininas passam a tramar com rapidez e leveza. No menino, o
-arco-e-flecha presente nos braços aumenta de tamanho, mas seu aturá
+arco e flecha presente nos braços aumenta de tamanho, mas seu aturá
 mantém-se pequeno, enquanto na menina o cesto cresce, mas o arco e
-flecha permanece pequeno. Fabricando seus arcos-e-flechas, brincando com
+flecha permanece pequeno. Fabricando seus arcos e flechas, brincando com
 eles ao acompanharem os pais, os meninos desenvolvem habilidades ligadas
 ao braço, às mãos e às pernas que contribuem para o crescimento de seus
 artefatos internos e para a sua socialização como homens. Sentadas
@@ -12865,7 +12891,7 @@ poder visitar as casas vizinhas, participar das rodas de conversa até
 que, ao término do resguardo, possam finalmente caminhar para a roça,
 mata ou igarapé. Pouco depois, a mulher pode manusear os cipós de arumã
 e tramar os cestos de aturá. O marido pode igualmente dedicar-se ao
-artesanato de tipitis, cumatás e, posteriormente, arcos-e-flechas,
+artesanato de tipitis, cumatás e, posteriormente, arcos e flechas,
 objetos produzido exclusivamente pelos homens. Os cipós são trazidos
 pelos parentes. Os objetos fabricados pelo casal são trocados com outras
 famílias por farinha, beijus e peixes.
@@ -12894,7 +12920,7 @@ itinerâncias conforme fazem crescer seus artefatos,
 > traços materiais de expressão que constituem afectos* (1980, p. 96).
 
 Isabel alerta que a mãe que pega em aturá deixa os olhos da criança
-/mi͂gi͂/, “loucos”. O pai que pega em arco-e-flecha ou terçado faz o
+/mi͂gi͂/, “loucos”. O pai que pega em arco e flecha ou terçado faz o
 umbigo do bebê sair. Enquanto o arco e flecha e o terçado são armas
 manejadas pelo caçador em seus combates com as presas, o aturá é o cesto
 de carga que acompanha a mulher em praticamente todos os seus afazeres.
@@ -12911,10 +12937,10 @@ animal e na lida com as manivas da roça, contextos plenos de energia
 quente e agressividade que se impregnam em seus corpos-objetos.
 
 No encontro com o animal, o caçador hup maneja suas armas, facas e
-arcos-e-flechas. Empunhadas externamente em suas mãos, as armas são
+arcos e flechas. Empunhadas externamente em suas mãos, as armas são
 também parte constitutiva de seus membros corporais. A agressividade dos
 combatentes, considerada como um calor excessivo, impregna-se nos corpos
-do predadore da presa. O arco-e-flecha ou o terçado incandescente faz
+do predadore da presa. O arco e flecha ou o terçado incandescente faz
 arder os braços do caçador. Chegando à sua casa, o caçador pendura logo
 suas armas nos caibros do telhado de caranã e come pimenta para atenuar
 a agressividade que o combate despertou em si. De forma semelhante, as
@@ -12933,7 +12959,7 @@ cordão-umbilical. Esse aquecimento das armas e membros do caçador parece
 análogo ao calor que a condução da rabeta, uma máquina, faz aderir ao
 corpo do navegante. No caso de Elias, segurar a máquina quente foi a
 causa da febre em sua esposa e na bebê recém-nascida. Assim, o manejo de
-arcos-e-flechas, terçados e motores parece impregnar o calor dos objetos
+arcos e flechas, terçados e motores parece impregnar o calor dos objetos
 presentes no corpo do pai que, por sua vez, transfere essa intensidade
 térmica e destrutiva ao corpo do filho. A melhora da febre ocorre com os
 banhos, ingestão de frutas e repouso, ou seja, no contato do corpo com
@@ -13188,9 +13214,9 @@ adornos rituais dos antigos. Os *fetos adornados* surgem com seus
 pertences que são também índices diacríticos de seus sexos e posições no
 campo de interações rituais. Uma espécie de *devir ancestral* faz sua
 pintura e adornos identificarem-nos aos “antigos” e aos “velhos”.
-Sentados diante de um Lago-de-Leite, os fetos são os próprios ancestrais
+Sentados diante de um Lago de Leite, os fetos são os próprios ancestrais
 a receber de /K’e̖g Te͂h/ os ossos/flautas de /Bisi̗w/, os Jurupari, junto
-com os demais bens e alimentos da origem (M15).
+com os demais bens e alimentos da origem (**M15**).
 
 Às vésperas do Dabucuri, alguns mentores ainda levam os grupos de
 rapazes para colher frutas como cucura, ucuqui, uacú, pupunha e ingá nas
@@ -13244,7 +13270,7 @@ mata, concentra nmente os princípios vitais das presas abatidas,
 regenerando a vida. A reunião dos animais suscitada por seu chamado é,
 assim, a concentração de seus seres tornando-os vivos novamente. Plena
 de Dabucuris, a Casa-dos-Animais assemelha-se a uma maloca onde a dança
-e o sopro das flautas fazem surgir Lagos-de-Leite. A predação constitui
+e o sopro das flautas fazem surgir Lagos de Leite. A predação constitui
 a base da reciprocidade generativa entre os humanos e o dono dos animais
 (Århem, 1996).
 
@@ -13266,7 +13292,7 @@ existência mutuamente.. Através dos Dabucuris, os ritmos temporais da
 vida são gradualmente corporificados pela pessoa hup e pelos animais em
 meio ao uso de seus artefatos e ao consumo dos alimentos. Quando a
 paisagem corporal torna-se a passagem da vida, os seres postam-se diante
-dos Lagos-de-Leite. Munidos e constituídos por suas armas e pertences,
+dos Lagos de Leite. Munidos e constituídos por suas armas e pertences,
 eles fazem as potências primordiais convergirem para si, regenerando-os
 como presas ou predadores num potente círculo de reciprocidade vital.
 
@@ -13314,7 +13340,7 @@ pés repisavam o chão. Impulsionavam os dançarinos. Cadenciavam a
 melodia. A mão direita dos flautistas segurava o bocal de paxiúba perto
 da boca, enquanto a outra apoiava o corpo do instrumento para elevá-lo e
 abaixá-lo. Ancestrais e descendentes percorriam juntos o círculo às
-margens do Lago-de-Leite. Moviam-se ao longo da paisagem da criação.
+margens do Lago de Leite. Moviam-se ao longo da paisagem da criação.
 Tempos fracos e fortes sucediam-se marcadamente. Tremendo de frio,
 sentei-me com o gravador, muito atento a tudo o que se passava. Era a
 primeira vez que eu via a cerimônia das flautas.
@@ -13385,14 +13411,14 @@ apanhassem também.
 Seguiram-se mais duas paradas para beber caxiri até que os trompetes e
 as flautas começaram a deixar a palhoça saindo pela /Dëh-K’et-Yoh-Moyo̗/,
 a “Porta-da-Cabeceira”. Relembrando as palavras de Samuel, a dança do
-Jurupari faz com que o Lago-de-Leite surja no centro da maloca. Os
+Jurupari faz com que o Lago de Leite surja no centro da maloca. Os
 troncos de sustentação passam a ser os morros, /Pa̖ç-Moy/,
 “Casas-de-Pedra”, habitadas pelos ancestrais. Ao oeste, a entrada
 torna-se a Porta-da-Cabeceira, e, ao leste, abre-se a /Sa̗ka̗n-Moyo̗/, a
-“Porta-do-Sol-Nascente”. O igarapé faz-se o /Pud-Dë̖h/, “Rio-de-Leite”,
+“Porta-do-Sol-Nascente”. O igarapé faz-se o /Pud-Dë̖h/, “Rio de Leite”,
 local de onde as flautas emergem como os ancestrais para caminharem pela
 trilha até a maloca que é também a /Te͂h-S’ɨ̖g-Mo̖y-Paç/,
-“Serra-da-Iniciação” ou “Serra-do-Pedaço”.
+“Serra da Iniciação” ou “Serra do Pedaço”.
 
 Após a mudança do som que anuncia a saída, os aerofones rumaram para seu
 abrigo, no leito do pequeno /Dö̗-Dëh/, “Igarapé-Vermelho”. Uma roda
@@ -13871,7 +13897,7 @@ reciprocidade.
 Numa roda de coca no ano seguinte, conversando com os senhores hup sobre
 a cerimônia de Jurupari que presenciei, Ponciano contou sobre os perigos
 que os ancestrais enfrentaram para trazer as flautas Jurupari do
-Lago-de-Leite dentro da Cobra-Canoa. Todas as vezes que as flautas são
+Lago de Leite dentro da Cobra-Canoa. Todas as vezes que as flautas são
 tocadas e trazidas para a maloca, é preciso que os participantes
 enfrentem novamente os perigos da interação com o /Bisi̗w/, as
 Gentes-Cobra, Gentes-Árvore e demais seres que possam agir contra as
@@ -13887,21 +13913,21 @@ rodas de coca.
 > .anchor}**Viagem com as flautas**
 >
 > Os “Ancestrais”, /Hib’a̗h te̖͂h d’äh/, apareceram em Ipanoré. Daí, foram
-> dentro da Cobra-Canoa para o Lago-de-Leite para receber suas coisas.
+> dentro da Cobra-Canoa para o Lago de Leite para receber suas coisas.
 > Receberam coca, tabaco, as histórias, a zarabatana, o arco e a flecha,
 > o pilão de coca, tudo. Todas as etnias receberam e depois vieram na
 > Cobra-Canoa. Foram para o Papuri primeiro. Lá há o /hib’a̗h kä̗d/,
 > “banco-de-nascimento”. Em seguida, foram para /Dëh Pohot/,
 > “Caruru-Cachoeira”. Dali, foram para /S’ɨ̗g-Mo̖y-Paç/,
-> “Serra-da-Iniciação”. Foi lá que /K’e̖g-Te͂h/ deu as flautas sagradas.
+> “Serra da Iniciação”. Foi lá que /K’e̖g-Te͂h/ deu as flautas sagradas.
 >
 > Foram então para /To̗͂h-Paç/, “Serra dos Porcos”. Lá em /Tõ̗h/ há um
-> cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra-da-Iniciação” é na
+> cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra da Iniciação” é na
 > cabeceira do /K’a̗j-Dëh/, “Igarapé-Cutiváia”. Fui lá com meu pai. Há um
 > caminho, mas está muito ruim. Em /Su̗g-Dëh/, “Igarapé-Beija-Flor”, há
 > os ancestrais dos /Paç Ya’a̗m Te̖͂h/. Já os ancestrais dos /Dög M’e̖h Te̖͂h/
 > ficam na cabeceira de /Ta̗t-Dëh/. As flautas sagradas foram dadas aos
-> homens na “Serra-da-Iniciação”.
+> homens na “Serra da Iniciação”.
 >
 > As flautas vieram do corpo queimado do /Bisi̗w/. Ele comeu as crianças
 > pelo ânus e depois foi queimado pelos pais. De seu corpo fizeram-se as
@@ -13919,14 +13945,14 @@ rodas de coca.
 > faz os jovens transformarem-se em guerreiros. Se as mulheres virem,
 > morrem todas (Ponciano, 26/02/2012).
 
-Em M17, a navegação pelo Rio-de-Leite na Cobra-Canoa permite aos
+Em M17, a navegação pelo Rio de Leite na Cobra-Canoa permite aos
 ancestrais receber os alimentos primordiais, coca e tabaco, as armas de
 caça, arco e flecha e zarabatana, o pilão para o preparo da coca e as
 histórias[^120]. No retorno à planície do Uaupés, os ancestrais
 sentam-se para conversar nos “bancos de scimento” às margens do rio
 Papuri, para comer coca, fumar e “saber como iriam habitar aquelas
-terras” (M13). Após essa roda de coca primordial, os viajantes seguem
-caminhando até a Serra-da-Iniciação, onde recebem as flautas Jurupari
+terras” (**M13**). Após essa roda de coca primordial, os viajantes seguem
+caminhando até a Serra da Iniciação, onde recebem as flautas Jurupari
 como uma segunda dádiva de /K’e̖g-Te͂h/.
 
 Ocorre, então, uma separação dos ancestrais que levam suas flautas e
@@ -13938,7 +13964,7 @@ os /Paç Ya’a̗m Te̖͂h/, que foram habitar as margens do Igarapé-Beija-Flor
 e os /Dög M’e̖h Te̖͂h/, que seguiram para a cabeceira do Igarapé-Taracuá.
 Os antepassados desses clãs estão enterrados nesses primeiros
 assentamentos, de onde partem seus caminhos, trilhas que atualmente se
-encontram cerradas. Depois de descerem da Serra-da-Iniciação, caminhando
+encontram cerradas. Depois de descerem da Serra da Iniciação, caminhando
 com as flautas sagradas, os diversos grupo constituíram territórios
 originários, aos quais os Hupd’äh se referem como /nɨ̖h s’a̗h/, “nossa
 terra”. Como descreve Athias, cada clã utiliza uma área comum
@@ -14011,7 +14037,7 @@ aldeias do Igarapé-Japú e com os Tukano do Tiquié. Nesse sentido, as
 tentativas de “atração” e composição de um povoado-missão dos salesianos
 articulam-se de modo complexo a esse processo iniciado anteriormente
 pelo *sibling* /Sokw’ä̗t/. Devido à presença missionária, as cerimônias
-das flautas tornam-se secretas aos Brancos, mas não menos constantes.
+das flautas tornam-se secretas aos brancos, mas não menos constantes.
 Reid descreve a tendência de composição de base agnática dos grupos
 locais hup com a agregação de famílias afins da seguinte maneira:
 
@@ -14035,7 +14061,7 @@ senhoras hup habitam as moradas de um de seus filhos casados. O dono de
 uma casa é geralmente um /pu̗b i͂h/, “homem adulto”, casado e com filhos.
 
 Como mencionado anteriormente, o senhor Henrique morava com sua família
-nas cercanias da Serra-da-Cutiváia. Ao mudar-se para a nova aldeia,
+nas cercanias da Serra da Cutivaia. Ao mudar-se para a nova aldeia,
 construiu sua casa próxima a uma trilha que o levava até o sítio de sua
 antiga morada. Ao longo desse percurso, abriu roças com seus filhos, e
 não deixou de pescar no /K’a̗j-Dëh/ e e caçar na serra. Trouxe consigo
@@ -14043,7 +14069,7 @@ um par de flautas (/B’öh/ e /Wöwö̗y/) para tocar nos Dabucuris.
 Acompanharam-no os pais do senhor Miguel, parentes afins com quem esse
 dono coabitava[^122]. Henrique e seus filhos tornaram-se os donos de
 todo o território das imediações desse /K’a̗j-Paç Ti̖w/, “Caminho da
-Serra-da-Cutivaia”. Até hoje, qualquer pessoa que deseje abrir uma roça
+Serra da Cutivaia”. Até hoje, qualquer pessoa que deseje abrir uma roça
 nessas terras, pescar nos igarapés, ou caçar deve pedir permissão aos
 filhos de Henrique.
 
@@ -14056,7 +14082,7 @@ também seu grau de importância. /Yo’o̗m i͂h/, “dono” de /Ta̗t-Dëh/,
 Ponciano detém igualmente esse instrumento considerado o /Hib’a̗h Te͂h
 Döhö Pu̗b i͂h/, o “Poderoso Ancestral Jurupari”. Como no caso da família
 de Henrique, o caminho que se abre de /Ta̗t-Dëh/ e leva até /B’ö̖’-Paç/,
-“Serra-do-Tucunaré” constitui o vasto território onde Ponciano, seus
+“Serra do Tucunaré” constitui o vasto território onde Ponciano, seus
 irmãos e filhos abrem suas roças, pescam e caçam (ver diagrama anexo ‒
 Anexo 2).
 
@@ -14168,18 +14194,18 @@ Importantes rodas de coca formam-se todas as noites em torno dos pilões
 de Ponciano, Firmino e José para que estes partilhem alimentos
 primordiais e saberes com seus cunhados e irmãos. No mesmo sentido, suas
 flautas são tocadas para que seus netos e sobrinhos transformem-se em
-guerreiros e casem-se (M17). Observando o modo como rodas de coca,
+guerreiros e casem-se (**M17**). Observando o modo como rodas de coca,
 flautas Jurupari, vilas e territórios se combinam como atributos de
-poder dos donos /Sokw’ät/, é possível retomar M17 à luz das articulações
+poder dos donos /Sokw’ät/, é possível retomar **M17** à luz das articulações
 entre esses elementos.
 
-Nessa narrativa (M17), Ponciano relembra a viagem que fez com seu pai,
-Antônio, à Serra-da-Iniciação. Após a viagem na Cobra-Canoa, os
+Nessa narrativa (**M17**), Ponciano relembra a viagem que fez com seu pai,
+Antônio, à Serra da Iniciação. Após a viagem na Cobra-Canoa, os
 ancestrais caminharam até essa serra para receberem as flautas Jurupari
 de /K’e̖g Te͂h/. Em pleno processo de reunião de famílias e instrumentos
 sagrados do *sibling* /Sokw’ä̗t/ e de clãs afins, esse dono leva o filho
 a um local onde todos os grupos e instrumentos estavam reunidos. Na
-Serra-da-Iniciação, os ancestrais comeram coca, beberam caarpi e
+Serra da Iniciação, os ancestrais comeram coca, beberam caarpi e
 dançaram com as flautas. De lá, rumaram para as diferentes regiões em
 que constituíram suas moradas e territórios. Pensando com Lima (2005), o
 processo de formação de /Ta̗t-Dëh/ se dá através de um desdobramento de
@@ -14205,8 +14231,8 @@ períodos de atividades produtivas em suas terras afastadas. Trama de
 caminhos, a comunidade compõe a textura do mundo vivido.
 
 Retirar as flautas Jurupari do igarapé, caminhar com elas até a maloca
-para dançar em torno do Lago-de-Leite faz com que os múltiplos
-deslocamentos dos ancestrais ao descerem da Serra-da-Iniciação, as
+para dançar em torno do Lago de Leite faz com que os múltiplos
+deslocamentos dos ancestrais ao descerem da Serra da Iniciação, as
 mudanças dos antepassados /Sokw’ä̗t/, suas brigas, batalhas e
 reaproximações se articulem através dos movimentos e timbres das flautas
 para transformar os rapazes em guerreiros em plena paisagem da criação.
@@ -14215,7 +14241,7 @@ Entendo que, na dança das flautas, os espaços da aldeia, os territórios
 clânicos, as relações sociais e os caminhos percorridos pelos grupos
 fazem da paisagem da criação uma trama complexa das múltiplas paisagens
 e espaços vivenciados por cada indivíduo ao longo de sua trajetória de
-vida. Os cemitérios mencionados por Poncino (M17) são o ponto de
+vida. Os cemitérios mencionados por Poncino (**M17**) são o ponto de
 partida para a diferenciação de domínios territoriais originários entre
 os clãs, que faz com que aqueles que sejam de “outras terras” devam
 aceitar o papel de “acompanhantes” e “apanhadores”, trabalhar roças
@@ -14223,7 +14249,7 @@ distantes e pescar em igarapés com poucos peixes. Constroem suas casas
 próximas ao homem de referência do clã local, sentam-se nas rodas de
 coca desses donos e estabelecem seus laços em torno da reciprocidade
 matrimonial e ritual. Em muitos sentidos, a grande aldeia ganha os
-contornos de uma Serra-da-Iniciação, onde pessoas de clãs diversos se
+contornos de uma Serra da Iniciação, onde pessoas de clãs diversos se
 reúnem para sentar-se nas rodas, dançar com as flautas Jurupari e
 separar-se para caminhar e habitar novas paragens. Seguindo Lima (2005,
 p. 52), caminhar com as flautas faz com que a distância espacial faça
@@ -14329,17 +14355,17 @@ serem montados e trazidos para a maloca:
 > utilizados, sinaliza também a passagem da morte, estado inerte, para a
 > vida, enquanto um estado ativo*.
 
-A versão mítica barasana mostra-se como uma transformação de M17 com as
+A versão mítica barasana mostra-se como uma transformação de **M17** com as
 flautas Jurupari surgindo do corpo queimado de uma Anaconda, um ser da
 água, e não de /Bisi̗w/, um ser da mata. Creio que seja possível ver
 também o caráter mediador das flautas num sentido próximo ao explicitado
-por Hugh-Jones. Após a saída da “água, do rio, da cobra” (M13), os
+por Hugh-Jones. Após a saída da “água, do rio, da cobra” (**M13**), os
 ancestrais hup caminham pela mata e sobem até o topo da
-Serra-da-Iniciação, onde recebem as flautas (M17). Ao longo do percurso
+Serra da Iniciação, onde recebem as flautas (**M17**). Ao longo do percurso
 a saída da água, a caminhada pela mata e a escalada ao topo permitem
 entender a mediação das flautas que, como os ancestrais, são tiradas da
 água, seguem pelo caminho até a maloca e lá circulam como no topo da
-Serra-da-Iniciação (ver M18). Instrumentos e ancestrais tramam seus
+Serra da Iniciação (ver **M18**). Instrumentos e ancestrais tramam seus
 caminhos e condensam suas histórias nos gestos e propriedades materiais
 do Jurupari.
 
@@ -14350,7 +14376,7 @@ interno do tubo para garantir o timbre adequado ao instrumento.
 Murmurando palavras para um pedaço de breu ou para um cigarro, o artesão
 executa o /hã̗wäg bi’i̖d/, “encantamento do sopro vital”, e o /ha̖t bi’i̖d/,
 o “encantamento de nominação”. O xamã desloca-se como /hã̗wäg/ ao
-Lago-de-Leite, chama o ancestral cujo nome será dado à flauta e, sentado
+Lago de Leite, chama o ancestral cujo nome será dado à flauta e, sentado
 em seu banco, concentra a pessoa-sopro distribuída pelas moradas (B6). A
 ação xamânica traz o instrumento à vida como um ancestral através de um
 processo semelhante àquele que faz do recém-nascido um ser humano. O
@@ -14437,7 +14463,7 @@ os primeiros ancestrais de uma linhagem clânica. Paralelamente, a
 interrupção da execução das melodias do Jurupari acompanha a
 intensificação da prática dos /bi’i̖d/, “sopros”, a partir do tabaco e
 outras substâncias para proteger e fazer seus filhos crescerem sem
-doenças (B2). É nessa fase da vida que os homens começam a frequentar as
+doenças (**B2**). É nessa fase da vida que os homens começam a frequentar as
 rodas com assiduidade e a manusear o pilão para partilhar a coca e as
 palavras.
 
@@ -14445,11 +14471,11 @@ No que diz respeito à estrutura física, o envelhecimento leva à perda da
 dureza da pele e dos ossos, o que pode ser visto como um processo de
 “amolecimento corporal”. Sem conseguir soprar as flautas Jurupari, os
 anciões começam a não ter mais o corpo envolto pela casca dura das
-árvores (B1) (B5). Ao longo da vida, a pele e os ossos das pessoas hup
+árvores (**B1**) (**B5**). Ao longo da vida, a pele e os ossos das pessoas hup
 vão se tornando progressivamente mais duras, atingindo o auge de
 resistência na maturidade. Os jovens possuem “corpos moles” que ainda
 não foram endurecidos o suficiente para possuírem a corporalidade do
-guerreiro (M17). Como aponta Reid (1979, p. 151), “De modo mais geral,
+guerreiro (**M17**). Como aponta Reid (1979, p. 151), “De modo mais geral,
 contudo, a iniciação é um processo por meio do qual os jovens atravessam
 o estágio que os Hupdʉ chamam ‘aqueles de corpos moles, não totalmente
 formados’ ou adolescência”. Em ambos os casos, jovens e velhos estão
@@ -14492,7 +14518,7 @@ outras duas uma de cada lado da boca”, contou Américo quando
 conversávamos sobre os perigos do Jurupari. A dança das flautas pode não
 só gerar cura e proteção, como também causar doenças e sofrimento.
 Afinal, com as flautas, /Bisi̗w/ fez a Humanidade “sofrr como ele
-sofreu” (M15). Todos aqueles que participaram da cerimônia que
+sofreu” (**M15**). Todos aqueles que participaram da cerimônia que
 presenciei partilharam, pela manhã, as ardidas pimentas benzidas. É
 preciso lembrar que as flautas compunham o corpo artefactual de /Bisi̗w/.
 Ossos do corpo queimado desse ser, os instrumentos são uma matéria plena
@@ -14700,7 +14726,7 @@ pode ser observada na relação entre as rodas de maniva e a roça de
 pimenta que germina sempre próxima. Igualmente dotadas de habilidade
 xamânica, as pimentas também benzem as manivas em troca de cuias de
 caxiri. Apontando para o chão, Américo revelou que um imenso
-Rio-de-Leite se estende por debaixo da terra e alimenta as plantas com
+Rio de Leite se estende por debaixo da terra e alimenta as plantas com
 seu leite e águas-puras, nutrientes que possibilitam o crescimento dos
 vegetais. Como no caso Achuar descrito por Descola, “essa pequena
 população de plantas estabelece em seu meio aspectos de sociabilidade
@@ -14776,7 +14802,7 @@ tocadores se sentam para beber as cuias de caxiri oferecidas pelo dono,
 os instrumentos mantêm-se em repouso no chão, enquanto os músicos
 conversam e gargalham. Sentam-se, assim, da mesma forma que as mulheres
 nas festas de caxiri. São os movimentos das panelas de caxiri e das
-flautas Jurupari que fazem surgir Lagos-de-Leite na maloca transformada
+flautas Jurupari que fazem surgir Lagos de Leite na maloca transformada
 na paisagem da criação.
 
 Enquanto o sopro traz à vida os ancestrais-Jurupari, artefatos-pessoa
@@ -14881,7 +14907,7 @@ para os mais jovens que, sob o efeito das muitas cuias de caxiri,
 começam a se desentender. Como me explicou Samuel, a agressividade e o
 aquecimento fazem com que os senhores hup fiquem como /Wero̗ Hup Te̖͂h/, o
 “Sol”, e como o próprio /Bisi̗w/ em seu momento de ódio intenso antes de
-ser queimado na fogueira (M15). Os senhores que bebem caxiri não
+ser queimado na fogueira (**M15**). Os senhores que bebem caxiri não
 praticam encantamentos e, enquanto conversam sobre a “fala poderosa”,
 não podem realizar ações xamânicas para cercar ou curar, pois suas
 palavras apenas causarão malefícios aos outros. Para Buchillet (1983, p.
@@ -14929,7 +14955,7 @@ da fermentação do caxiri para que, durante as conversas, as palavras
 possam fazer crescer sem potencializar a agressividade ou as
 enfermidades nos dias de alegria. Como mencionado, os dançarinos
 precisam banhar-se antes de retirar as flautas do rio. Como um
-Rio-de-Leite, as águas do igarapé são compostas pela energia fria que
+Rio de Leite, as águas do igarapé são compostas pela energia fria que
 conserva os instrumentos num estado de resfriamento. É possível ver,
 então, a sequência de ações da dança do Jurupari como um manejo
 combinado de potências frias e quentes. Os ramos de ingá que ferem as
@@ -15113,19 +15139,19 @@ causados e cercar a todos contra feitiços dos inimigos estrangeiros.
 
 1.  ### Cuias de caarpi
 
-    1.  #### Na Serra-da-Iniciação
+    1.  #### Na Serra da Iniciação
 
 Numa festa de caxiri de 2012, Samuel sentou-se ao meu lado na roda de
 coca, longe da maloca, e começamos a conversar sobre a [[]{#OLE_LINK41
-.anchor}]{#OLE_LINK42 .anchor}“Serra-da-Iniciação” (M17)
+.anchor}]{#OLE_LINK42 .anchor}“Serra da Iniciação” (**M17**)
 ([]{#M18_Iniciacao .anchor}M18). Os senhores presentes disseram que os
 antigos se referiam a esse morro igualmente como /Huphisɨh-Paç/, a
-“Serra-da-Menstruação”. A alteração da toponímia devia-se à importância
+“Serra da Menstruação”. A alteração da toponímia devia-se à importância
 de esconder das mulheres e crianças o verdadeiro nome do local onde os
 ancestrais tocaram as flautas pela primeira vez. Segundo Samuel, os
 antigos valiam-se muito dessa /yä̗d ɨ̗d/, “linguagem de ocultar”, para que
 encantamentos e toponímias fossem inacessíveis às mulheres e aos
-Brancos. Atualmente, é permitido revelar o verdadeiro sentido de
+brancos. Atualmente, é permitido revelar o verdadeiro sentido de
 palavras até então acessíveis apenas a iniciados, pois os “homens
 deixaram de ser caçadores”. Nesse sentido, a caça é um modo de relação
 específico entre Humanos e Animais que impõe a necessidade de ocultar
@@ -15135,7 +15161,7 @@ xamanismo de agressão.
 
 Após a saída da Cobra-Canoa, os ancestrais caminharam pela mata e foram
 abrindo as primeiras trilhas até chegarem à
-Serra-da-Iniciação/Menstruação. Durante o percurso, colheram todas as
+Serra da Iniciação/Menstruação. Durante o percurso, colheram todas as
 frutas que são hoje mencionadas nos encantamentos: /Siwi̖b/,
 “bacaba”[^127], /Yã̗h/, “uacu”[^128], /Mi̖n/[^129], “ingá”, /Po̗-min/,
 “ingá silvestre”, /Buhu̗/, “curura”[^130]. Como nas caminhadas em que os
@@ -15196,7 +15222,7 @@ coletivo e de múltiplos espaços femininos singulares. A proibição visual
 é também o impedimento da presença feminina no espaço da *performance*, ao
 mesmo tempo em que a audição generalizada cria um campo relacional entre
 os homens presentes e as mulheres ausentes. Já a linguagem oculta, que
-altera a toponímia da Serra-da-Iniciação para Serra-da-Menstruação,
+altera a toponímia da Serra da Iniciação para Serra da Menstruação,
 impede a percepção dessa serra como local da execução da dança pela
 primeira vez, mas revela a analogia entre a transformação do rapaz e a
 menarca feminina.
@@ -15219,14 +15245,14 @@ período para que deixem de ter esses perigosos sonhos. Contam os
 senhores que, antigamente, as moças ficavam reclusas em partes da casa
 isoladas com pari durante a menarca, havendo também um período de
 afastamento dos rapazes do convívio social durante a iniciação. Ao mesmo
-tempo em que a denominação da Serra-de-Iniciação como
-Serra-de-Menstruação oculta os fatos que lá ocorreram, aproxima o
+tempo em que a denominação da Serra da Iniciação como
+Serra da Menstruação oculta os fatos que lá ocorreram, aproxima o
 sentido da iniciação masculina como uma menstruação ou uma menarca, algo
 próximo ao descrito por Hugh-Jones (1979) para os Barasana.
 
 Como me explicaram os senhores hup, essas interdições visuais e
 linguísticas fazem-se necessárias para que as mulheres não se apossem
-novamente das flautas, o que levaria todas à morte e sofrimento (M17).
+novamente das flautas, o que levaria todas à morte e sofrimento (**M17**).
 Tomando as palavras de Lima (2005, p. 311), “incorporando a
 feminilidade, os homens se tornam suscetíveis à experiência da
 alteridade, enquanto as mulheres, arrastadas neste processo, parece que
@@ -15240,18 +15266,18 @@ afastamento durante a *performance*.
 Interagindo com os Animais como neófitos, os ancestrais são por eles
 iniciados e transformam-se em guerreiros/caçadores. Esses se abrem pelo
 sopro das flautas a uma comunicação e continuidade com os ancestrais. A
-menstruação feminina é também a abertura de um corpo tapado (M16) que
+menstruação feminina é também a abertura de um corpo tapado (**M16**) que
 cria um campo de comunicação olfativa com as Gentes-Cobra. A percepção
 do sangue (uma afecção feminina) como timbó por esses seres situa as
 mulheres na posição de predadoras de modo semelhante à posição de
 caçadores/guerreiros dos homens. O que a “linguagem oculta” revela às
-mulheres é que a Serra-da-Menstruação é o local primordial de
+mulheres é que a Serra da Menstruação é o local primordial de
 transformação dos homens em guerreiros e que, banidas desse espaço, elas
 se situam na posição de predadoras apenas para num momento seguinte
 serem presas fáceis das Gentes-Cobra caso não sejam protegidas, cercadas
 com a fumaça da folha /bu̗y k’e̖t/, pelos homens. Deixam, assim, de
 almejar à sua condição de caçadoras e de mulheres tapadas que detinham o
-domínio das flautas (M17)[^133].
+domínio das flautas (**M17**)[^133].
 
 #### A grande maloca
 
@@ -15267,7 +15293,7 @@ cerimônias de Jurupari entre os Barasana,
 > o tempo presente torna-se o tempo mítico, um tempo quando os seres
 > humanos, animais, e ancestrais eram ainda indiferenciados*.
 
-No alto da Serra-da-Iniciação, a reciprocidade se estabelece entre os
+No alto da Serra da Iniciação, a reciprocidade se estabelece entre os
 ancestrais hup e seus cunhados, afins animais. A casa grande, onde os
 ancestrais receberam as flautas assemelha-se à maloca de /Ta̗t-Dëh/, para
 onde se dirigiram os instrumentos sagrados, criando também essa
@@ -15314,15 +15340,15 @@ instalados logo abaixo do telhado para guardar caniços de pesca, arco e
 flechas, roupas, panelas, bacias, livros, entre outros pertences dos
 moradores da casa.
 
-Samuel descreve a maloca do alto da Serra-da-Iniciação como uma imensa
+Samuel descreve a maloca do alto da Serra da Iniciação como uma imensa
 casa com 100 metros de área. Como em /Ta̗t-Dëh/, os ancestrais retiraram
 seus instrumentos do local onde eram escondidos e caminharam para a
 palhoça onde seus cunhados os esperavam. A imensa maloca constitui o
 cenário hiperbólico para o encontro entre os habitantes da região, donos
-animais, e aqueles que vinham de outras terras, do Lago-de-Leite. Os
+animais, e aqueles que vinham de outras terras, do Lago de Leite. Os
 forasteiros exibem suas flautas e dançam para seus cunhados, criando um
 laço forte de reciprocidade. À luz da cerimônia de Dabucuri descrita, é
-possível dizer que, ao longo da caminhada até a Serra-da-Iniciação, os
+possível dizer que, ao longo da caminhada até a Serra da Iniciação, os
 ancestrais assumem o lugar dos neófitos ao recolher e conhecer as
 frutas, potências passíveis de gerar importantes relações de
 reciprocidade. Pensando com Hugh-Jones (1993), ancestrais hup
@@ -15348,10 +15374,10 @@ perspectivas que contêm outras perspectivas (Lima, 2005, p. 216).
 
 Se em /Ta̗t-Dëh/ é necessário que as “gentes de outra terra” peçam
 autorização aos donos e tornem-se cunhados, o Dabucuri da
-Serra-da-Menstruação não deixa de ser uma demonstração das habilidades
+Serra da Menstruação não deixa de ser uma demonstração das habilidades
 dos peregrinos para que possam, ao descer da serra e caminhar com suas
-flautas, dispersar-se e constituir seus próprios domínios (M17) (M18).
-Tomando as palavras de Lima, a dádiva das flautas na Serra-da-Iniciação
+flautas, dispersar-se e constituir seus próprios domínios (**M17**) (**M18**).
+Tomando as palavras de Lima, a dádiva das flautas na Serra da Iniciação
 explicita que “para os animais a nossa alteridade relativa com eles é
 humana, isto é, política” (2005, p. 215).
 
@@ -15381,7 +15407,7 @@ narrativa:
 > enganando. Aí, o cunhado perguntou onde estava o rabo deles. E eles já
 > tinham comido. Ficaram sem rabo.
 >
-> Isso tudo aconteceu lá na Serra-da-Menstruação. Depois que tocaram, os
+> Isso tudo aconteceu lá na Serra da Menstruação. Depois que tocaram, os
 > ancestrais hup sentaram nos bancos. Havia três tipos de banco: os
 > /pud-dë̖h käd/, “bancos de leite”, os /sãy käd/, “bancos sãy”, e os
 > /wahna̗w käd/, “bancos de abiu”. Estavam usando cocar de penas de
@@ -15400,7 +15426,7 @@ beber, ou seja, de acordo com suas habilidades. Aqueles que sabem beber
 permanecem com seus corpos originais, mas aqueles que enlouquecem
 intervêm sobre suas matérias corporais, automutilam-se e veem-se, ao
 final da roda, desprovidos de suas longas línguas ou de seus longos
-rabos. Como o pretendente a receber o cigarro do possível sogro (M18),
+rabos. Como o pretendente a receber o cigarro do possível sogro (**M18**),
 os forasteiros procuram demonstrar, através de seus pertences, posturas
 e disposição para beber caarpi, sua aptidão para a prática do xamanismo
 e para a aliança.
@@ -15408,7 +15434,7 @@ e para a aliança.
 Aves como a Arara, o Papagaio e o Periquito comem partes de suas línguas
 e, por isso, adquirem a capacidade de fala. É interessante reparar que
 são justamente penas de papagaio e de arara que compõem os cocares dos
-ancestrais (M18) e dos bebês no útero, estabelecendo uma relação
+ancestrais (**M18**) e dos bebês no útero, estabelecendo uma relação
 metonímica com essas “aves que falam”. Como nas rodas de coca, nos
 círculos de caarpi as conversas entre os presentes e entre esses e seus
 interlocutores cósmicos fazem da fala/escuta importantes meios
@@ -15430,7 +15456,7 @@ banco, o macaco oculta seu rabo e, pela fala, mostra-se capaz de agir
 agressivamente contra seus companheiros. O banco oculta algo que será
 perdido pelos maus bebedores de caarpi, assim como a casa cercada oculta
 as flautas Jurupari que seriam perdidas pelas mulheres, dada sua
-incapacidade de tocá-las (M17).
+incapacidade de tocá-las (**M17**).
 
 Durante a cerimônia do Jurupari, o flautim surge como uma figura ao
 mesmo tempo cômica e agressiva. Neto dos grandes Jurupari, ele “brinca”
@@ -15539,7 +15565,7 @@ com a alimentação do filho ajudam a manter a Casa-da-Audição o mais
 limpa possível e contribuem para o desenvolvimento xamânico bem como a
 narração de versões de mitos e encantamentos simplificadas e a
 participação da criança em caminhadas, como a feita por Ponciano com seu
-pai à Serra-da-Iniciação (M17). Essas ações preparam a pessoa para que
+pai à Serra da Iniciação (**M17**). Essas ações preparam a pessoa para que
 possa, mais tarde, ao participar da roda de caarpi, ao beber a água das
 nascentes ou ao ingerir a água do lago no topo da Serra Grande,
 manter-se em silêncio para ouvir da forma mais apurada possível os
@@ -15631,7 +15657,7 @@ de xamã hup possibilita tanto a predação da caça quanto a regeneração da
 vida. Enquanto a afinidade clânica é fundamental para que, através dos
 casamentos, novos descendentes sejam gerados, a afinidade entre Humanos
 hup e Animais permite que a caça seja como um casamento que estabelece
-as condições para o convívio. No alto da Serra-da-Iniciação, o
+as condições para o convívio. No alto da Serra da Iniciação, o
 oferecimento de caarpi pelo Tamanduá diferencia os bebedores a partir de
 suas habilidades xamânicas, corporalidades e pertences. As ações
 complementares dos xamãs hup tornam-se chave para que a afinidade dos
@@ -15666,7 +15692,7 @@ ascensão da alma à zona superior do cosmos onde se encontra a morada dos
 ancestrais[^141]. Entendo que, durante a cerimônia das flautas, a dança
 e a ingestão de caarpi fazem ancestrais e descendentes coabitarem a
 maloca-universo que se torna a paisagem da criação, assim como o corpo
-passa a abrigar o Lago-de-Leite e as Casas Ancestrais no nascimento e na
+passa a abrigar o Lago de Leite e as Casas Ancestrais no nascimento e na
 agência xamânica. Certamente o caarpi, o caxiri e as flautas são
 elementos plenos de energia quente, uma potência de crescimento e
 movimento, bem como de agressividade e força. Entretanto, creio mais na
@@ -15695,14 +15721,14 @@ interação dos rapazes com os velhos e ancestrais-Jurupari faz com que
 partilha de experiências com seus preceptores e artefatos-pessoa ).
 Trazidas para as aldeias e para as malocas no curso de viagens, as
 flautas possuem longas histórias de interação com os antepassados que,
-após a descida da Serra-da-Iniciação, separaram-se para estabelecer suas
+após a descida da Serra da Iniciação, separaram-se para estabelecer suas
 terras e suas moradas. Tocando as flautas, os rapazes aprendem a ligar
 eventos e experiências próprias àquelas dos predecessores para retraçar
 percursos.
 
 No encontro da caça, predador e presa percebem-se a partir de sua
 história comum à luz das danças de Jurupari e das rodas de caarpi
-realizadas no topo da Serra-da-Iniciação. Soprando as flautas, os
+realizadas no topo da Serra da Iniciação. Soprando as flautas, os
 rapazes conhecem os ancestrais partilhando sua companhia, assumem
 posições num campo relacional que lhes permite partilhar experiências.
 Nas rodas de coca, apanhadores e donos partilham igualmente esse
@@ -15814,7 +15840,7 @@ causa dos furtos recorrentes durante as paradas.
 Quando chegamos à aldeia do Cunuri, Marcelino já nos esperava com a
 grande /ma̖yt hoh-të̖g/, “canoa de alumínio”, que, na região, recebe o
 nome de voadeira. /Quarentão pu̗b/, “motor quarenta é forte”, exclamava
-Samuel. Contou que o possante motor dos Brancos é também o meio de
+Samuel. Contou que o possante motor dos brancos é também o meio de
 transporte com que /Bisi̗w/ foge logo que se apodera do /hã̗wäg/ das
 pessoas. Ele escapa tão rápido que nenhum xamã consegue alcançá-lo com
 seus meios de transporte, roupas ou canoas movidas a remo e rabeta.
@@ -15955,10 +15981,10 @@ distribuindo a magnificação de suas vítimas no curso da fabricação
 divertida de si enquanto “comedores de coca” (Fausto, 2002).
 
 “Quando sonha com coca, que tá segurando um punhado de coca é que vai
-caçar cutia. Pode pegar o terçado e o arco-e-flecha que vai matar”,
+caçar cutia. Pode pegar o terçado e o arco e flecha que vai matar”,
 ensinou-me Américo. Ele começava a se lembrar de como seu irmão Marino
 era um bom caçador de cutias. Marino e seu pai, Herique, costumavam sair
-logo cedo para a Serra da Acutiváia e, se tivessem sonhado, traziam
+logo cedo para a Serra da Cutiváia e, se tivessem sonhado, traziam
 empre uma cutia. Por conta de sua partida para São Gabriel, Marino
 pediu que Samuel tomasse conta de seu cão de caça. Assando as folhas,
 Samuel lamentou que o cachorro tivesse sido devorado por uma onça pouco
@@ -16027,7 +16053,7 @@ procura dos papéis” revele-se um *esquecimento do esquecimento*, um ato
 de memória capaz de regenerar o xamã como um predador hup dos encontros
 noturnos, que devora os donos da coca e partilha, com caçadores
 (parentes hup da aldeia), a matéria e o poder do inimigo-outro, no caso
-funcionários e patrões, Brancos e Tukano (Deleuze; Guattari, 1995;
+funcionários e patrões, brancos e Tukano (Deleuze; Guattari, 1995;
 Fausto, 2002). Penso haver uma reconstrução do sentido que permite a
 Marino e a Américo estabelecer relações íntimas através do reforço mútuo
 dos planos (aldeia, Serra Grande, São Gabriel) em que se exprimem seus
@@ -16077,7 +16103,7 @@ ser duas quarto. Um quarto pode ser do rio Japu e Papuri, e outro quarto
 vai seria do Rio Tiquié. Nós queremos com mais ajuda a vocês com todas
 as instituições como: FUNAI, Foirn, SEMEC, e PREFEITURA Municipal. Como
 nós tambem professores indígenas, hupd’äh não tem como ficar no
-alojamento dos Tukanos esses necessidades que nós tivemos na cidade. As
+alojamento dos Tukano esses necessidades que nós tivemos na cidade. As
 vezes os Tukano que nos ralhava e sovina o alojamento, assim nós temos
 maior dificuldades que sentimos. Na hora da campanha o nosso prefeito
 indígenas SR. Pedro Garcia providenciou. Por esses motivo nós votamos o
@@ -16141,7 +16167,7 @@ autoridade do documento para representar um grupo indígena e para
 realizar atos jurídicos em nome dessa autoridade (2009, p. 340).
 
 Entre o rascunho e a finalização da carta, a leitura e aprovação de um
-não-indígena, antropólogo, seriam gestos importantes na busca pela
+não indígena, antropólogo, seriam gestos importantes na busca pela
 garantia de eficácia do documento enquanto instrumento dotado de
 autoridade para representar o grupo indígena. Acredito que,
 simultaneamente, o ato de escrever fosse também nutrindo Ricardo com os
@@ -16152,7 +16178,7 @@ povo Hupd’äh como poderia ser esperado. Além disso, ele cria uma divisão
 arquitetônica entre os Hupd’äh do rio Tiquié e seu quarto, e os Hupd’äh
 dos rios Japu e Papuri, e seu quarto comum. Algo que faz lembrar as
 divisões presentes na grande maloca, onde os ancestrais hup tocaram as
-flautas Jurupari para seus cunhados animais (M22), e as divisões da casa
+flautas Jurupari para seus cunhados animais (**M22**), e as divisões da casa
 celeste habitada pelo Trovão e seus cunhados, as Onças.
 
 Partindo da reflexão de Generre, o viajante-escritor hup busca, a um só
@@ -16195,7 +16221,7 @@ circuito de dádivas semelhante ao do Dabucuri, iniciado pelos Hupd’äh ao
 > Cobra-Grande. Os Tukano dizem que foram eles, mas não é verdade, não.
 > Porque esses Hupd’äh, Dâw, eles foram timoneiros.
 >
-> Saíram lá do Lago-de-Leite no Rio de Janeiro e vieram dar aqui.
+> Saíram lá do Lago de Leite no Rio de Janeiro e vieram dar aqui.
 > Primeiro foram ali pra Ipanoré. Depois foram indo lá pra o Papuri,
 > Iauareté, e deixando os povos. Os Hupd’äh ficavam ali no rio Turi e
 > daí foram descendo, porque todos os povos vieram como peixes dentro da
@@ -16225,7 +16251,7 @@ saída anterior. Essa forma tukano de contar é tida como sinônimo de
 “política”. Para além dessa forma de contar estaria a “verdade” no fato
 de os Hupd’äh terem saído primeiro da Cobra-Grande. A explicação mostra
 os Hupd’äh e os Dâw como timoneiros, aqueles que conduziram a Cobra em
-sua jornada do Lago-de-Leite, no Rio de Janeiro, até a cachoeira de
+sua jornada do Lago de Leite, no Rio de Janeiro, até a cachoeira de
 Ipanoré. Na unidade interior da Cobra-Grande, todos os povos eram peixes
 que, ao sair, chegavam a seus lugares e transformavam-se em gente. O
 modo diferente de narrar dos Tukano é visto como “política” e “não
@@ -16255,7 +16281,7 @@ região. Segundo Athias (1995), na visão de mundo dos Tukano, os Hupd’äh
 habitam as florestas, e não as margens dos rios, não possuem moradas
 fixas nem ornamentos, não praticam a exogamia linguística e não são
 horticultores. Contrastivamente, do ponto de vista tukano, os Hupd’äh
-são marcados por aspectos negativos e não-humanos que os levam a
+são marcados por aspectos negativos e não humanos que os levam a
 comportamentos incestuosos, animalescos e selvagens (1995, p. 5). Já do
 ponto de vista Hupd’äh, como visto anteriormente, é preciso cuidado e
 atenção ao interagir com os Tukano, dada a presença excessiva de energia
@@ -16328,7 +16354,7 @@ Sentado ao meu lado numa roda de coca, Jovino lembrou-se de quando a
 polícia federal chegou às comunidades na década de 1980. Os policiais
 aproximavam-se, mandavam chamar aqueles que tivessem plantações de coca.
 Os anciões aproximávam-se e eram acompanhados até suas roças de coca.
-Lá, furiosos, os Brancos arrancavam os pés de coca. Xingavam e
+Lá, furiosos, os brancos arrancavam os pés de coca. Xingavam e
 humilhavam os senhores, enquanto faziam montes com as plantas. Atônitos,
 os velhos viam suas plantações serem queimadas diante de seus olhos, sem
 poder fazer nada. “É por isso que os Tukano e algumas aldeias hup mais
@@ -16355,10 +16381,10 @@ pais a preparação de seus filhos para as práticas xamânicas. Ao ouvirem
 encantamentos, seus pensamentos se espalham, ao invés de seguirem direto
 (movimento retilíneo). As Casas-da-Audição possuem constantes ruídos,
 resultado da dieta ruim e da exposição à música e sons de motores e
-máquinas dos Brancos. Ao contrário, a habilidade de leitura e escrita
+máquinas dos brancos. Ao contrário, a habilidade de leitura e escrita
 adquirida pelos filhos adultos com os estudos nas escolas salesianas
 surpreendia os xamãs, sendo vista como um poder fundamental de interação
-com os Brancos, o qual poderia ser utilizado para contribuir com o
+com os brancos, o qual poderia ser utilizado para contribuir com o
 aprendizado. Pensando com Carneiro da Cunha, creio que essa articulação
 entre viagens cósmicas, atos de fala (encantamentos soprados) e palavras
 escritas revele o processo como uma tradução xamânica é “capaz de
@@ -16398,7 +16424,7 @@ Se o poder da escrita contribuía para o aprendizado dos homens, o
 contato indevido com esses saberes poderia ameaçar a saúde das mulheres
 e mesmo fortalecer a ação de feiticeiros inimigos. Em minha tese, eu
 poderia utilizar as versões traduzidas das exegeses de encantamentos,
-mas não aquelas em língua hup. A tradução para a língua dos Brancos e a
+mas não aquelas em língua hup. A tradução para a língua dos brancos e a
 escrita geram um enfraquecimento das palavras e ações dos encantamentos,
 o que ajuda a “ocultar” os sentidos e diminuir os riscos do uso
 agressivo dos saberes ou do impacto prejudicial das ações.
@@ -16411,7 +16437,7 @@ formavam-se com o oferecimento feito pelo viajante recém-chegado.
 Oferecer a cachaça é uma maneira de expressar o sentimento de que, em
 sua incursão à cidade, a pessoa não se esqueceu dos parentes e de sua
 vida em /Ta̗t-Dëh/. À medida do efeito embriagante do álcool, a energia
-quente e agressiva dos Brancos começa a tomar conta dos corpos e
+quente e agressiva dos brancos começa a tomar conta dos corpos e
 expressões dos bebedores. “Seu merda”, “filho da puta”, “vai tomar no
 cú”, “burro” são ofenças proferidas por alguns dos participantes das
 rodas que começam a se desentender com parentes próximos. Nas rodas de
@@ -16421,8 +16447,8 @@ rapazes.
 
 Como na situação da queima das roças de coca, os xingamentos são vistos
 como uma /tä̗w ɨ̗d/, uma “fala furiosa” que manifesta potências
-destrutivas e, ao mesmo tempo, a força dos Brancos em si. Beber a
-cachaça e falar como os Brancos revelam uma complexa mimese através da
+destrutivas e, ao mesmo tempo, a força dos brancos em si. Beber a
+cachaça e falar como os brancos revelam uma complexa mimese através da
 qual os bebedores situam-se num campo de interação com esses Outros, o
 que torna possível o alinhamento de suas atenções, gestos e falas a
 partir da observação do comportamento violento desses Outros. Se as
@@ -16433,7 +16459,7 @@ violentas que marcam as viagens e as interações na cidade a partir de
 alinhamentos da atenção proporcinados pela cachaça. Num outro sentido, a
 escrita parece ser um modo de ação que, articulado às rodas de coca,
 abre a possibilidade de atenuar efeitos negativos da interação com os
-Brancos em suas escolas, igrejas e cidades. As “falas furiosas” e a
+brancos em suas escolas, igrejas e cidades. As “falas furiosas” e a
 escrita parecem ser modos de colocar-se em perspectiva e assumir o olhar
 e a agência de outrem (Viveiros de Castro, 1996; Carneiro da Cunha,
 1998).
@@ -16466,7 +16492,7 @@ nascentes dos morros mostram-se formas de relacionar-se, como ocorre com
 as otências da morada do Trovão e das Onças que dominam as
 armas-de-fogo e se enfurecem quando bebem cachaça, o consumo do
 destilado e a viagem à Casa-da-Cachaça parecem fazer o xamã assumir a
-perspectiva dos Brancos alinhando sua atenção e ação para um modo de
+perspectiva dos brancos alinhando sua atenção e ação para um modo de
 abdução da agressividade e força desses Outros num sentido próximo ao
 das rodas de cachaça na chegada dos viajantes. Algo que se aproxima do
 poder da faculdade mimética descrito por Taussig, “For this is where we
@@ -16502,7 +16528,7 @@ coca e a ardência da cachaça acompanham sorrisos e piadas que traduzem a
 sensação de terem vencido perigos e desafios nas aventuras pela cidade,
 uma imensa, fascinante e terrível Casa-da-Cachaça.
 
-Conviver com os Brancos, viajar para as cidades, estudar nas escolas
+Conviver com os brancos, viajar para as cidades, estudar nas escolas
 enfraquecem o corpo para a aquisição de habilidades xamânicas, ao mesmo
 tempo em que a escrita em língua hup e a tradução para o português
 enfraquecem a força das palavras dos encantamentos. Reversamente, as
@@ -16518,7 +16544,7 @@ revelam poderosas relações analógicas que tanto reestruturam fenômenos
 quanto conferem significado (Wagner, 2010, p. 69). A cachaça e a escrita
 demonstram, na aldeia, aquilo que a *coca de Marino* e a *carta ao
 prefeito indígena* procuravam revelar na cidade, ou seja, a importância
-da percepção de si como Hupd’äh interagindo com Brancos, Tukano, para
+da percepção de si como Hupd’äh interagindo com brancos, Tukano, para
 adquirir habilidades e substâncias outras, abduzir poderes que os
 permitam se posicionar em campos de percepção e ação englobantes para
 apreender pontos de vista em ressonância e retornar, proteger e curar os
@@ -16615,7 +16641,7 @@ sua indignação e tristeza.
 Como voltar à narrativa onírica sem entendê-la como um presságio da
 morte? Como não pensar no avião/voadeira como transformações temporais e
 materiais do beija-flor/canoa? Como não ver semelhanças entre os /K’ö̗d
-d’äh/, povo subterrâneo, e os Brancos de São Gabriel que, igualmente
+d’äh/, povo subterrâneo, e os brancos de São Gabriel que, igualmente
 indiferentes ao ancião, provocaram indiretamente seu acidente, fizeram
 seu /hã̗wäg/ deixar o corpo, e forneceram os meios de transporte para que
 esse velho hup voltasse para a sua terra? Novamente em /Ta̗t-Dëh/,
@@ -16644,7 +16670,7 @@ Artemio, sobre mim, sobre aquela conversa, e sobre aquela noite” (Gow,
 2001, p. 36).
 
 Enquanto a morte é marcada pela viagem à /Paç Pög/, a pessoa chega à
-vida conduzida pelo Rio-de-Leite como um ancestral. Em meio a minha
+vida conduzida pelo Rio de Leite como um ancestral. Em meio a minha
 convivência com os Hupd’äh, sofri a dor da perda de meu avô e tive a
 alegria de ver nascer minha filha Rosa. Sentando nas rodas, fui guiado
 por sentidos e habilidades que fazem as pessoas crescerem à medida que
@@ -16860,7 +16886,7 @@ muitos caminhos, Moradas Antigas, roças e Casas-de-Pedra estão sob o
 domínio de seres perigosos como as Onças, /Bisi̗w/ e /Döh Ã̗y/.
 Situando-nos pelos movimentos dessas paisagens, foi possível ver os
 deslocamentos para as cabeceiras dos antepassados, não como fugas diante
-da “invasão” de índios tukano (ou Betoya) e de Brancos; não como formas
+da “invasão” de índios tukano (ou Betoya) e de brancos; não como formas
 de alternar a utilização dos recursos de dadas áreas exauridas, mas como
 aproximações a centros/meios progenerativos para banhos e sonhos, modos
 de ação de viajantes que buscavam situar-se em meio às transformações
@@ -16876,10 +16902,10 @@ para deslocarem-se pela matriz dos múltiplos campos de rastros
 convergentes e retornarem, dia após dia, às rodas de coca. Na volta à
 aldeia, tais experiências fazem-nos cercar as famílias com paris de
 fumaça mais resistentes, guiar com mais atenção os recém-nascidos pelo
-Rio-de-Leite, contar narrativas e benzimentos enriquecidos em detalhes,
+Rio de Leite, contar narrativas e benzimentos enriquecidos em detalhes,
 e oferecer coca para acalmar mais diplomaticamente a fúria de habitantes
 das Casas celestes, terrestres e ribeirinhas. Passam a ser capazes de
-perceber com maior atenção o surgimento de Lagos-de-Leite no centro da
+perceber com maior atenção o surgimento de Lagos de Leite no centro da
 roda e de contribuir melhor com o crescimento de seus filhos, netos e
 das plantas de coca. Nas idas a São Gabriel, os senhores levam sua coca
 para proteger seus filhos e netos nessas paisagens urbanas. Levam suas
@@ -16901,7 +16927,7 @@ dos gestos de rodas de coca de minúsculos e abomináveis bichos do pé.
 Admirei com encantamento a vista do topo da Serra Grande como a paisagem
 da criação onde /K’e̖g Tẽh/ chamou e a humanidade respondeu. Intuí o
 crescimento de minha filha no ventre de minha esposa diante de um
-belíssimo Lago-de-Leite materno.
+belíssimo Lago de Leite materno.
 
 Tentando acompanhar a *organização da ação performática nela mesma*,
 descrevi o modo de estruturação das *performances* na diferenciação dos
@@ -16964,7 +16990,7 @@ no interior da Casa-dos-Animais. Andando envoltos pela pele da
 muçurana-canoa-caminho, os jovens acompanhavam os velhos senhores e
 aprendiam a situar-se em singularidades múltiplas, *máquinas de guerra
 nômades* poderosas, para afastar as jararacas, as onças, a terrível /Döh
-Ã̗y/ e os Brancos (Deleuze; Guattari, 1997). Seguindo para as serras, os
+Ã̗y/ e os brancos (Deleuze; Guattari, 1997). Seguindo para as serras, os
 andarilhos faziam-se pescadores a transitar pelos igarapés
 experimentando os poços, as iscas e o sabor de diferentes tipos de
 peixe. Como caçadores, interagiam com animais lançando flechas,
@@ -16992,15 +17018,15 @@ ensinamentos xamânicos femininos, enquanto minhas interlocutoras
 amamentavam, teciam, assavam o beiju ou ninavam seus filhos. Compreendi
 aos poucos que, seguindo para as roças, as gestantes fabricam seus
 corpos e fazem crescer seus fetos em movimento. E é em movimento que os
-xamãs conduzem a mãe e o recém-nascido pelo Rio-de-Leite, visitando as
+xamãs conduzem a mãe e o recém-nascido pelo Rio de Leite, visitando as
 Casas-do-Rio, banhando com águas puras e concentrando o sopro vital
 cercado no peito, na Casa-do-Pulsar. Com surpresa, entendi que, aos
 olhos dessas mulheres, minha filha crescia no ventre de Mariana diante
-de um Lago-de-Leite. Tão distante de minha casa, eu começava a aprender
+de um Lago de Leite. Tão distante de minha casa, eu começava a aprender
 com minhas interlocutoras a ser pai e a cuidar de minha filha em seus
 primeiros momentos de vida.
 
-Imbuído dessa sensibilidade íntima, tentei ver os Lagos-de-Leite a
+Imbuído dessa sensibilidade íntima, tentei ver os Lagos de Leite a
 surgir diante dos comedores de coca, no ventre da gestante, na vista da
 Serra Grande não como a projeção de imagens ou como símbolos para serem
 decodificados pelo analista, mas como vestígios, campos de rastros a
@@ -17098,7 +17124,7 @@ movimentos e que, seguindo, perfazem-se.
   M17. Viagem com as flautas                            320
   --------------------------                            ---
 
-  M18. “Serra-da-Iniciação”                             344
+  M18. “Serra da Iniciação”                             344
   -------------------------                             ---
 
   M19. A política da Cobra-Canoa                        367
@@ -17383,7 +17409,7 @@ Press.
 JACOPIN, Pierre-Yves. 2010. Structuralisme et ethnographie. Maguaré,
 Bogotá, Numero especial de homenaje a Claude Lévi-Strauss.
 
-JAGUAR CONSERVATION FUND. *A onça pintada*. Disponível em:
+JAGUAR CONSERVATION FUND. *A onça-pintada*. Disponível em:
 &lt;[*http://www.jaguar.org.br/pt/a-onca-pintada/index.html*](http://www.jaguar.org.br/pt/a-onca-pintada/index.html)&gt;.
 Acesso em: 18 mai. 2013.
 
@@ -17873,10 +17899,10 @@ concedidas a esta pesquisa.
     análises comparadas das ontologias desses povos vêm demonstrando que
     dois pressupostos podem ser destacados como próprios a esse tipo de
     perspectivismo. Para muitos desses povos, o mundo é povoado diversas
-    espécies de seres (inclusive não-humanos) dotados de consciência e
+    espécies de seres (inclusive não humanos) dotados de consciência e
     de cultura próprias, sendo que cada uma dessas espécies vê a si
     mesma como humana, e percebe todas as demais como espécies de
-    animais ou de espíritos (não-humanas).
+    animais ou de espíritos (não humanas).
 
 [^14]: Para a taxonomia de animais e plantas deste trabalho, tomo como
     referência o dicionário de Ramirez (2006). Conforme o dicionário:
@@ -18254,7 +18280,7 @@ concedidas a esta pesquisa.
     nutriz”, enquanto sob a forma figurada, uma mulher adúltera, algo
     que faz pensar na /Dö̗h Ã̗y/ como a mãe de dois filhos e protetora dos
     animais, mas como uma mulher lasciva e devoradora de homens, que
-    encontra no Macaco da Noite, um pênis grande, seu par amoroso
+    encontra no Macaco-da-Noite, um pênis grande, seu par amoroso
     (Lévi-Strauss, 2004a, p. 287- 288).
 
 [^98]: A comparação da percussão ritual ao chamado sedutor da caça pelos
