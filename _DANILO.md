@@ -9725,7 +9725,7 @@ associados muito intimamente aos xamãs, que, embora sejam reconhecidos
 como humanos, ocupam a mais ambígua e marginal das posições na sociedade
 humana”. citação -->
 
-<!-- Fig. 20 -->
+<!-- Fig. 19 -->
 Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)
 
 Em **B5**, penetrando a onça pequena, Ponciano mostra-se igualmente como um
@@ -9942,7 +9942,7 @@ aderiam a minha pessoa como os atributos da fera com os quais o xamã se
 vestia. Se minha presença e pesquisa tinham motivado a viagem às serras,
 tinham também colocado o grupo em risco e, por isso, havia a necessidade
 do pajé proteger-nos, munindo-se da sua roupa cósmica mais poderosa, o
-corpo da onça-preta. Consumindo o parica em sua morada, o xamã passava
+corpo da onça-preta. Consumindo o paricá em sua morada, o xamã passava
 por uma transformação ritual que estabelecia sua identidade felina a
 partir da condensação de conotações contraditórias que o metamorfoseavam
 de presa em predador, capaz de proteger envolvendo os andarilhos pelos
@@ -10019,12 +10019,12 @@ muitas conversas que tive com meus companheiros sobre os encontros com
 /Dö̗h Ã̗y/, os caçadores traduzem seu nome para o português como
 “Curupira”, o que evidencia seu papel protetor. Para caçar é preciso
 ocultar-se nas valas à beira-rio e estar atento aos gritos que são o
-chamado da predadora. Retomando o trabalho de Reid (1979), o autor
+chamado da predadora. Retomando o trabalho de Reid, o autor
 menciona que depois de mortas, algumas almas femininas retornam à Terra
 para caçar, sendo essa uma das inversões que ocorrem quando as almas dos
 mortos passam a habitar a zona superior do cosmos. A existência livre de
 doenças e de fome são igualmente mudanças que diferenciam os mortos dos
-vivos (Reid, 1979, p. 230). Caçadora como as “almas” femininas, /Dö̗h Ã̗y/
+vivos. Caçadora como as “almas” femininas, /Dö̗h Ã̗y/
 é, entretanto, uma “protetora dos animais” e uma devoradora de gente hup
 que habita a região das cabeceiras.
 
@@ -10035,16 +10035,16 @@ sonora” que o situa na posição de par amoroso da vítima. Essa descrição
 permite ver como a interação dos viajantes hup com os animais se
 aproxima das observações de Reichel-Dolmatoff para os Desana,
 
-> *A relação entre o homem caçador e sua presa tem, então, um componente
-> marcadamente er*
->
-> *ótico. De fato, a caça é praticamente uma sedução, um ato sexual, um
-> evento que deve ocorrer com grande cuidado e obedecer a normas
-> estritas. \[...\] A ideia manifesta vem a ser a de incitar sexualmente
-> os animais para que se aproximem e se deixem matar, o que é em si,
-> novamente, um ato sexual de domínio* (1986, p. 255).
+<!--estilo de citação-->
+ A relação entre o homem caçador e sua presa tem, então, um componente
+ marcadamente erótico. De fato, a caça é praticamente uma sedução, um ato sexual, um
+ evento que deve ocorrer com grande cuidado e obedecer a normas
+ estritas. \[...\] A ideia manifesta vem a ser a de incitar sexualmente
+ os animais para que se aproximem e se deixem matar, o que é em si,
+ novamente, um ato sexual de domínio. (1986, p. 255)
+<!--estilo de citação-->
 
-Em M4, /Dö̗h Ã̗y/ surge como uma mulher hup. Ela é assassinada pelo marido
+Em **M4**, /Dö̗h Ã̗y/ surge como uma mulher hup. Ela é assassinada pelo marido
 devido à dor que sua vagina exacerbada causava no pênis pequeno do
 homem. A vítima renasce e vinga-se do cônjuge. Veste sua roupa de /Dö̗h
 Ã̗y/ e devora-o vivo. Sacia assim seu apetite gustativo, mas, para saciar
@@ -10068,9 +10068,9 @@ tempo, a roupa é uma /wayrö̖’-tëg/, um veículo que permite à mulher-fera
 voar de morro em morro e perseguir seus inimigos com grande agilidade.
 /Wayrö̖’-Tëg/ é também a palavra em língua hup para avião, o admirável
 veículo de voo considerado como um grande poder dos brancos.
-
-[]{#Fig40_RoupaDoh .anchor}Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho:
-M’e̖h Sɨh/Samuel Brasil Monteiro)
+	
+<!--Fig. 20-->
+Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Monteiro)
 
 A roupa cósmica dessa caçadora de gente hup torna-se especialmente
 interessante, já que se trata de um corpo humano envolto em uma roupa de
@@ -10080,25 +10080,27 @@ seus atributos e perspectivas. Os animais despem-se de seus trajes para
 revelar suas essências humanas. O traje feminino sedutor pode ser visto
 como uma alta costura capaz de tramar a violência e terror dos brancos
 com as linhas de sua corporalidade revestida pelas roupas de pano e pela
-predação animalesca. Reid (1979) ressalta que os Hupd’äh percebem os
+predação animalesca. Reid ressalta que os Hupd’äh percebem os
 brancos como seres dotados de “forte raiva” como os espíritos da
 floresta e como os Tukano. Em suas palavras,
 
-> Todos eles organizam seus assentamentos a partir de padrões elaborados
-> e possuem hábitos peculiares como as restrições e os desvios sexuais e
-> alimentares. \[...\] Todos eles partilham uma característica que é
-> particularmente não humana do ponto de vista dos Hupdʉ: possuem /Toew
-> Pubm/ – forte raiva. \[...\] A associação que eles fazem entre raiva e
-> poderes sobrenaturais leva os Hupdʉ a concluirem que os Não Indígenas
-> possuem considerável poder xamânico. No pensamento dos Hupdʉ esse
-> ponto é confirmado através da superioridade tecnológica dos Não
-> Indígenas. Certamente, na região do Uaupés, a superioridade
-> tecnológica levou primeiramente à dominação política dos Índios do rio
-> e, posteriormente, dos não Indígenas. A analogia vai mais além, por
-> equacionar a relação entre poder tecnológico e poder espiritual.
-> \[...\] Como essas qualidades são exageradas, os não Indígenas são
-> vistos mais como espíritos da floresta e como os índios Maku distantes
-> \[…\] *(Reid, 1979, p. 212-3).*
+<!--estilo de citação-->
+ Todos eles organizam seus assentamentos a partir de padrões elaborados
+ e possuem hábitos peculiares como as restrições e os desvios sexuais e
+ alimentares. \[...\] Todos eles partilham uma característica que é
+ particularmente não humana do ponto de vista dos Hupdʉ: possuem /Toew
+ Pubm/ – forte raiva. \[...\] A associação que eles fazem entre raiva e
+ poderes sobrenaturais leva os Hupdʉ a concluirem que os Não Indígenas
+ possuem considerável poder xamânico. No pensamento dos Hupdʉ esse
+ ponto é confirmado através da superioridade tecnológica dos Não
+ Indígenas. Certamente, na região do Uaupés, a superioridade
+ tecnológica levou primeiramente à dominação política dos Índios do rio
+ e, posteriormente, dos não Indígenas. A analogia vai mais além, por
+ equacionar a relação entre poder tecnológico e poder espiritual.
+ \[...\] Como essas qualidades são exageradas, os não Indígenas são
+ vistos mais como espíritos da floresta e como os índios Maku distantes
+ \[…\] (Reid, 1979, p. 212-3).
+ <!--estilo de citação-->
 
 A tecnologia, os hábitos sexuais e alimentares combinam-se à raiva e
 dotam os brancos de poderes xamânicos e de semelhança com /b’atɨ̖b’/,
@@ -10127,35 +10129,33 @@ negativa entre os Hupd’äh e a mulher antropófaga. Diferente do roubo aos
 padres e freiras que levam os missionários a se afastarem, a caça causa
 a ira desse ente que se aproxima dos Hupd’äh para matá-los.
 
-Retomando B5, a pele da muçurana que reveste os viajantes pode também
+Retomando **B5**, a pele da muçurana que reveste os viajantes pode também
 ser vista como uma roupa cósmica, não individual, mas coletiva, uma
-roupa que é um caminho cercado. Pensando com Deleuze e Guattari (1995),
+roupa que é um caminho cercado. Pensando com Deleuze e Guattari,
 esse *devir-muçurana* é uma posição de massa por meio da qual o sujeito
 assume uma posição em relação à multiplicidade-muçurana. Dentro da
 muçurana, a maneira como cada pessoa hup liga-se à “multiplicidade
 caminhante” é fundamental para que todos rumem como um “corpo povoado de
-multiplicidades”, como uma serpente-caminho (Deleuze; Guattari, 1995, p.
-57). De forma semelhante, os viajantes posicionam-se no interior do
+multiplicidades”, como uma serpente-caminho. De forma semelhante, os viajantes posicionam-se no interior do
 território de um xamã-onça, e buscam predar os animais situados no
 domínio de /Dö̗h Ã̗y/. Produzida pelo benzedor, a pele da muçurana, uma
 devoradora de jararacas, é uma roupa para vestir e cercar a
 multiplicidade, mas é também uma arma móvel, uma “máquina de guerra
-nômade” que faz dos andarilhos uma temível serpente predadora (Deleuze;
-Guattari, 1995).
+nômade” que faz dos andarilhos uma temível serpente predadora.
 
 Os sonhos que Ponciano e Valter tiveram antes de rumarmos para
 /D’o̗k-Paç/ e /Ni̗k-Hũ̗-Paç/ foram bons presságios. Para o primeiro, as
 moças caminhando para a roça chupavam cana e aceitaram “namorar” com o
 velho. Ponciano ria enquanto contava. Chupar cana e aceitar a companhia
 de um homem quando se vai à roça surgem como convites para o intercurso
-sexual. Em S2, como em M4, a satisfação alimentar acompanha a satisfação
+sexual. Em **S2**, como em **M4**, a satisfação alimentar acompanha a satisfação
 sexual das moças, e é o senhor hup que aparece como dotado de um apetite
 sexual exacerbado, já que acompanha não uma, mas algumas jovens à roça.
 Entendendo o intercurso sexual a partir da caça, pode-se dizer que
 Ponciano e Valter se situam na posição de predadores como /Dö̗h Ã̗y/. De
 forma parecida, /Tud Asa̗w/, uma moça ancestral, jogava água e lama nos
 rapazes para seduzi-los, sendo, como /Dö̗h Ã̗y/, uma mulher dotada de um
-apetite sexual exacerbado. Na análise de M4, o grito de /Dö̗h Ã̗y/, uma
+apetite sexual exacerbado. Na análise de **M4**, o grito de /Dö̗h Ã̗y/, uma
 mulher lasciva, evidenciava o caráter sedutor do chamado aos
 caçadores-presas. Desse modo, é possível dizer que como uma caçadora,
 /Dö̗h Ã̗y/ grita, como uma mulher Branca, ela veste seu traje de gala para
