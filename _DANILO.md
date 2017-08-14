@@ -3327,7 +3327,7 @@ GPS, a câmera fotográfica e as pilhas.
 Os viajantes vieram todos à casa de Américo, onde eu estava. Sentamos,
 conversamos, comemos  fumamos juntos. Acertamos os últimos detalhes da
 viagem. “Vamos comer bem na mata, o Demétrio é bom caçador. Ele vai
-matar /ha̖t/, /moytu̖d/, /yë̖w/[,dizia Mandu enquanto pegava um pouco
+matar /ha̖t/, /moytu̖d/, /yë̖w/ , dizia Mandu enquanto pegava um pouco
 de minha farinha e uma rede emprestada. As crianças passavam correndo e
 brincavam dizendo que as onças iam me comer, que a /Dö̗h A̗͂y/ ia me levar
 embora. Todos estavam com suas botas de borracha calçadas para a
@@ -3801,7 +3801,7 @@ onças que tinham começado a rondar nosso acampamento. Seus rugidos
 denunciavam a presença das feras não muito longe. Mandu contava sobre os
 animais do zoológico que tinha visto na “minha terra”, São Paulo, num
 tipo de encontro com animais completamente distinto daquele
-experienciado nas caminhadas. “Branco”, eu também era
+experienciado nas caminhadas. “branco”, eu também era
 “gente do barulho da arma de fogo”, e minha presença gerava tanto
 aproximações quanto distanciamentos. Imagino que o benzimento protegesse
 também contra a minha presença, já que muitos seres como a /Dö̗h A̗͂y/ não
@@ -6816,7 +6816,7 @@ pequeno). Entro e fico em pé com seu cigarro. Sopro a fumaça do tabaco.
  Outro dia nós vemos essa gente. \[...\]
 
 3º mov. Retorno e falo para os aracus pequenos do Igarapé-Grande onde há
-essa gente do Igarapé-Branco (...). Entro e fico em pé com meu cigarro
+essa gente do Igarapé-branco (...). Entro e fico em pé com meu cigarro
 para que eles entrem em sua casa com seu cigarro, com seu sopro vital.
 
  *(Com.)* Essa fumaça do tabaco é pari dentro do corpo para esconder o
@@ -6867,13 +6867,13 @@ certa escassez de fumo. Nos últimos dias de meus períodos de campo,
 muitos dos participantes aproximavam-se de mim e diziam que ficariam com
 saudades e que suas “bocas chorariam por não haver mais meu oferecimento
 de tabaco”, /hũ̖t pã, noh-köd otoy/. A troca do tabaco pela coca e minha
-identidade de Branco pesquisador fizeram com que logo eu fosse chamado
+identidade de branco pesquisador fizeram com que logo eu fosse chamado
 jocosamente de /hũ̖t yo’o̖m ĩh/, “dono do tabaco”.
 
 Se, como visto, /K’e̖g Tẽh/, Semente de Tabaco e os pais são aqueles que
 “dão tabaco”, num tempo em que o fumo é comprado e fabricado pelos
 brancos, a piada explicitava uma justaposição do tipo: “dono
-Branco/tabaco branco”. Diferente da reciprocidade da dádiva do tabaco, a
+branco/tabaco branco”. Diferente da reciprocidade da dádiva do tabaco, a
 compra coloca-se como uma forma de troca diferente, própria dos brancos,
 através da qual eu era visto como alguém que tinha riqueza: /A̗m hũ̖t
 rico/, “Você é rico em tabaco”, diziam. Essa troca, estabelecida com os
@@ -9048,7 +9048,7 @@ cabeceiras. De modo interessante, o missionário tornava-se um caminhante
 e viajava pelos caminhos hup. Entendo que, tirando a imagem cristã da
 beira do lago, o “pessoal de /To͂h-Hayam/” busca interromper a
 identificação entre “lugar sagrado” e o “lugar sagrado cristão” e entre
-“viajantes hup” e “viajante Branco”. Semanas antes, numa roda de coca,
+“viajantes hup” e “viajante branco”. Semanas antes, numa roda de coca,
 Ponciano fez todos os presentes rirem quando contou dos padres e freiras
 que chegaram primeiro às aldeias hup.
 
@@ -9647,7 +9647,7 @@ daqueles dias em que caminhávamos, ele consumiu paricá e viajou com seu
 “onça-preta”, e nos observava de longe. Rindo, contou que o tínhamos
 visto no alto de /Ni̗k-Hũ̗-Paç/ e que corremos de medo. Olhando em meus
 olhos e afagando minha barba, Armando disse que meu bigode era de onça.
-Meu cheiro, de Branco, podia ser sentido à distância pelas onças e pela
+Meu cheiro, de branco, podia ser sentido à distância pelas onças e pela
 /Dö̗h Ã̗y/, o que tornara nossa viagem muito perigosa. Por isso, ele teve
 que nos acompanhar, seguir conosco /hã̗wägat/, viajando como
 pessoa-sopro, com seu /se͂he̖͂k hãwäg/, “sopro de paricá”.
@@ -9936,7 +9936,7 @@ seja por isso que, ao observar-nos, o anfíbio não se amedrontou. Os
 viajantes, por sua vez, evitaram caçá-la ainda que sua captura pudesse
 render muita carne.
 
-Afagando meu bigode, o pajé falava de minha semelhança, enquanto Branco,
+Afagando meu bigode, o pajé falava de minha semelhança, enquanto branco,
 com as onças. O cheiro forte, a violência, as armas-de-fogo, a cachaça
 aderiam a minha pessoa como os atributos da fera com os quais o xamã se
 vestia. Se minha presença e pesquisa tinham motivado a viagem às serras,
@@ -10074,7 +10074,7 @@ Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Mo
 
 A roupa cósmica dessa caçadora de gente hup torna-se especialmente
 interessante, já que se trata de um corpo humano envolto em uma roupa de
-Branco que dota essa vingadora de atributos comuns à onça e aos
+branco que dota essa vingadora de atributos comuns à onça e aos
 caçadores hup. Os humanos se vestem com roupas de animais para assumir
 seus atributos e perspectivas. Os animais despem-se de seus trajes para
 revelar suas essências humanas. O traje feminino sedutor pode ser visto
@@ -10163,20 +10163,20 @@ o ataque.
 
 Em um artigo de 1998, Descola propõe três modelos para entender a
 variação nas atitudes dos caçadores ameríndios quanto à caça. O caso do
-povo Desana é tomado pelo antropólogo como compondo um *modelo da
-reciprocidade* regido por um princípio de equivalência entre homens e
+povo Desana é tomado pelo antropólogo como compondo um modelo da
+reciprocidade regido por um princípio de equivalência entre homens e
 animais que fazem parte de um mesmo cosmos. Tomado como um circuito
 fechado homeostático, os xamãs negociam com os donos a troca de
 “espíritos” humanos por animais, visando sempre ao equilíbrio. Já o
 *modelo de predação* teria como exemplo os Jivaro, que não oferecem
 nenhuma compensação pela vida da caça, sendo apenas os excessos punidos
-pelos donos dos animais. O *modelo da dádiva* seria aquele em que o
+pelos donos dos animais. O modelo da dádiva seria aquele em que o
 animal, percebido como afim ou consanguíneo, atende voluntariamente ao
 pedido do caçador de ceder-lhe sua roupa (corpo), do qual ele se desfaz
 conservando sua alma sem pedir nada em troca. Essa interação ocorreria
-principalmente nos Andes centrais do Peru (Descola, 1998, p.37-38).
+principalmente nos Andes centrais do Peru.
 
-Partindo da reflexão de Descola (1998), creio que a caçadora vingativa,
+Partindo da reflexão de Descola, creio que a caçadora vingativa,
 dona dos animais, explicite traços da forma de interação dos viajantes
 hup com os animais como situada entre a reciprocidade erótica e a
 predação. Os chamados dos caçadores seduzem as prezas, atraindo-as. A
@@ -10184,12 +10184,12 @@ destreza e ética do caçador envolvem a precisão na flecha ou no golpe
 mortal desferido com atenção e silêncio. O momento do ataque aproxima-se
 mais de um confronto em que os homens e os animais revelam suas armas
 primordiais, que de um coito, como leva a crer a descrição de
-Reichel-Dolmatoff (1986) sobre os Desana. Haja vista a preocupação do
+Reichel-Dolmatoff sobre os Desana. Haja vista a preocupação do
 caçador, após o triunfo da batalha, em identificar e retirar as armas
 originárias presentes na anatomia dos animais, descritas pela “linguagem
-dos benzimentos”, /bi’i̖d ɨ̗d/. Como será visto mais à frente, da mesma
+dos benzimentos”, /bi’i̖d ɨ̗d/.  Como será visto mais à frente, da mesma
 forma que a onça delimita seu território nas cabeceiras fazendo com que
-os animais aumentem populacionalmente, o xamã e os *donos dos animais*
+os animais aumentem populacionalmente, o xamã e os donos dos animais
 cercam as Casas-dos-Animais para que realizem seus Dabucuris e se
 reproduzam. Havendo necessidade, os xamãs abrem essas casas ou conversam
 com seus donos, oferecem almas humanas e/ou tabaco para que os animais
@@ -10222,21 +10222,21 @@ benzedor ao criar um círculo de fumaça, movendo-se como uma onça que nos
 inseria dentro de seu território. De forma semelhante, voando de morro
 em morro, /Dö̗h Ã̗y/ cerca seus protegidos e espera os caçadores.
 
-### No caminho da lagarta do tabaco
+##No caminho da lagarta do tabaco
 
-Retomando B5, os viajantes rumam para as Casas-de-Pedra envoltos na pele
+Retomando **B5**, os viajantes rumam para as Casas-de-Pedra envoltos na pele
 da muçurana que é, ela mesma, um caminho, uma canoa e uma roupa para
 cercar os andarilhos, metamorfoseando-os numa predadora de jararacas.
 Antes de iniciar-se a viagem hup, a tartaruga navega em sua casa/canoa
 para a cabeceira e afasta as nuvens à medida que corta a água com seus
-remos (B3). O benzedor lança seu braço como Moisés. Seu sopro de fumaça
-faz as nuvens rumarem para a cabeceira (B4). Tendo as cabeceiras como
+remos (**B3**). O benzedor lança seu braço como Moisés. Seu sopro de fumaça
+faz as nuvens rumarem para a cabeceira (**B4**). Tendo as cabeceiras como
 pontos de referência, o xamã imita as ações da tartaruga, do profeta e
 da muçurana, e cerca os percursos a partir da Casa-do-Trovão para que os
 viajantes abram os caminhos que entrelaçam as casas, os mundos e as
 vidas dos Hupd’äh às de seus ancestrais.
 
-Um dos movimentos importantes do encantamento (B5) vem a ser o
+Um dos movimentos importantes do encantamento (**B5**) vem a ser o
 posicionamento do xamã no caminho da lagarta da folha do tabaco. Ele
 entra na comunidade dos filhos da lagarta pequena por sobre seu banco de
 leite, segurando seu pedaço de tabaco. Uma vez dentro dessa morada, ele
@@ -10254,39 +10254,38 @@ torna-se especialmente relevante para o xamã, pois é capaz de fabricar
 um casulo, sua “rede”, fazer crescer suas asas, virar mariposa e voar.
 Como observa Reid, a habilidade de transformação de espécies de
 mariposas, morcegos, cobras e onças leva os Hupd’äh a vê-los mais como
-“espíritos” do que como animais (1979, p. 257).
+“espíritos” do que como animais.
 
 As mariposas (*manduca* *quinquemaculata* ?) procuram as folhas de
 tabaco para desovarem e são, ao mesmo tempo, importantes polinizadoras
 que auxiliam na reprodução das plantas de tabaco. As larvas alimentam-se
 do tecido vegetal e tornam-se lagartas que, posteriormente, comporão seu
-casulo para a metamorfose e o voo (Kessler; Diezel; Baldwin, 2010). A
+casulo para a metamorfose e o voo. A
 planta de tabaco é o “caminho” ao longo do qual as lagartas se deslocam,
 o “alimento” que as nutre a partir das folhas e a “aldeia” onde os
-“filhos” nascem e se desenvolvem. Em B1, o benzedor busca interromper a
+“filhos” nascem e se desenvolvem. Em **B1**, o benzedor busca interromper a
 identificação entre o comedor de coca e a lagarta da coca, que oferece
 seu caarpi enlouquecedor, passa o dia todo em sua rede e, devorando a
 coca, preda uma essência vital humana. Por outro lado, a mariposa, que
 se desloca de planta em planta e dá o tabaco, a vida e os caminhos a
 seus filhos, pode ser vista como um ser análogo aos xamãs que, de aldeia
 em aldeia, de casa em casa, pacificam os inimigos, mobilizam os animais
-auxiliares e dão tabaco a seus filhos para que cresçam sem doenças (B2).
+auxiliares e dão tabaco a seus filhos para que cresçam sem doenças (**B2**).
 
 Abrindo os caminhos antigos com os jovens viajantes, os mentores
 conduziam-nos de morro em morro, de morada antiga em morada antiga,
 integrando-os em uma região de memórias e afetos que, a todo instante,
 fazia emergir gostos, palavas e paisagens da infância e juventude de
 nossos guias, dos tempos de Semente de Tabaco e dos missionários. As
-visitas às Casas-de-Pedra inseriam-nos numa *forma específica de
-interação,* um modo de coabitar com Semente de Tabaco, seguir seus
-rastros, imitar seus gestos e encontrar os ancestrais (Houseman; Severi,
-2009). As águas das nascentes e os vômitos purificam o corpo para nutrir
+visitas às Casas-de-Pedra inseriam-nos numa forma específica de
+interação, um modo de coabitar com Semente de Tabaco, seguir seus
+rastros, imitar seus gestos e encontrar os ancestrais.
+As águas das nascentes e os vômitos purificam o corpo para nutrir
 o pensamento a partir dessas “rodas de coca oníricas”. A interação
 “dentro da caverna” potencializa as rodas de coca “fora da caverna” e
 assegura a eficácia da proteção e da cura agenciadas pelos xamãs. Entre
 o interior e o exterior das Casas-de-Pedra, diversas multiplicidades
-coexistem, penetram-se e mudam de lugar (Deleuze; Guattari, 1995, p.
-64).
+coexistem, penetram-se e mudam de lugar.
 
 Depois que saiu de /Pi̖j-Dëh/, o pai de Ponciano foi primeiro para
 /Ya̖k-Dëh-Mo̖y-Hö̖d/, contou o mentor em nosso percurso a /Hõpoy-Paç/. De
@@ -10304,11 +10303,11 @@ deslocamento do ancestral /Ya̖k/ atinge a distante terra do Irati.
 Ressalta, talvez, quão imensa poderia ser a amplitude da região de
 mobilidade dos grupos hup.
 
-Os *atos de relembrar* de Ponciano e José iam constituindo nossos
-*percursos de observação* como caminhos vividos que mesclavam nossos
+Os atos de relembrar de Ponciano e José iam constituindo nossos
+percursos de observação como caminhos vividos que mesclavam nossos
 movimentos àqueles dos ancestrais. Os caminhos antigos, as
 Casas-de-Pedra e as Moradas Antigas parecem apontar, como já afirmava
-Reid (1979), para uma existência social e convívio de longa duração
+Reid, para uma existência social e convívio de longa duração
 nessas regiões. Há semelhança entre os itinerários dos ancestrais e
 aqueles dos pais e avós dos viajantes hup. A identificação de tantos
 assentamentos, lugares sagrados, artefatos, a reabertura de caminhos
@@ -10321,23 +10320,23 @@ morro ao outro. Concentrando-se na região dos morros até a década de
 “primeiros Hupd’äh”.
 
 Com base no estudo de toponímias e nas observações de viagem,
-Koch-Grünberg (1906/2010) propõe que os Maku, inclusos os Hupd’äh,
+Koch-Grünberg propõe que os Maku, inclusos os Hupd’äh,
 seriam os descendentes de antigas tribos que teriam povoado o Uaupés e
 depois sido comprimidos e fusionados pelos Aruaque e Tukano (Betoya),
-vindos do oeste e sudoeste (2010, p. 33). Mais tarde, Nimuendajú
+vindos do oeste e sudoeste. Mais tarde, Nimuendajú
 revalida tal hipótese afirmando a vida errante dos Maku que,
 desconhecendo a cerâmica, a lavoura, a arte têxtil e as habitações
 permanentes, seriam populações de cultura rudimentar que habitam os
-centros da mata (1950, p. 169). O *afastamento para as cabeceiras*
+centros da mata. O afastamento para as cabeceiras,
 ocasionado pela ocupação territorial tukana é afirmado por Bruzzi Alves
-da Silva (1962), e figura, na visão de Métraux (1963), como um
+da Silva, e figura, na visão de Métraux, como um
 deslocamento populacional face ao contato com os não indígenas, que
 teria resultado numa cultura decadente de grupos Maku-Nômades,
 descendentes de antigos Maku ribeirinhos e agricultores. Por fim, Reid
-(1979) toma como referência as narrativas hup para dizer que os Hupd’äh
+toma como referência as narrativas hup para dizer que os Hupd’äh
 teriam vindo do leste e chegado àquela região. Seus ancestrais tinham na
-caça e na coleta suas atividades principais. O *afastamento extremo para
-as cabeceiras* foi simultâneo ao avanço da empresa da borracha, sendo a
+caça e na coleta suas atividades principais. O afastamento extremo para
+as cabeceiras foi simultâneo ao avanço da empresa da borracha, sendo a
 agência missionária um fator crucial para a fixação recente dos grupos
 hup nas grandes aldeias ribeirinhas.
 
@@ -10360,29 +10359,31 @@ habitações ctônicas. Tomando as cabeceiras, e não os grandes rios, como
 pontos de partida para observar os movimentos dos grupos populacionais
 hup, deixam-se de ter grupos hup “pressionados” ou “refugiados” face ao
 inexorável avanço dos Tukano e Aruaque, ou dos brancos. Há, sim, grupos
-hup que se aproximam desses *centros/meios progenerativos* para, a
+hup que se aproximam desses centros/meios progenerativos para, a
 partir deles, lançar seus paris e interagir com esses Outros que são
 Onças, Trovão, jararacas, Tukano, brancos, /Dö̗h Ã̗y/, vestidos e armados
 para trocas e combates, para a reciprocidade e para a predação.
 
-É no percurso *entre* as rodas de coca, os caminhos e as Casas-de-Pedra,
+É no percurso entre as rodas de coca, os caminhos e as Casas-de-Pedra,
 movendo-se como pessoa-corporificada, como pessoa-sopro ou como
 pessoa-onça vestida, que múltiplas condensações rituais ocorrem a partir
-do modo como os viajantes se posicionam num *campo de rastros* deixados
+do modo como os viajantes se posicionam num campo de rastros deixados
 pelos ancestrais, presas, feras, brancos, etc. Tomando as palavras de
 Deleuze e Guattari,
 
-> *De um lado, as multiplicidades extensivas, divisíveis e molares;
-> unificáveis, totalizáveis, organizáveis; conscientes e pré-conscientes
-> – e, de outro, as multiplicidades libidinais inconscientes,
-> moleculares, intensivas, constituídas de partículas que não se dividem
-> sem mudar de natureza, distâncias que não variam sem entrar em outra
-> multiplicidade, que não param de fazer-se e desfazer-se, comunicando,
-> passando umas nas outras no interior de um limiar, ou além ou aquém.
-> Os elementos destas últimas multiplicidades são partículas; suas
-> correlações são distâncias; seus movimentos são brownoides; sua
-> quantidade são intensidades, são diferenças de intensidade* (1995, p.
-> 60).
+<!--estilo de citação-->
+ De um lado, as multiplicidades extensivas, divisíveis e molares;
+ unificáveis, totalizáveis, organizáveis; conscientes e pré-conscientes
+ – e, de outro, as multiplicidades libidinais inconscientes,
+ moleculares, intensivas, constituídas de partículas que não se dividem
+ sem mudar de natureza, distâncias que não variam sem entrar em outra
+ multiplicidade, que não param de fazer-se e desfazer-se, comunicando,
+ passando umas nas outras no interior de um limiar, ou além ou aquém.
+ Os elementos destas últimas multiplicidades são partículas; suas
+ correlações são distâncias; seus movimentos são brownoides; sua
+ quantidade são intensidades, são diferenças de intensidade. (1995, p.
+ 60)
+ <!--estilo de citação--> 
 
 Descrevendo a estrutura das rodas de coca, foi possível entender como a
 interação dono/apanhador situa ritualmente diferenças de clãs e de
@@ -10394,34 +10395,35 @@ deslocamentos oníricos aliam-se às andanças pelos caminhos e aos vômitos
 nos /ho̗n hö̖d/ para explicitar esse longo processo ritual composto por
 linhas de fuga, itinerários que situam formas de desterritorialização, e
 permitem ver a matriz dessas ações ritualizadas não apenas como
-*centros*, mas também como *meios de progeneração da vida*. Situando
-suas percepções e ações ao longo de um *campo complexo de ações
-ritualizadas convergentes*, de *campos de rastros*, os sujeitos guiam-se
+centros, mas também como meios de *progeneração* da vida. Situando
+suas percepções e ações ao longo de um campo complexo de ações
+ritualizadas convergentes, de campos de rastros, os sujeitos guiam-se
 por direções movediças entre a aldeia, o caminho e o morro; nem
 sedentários nem nômades, e muito menos seminômades, os viajantes
 caminham por paisagens selvagens, ctônicas, lácteas, celestes que os
 levam ao encontro de ancestrais, feras, vingadores antropófagos,
-tartarugas e profetas. As Casas-de-Pedra são assim *centros/meios de
-progeneração da vida*, que posicionam os benzedores dentro de uma
+tartarugas e profetas. As Casas-de-Pedra são assim centros/meios de
+*progeneração* da vida, que posicionam os benzedores dentro de uma
 Casa-do-Trovão às margens do Lago de Leite. De lá, os viajantes aprendem
-a lançar seus paris e a transformar todos os caminhos em Rios-de-Leite
+a lançar seus paris e a transformar todos os caminhos em Rios de Leite
 para a navegação numa Cobra-Canoa que os leva aos morros e à cidade de
 São Gabriel.
 
-Lagos de Leite 
----------------
+
+#Lagos de Leite 
+
 
 *Que nada, *
 
-> *Minha porção mulher que até então se resguardara*
+*Minha porção mulher que até então se resguardara*
 
 *É a porção melhor que trago em mim agora,*
 
 *É o que me faz viver.*
 
-> (Gilberto Gil)
+(Gilberto Gil)
 
-### /Bisi̗w/ e a Casa-dos-Animais
+## /Bisi̗w/ e a Casa-dos-Animais
 
 O chão ressoa a cada passo. Dentro da Casa-dos-Animais, a superfície
 rochosa reveste o interior oco do morro. O granito reverbera os
@@ -10434,7 +10436,7 @@ surgir a qualquer momento e aniquilar os viajantes.
 Era para essa caverna que antigos xamãs, benzedores e pajés, rumavam
 quando a escassez das presas fazia a fome assolar as aldeias. No
 interior é possível ver ainda a grande pedra sobre a qual era aberta uma
-folha de bananeira. Um dos vijantes, munido com um bastão, arremessava
+folha de bananeira. Um dos viajantes, munido com um bastão, arremessava
 sua arma com toda força contra o tecido rochoso. O estrondo penetrava o
 morro com seus ecos ordenando aos animais que abandonassem sua morada e
 ascendessem para a superfície terrestre.
@@ -10452,25 +10454,27 @@ pessoa- sopro até a morada dos animais e encontra o /Bisi̗w/. Conversando
 diplomaticamente, procura fazê-lo liberar presas para circularem pelas
 matas. Como descreve Reid,
 
-> *Pensa-se que essas “casas” são subterrâneas, com acesso ao chão da
-> floresta através de buracos e cavernas. Diz-se que cada uma dessas
-> casas é muito semelhante a este Mundo superior, têm suas próprias
-> malocas, plantações, igarapés e florestas, etc. Cada um deles é
-> controlado por um Nyo’om I \[…\] um “mestre”. Alguns desses mestres
-> espirituais possuem uma existência solitária, como é o caso de Dohai
-> \[…\]. Outros são mestres das “casas dos animais”, \[...\] e possuem
-> um papel importante no controle de todas as espécias de caça e dos
-> animais em geral. Além desses mestres dos animais generalizados, há
-> casas florestais controladas por mestres espirituais de cada espécie
-> de animal em particular. Embora os Hupdʉ sejam cientes de que os
-> animas se reproduzem nessa Terra, eles também acreditam que alguns
-> mestres de espécies criam-nos em suas casas subterrâneas. \[...\] De
-> tempos em tempo, quando a caça se torna escaça, os xamãs podem entrar
-> em contato com esses mestres espirituais e pedir-lhes que liberem mais
-> animais para a floresta. Alguns Hupdʉ afirmaram que essas transações
-> envolvem o pagamento da liberação de caça com almas humanas, enquanto
-> outros disseram que os xamãs oferecem dádivas de fumaça de tabaco
-> apenas aos mestres espirituais* (Reid, 1979, p. 261).
+<!--estilo de citação--> 
+ Pensa-se que essas “casas” são subterrâneas, com acesso ao chão da
+ floresta através de buracos e cavernas. Diz-se que cada uma dessas
+ casas é muito semelhante a este Mundo superior, têm suas próprias
+ malocas, plantações, igarapés e florestas, etc. Cada um deles é
+ controlado por um Nyo’om I \[…\] um “mestre”. Alguns desses mestres
+ espirituais possuem uma existência solitária, como é o caso de Dohai
+ \[…\]. Outros são mestres das “casas dos animais”, \[...\] e possuem
+ um papel importante no controle de todas as espécias de caça e dos
+ animais em geral. Além desses mestres dos animais generalizados, há
+ casas florestais controladas por mestres espirituais de cada espécie
+ de animal em particular. Embora os Hupdʉ sejam cientes de que os
+ animas se reproduzem nessa Terra, eles também acreditam que alguns
+ mestres de espécies criam-nos em suas casas subterrâneas. \[...\] De
+ tempos em tempo, quando a caça se torna escassa, os xamãs podem entrar
+ em contato com esses mestres espirituais e pedir-lhes que liberem mais
+ animais para a floresta. Alguns Hupdʉ afirmaram que essas transações
+ envolvem o pagamento da liberação de caça com almas humanas, enquanto
+ outros disseram que os xamãs oferecem dádivas de fumaça de tabaco
+ apenas aos mestres espirituais. (Reid, 1979, p. 261)
+ <!--estilo de citação-->
 
 Desse modo, a caverna dá acesso a um mundo subterrâneo pleno de malocas,
 roças e igarapés onde, sob o granito das rochas, diversos tipos de
@@ -10507,19 +10511,19 @@ daqui têm muitos peixes”, disse Ponciano. Partindo desse grande lago, os
 peixes descem os igarapés e chegam ao curso dos rios. Ao descrever a
 importância dos morros para os Desana, Reichel-Dolmatoff diz que:
 
-> *As grandes serras rochosas que se elevam isoladamente na floresta são
-> úteros onde vivem os animais silvestres e os poços profundos nas
-> corredeiras são úteros subaquáticos onde moram os peixes. Os ninhos
-> suspensos de certas aves como o papa-figo e o gaio (ambos* Icteridae*,
-> se comparam com o útero, sendo o mesmo para os ninhos de colibris e
-> periquitos (*Psittacidae*) que se aninham nas árvores ôcas*
-> (Reichel-Domatoff, 1986, p. 8-88).
+ As grandes serras rochosas que se elevam isoladamente na floresta são
+ úteros onde vivem os animais silvestres e os poços profundos nas
+ corredeiras são úteros subaquáticos onde moram os peixes. Os ninhos
+ suspensos de certas aves como o papa-figo e o gaio (ambos *Icteridae*),
+ se comparam com o útero, sendo o mesmo para os ninhos de colibris e
+ periquitos (*Psittacidae*) que se aninham nas árvores ocas.
+ (Reichel-Domatoff, 1986, p. 8-88)
 
 /Hu̗͂-Mo̖y k’ö̗d dä̗b pä̗’ ni̗i̗!/, “Dentro da Casa-dos-Animais há muito
 Dabucuri!”, foi o modo como Ponciano descreveu a vida plena de festas e
 cópulas das presas no interior do morro. À luz do comentário de
 Reichel-Dolmatoff, creio que também para os Hupd’äh esse morro oco possa
-ser tomado como um *útero ctônico*. Cercada por feiticeiros inimigos,
+ser tomado como um útero ctônico. Cercada por feiticeiros inimigos,
 essa casa passou a ser um útero fechado que fez com que os moradores da
 região passassem a caçar cada vez menos. A pesca, tida como abundante ou
 suficiente em alguns igarapés, foi tornando-se cada vez mais a atividade
@@ -10531,14 +10535,14 @@ Antes de chegarmos a esse nosso destino, paramos, e Ponciano acendeu um
 cigarro. Sopramos a fumaça em nossos corpos. Esse era um /ti̖wi̖t ha̗ma̗p
 bi’i̖d ta̗’/, um “benzimento dos caminhos”, preparado especificamente para
 proteger-nos dos /Tëg D’u̗h Hup/, as “Gentes-Árvore”, cuja aldeia, sua
-“Casa-da-Mata”, está sediada próxima dali. Como visto em B5, as
+“Casa-da-Mata”, está sediada próxima dali. Como visto em **B5**, as
 perigosas Gentes-Árvore precisam ser afastadas dos caminhos. Tal qual as
 Cobras, as Gentes-Árvore podem atingir os viajantes com seu “bastão”,
 /kötö̖w-tëg/, e causar a terrível “dor de carne”, /kɨ͂kɨ̗͂nɨ̗͂/. Por isso é
 preciso fazer com que larguem seu pedaço de tabaco e seus bastões de
 embaúba-/sãy/ e de embaúba-/wa̗g/ sobre o jirau dentro de suas casas. Se
 com bastões os antigos causavam o estrondo que abria o morro, com
-bastões as Gentes-Árvore são ces de ferir e impedir a continuidade
+bastões as Gentes-Árvore são capazes de ferir e impedir a continuidade
 das viagens, protegendo assim sua morada dos intrusos.
 
 Ora para alertar-nos, ora para ensinar-nos, nosso mentor não cansava de
@@ -10551,15 +10555,15 @@ merenda. Esfregando uma folha no rosto, o jovem Ari ensinou-me que a
 Batendo a mão contra o tronco de uma árvore, Ponciano mostrou-me a
 /pe̗͂y-tëg/, “pau-d’arco”[^99], madeira extremamente dura e boa para a
 fabricação de arcos. A interação com as árvores e com as Gentes-Árvore
-fazia-se fundamental nesse nosso *percurso de observação*,
+fazia-se fundamental nesse nosso percurso de observação,
 possibilitando atos de rememoração e proteção que iam garantindo nosso
 deslocamento por aquelas paragens. Muito atentos, Ari e eu observávamos
 cada detalhe daquele universo que se constituía, pouco a pouco, como uma
 vasta região trazida à vida pela confluência dos percursos dos
-movimentos de humanos, animais e espíritos (Ingold, 2000, p. 229-30).
+movimentos de humanos, animais e espíritos.
 
-[]{#Fig42_VistaCasaAnimais .anchor}Vista externa da Casa-dos-Animais
-(foto: Danilo P. Ramos, 2012)
+<!--Fig. 21--> 
+Vista externa da Casa-dos-Animais (foto: Danilo P. Ramos, 2012)
 
 Na volta, quando já estávamos cruzando as roças da comunidade, Ponciano
 ouviu o som de um macaco. Percebendo o balanço das folhagens próximas,
@@ -10584,107 +10588,106 @@ encontros noturnos em 2011 são correntemente narradas pelos avós a seus
 netos. Acredito que as versões abaixo permitam entender melhor esse mal
 estar com que os menores ouvem sobre esse dono dos animais.
 
-> []{#M15_Bisiw .anchor}**M15.** [[]{#OLE_LINK35 .anchor}]{#OLE_LINK36
-> .anchor}**/Bisi̗w/, o devorador de rapazes**
->
-> O /Bisi̗w/ deu as flautas. Primeiro ele era igual a uma pessoa. O som
-> dele zoava o som do Jurupari, da /tã’ã̗y/, “fêmea”, e do /tiyi̖’/,
-> “macho”. O /Bisi̗w/ transformou-se num toco onde os meninos entraram.
-> Eles estavam imitando o som dele. Ele mostrou-lhes o corpo e seu som
-> zoando. Falou para os rapazes fazerem uma festa para ele.
->
-> Cada povo conta o seu. A outra história começa assim, outra história
-> ele vem na origem. Cada grupo vinha com a sua história. Para nós, o
-> /Bisi̗w/ era forma de pessoa. Ele e /We̗d B’ö̖’/ são gêmeos e /Bisi̗w/ é
-> /pu̗y’/, “irmão menor”. Primeiro, ele tinha forma de gente, o corpo
-> zoava.
->
-> Os meninos estavam imitando, ele mostrou como zoava o corpo. Pediu
-> para as crianças fazerem Dabucuri. O /Bisi̗w/ subiu na árvore de uacú e
-> pediu para os rapazes não saírem debaixo do pé. As crianças assaram o
-> caroço de uacú e a fumaça chegou para ele. Ele desmaiou. Depois,
-> disse: “Vocês também vão sentir como eu senti”. Aí, ele fez uma chuva.
-> Transformou-se em toco e os rapazes entraram dentro dele. (Entraram
-> pelo seu ânus). Ele comeu todos os meninos. Um escapou, comeu uacú e
-> foi avisar os pais. Os pais estavam querendo matá-lo, e não
-> conseguiram. Ele foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
->
-> O pai do rapaz mandou preparar bebidas e falou para o pássaro /weyt/,
-> “periquito”, para avisar o /Bisi̗w/. O pássaro foi e começou a dizer a
-> ele quais os tipos de bebida os homens tinham preparado. O /Bisi̗w/ não
-> queria aceitar, mas aceitou ir beber uma /sawi̗h dëh/[^100], “caxiri da
-> fruta de pau amarelo”. Então, ele foi até a casa dos pais para beber.
-> Deixaram uma panela de caxiri para oferecer a ele. A panela era de
-> barro como faziam antes, uma /b’ok-tä̗w/. Deixaram essa panela para
-> oferecer só para ele, pois o caxiri estava benzido para que ele logo
-> se embriagasse. /Bisi̗w/ falou: “Vocês querem vingança!” Eles foram
-> pegar lenha e fogo. Empurraram-no. Ele queimou. Antes tinha dito:
-> “Vocês vão cortar lenha, vão me queimar e vão sentir o que eu senti.
-> Vocês vão brigar, vão matar, vão envenenar”. Foi aí que começou o
-> corpo dele desse jeito. Com esse fogo que queimaram o corpo dele é que
-> apareceram as flautas.
->
-> Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para cada grupo no
-> Lago de Leite. Do corpo queimado dele surgiram as flautas, muitas.
-> Outros grupos podem contar mais, saber mais, mas a gente conta assim.
-> /K’e̖g Te͂h/ encontrou o /Bisi̗w/ queimado e levou as flautas para o
-> Lago de Leite para dar à humanidade. As flautas eram os ossos de
-> /Bisi̗w/. Do Lago de Leite a humanidade veio embaixo d’água na
-> /M’e̖h-Hoh-Të̖g/, a “Cobra-Canoa”, até “Ipanoré”, /Hib’a̗h-Höd/. Então,
-> desceram de novo até o Lago de Leite e subiram de novo, invisíveis.
-> Foi aí que /K’e̖g Te͂h/ entregou para cada grupo as flautas. Aí, a
-> humanidade teve cada um a sua flauta. Já subiram com a flauta na
-> canoa. Essa transformação da canoa foi em Ipanoré. Subiram todos os
-> rios: Uaupés, Papuri, Tiquié. Subiram de canoa e vieram todos se
-> encontrar nessa “Serra da Menstruação/Iniciação/Pedaço”,
-> /Te͂h-S’ɨ̗g-Mo̖y-Paç/. Saíram de canoa em Ipanoré e, andando,
-> atravessaram em São Tomé, perto de Boca da Estrada. Lá tem a pedra
-> onde eles atravessaram. Foram se encontrar nessa Serra da Iniciação e
-> daí mostraram o que receberam.
->
-> Nessa “morada”, /Mo̖y/, havia três casas. A primeira só tinha banco
-> para sentar. A segunda era a casa dos homens com as flautas. A
-> terceira, eles cercaram com pari para as mulheres ficarem dentro e não
-> verem as flautas. Na segunda casa é que mostraram, entre os cunhados,
-> o que receberam. Como agora que se faz a coca entre cunhados. Aí
-> mostraram cada flauta. Todos os grupos foram mostrando e tocando até o
-> final. Foi então que cada grupo se espalhou. Estavam lá os Tukano, os
-> Desano (Jovino, gravação sonora, 24/08/2011).
->
-> []{#M16_Gestante .anchor}**M16.** [[]{#OLE_LINK37
-> .anchor}]{#OLE_LINK38 .anchor}**A gestante tapada**
->
-> Primeiro, nasceram os dois filhos. O /Bisi̗w/ nasceu e o outro menino.
-> Eram dois dentro da barriga, dizem. Já estava na hora de receber, de
-> saírem os filhos, mas ela não tinha ânus (nem vagina). A mãe não tinha
-> ânus e já estava na hora de receber e saírem (os filhos). Foi um
-> ancestral que fez o ânus para ela.
->
-> Ele acompanhou e benzeu na hora de nascer o /Bisi̗w/ e o /Wed B’ö̖’/.
-> Fez o ânus para ela e depois se diz que a mãe não sabia. Ela esqueceu
-> (que antes não tinha nem ânus nem vagina).
->
-> Naquele lugar, ela teve o /Bisi̗w/ e o /Wed B’ö̖’/. (O pai tirou os dois
-> filhos, mas deu só /W’ed B’ö̖’/.) Tirou os dois, mas escondeu um
-> (/Bisi̗w/). Entregou somente /Wed B’ö̖’/ para a mãe. Então, ele cresceu
-> (ficou rapaz) sem mãe.
->
-> Dizem que morava só /We̖d B’ö̖’/ e a mãe. Aquele que não teve mãe ficava
-> sozinho (sem mulher), diz-se (Ponciano, gravação sonora e tradução,
-> 04/07/2011).
+**M15. /Bisi̗w/, o devorador de rapazes**
 
-Essas duas passagens da história dos gêmeos /Wed B’ö̖’/ e /Bisi̗w/ foram
+ O /Bisi̗w/ deu as flautas. Primeiro ele era igual a uma pessoa. O som
+ dele zoava o som do Jurupari, da /tã’ã̗y/,  “fêmea”, e do /tiyi̖’/,
+ “macho”. O /Bisi̗w/ transformou-se num toco onde os meninos entraram.
+ Eles estavam imitando o som dele. Ele mostrou-lhes o corpo e seu som
+ zoando. Falou para os rapazes fazerem uma festa para ele.
+
+ Cada povo conta o seu. A outra história começa assim, outra história
+ ele vem na origem. Cada grupo vinha com a sua história. Para nós, o
+ /Bisi̗w/ era forma de pessoa. Ele e /We̗d B’ö̖’/ são gêmeos e /Bisi̗w/ é
+ /pu̗y’/, “irmão menor”. Primeiro, ele tinha forma de gente, o corpo
+ zoava.
+
+ Os meninos estavam imitando, ele mostrou como zoava o corpo. Pediu
+ para as crianças fazerem Dabucuri. O /Bisi̗w/ subiu na árvore de uacu e
+ pediu para os rapazes não saírem debaixo do pé. As crianças assaram o
+ caroço de uacu e a fumaça chegou para ele. Ele desmaiou. Depois,
+ disse: “Vocês também vão sentir como eu senti”. Aí, ele fez uma chuva.
+ Transformou-se em toco e os rapazes entraram dentro dele. (Entraram
+ pelo seu ânus). Ele comeu todos os meninos. Um escapou, comeu uacu e
+ foi avisar os pais. Os pais estavam querendo matá-lo, e não
+ conseguiram. Ele foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
+
+ O pai do rapaz mandou preparar bebidas e falou para o pássaro /weyt/,
+ “periquito”, para avisar o /Bisi̗w/. O pássaro foi e começou a dizer a
+ ele quais os tipos de bebida os homens tinham preparado. O /Bisi̗w/ não
+ queria aceitar, mas aceitou ir beber uma /sawi̗h dëh/[^100], “caxiri da
+ fruta de pau amarelo”. Então, ele foi até a casa dos pais para beber.
+ Deixaram uma panela de caxiri para oferecer a ele. A panela era de
+ barro como faziam antes, uma /b’ok-tä̗w/. Deixaram essa panela para
+ oferecer só para ele, pois o caxiri estava benzido para que ele logo
+ se embriagasse. /Bisi̗w/ falou: “Vocês querem vingança!” Eles foram
+ pegar lenha e fogo. Empurraram-no. Ele queimou. Antes tinha dito:
+ “Vocês vão cortar lenha, vão me queimar e vão sentir o que eu senti.
+ Vocês vão brigar, vão matar, vão envenenar”. Foi aí que começou o
+ corpo dele desse jeito. Com esse fogo que queimaram o corpo dele é que
+ apareceram as flautas.
+
+ Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para cada grupo no
+ Lago de Leite. Do corpo queimado dele surgiram as flautas, muitas.
+ Outros grupos podem contar mais, saber mais, mas a gente conta assim.
+ /K’e̖g Te͂h/ encontrou o /Bisi̗w/ queimado e levou as flautas para o
+ Lago de Leite para dar à humanidade. As flautas eram os ossos de
+ /Bisi̗w/. Do Lago de Leite a humanidade veio embaixo d’água na
+ /M’e̖h-Hoh-Të̖g/, a “Cobra-Canoa”, até “Ipanoré”, /Hib’a̗h-Höd/. Então,
+ desceram de novo até o Lago de Leite e subiram de novo, invisíveis.
+ Foi aí que /K’e̖g Te͂h/ entregou para cada grupo as flautas. Aí, a
+ humanidade teve cada um a sua flauta. Já subiram com a flauta na
+ canoa. Essa transformação da canoa foi em Ipanoré. Subiram todos os
+ rios: Uaupés, Papuri, Tiquié. Subiram de canoa e vieram todos se
+ encontrar nessa “Serra da Menstruação/Iniciação/Pedaço”,
+ /Te͂h-S’ɨ̗g-Mo̖y-Paç/. Saíram de canoa em Ipanoré e, andando,
+ atravessaram em São Tomé, perto de Boca da Estrada. Lá tem a pedra
+ onde eles atravessaram. Foram se encontrar nessa Serra da Iniciação e
+ daí mostraram o que receberam.
+
+ Nessa “morada”, /Mo̖y/, havia três casas. A primeira só tinha banco
+ para sentar. A segunda era a casa dos homens com as flautas. A
+ terceira, eles cercaram com pari para as mulheres ficarem dentro e não
+ verem as flautas. Na segunda casa é que mostraram, entre os cunhados,
+ o que receberam. Como agora que se faz a coca entre cunhados. Aí
+ mostraram cada flauta. Todos os grupos foram mostrando e tocando até o
+ final. Foi então que cada grupo se espalhou. Estavam lá os Tukano, os
+ Desano. (Jovino, gravação sonora, 24/08/2011)
+
+
+ **M16. A gestante tapada**
+
+ Primeiro, nasceram os dois filhos. O /Bisi̗w/ nasceu e o outro menino.
+ Eram dois dentro da barriga, dizem. Já estava na hora de receber, de
+ saírem os filhos, mas ela não tinha ânus (nem vagina). A mãe não tinha
+ ânus e já estava na hora de receber e saírem (os filhos). Foi um
+ ancestral que fez o ânus para ela.
+
+ Ele acompanhou e benzeu na hora de nascer o /Bisi̗w/ e o /Wed B’ö̖’/.
+ Fez o ânus para ela e depois se diz que a mãe não sabia. Ela esqueceu
+ (que antes não tinha nem ânus nem vagina).
+
+ Naquele lugar, ela teve o /Bisi̗w/ e o /Wed B’ö̖’/. (O pai tirou os dois
+ filhos, mas deu só /W’ed B’ö̖’/.)  Tirou os dois, mas escondeu um
+ (/Bisi̗w/).  Entregou somente /Wed B’ö̖’/ para a mãe. Então, ele cresceu
+ (ficou rapaz) sem mãe.
+
+ Dizem que morava só /We̖d B’ö̖’/ e a mãe. Aquele que não teve mãe ficava
+ sozinho (sem mulher), diz-se. (Ponciano, gravação sonora e tradução,
+ 04/07/2011)
+
+Essas duas passagens da história dos gêmeos /Wed B’ö̖’/ e /Bisi̗w/  foram
 contadas por Jovino (**M15**) e seu pai, Ponciano (**M16**). Na noite de 4 de
 julho de 2011, sentado ao lado do pai enquanto comíamos coca, Jovino
 traduzia a narrativa (**M16**) que era gravada por mim. Em alguns momentos,
 o narrador mencionava meu nome, ou deixava frases no ar para que eu
-repetisse como perguntas, *enunciados fáticos* que certificavam o
-narrador da atenção do ouvinte (Buchillet, 1983, p. 117). Em muitos
+repetisse como perguntas, enunciados fáticos que certificavam o
+narrador da atenção do ouvinte. Em muitos
 pontos da história, Ponciano parava de falar e perguntava aos demais,
 principalmente a Firmiano e Miguel, que pilavam e misturavam a coca. A
 partir dos comentários, acrescentava detalhes ou recontava trechos,
-compondo um modo polifônico de tecer a narrativa entre afins (Bakhtin,
-2006). Jovino havia chamado seus filhos para sentarem-se à roda e
+compondo um modo polifônico de tecer a narrativa entre afins.
+Jovino havia chamado seus filhos para sentarem-se à roda e
 ouvirem o avô. Outras crianças juntaram-se a nós, e, mesmo algumas
 mulheres que tinham vindo pedir fumo, acomodaram-se perto para ouvir a
 narrativa. Atentos à fala, os senhores pediam silêncio quando as
@@ -10695,7 +10698,7 @@ do pilão e das panelas do preparo da coca.
 Um mês depois, numa roda de coca, Jovino sentou-se ao meu lado e
 continuou a contar a história dos gêmeos (**M15**). Conversamos longamente
 sobre a história de /Bisi̗w/ e das “flautas Jurupari”, /döhö̗ d’äh/.
-Quando era criança, por volta dosez anos de idade, ele e Marino
+Quando era criança, por volta dos dez anos de idade, ele e Marino
 fugiram de suas mães, escondidas na mata, enquanto os homens tocavam as
 flautas. Correram para perto da maloca e espiaram os homens que dançavam
 soprando os instrumentos. O avô de Jovino surpreendeu-os. Homem bravo e
@@ -10703,15 +10706,15 @@ zeloso quanto às interdições rituais, repreendeu-os e obrigou-os a
 participar de todo o cerimonial. Essa foi a primeira vez que Jovino viu
 as flautas.
 
-Em **M15**, /Bisi̗w/ pune as crianças transformando-se em um toco de pau.
+Em **M15**, /Bisi̗w/  pune as crianças transformando-se em um toco de pau.
 Cria uma tempestade no céu para que elas busquem abrigar-se em seu
 corpo. O ser, que tem forma de gente, zoa à medida que se movimenta. O
 som de seu corpo será depois o som das flautas Jurupari, macho e fêmea.
 Ele pede aos rapazes que façam um Dabucuri, enquanto sobe para apanhar
-frutas uacú. Em vez de fazerem o Dabucuri, eles queimam o caroço de
-uacú. A fumaça ascende e faz /Bisi̗w/ desmaiar. Irado, ele transforma seu
+frutas uacu. Em vez de fazerem o Dabucuri, eles queimam o caroço de
+uacu. A fumaça ascende e faz /Bisi̗w/  desmaiar. Irado, ele transforma seu
 corpo, envolve os rapazes e devora-os com seu ânus. Ele, então, foge
-para uma /Paç-Mo̖y/, onde se esconde dos pais vingadores. Já em M16, os
+para uma /Paç-Mo̖y/, onde se esconde dos pais vingadores. Já em **M16**, os
 gêmeos desenvolvem-se no útero de uma mulher sem ânus nem vagina. É
 preciso que seu esposo faça o ânus e a vagina para que as crianças
 possam nascer. Os gêmeos são separados sendo que o segundo, irmão menor,
@@ -10729,28 +10732,30 @@ De modo diferente, /Bis̗iw/ faz com que os Hup’äh sofram o que ele
 sofreu. A briga, a morte e o envenenamento surgem simultaneamente ao
 aparecimento das flautas, com a queima do corpo. Como ressalta Reid,
 
-> *Muitos dos poderes dos* Baktupdʉ *são atribuídos aos mestres dessas
-> casas. Eles são imateriais e imortais e, assim, potencialmente
-> perigosos aos humanos por poderem causar doenças, morte e azar. Caso
-> alguém mate algum membro das espécies protegidas por eles, os mestres
-> podem ficar extremamente bravos, a ponto de expressarem sua raiva
-> agitando a água dos rios, fazendo ventos fortes, trovões e relâmpagos.
-> São seres solitários que ocasionalmente vagam pela floresta desta
-> Terra durante a noite, caçam outros animais e almas humanas,
-> especialmente as das crianças* (1979, p. 263).
+<!--estilo de citação-->
+ Muitos dos poderes dos Baktupdʉ são atribuídos aos mestres dessas
+ casas. Eles são imateriais e imortais e, assim, potencialmente
+ perigosos aos humanos por poderem causar doenças, morte e azar. Caso
+ alguém mate algum membro das espécies protegidas por eles, os mestres
+ podem ficar extremamente bravos, a ponto de expressarem sua raiva
+ agitando a água dos rios, fazendo ventos fortes, trovões e relâmpagos.
+ São seres solitários que ocasionalmente vagam pela floresta desta
+ Terra durante a noite, caçam outros animais e almas humanas,
+ especialmente as das crianças. (1979, p. 263)
+<!--estilo de citação-->
 
-Dono dos animais, /Bisi̗w/ cerca-os em sua morada, assegura a reprodução
-das presas obstruindo sua saída do morro. Se o *útero materno tapado*
+Dono dos animais, /Bisi̗w/  cerca-os em sua morada, assegura a reprodução
+das presas obstruindo sua saída do morro. Se o útero materno tapado
 assegura o desenvolvimento dos fetos, o morro tapado regenera a vida
-animal criando essa espécie de *útero ctônico*. Em sonho ou em
-caminhada, os xamãs penetram a morada de /Bisi̗w/ como *pessoa-sopro*,
-/hã̗wägät/, ou como *pessoa-corporificada*, /sa̗pa̗t/. O estrondo sonoro do
+animal criando essa espécie de útero ctônico. Em sonho ou em
+caminhada, os xamãs penetram a morada de /Bisi̗w/  como pessoa-sopro,
+/hã̗wägät/, ou como pessoa-corporificada, /sa̗pa̗t/. O estrondo sonoro do
 tambor rochoso e a palavra diplomática são os dois modos de ação
 xamânica que permitem que a interação com esse dono dos animais resulte
 na abertura do morro para que as presas saiam para a mata. A
 desobstrução da passagem parece em tudo análoga à criação, pela palavra
 paterna, de orifícios no corpo da gestante para o nascimento dos gêmeos
-(**M16**). Enquanto **M15**pode ser visto como uma narrativa sobre o
+(**M16**). Enquanto **M15** pode ser visto como uma narrativa sobre o
 canibalismo anal ao qual os humanos estão sujeitos caso desrespeitem o
 ancestral, **M16** revela a possibilidade de abertura e nascimento através
 do uso correto da palavra. Caso não haja o pedido formal de permissão a
@@ -10761,16 +10766,16 @@ Descrevendo as relações entre humanos, espíritos, animais e plantas que
 se dão em torno da caça e da comensalidade para os Makuna, Århem afirma
 que:
 
-> Para os Makuna da Amazônia colombiana, todos os seres – espíritos,
-> humanos, animais e plantas  participam de um campo de interação
-> social definido em termos de predação e troca. O aspecto central de
-> sua ecocosmologia vem a ser a elaboração da predação humana como uma
-> troca revitalizante com a natureza. Essa troca é modelada pela regra
-> da reciprocidade entre afins e pelas trocas entre homens e deuses
-> mediadas xamanicamente *(1996, p. 186).*
+ Para os Makuna da Amazônia colombiana, todos os seres – espíritos,
+ humanos, animais e plantas  participam de um campo de interação
+ social definido em termos de predação e troca. O aspecto central de
+ sua ecocosmologia vem a ser a elaboração da predação humana como uma
+ troca revitalizante com a natureza. Essa troca é modelada pela regra
+ da reciprocidade entre afins e pelas trocas entre homens e deuses
+ mediadas xamanicamente. (1996, p. 186)
 
 O deslocamento onírico do xamã e o toque do tambor de pedra parecem ser
-*formas constantes de interação* com o dono e com os animais baseadas
+formas constantes de interação com o dono e com os animais baseadas
 igualmente na reciprocidade e na predação. Entender como se dá essa
 troca e em que medida ela é a condição para a revitalização de presas e
 seres humanos fazem-se objetivos importantes para uma melhor compreensão
@@ -10784,12 +10789,12 @@ sofrimentos na existência humana. Esse percurso dará também mais
 elementos para a descrição do papel dos “comedores de coca” na geração
 da vida e da cura.
 
-[]{#Fig43_CaminhadaCasaAnimais .anchor}**Figura 3.** Caminhada à
-Casa-dos-Animais
+<!--Fig. 22-->
+Caminhada à Casa-dos-Animais
 
-1.  ### Nascimentos
+## Nascimentos
 
-    1.  #### /ɨb’ Mo̖y/ ‒ a “Casa da Vida” 
+### /ɨb’ Mo̖y/ ‒ a “Casa da Vida” 
 
 Ainda com o gosto de cachaça na boca, caminhei vagarosamente pelos
 cômodos da casa. Espiei pelo vão da porta e sorri. Mulheres, moças,
@@ -10808,9 +10813,9 @@ recém-nascida tinha sido motivo de alegria e preocupação. Com a gestação
 avançada, a professora Tereza fora obrigada a deixar a aldeia e viajar
 para São Gabriel. Cumpria demanda burocráticas da Secretaria Municipal
 de Educação. Deu a luz no quintal do escritório da ONG-SSL onde a
-família estava abrigada. Paulina, sua sogra, acompanhou-a, “pegou a
-criança” e cortou o cordão umbilical. O velho Firmiano, o avô paterno,
-foi quem soprou com cigarro e breu o /Te͂h Bi’i̖d/, o “benzimento do
+família estava abrigada. Paulina, sua sogra, acompanhou-a, pegou a
+criança e cortou o cordão umbilical. O velho Firmiano, o avô paterno,
+foi quem soprou com cigarro e breu o /Te͂h Bi’i̖d/,  o “benzimento do
 filho”, para proteger os pais e a bebê durante o nascimento. Houve pouco
 tempo para o resguardo e para o jejum. Antes de conhecer sua casa, a
 recém-nascida navegou as águas escuras dos rios Negro, Uaupés e Tiquié.
@@ -10818,7 +10823,7 @@ A febre e o pouco leite materno foram os primeiros desafios vencidos
 pela pequena em seus poucos dias de vida.
 
 Um mês depois, sentados à roda de coca, os senhores angustiavam-se. O
-choro da bebê ecoava. /O̗t mi̗͂gi̗͂/, “choro enlouquecedor”, comentavam os
+choro da bebê ecoava. /O̗t mi̗͂gi̗͂/,  “choro enlouquecedor”, comentavam os
 xamãs enquanto comiam a coca e fumavam cigarros. Tereza tentava consolar
 sua filha no colo. Ninava. Oferecia o peito. Nervosa, a avó
 aproximava-se de Firmiano para pegar mais um cigarro benzido. Defumava a
@@ -10830,34 +10835,35 @@ amarrem-no com linhas firmes para segurá-lo no peito do bebê.
 Ao meu lado, Samuel comentou que as condições adversas do nascimento
 tinham tornado frágil a proteção criada pelo avô através do “benzimento
 do filho”, já que a menina chorava sem parar e estava ficando muito
-doente. Samuel levantou-se e mostrou auligem impregnada nas palhas do
+doente. Samuel levantou-se e mostrou a fuligem impregnada nas palhas do
 telhado da cozinha: “Na viagem pelo Rio de Leite, o /bi’i̖d hup i͂h/,
 ‘xamã-soprador’, acompanha a criança. Vai mostrando todas as /Dëh-Mo̖y/,
 “Casas-do-Rio”. Caso não a proteja da fuligem oleosa do telhado dessas
 casas, a criança pode ficar muito doente, faz muito mal para ela”. A
 exposição da neófita à intensidade térmica, oleosa e fumacenta da
 fuligem dessa casa habitada pelas Gentes-Cobra parece familiarizar a
-criança com a perspectiva desses seres e causar uma *abdução* da
-substância vital que tem um efeito patogênico sobre ela (Barcelos Neto,
-2008, p. 99). Para entender melhor esse processo de adoecimento vivido
-pela bebê, creio que seja importante adotar o ponto de vista de McCallum
-(1998), tentando mostrar como o corpo é:
-
-> *\[...\] definido por fatores externos a ele, que os processos sociais
-> e sobrenaturais se misturam, sendo feitos por outros indivíduos em um
-> fluxo contínuo que envolve a alimentação, restrições alimentares,
-> aplicação de remédios, pintura corporal, batismos rituais e
-> treinamento formal. Os Kaxinawá veem esse fluxo como parte das
-> relações de parentesco e afinidade (consanguinidade), e o crescimento
-> saudável de uma criança depende dos laços com seus parentes próximos,
-> até que ela atinja uma idade a partir da qual poderá contribuir para o
-> desenvolvimento de outra pessoa, especialmente o próprio cônjuge ou
-> filhos* (1998, p. 221).
+criança com a perspectiva desses seres e causar uma abdução da
+substância vital que tem um efeito patogênico sobre ela. 
+Para entender melhor esse processo de adoecimento vivido
+pela bebê, creio que seja importante adotar o ponto de vista de McCallum,
+tentando mostrar como o corpo é:
+<!--estilo de citação-->
+ \[...\] definido por fatores externos a ele, que os processos sociais
+ e sobrenaturais se misturam, sendo feitos por outros indivíduos em um
+ fluxo contínuo que envolve a alimentação, restrições alimentares,
+ aplicação de remédios, pintura corporal, batismos rituais e
+ treinamento formal. Os Kaxinawá veem esse fluxo como parte das
+ relações de parentesco e afinidade (consanguinidade), e o crescimento
+ saudável de uma criança depende dos laços com seus parentes próximos,
+ até que ela atinja uma idade a partir da qual poderá contribuir para o
+ desenvolvimento de outra pessoa, especialmente o próprio cônjuge ou
+ filhos. (1998, p. 221)
+<!--estilo de citação-->
 
 A jornada pelo Rio de Leite para trazer o sopro vital da mãe e do bebê
 ocorre quando o xamã realiza o “benzimento do filho” e desloca-se
-/hã̗wägät/, “como *pessoa-sopro*”, pelo cosmos até a paisagem da criação
-para /te͂h yoho̗y/, “procurar o filho”. A mesma expressão é utilizada para
+/hã̗wägät/, “como pessoa-sopro”, pelo cosmos até a paisagem da criação
+para /te͂h yoho̗y/,  “procurar o filho”. A mesma expressão é utilizada para
 falar dos jovens casais que passam longas horas juntos na rede
 “procurando o filho”, distantes do convívio da aldeia. Casais que já
 possuem filhos procuram seus novos rebentos indo juntos à roça para
@@ -10869,46 +10875,44 @@ caminhos. Ainda que estejam cientes da ausência, evita-se perguntar ou
 procurar pelo par, pois os ciúmes de uma esposa, marido ou pretendente
 podem gerar sérias brigas, além de atrapalhar “a procura”. É no fluxo da
 viagem xamânica e da cópula que ocorrem afastamentos do benzedor e do
-casal, no início dessa busca para *corporificar a pessoa* (Andrello,
-2006).
+casal, no início dessa busca para *corporificar a pessoa. 
 
-Ponciano contou-me o /Te͂h Bi’i̖d/ logo depois que seu filho, Samuel, foi
+Ponciano contou-me o /Te͂h Bi’i̖d/  logo depois que seu filho, Samuel, foi
 mordido por uma jararaca. Ressaltou que esse era um dos encantamentos
 mais importantes tanto para a “procura do filho” quanto para a
 regeneração do /hã̗wäg/, no caso de doenças. Por isso, eu deveria
 gravá-lo e logo transcrevê-lo para o Livro de Benzimentos que estávamos
 escrevendo.
 
-> []{#B6_Filho .anchor}**B6. /Te͂h Bi’i̖d/ ‒ Benzimento do filho**
 
-[[]{#B6_Filho .anchor}]{#b6_filho .anchor}
+**B6. /Te͂h Bi’i̖d/  ‒ Benzimento do filho**
 
 1º mov. Primeiro, fazemos as mulheres sentarem para ter filhos. Falo
 para todos os animais grandes. Fiz e disse já.
 
-> Da floresta, (eu menciono) as pacas (*agouti paca*), os caititus
-> (*tayassu tajacu Linnaeus*), os porcos (*tayassu pecari Link*), as
-> antas (*tapirus terrestris*). \[...\] Vou falando para os filhos de
-> animais pequenos.
->
-> Menciono os ossos grandes do quadril. Menciono o fêmur das pacas
-> fêmeas para fazer as mulheres sentarem. \[...\] Menciono a abertura
-> das pernas da paca e começo a fazer a mulher sentar. Falo para o porco
-> quando as mulheres terão o primeiro filho. Menciono o fêmur e a
-> abertura das pernas das porcas para que a mulher sente. Vou falando
-> para as porcas e fazendo-as abrir suas pernas. \[...\] Vou fazendo a
-> mulher sentar-se de pernas abertas.
->
-> Refiro-me, então, à égua. Faço-a abrir suas pernas para que a mulher
-> hup se sente. Falo para a égua, para a anta fêmea e para seus ossos do
-> fêmur. Faço as fêmeas sentarem-se para a mulher sentar-se de pernas
-> abertas.
->
-> *(Com.)* Quando as mulheres vão dar à luz, elas gemem e seguram a
-> cabeça. Por isso, eu sopro para fazer a mulher hup dar à luz ao gemer.
-> Dizem que os animais não gemem quando vão ter filho. Eles ordenam e
-> dão a luz. \[...\] Quando a mulher vai dar à luz, seu gemido, saindo,
-> pode causar doença para a criança.
+ Da floresta, (eu menciono) as pacas (*agouti paca*), os caititus
+ (*tayassu tajacu Linnaeus*), os porcos (*tayassu pecari Link*), as
+ antas (*tapirus terrestris*). \[...\] Vou falando para os filhos de
+ animais pequenos.
+
+ Menciono os ossos grandes do quadril. Menciono o fêmur das pacas
+ fêmeas para fazer as mulheres sentarem. \[...\] Menciono a abertura
+ das pernas da paca e começo a fazer a mulher sentar. Falo para o porco
+ quando as mulheres terão o primeiro filho. Menciono o fêmur e a
+ abertura das pernas das porcas para que a mulher sente. Vou falando
+ para as porcas e fazendo-as abrir suas pernas. \[...\] Vou fazendo a
+ mulher sentar-se de pernas abertas.
+
+ Refiro-me, então, à égua. Faço-a abrir suas pernas para que a mulher
+ hup se sente. Falo para a égua, para a anta fêmea e para seus ossos do
+ fêmur. Faço as fêmeas sentarem-se para a mulher sentar-se de pernas
+ abertas.
+
+ *(Com.)* Quando as mulheres vão dar à luz, elas gemem e seguram a
+ cabeça. Por isso, eu sopro para fazer a mulher hup dar à luz ao gemer.
+ Dizem que os animais não gemem quando vão ter filho. Eles ordenam e
+ dão à luz. \[...\] Quando a mulher vai dar à luz, seu gemido, saindo,
+ pode causar doença para a criança.
 
 2º mov. Faço sair o banco para que a criança nasça e saia pela abertura
 da mãe. Quando a criança vai nascer, ela está sentada em seu banco com
@@ -10916,15 +10920,14 @@ seus pertences primordiais: faca, punhal, bastão e pedra-semente. Falo
 para ela ir saindo pela abertura. Falo para que o banco, assento da
 criança, saia também. Diz-se que o menino já tem as suas coisas.
 
-> (Sopro também) para os pertences da mulher. Faço a mulher sentar no
-> seu banco como faço a samambaia de pintar sentar-se em seu banco.
->
-> *(Com.)* Assim, a mulher saberá sentar para ter o filho vagarosamente
-> como a samambaia. A criança sentada sovina seus pertences, seus
-> bancos. Quer permanecer sentada. (No momento de seu) nascimento, a
-> criança está sentada em seu banco.
->
-> Faço as coisas e a criança saírem juntas pela abertura.
+(Sopro também) para os pertences da mulher. Faço a mulher sentar no
+seu banco como faço a samambaia de pintar sentar-se em seu banco.
+
+*(Com.)* Assim, a mulher saberá sentar para ter o filho vagarosamente
+como a samambaia. A criança sentada sovina seus pertences, seus
+bancos. Quer permanecer sentada. (No momento de seu) nascimento, a
+criança está sentada em seu banco.
+Faço as coisas e a criança saírem juntas pela abertura.
 
 3º mov. Então, sopro a placenta. Do contrário, a criança pode morrer.
 Falo para transformar a água (do banho) em água-pura \[...\]. Menciono o
@@ -10932,96 +10935,93 @@ sumo de maracujá, o sumo /k’ö̖g/ da fruta /tat/ pequena e o sumo da fruta
 /tat/ grande. Vou transformando essas águas-puras e banhando a mãe para
 fazer com que a criança saia pela abertura.
 
-> Transformo (a água do rio) em água-pura de sumo de cucura, em
-> água-pura de sumo de cucura-/k’ö̖g kini̖m/. Para banhar a criança e
-> fazê-la nascer rápido pela abertura, menciono o sumo de cucura /pe̖̖j
-> pɨ͂g/, a água-pura da cucura grande, o sumo de abiu.
->
-> *(Com.)* Se não for feito assim, a criança pode ficar doente. Por
-> isso, vou fazendo e dizendo o encantamento da placenta para as
-> crianças.
+Transformo (a água do rio) em água-pura de sumo de cucura, em
+água-pura de sumo de cucura-/k’ö̖g kini̖m/. Para banhar a criança e
+fazê-la nascer rápido pela abertura, menciono o sumo de cucura /pe̖̖j
+pɨ͂g/, a água-pura da cucura grande, o sumo de abiu.
+
+*(Com.)* Se não for feito assim, a criança pode ficar doente. Por
+isso, vou fazendo e dizendo o encantamento da placenta para as
+crianças.
 
 4º mov. Naquele lugar, eu profiro o benzimento de modo breve para ver se
 pega. Espero a criança sair e, com o breu, sopro o lugar onde a mulher
 está. \[...\] Benzo com breu para cercar a cuia de beber caarpi dos
-bichos do pé.
+bichos-de-pé.
+Falo para os bichos-de-pé /k’ö̖b/,  para os bichos-de-pé /na̗w/, para as
+abelhas mamangaba, e cerco seus potes de beber caarpi. Menciono as
+minhocas. Cerco seus potes de beber caarpi. Falando dessa forma para
+esses seres, eles não farão mal para a criança. Menciono as minhocas
+grandes, as cobras-de-duas-cabeças. Cerco suas cuias de beber caarpi.
+Quantos desses seres houver, é preciso cercar todos os potes de beber
+caarpi.
 
-> Falo para os bichos do pé /k’ö̖b/, para os bichos do pé /na̗w/, para as
-> abelhas mamangaba, e cerco seus potes de beber caarpi. Menciono as
-> minhocas. Cerco seus potes de beber caarpi. Falando dessa forma para
-> esses seres, eles não farão mal para a criança. Menciono as minhocas
-> grandes, as cobras-de-duas-cabeças. Cerco suas cuias de beber caarpi.
-> Quantos desses seres houver, é preciso cercar todos os potes de beber
-> caarpi.
->
-> *(Com.)* Do contrário, podem oferecê-los à criança e fazê-la sofrer de
-> /o̗t mi̗͂gi̗͂h/, “choro enlouquecedor”.
->
-> Cerco a cuia de beber das mamangabas, dos calangos, das minhocas, das
-> cobras-de-duas-cabeças. Cerco tudo.
+*(Com.)* Do contrário, podem oferecê-los à criança e fazê-la sofrer de
+/o̗t mi̗͂gi̗͂h/,  “choro enlouquecedor”.
+Cerco a cuia de beber das mamangabas, dos calangos, das minhocas, das
+cobras-de-duas-cabeças. Cerco tudo.
 
 5º mov. Sopro com breu, defumo, solto e firmo o pari-breu no chão para o
 nascimento da criança. \[...\] Solto e coloco no chão o
-pari-lâmina-de-patauá, o pari-lâmina-de-bacaba, o pari- lâmina-de-inajá,
+pari-lâmina-de-patauá, o pari-lâmina-de-bacaba, o pari-lâmina-de-inajá,
 o pari-lâmina-de-bacaba-/si̗wi̗h wöh/, o pari-de-bacaba-cotia. Menciono e
 sopro os paris e, com o breu, solo e dobro o pari em torno da mãe e da
 criança.
 
-> PISAR Piso forte o chão.
->
-> Dentro da casa, eu coloco o menino que nasceu no pari. Vou fazendo-os
-> (mãe e filho) entrar na casa e sentar. Começo a soltar os paris sobre
-> o chão. Menciono a Gente-Na̗h, a Gente-Sã̗y. Falo para as facas da
-> Gente-Sã̗y. Faço-os juntar (as armas), entrar em suas casas e ficar em
-> pé. Faço com que as Gentes-Sã̗y, o /So̗ Hup ĩh/, as Cobras, os
-> /B’atɨ̖b’/, as Gentes-Árvore entrem e fiquem em pé. Faço-os largar e
-> juntar suas facas. Faço o mesmo para a Gente-Mariposa e para a
-> Gente-Borboleta. Cerco todas as suas cuias de beber caarpi.
->
-> *(Com.)* Se acaso suas cuias de beber não forem cercadas, essas gentes
-> podem dar de beber à criança e ela sofre de “choro enlouquecedor”.
+PISAR 		Piso forte o chão.
+
+Dentro da casa, eu coloco o menino que nasceu no pari. Vou fazendo-os
+(mãe e filho) entrar na casa e sentar. Começo a soltar os paris sobre
+o chão. Menciono a Gente-Na̗h, a Gente-Sã̗y. Falo para as facas da
+Gente-Sã̗y. Faço-os juntar (as armas), entrar em suas casas e ficar em
+pé. Faço com que as Gentes-Sã̗y, o /So̗ Hup ĩh/, as Cobras, os
+/B’atɨ̖b’/,  as Gentes-Árvore entrem e fiquem em pé. Faço-os largar e
+juntar suas facas. Faço o mesmo para a Gente-Mariposa e para a
+Gente-Borboleta. Cerco todas as suas cuias de beber caarpi.
+
+*(Com.)* Se acaso suas cuias de beber não forem cercadas, essas gentes
+podem dar de beber à criança e ela sofre de “choro enlouquecedor”.
 
 6º mov. Vou para cima e cerco a faca primordial de /Wero Hup Te͂h i͂h/.
 Quando ele acende (sua lenha corporal) para a criança (ela adoece). Faço
 /Wero Hup Te͂h i͂h/ subir ao céu com sua lenha incandescente, entrar em
 sua casa e voltar-se (com a cabeça) para cima. Cerco. \[...\]
 
-> Sopro a cuia e o mingau da mulher para quando ela entrar. Falo para o
-> mingau, \[...\] menciono todos os tipos de beiju de tapioca. Lavo o
-> óleo do beiju-de-tapioca-/wöwö̖w/, do beiju-de-tapioca cunuri, do
-> beiju-de-tapioca-/ko̗k ko̗h ti̗g/, do
-> beiju-de-tapioca-de-maniva-vermelha. Cerco as lagartas, suas tesouras
-> e suas cuias de caarpi. Sopro a cuia de beber mingau (da mulher).
->
-> *(Com.)* (A mulher) deve ficar um dia inteiro parada.
->
-> 7º mov. No dia em que a mulher fica parada, faço-a sentar (e sopro) a
-> mãe e a criança com a folha /bu̗y k’e̖t/. \[...\] Vou até a beira do
-> Lago de Leite, tiro a folha /bu̗y k’e̖t/ e trago-a para cá. Lá, à beira
-> do Lago de Leite, faço a mulher sair, sentar-se e banho seu corpo com
-> a folha /bu̗y k’e̖t/.
->
-> Vou juntando o /hã̗wäg/ da mulher. Menciono as plumas e o
-> banco-de-plumas do pato d’água, o banco-de-plumas do pato /pu̗u̗p/
-> d’água, o banco-de-plumas do /wãwãw/ (pássaro), chamo o sopro vital e
-> faço-o sentar-se no banco. Falo e faço a mulher sentar para que
-> engorde. Para ela, eu vou chamando o /hã̗wäg/ e fazendo-o sair (das
-> casas) e sentar-se. Defumo com a /bu̗y k’et/ e trago (o /hã̗wäg/).
->
-> Quando a mulher vai ter filho, menciono o banco-de-plumas e a
->
-> faço sentar. Menciono todos os bancos-de-plumas e faço o osso do fêmur
-> dela ficar como o osso do (pato) macho. Transformo o ombro da mulher e
-> seu /täy tëg/ no enxó de plumas (do pato). Somente dessa forma a
-> criança engordará.
->
-> Falo e faço sair o /hã̗wäg/ defumando com a folha /bu̗y k’et/. Junto o
-> /hã̗wäg/ e desloco-me com ele para dentro de nossa
-> “Casa-de-Nascimento”, /Dëh-Säk-Mo̖y/, na boca do rio.
->
-> Vou para o meio do rio, para a cabeceira e reúno o /hã̗wäg/. É preciso
-> juntar o /hã̗wäg/ da criança, pois ele está completamente espalhado.
-> Pego, reúno e faço-o entrar e ficar em pé.
+Sopro a cuia e o mingau da mulher para quando ela entrar. Falo para o
+mingau, \[...\] menciono todos os tipos de beiju de tapioca. Lavo o
+óleo do beiju-de-tapioca-/wöwö̖w/, do beiju-de-tapioca cunuri, do
+beiju-de-tapioca-/ko̗k ko̗h ti̗g/, do
+beiju-de-tapioca-de-maniva-vermelha. Cerco as lagartas, suas tesouras
+e suas cuias de caarpi. Sopro a cuia de beber mingau (da mulher).
+
+*(Com.)* (A mulher) deve ficar um dia inteiro parada.
+
+7º mov. No dia em que a mulher fica parada, faço-a sentar (e sopro) a
+mãe e a criança com a folha /bu̗y k’e̖t/. \[...\] Vou até a beira do
+Lago de Leite, tiro a folha /bu̗y k’e̖t/  e trago-a para cá. Lá, à beira
+do Lago de Leite, faço a mulher sair, sentar-se e banho seu corpo com
+a folha /bu̗y k’e̖t/.
+
+Vou juntando o /hã̗wäg/ da mulher. Menciono as plumas e o
+banco-de-plumas do pato d’água, o banco-de-plumas do pato /pu̗u̗p/
+d’água, o banco-de-plumas do /wãwãw/ (pássaro), chamo o sopro vital e
+faço-o sentar-se no banco. Falo e faço a mulher sentar para que
+engorde. Para ela, eu vou chamando o /hã̗wäg/ e fazendo-o sair (das
+casas) e sentar-se. Defumo com a /bu̗y k’et/ e trago (o /hã̗wäg/).
+
+Quando a mulher vai ter filho, menciono o banco-de-plumas e a
+faço sentar. Menciono todos os bancos-de-plumas e faço o osso do fêmur
+dela ficar como o osso do (pato) macho. Transformo o ombro da mulher e
+seu /täy tëg/ no enxó de plumas (do pato). Somente dessa forma a
+criança engordará.
+
+Falo e faço sair o /hã̗wäg/ defumando com a folha /bu̗y k’et/. Junto o
+/hã̗wäg/ e desloco-me com ele para dentro de nossa
+“Casa-de-Nascimento”, /Dëh-Säk-Mo̖y/, na boca do rio.
+
+Vou para o meio do rio, para a cabeceira e reúno o /hã̗wäg/. É preciso
+juntar o /hã̗wäg/ da criança, pois ele está completamente espalhado.
+Pego, reúno e faço-o entrar e ficar em pé.
 
 8º mov. No momento do nascimento, faço os peixes, as minhocas grandes,
 as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
@@ -11029,109 +11029,109 @@ as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
 banco-de-plumas do pato /pup/ d’água, no nco-de-plumas do pato d’água.
 Então, (o hã̗wäg) vem.
 
-> Trago a folha /bu̗y k’e̖t/ da beira do Lago de Leite, a folha pequena e
-> a folha grande, para defumar a mulher e (banhar) seu corpo com água.
-> Tiro o /hã̗wäg/ da mulher (e da criança), faço-os sair e sentar.
-> Desloco-me para o outro lado do Lago de Leite, para o final. Lá eu
-> tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo da mãe.
->
-> Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu /hã̗wäg/
-> sair e sentar. Naquele lugar, falo para afastar as formigas pretas, as
-> formigas de fogo, as formigas taracuá. Cerco todas essas (formigas),
-> pois pode haver essas formigas na árvore /sarah-s’o̖m/.\[...\]
+Trago a folha /bu̗y k’e̖t/  da beira do Lago de Leite, a folha pequena e
+a folha grande, para defumar a mulher e (banhar) seu corpo com água.
+Tiro o /hã̗wäg/ da mulher (e da criança), faço-os sair e sentar.
+Desloco-me para o outro lado do Lago de Leite, para o final. Lá eu
+tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo da mãe.
+
+Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu /hã̗wäg/
+sair e sentar. Naquele lugar, falo para afastar as formigas pretas, as
+formigas de fogo, as formigas taracuá. Cerco todas essas (formigas),
+pois pode haver essas formigas na árvore /sarah-s’o̖m/.\[...\]
 
 9º mov. Tiro o /hã̗wäg/ e venho trazendo. \[...\] Eu venho trazendo
 direto e passo pelas diversas Casas-do-Rio. Entro dentro da Casa-do-Rio
 e continuo subindo. Entro na /Hup-Mo̖y/, “Casa-Hup”.
 
-> As mulheres ancestrais sobem junto (conosco). Desço um pouco. As
-> mulheres ancestrais vêm subindo junto e, naquela casa, (sopro) para
-> que o corpo da mãe não arrebente. Arrebento o carajuru.
->
-> (O /hã̗wäg/) está em pé. Faço-o sentar no banco. Continuo subindo e vou
-> colocando (o /hã̗wäg/) dentro da pessoa. Desço novamente. Sigo para
-> outra casa, outra Casa-do-Rio e falo. Subo desde onde estão os
-> ancestrais (moradores) daquela casa. Falo e rumo para outra casa.
-> Falo, subo e fico em pé.
->
-> Sigo direto para Iauareté. Afasto-me para o local de onde as mulheres
-> ancestrais voltaram. \[...\] Fico em pé dentro daquela Casa (Hup).
-> Continuo soprando e fico em pé dentro das casas.
->
-> Faço (a mãe e a criança) sentarem-se em seus bancos primordiais. Venho
-> trazendo seus bancos (para que se sentem). Faço (a mulher) sentar e
-> segurar seu punhal. Prossigo subindo (o rio). Faço-os (a mãe e o
-> filho) portarem seus punhais e sentarem-se.
->
-> Atenuo as cores daquela casa para que a criança não fique louca, não
-> sofra com o “choro enlouquecedor”.
->
-> Continuo subindo e ficando em pé naquelas casas.
+As mulheres ancestrais sobem junto (conosco). Desço um pouco. As
+mulheres ancestrais vêm subindo junto e, naquela casa, (sopro) para
+que o corpo da mãe não arrebente. Arrebento o carajuru.
+
+(O /hã̗wäg/) está em pé. Faço-o sentar no banco. Continuo subindo e vou
+colocando (o /hã̗wäg/) dentro da pessoa. Desço novamente. Sigo para
+outra casa, outra Casa-do-Rio e falo. Subo desde onde estão os
+ancestrais (moradores) daquela casa. Falo e rumo para outra casa.
+Falo, subo e fico em pé.
+
+Sigo direto para Iauareté. Afasto-me para o local de onde as mulheres
+ancestrais voltaram. \[...\] Fico em pé dentro daquela Casa (Hup).
+Continuo soprando e fico em pé dentro das casas.
+
+Faço (a mãe e a criança) sentarem-se em seus bancos primordiais. Venho
+trazendo seus bancos (para que se sentem). Faço (a mulher) sentar e
+segurar seu punhal. Prossigo subindo (o rio). Faço-os (a mãe e o
+filho) portarem seus punhais e sentarem-se.
+
+Atenuo as cores daquela casa para que a criança não fique louca, não
+sofra com o “choro enlouquecedor”.
+
+Continuo subindo e ficando em pé naquelas casas.
 
 10º mov. Então, eu me afasto de Iauareté, continuo subindo e ficando em
 pé (dentro das casas) por onde os ancestrais passaram. Vou até
-Caruru-Cachoeira. Fico em pé e desço até o Rio Negro. Subo, fico em pé,
-tiro (o /hã̗wäg/) continuamente. Retorno e desçoé o rio Tiquié para ir
+Caruru-Cachoeira. Fico em pé e desço até o rio Negro. Subo, fico em pé,
+tiro (o /hã̗wäg/) continuamente. Retorno e desço até o rio Tiquié para ir
 até a Casa-dos-Ancestrais, lá onde eles foram e ficaram em pé. \[...\]
 Subo e fico em pé. Eu entro. Continuo subindo e ficando em pé. Desço
 novamente. Volto a subir e a ficar em pé sempre que passo pelos locais
 de chegada dos ancestrais em Caruru-Cachoeira. Rumo para a região acima
 de Pari Cachoeira. Fico em pé.
 
-> Lá há um banco primordial. Desço novamente e começo a voltar até o rio
-> Japú, lá onde (a Cobra-Canoa) parou, na boca (para sair cada grupo e
-> espalhar). Naquele lugar, nós subimos, pois foi lá onde a Cobra-Canoa
-> nos deixou. Venho trazendo (o /hã̗wäg/) até aqui.
->
-> Novamente, falo para os /B’atɨ̖b’/.
+Lá há um banco primordial. Desço novamente e começo a voltar até o rio
+Japú, lá onde (a Cobra-Canoa) parou, na boca (para sair cada grupo e
+espalhar). Naquele lugar, nós subimos, pois foi lá onde a Cobra-Canoa
+nos deixou. Venho trazendo (o /hã̗wäg/) até aqui.
+
+Novamente, falo para os /B’atɨ̖b’/.
 
 11º mov. Para a mulher sair para sua roça, eu menciono os tocos da roça,
 as abelhas, os calangos, as Gentes-Árvore, os /B’atɨ̖b’/ e cerco suas
 cuias (de caarpi) e suas facas. Cerco todas as (suas armas).
 
-> Para quando (a mulher) voltar (da roça) e entrar em casa, eu falo para
-> a água-pura dela (leite), essa água que ela tem. Faço-a sentar-se em
-> seu banco de leite, deitar-se em sua rede-de-leite.
->
-> (Para que possamos) chegar até aqui, para sair, (sopro com) a /bu̗y
-> k’ë̗t/, eu vou retornando e parando. Com a /bu̗y k’ë̗t/ eu falo para
-> (todos os pertences da mulher). Cerco para que a criança possa descer
-> para o porto. Falo e defumo (a mãe) com a /bu̗y k’ë̗t/. Com o cheiro (da
-> folha), eu cerco (a mãe) (da ameaça) do /E̗d Hup ĩh/, (para que) ele
-> não fique bravo com o odor dela. Dessa maneira, eu cerco (a mãe) da
-> Gente-Sãy, das Cobras-de-duas-cabeças. Menciono e tiro as
-> Gentes-toco-de-pau. Cerco-os para que a criança possa descer à beira
-> para o banho.
+Para quando (a mulher) voltar (da roça) e entrar em casa, eu falo para
+a água-pura dela (leite), essa água que ela tem. Faço-a sentar-se em
+seu banco de leite, deitar-se em sua rede-de-leite.
+
+(Para que possamos) chegar até aqui, para sair, (sopro com) a /bu̗y
+k’ë̗t/, eu vou retornando e parando. Com a /bu̗y k’ë̗t/  eu falo para
+(todos os pertences da mulher). Cerco para que a criança possa descer
+para o porto. Falo e defumo (a mãe) com a /bu̗y k’ë̗t/.  Com o cheiro (da
+folha), eu cerco (a mãe) (da ameaça) do /E̗d Hup ĩh/, (para que) ele
+não fique bravo com o odor dela. Dessa maneira, eu cerco (a mãe) da
+Gente-Sãy, das Cobras-de-duas-cabeças. Menciono e tiro as
+Gentes-toco-de-pau. Cerco-os para que a criança possa descer à beira
+para o banho.
 
 12º mov. (Faço com que a criança e a mãe) estejam dentro da canoa dos
 cabeçudos pequenos, das canoas do pato d’água e do inambu d’água.
 
-> Faço borbulhar e, quando a mãe e a criança vão para a beira, faço-os
-> estar dentro da canoa (para protegê-los) dos seres malfazejos. Para
-> que, quando estiverem banhando-se, esses seres não causem doenças
-> \[...\].
->
-> Cerco os filhos d’água, os seres d’água e suas roupas. Faço com que (a
-> mãe e a criança) desçam (para a beira). (Os seres que estão) abaixo
-> (eu vou fazendo) virarem suas caras para baixo, faço-os entrar (em
-> suas casas), sentar, viro suas caras para baixo (oeste), faço-os
-> entrar e sentar. Viro (a cara) para outro lado \[...\]. Faço-os entrar
-> (na casa), subir e ficar em pé olhando para outro lado (leste).
+ Faço borbulhar e, quando a mãe e a criança vão para a beira, faço-os
+ estar dentro da canoa (para protegê-los) dos seres malfazejos. Para
+ que, quando estiverem banhando-se, esses seres não causem doenças
+ \[...\].
 
-PISAR Então, (faço) a mulher subir, ficar em pé. Para nós já está bom.
+ Cerco os filhos d’água, os seres d’água e suas roupas. Faço com que (a
+ mãe e a criança) desçam (para a beira). (Os seres que estão) abaixo
+ (eu vou fazendo) virarem suas caras para baixo, faço-os entrar (em
+ suas casas), sentar, viro suas caras para baixo (oeste), faço-os
+ entrar e sentar. Viro (a cara) para outro lado \[...\]. Faço-os entrar
+ (na casa), subir e ficar em pé olhando para outro lado (leste).
+
+PISAR 		Então, (faço) a mulher subir, ficar em pé. Para nós já está bom.
 Nós fizemos tudo e ela já pode sair.
 
 O encantamento revela-se uma longa jornada ao Lago de Leite. Ele envolve
 a interação com diversos seres, a passagem por muitas casas ancestrais e
 a manipulação de elementos como folhas, fumaças, bancos e armas.
-Pensando com Merleau-Ponty (2011, p.149), a pessoa hup constitui-se em
+Pensando com <!--citação-->Merleau-Ponty (2011, p.149), a pessoa hup constitui-se em
 movimento, “porque o movimento não se contenta em submeter-se ao espaço
 e ao tempo, ele os assume ativamente, retoma-os em sua significação
-original \[...\]”. *Atos de mostrar* e *atos de rememorar* combinam-se
+original \[...\]”<!--citação-->. Atos de mostrar e atos de rememorar combinam-se
 no curso da viagem da Cobra-Canoa, que passa a ser a viagem do
 nascituro. No curso desses deslocamentos, o sentir se faz a “comunicação
 vital com o mundo que o torna presente” para si como lugar familiar de
-sua vida (2011, p. 84). E nesse itinerário de socialização encontram-se
+sua vida. E nesse itinerário de socialização encontram-se
 igualmente os riscos da familiarização da pessoa com perspectivas de
 outros seres como as Gentes-Cobra.
 
@@ -11151,19 +11151,19 @@ No momento do parto (1º mov.), para proteger a mãe e a criança, o xamã
 menciona os filhotes e as fêmeas de mamíferos, como a paca, o caititu, a
 porca, a anta e a égua. A semelhança criada entre os ossos grandes do
 quadril das fêmeas e da mulher hup possibilita que a mãe assuma a
-postura /pe̗me̗y/, “acocorada”, considerada ideal para dar a luz. No
+postura /pe̗me̗y/,  “acocorada”, considerada ideal para dar à luz. No
 útero, o bebê encontra-se sentado em seu banco-de-vida, segurando suas
 armas e seus instrumentos. Para que a criança saia devagar com seus
 pertences, o benzedor retira o assento e os pertences masculinos ou
 femininos do feto, e cria uma semelhança entre a mãe sentada e a
 samambaia (tipo de), uma planta utilizada antigamente para as pinturas
 corporais. É possível dizer que no curso de seus movimentos diários a
-mãe transforma seu corpo *para sentar*. A mobilidade materna gera um
-*feto sentado*. Apenas o preparo físico da mãe e a ação xamânica
+mãe transforma seu corpo para sentar. A mobilidade materna gera um
+feto sentado. Apenas o preparo físico da mãe e a ação xamânica
 desalojam o bebê e despertam os seus movimentos próprios, conduzindo-o
-ao nascimento (2º mov.). Se, como aponta Viveiros de Castro, “o corpo
+ao nascimento (2º mov.). Se, como aponta Viveiros de Castro, <!--citação-->“o corpo
 humano precisa ser, periodicamente, submetido a processos intencionais
-de construção”, no caso hup, essa construção se dá em movimento (1979,
+de construção”,<!--citação--> no caso hup, essa construção se dá em movimento (1979,
 p. 31).
 
 Depois de benzer o caminho e a roça com breu, a mãe já pode começar a
@@ -11179,9 +11179,9 @@ meninas que, muitas vezes, não têm mais que quatro anos. Habilidosas
 desde cedo, as irmãs e primas apoiam os pequenos nos ossos de suas
 bacias, curvam o tronco lateralmente, correm e inserem os bebês em suas
 brincadeiras sempre de modo cuidadoso e terno. Pensando com Caiuby
-Novaes (1986), a socialização vai se dando no curso dessa manipulação do
+Novaes, a socialização vai se dando no curso dessa manipulação do
 corpo do bebê possibilitada pelos movimentos integrados e pelo contato
-constante com a mãe (1986, p. 163).
+constante com a mãe.
 
 As cuias de caarpi dos seres que povoam as imediações da roça familiar
 são cercadas para que a mãe volte a seus afazeres tendo seu bebê sempre
@@ -11194,14 +11194,14 @@ causa febre ou dores de cabeça. A proteção desse ente, que é uma fonte
 perigosa de calor, faz o xamã benzer também o mingau e o beiju,
 alimentos preparados com o calor do fogo a partir da maniva colhida pela
 mãe. O mingau cozido e o beiju assado são as principais fontes de
-alimento do casal durante a couvade. O mingau resfriado pelo sopro dos
+alimento do casal durante a *couvade*. O mingau resfriado pelo sopro dos
 pais é também o primeiro alimento a ser introduzido ao bebê além do
 leite materno. Por isso, o xamã lava o óleo dos diversos tipos de beiju
 para que não lhe façam mal, e cerca a cuia de caarpi das lagartas da
 maniva.
 
 Desse modo, para que mãe e bebê possam voltar a movimentar-se juntos, é
-necessário um período de pouca mobilidade, restrita à casa. Em B6,
+necessário um período de pouca mobilidade, restrita à casa. Em **B6**,
 Ponciano enfatiza que no primeiro dia a mãe deve ficar completamente
 parada, imóvel, descansando em sua rede. O retorno aos afazeres
 agrícolas ocorre depois de uma progressiva recuperação da mobilidade que
@@ -11218,7 +11218,7 @@ As águas da bacia com que Tereza banhava sua filha indicavam a
 impossibilidade do banho de rio devido ao odor de sangue ainda
 impregnado em seus corpos. A partir da placenta, o xamã transforma as
 águas do rio nos sumos, águas-puras, de várias frutas para banhar a mãe
-e o bebê. O xamã usa a fumaça da folha /bu̗y k’e̖t/ para evitar que /E̗d
+e o bebê. O xamã usa a fumaça da folha /bu̗y k’e̖t/  para evitar que /E̗d
 Hup i͂h/, habitante das profundezas dos rios, sinta o odor da mãe e
 expresse sua ira (7º mov.). Para que mãe e bebê possam ir juntos ao
 porto banhar-se, entram nas canoas do cabeçudo (quelônio), do pato
@@ -11229,14 +11229,14 @@ para baixo, o que aponta para uma semelhança entre a postura suscitada
 aos entes aquáticos e o momento de expulsão. Apenas depois de realizar
 todas essas ações acompanhadas do resguardo e do jejum é que a mãe e o
 bebê poderão sair de casa em segurança. É possível dizer, com McCallum
-(1998, p. 217), que se percebe o “corpo como sendo afetado e construído
+(1998, p. 217), que se percebe o <!--estilo de citação-->“corpo como sendo afetado e construído
 por diferentes processos materiais que ocorrem perto ou dentro de seus
 corpos, como no *couvade* e nas ‘relações de substância’ de forma mais
 geral”
 
 Os cuidados com os pés do bebê vão sendo cada vez mais constantes à
 medida que ele passa da fase /sa̗k k’ë̗të̗y – no̗h kiri/, “levanta e cai”,
-para a fase denominada /sa̗k k’ë̗t ha̗ma̗wa̗y/, “levanta-se e vai andando”.
+para a fase denominada /sa̗k k’ë̗t ha̗ma̗wa̗y/,  “levanta-se e vai andando”.
 Um nó é dado numa folha de açaí para que a criança nunca perca o rumo e
 consiga sempre voltar para casa depois de percorrer as trilhas na mata.
 No começo da noite, a mãe esquenta uma bacia de água e banha os pés da
@@ -11247,11 +11247,11 @@ logo a criança nasça, a fumaça do breu e/ou do tabaco ajudarão a
 protegê-la, cercando as cuias de caarpi do bicho-de-pé, das abelhas, das
 minhocas, das cobras-de-duas-cabeças, dos calangos. Aceitando beber o
 caarpi oferecido por esses seres em sonho, a criança sofrerá de /o̗t
-mi̗͂gi̗͂/, “choro enlouquecedor” (B6). Assim, por meio desses cuidados
+mi̗͂gi̗͂/, “choro enlouquecedor” (**B6**). Assim, por meio desses cuidados
 externos, os familiares protegem a criança para que dê seus primeiros
 passos, ao mesmo tempo que começa a deslocar-se oniricamente.
 
-Às margens do Lago de Leite, o xamã colhe as folhas /bu̗y k’e̖t/ e faz o
+Às margens do Lago de Leite, o xamã colhe as folhas /bu̗y k’e̖t/  e faz o
 sopro vital da mãe e da criança sentarem-se em bancos-de-plumas de
 diversas aves. O mentor leva-os para a “Casa-do-Nascimento”,
 /Dëh-Säk-Mo̖y/, onde reúne os fragmentos dos seus /hã̗wäg/ que, antes,
@@ -11260,21 +11260,21 @@ rio, a pessoa torna-se uma *singularidade múltipla* que, ereta, entra no
 corpo como quem entra numa casa. Chamar e fazer sair o /hã̗wäg/ espalhado
 pelas diversas casas é um movimento contínuo e simultâneo ao nascimento
 que concentra a *pessoa distribuída* do bebê, cujas partes se
-encontravam dispersas pelo ambiente (Gell, 1998, p. 106). Essa ação de
+encontravam dispersas pelo ambiente. Essa ação de
 junção da pessoa parece análoga à formação do feto, pois para que o bebê
 se forme por completo no útero é necessário que o casal tenha muitas e
 constantes relações sexuais durante a gravidez, “tem que transar mais de
 trinta vezes até a barriga crescer e o bebê nascer”, contou a sra.
-Edvirges da aldeia de /Pɨ̖͂g-Dëh/, “Nova Fundação”, à equipe da SSL
-durante uma oficina de saúde sexual e reprodutiva (SSL, 2010, p. 08).
-Nas palavras de Lolli (2010, p. 83), “as ações de procurar, reunir e
+Edvirges da aldeia de /Pɨ̖͂g-Dëh/,  “Nova Fundação”, à equipe da SSL
+durante uma oficina de saúde sexual e reprodutiva.
+Nas palavras de Lolli (2010, p. 83), <!--citação--> “as ações de procurar, reunir e
 colocar os componentes das pessoas fazem que essa pessoa distribuída
 volte a se concentrar no corpo da pessoa”.
 
 O xamã começa, então, a conduzi-los de volta à aldeia e aos seus corpos
 viajando pelo /Pud-Dëh/, o “Rio de Leite”. Ao longo do percurso, uma
 navegação, os viajantes param diante das casas primordiais, as
-“Casas-do-Rio”, /Dëh-Mo̖y/, moradas das Gentes-Cobra. entor entra com
+“Casas-do-Rio”, /Dëh-Mo̖y/, moradas das Gentes-Cobra. O mentor entra com
 seus protegidos e mostra os interiores, os objetos mobiliários e os
 moradores. O xamã fica em pé em cada uma dessas casas, mas faz com que
 mãe e criança sentem-se e estejam munidas com seus punhais, dada a
@@ -11283,7 +11283,7 @@ atenuadas para que a criança, recém-saída do útero, um outro mundo, não
 adoeça com o “choro enlouquecedor”. O pari-breu, feito com diversos
 tipos de madeira, é colocado embaixo e em torno da criança, protegendo-a
 a partir do chão. As Gentes-Árvore, Gentes-Sãy, Gentes-Na’ (Mortos),
-Gentes-Cobra, /B’atɨ̖b’/, Gentes-Arco-Íris, Gentes-Mariposa começam a
+Gentes-Cobra, /B’atɨ̖b’/,  Gentes-Arco-Íris, Gentes-Mariposa começam a
 largar suas facas, suas cuias de caarpi e posicionar-se em pé para
 esperar a chegada do xamã.
 
@@ -11292,17 +11292,19 @@ importantes, pois quando dorme, o recém-nascido desloca-se /hã̗wägät/
 como pessoa-sopro pelo cosmos. Certamente transitará por essas casas,
 cujo percurso conheceu ao nascer. Guiando o neófito, o xamã ensina-o a
 interagir nesses espaços sem que seja afetado pela agência desses seres,
-algo próximo ao que McCallum (1998) descreve para os Kaxinawá,
+algo próximo ao que McCallum descreve para os Kaxinawá,
 
-> *O relacionamento correto entre o corpo e o ambiente é determinado
-> acima de tudo por estados de consciência. O mundo consciente, da
-> vigília, dos parentes vivos, é o lugar onde atua um corpo social
-> saudável. O invisível mundo dos sonhos está presente na floresta ou em
-> cidades distantes, porém é invisível para a pessoa em estado de
-> vigília. É o lugar onde atuam espíritos desencarnados que já perderam
-> o poder da ação física. Ainda assim, ambos os mundo são “conhecidos”
-> por uma pessoa \[...\] e este conhecimento é vital para os assuntos
-> vivos* (1998, p. 233).
+<!--estilo de citação-->
+ O relacionamento correto entre o corpo e o ambiente é determinado
+ acima de tudo por estados de consciência. O mundo consciente, da
+ vigília, dos parentes vivos, é o lugar onde atua um corpo social
+ saudável. O invisível mundo dos sonhos está presente na floresta ou em
+ cidades distantes, porém é invisível para a pessoa em estado de
+ vigília. É o lugar onde atuam espíritos desencarnados que já perderam
+ o poder da ação física. Ainda assim, ambos os mundo são “conhecidos”
+ por uma pessoa \[...\] e este conhecimento é vital para os assuntos
+ vivos. (1998, p. 233)
+<!--estilo de citação-->
 
 A complexidade da sequência de ações exigidas nessa viagem /hãwägät/ faz
 com que, muitas vezes, um detalhe, um movimento, um gesto seja
@@ -11316,10 +11318,10 @@ e do pai já foram devidamente preparados para os eventos de parto, o que
 diminui os riscos.
 
 O benzimento do filho é composto de muitos encantamentos como o /hã̗wäg
-bi’i̖d/, “benzimento do sopro vital”, o /n’a̖n bi’i̖d/, “benzimento do
-bicho-de-pé”, o /bu̗y k’e̖t bi’i̖d/, o “benzimento da folha /bu̗y k’e̖t/”,
+bi’i̖d/, “benzimento do sopro vital”, o /n’a̖n bi’i̖d/,  “benzimento do
+bicho-de-pé”, o /bu̗y k’e̖t bi’i̖d/,  o “benzimento da folha /bu̗y k’e̖t/”,
 dentre outros que podem ser somados pelo xamã para garantir a proteção e
-concentração da pessoa distribuída[^103] (Gell, 1998). Nessa tradução
+concentração da pessoa distribuída[^103]. Nessa tradução
 apresentada acima, muitos desses encantamentos correspondem aos
 movimentos, sequências de ações e interações realizadas pelo xamã em
 dadas regiões do cosmos (planos-casa). Como em relatos de viagem, é
@@ -11330,15 +11332,16 @@ que precisam ser executadas em um deslocamento.
 O aprendizado e a habilidade de um benzedor para a realização desse
 encantamento variam enormemente. Resultam dos aprendizados com o pai, da
 participação nas rodas, das viagens oníricas, da quantidade de jornadas
-ao Lago de Leite já realizadas e dos conhecintos de caça e pesca. Os
+ao Lago de Leite já realizadas e dos conhecimentos de caça e pesca. Os
 detalhes dos trajetos, das moradas e dos elementos presentes nos vários
 ambientes, bem como a destreza para a manipulação das fumaças, líquidos
 e matérias vitais aprimoram-se com o tempo e com a quantidade de filhos
-e netos de um /wähä̗d/, um “velho hup”. Nesse sentido, os processos
-sociais constantes de “procura do filho” dependem de “pessoas que sabem
+e netos de um /wähä̗d/,  um “velho hup”. Nesse sentido, os processos
+sociais constantes de “procura do filho” dependem de <!--citação--> “pessoas que sabem
 fazendo outros corpos que sabem” (McCallum, 1998, p. 236).
 
-#### Choro enlouquecedor
+
+###Choro enlouquecedor
 
 Para os senhores hup, uma das causas do “choro enlouquecedor” da pequena
 Marijane fora a exposição que sofreu à fuligem oleosa do telhado de uma
@@ -11356,10 +11359,10 @@ transformar todas as águas em sumos de água-pura para restituir o
 perspectiva não hup e neutralizam-se os agentes patogênicos que afetam a
 bebê. Para Lolli, são as ações de neutralização, construção e proteção
 que vão permitindo a melhora do doente, e no caso, o nascimento da
-pessoa (2010, p. 72).
+pessoa.
 
-A fumaça do caroço de ucuqui queimado pelos rapazes faz /Bisi̗w/ sofrer
-com uma /pë̗’/, “doença”, um desmaio (**M15**). Esse devorador de /hã̗wäg/ de
+A fumaça do caroço de ucuqui queimado pelos rapazes faz /Bisi̗w/  sofrer
+com uma /pë̗’/,  “doença”, um desmaio (**M15**). Esse devorador de /hã̗wäg/ de
 crianças faz a humanidade adoecer para sofrer como ele, causando doenças
 e males. O “choro enlouquecedor” pode ser visto como uma primeira
 doença, um malefício que acomete a criança em seus momentos iniciais de
@@ -11369,18 +11372,19 @@ sujeira insere a criança em pleno contexto culinário das Gentes-Cobra,
 algo que gera o risco da identificação com sua perspectiva pela partilha
 de substâncias. Como menciona Steele,
 
-> *Seja através do incenso, do perfume ou da comida, a sincronização
-> olfativa acompanha as transições vitais nos ritos de passagem que vão
-> do nascimento à morte, estando presentes também nas observâncias
-> religiosas. Há ampla evidência dessa hipótese nas culturas amazônicas.
-> A fragrância facilita as transformações na religião, na magia e nos
-> rituais de cura* (Steele, 2006, p. 233).
+<!--estilo de citação-->
+ Seja através do incenso, do perfume ou da comida, a sincronização
+ olfativa acompanha as transições vitais nos ritos de passagem que vão
+ do nascimento à morte, estando presentes também nas observâncias
+ religiosas. Há ampla evidência dessa hipótese nas culturas amazônicas.
+ A fragrância facilita as transformações na religião, na magia e nos
+ rituais de cura. (Steele, 2006, p. 233)
 
 Nos termos do autor, a exposição da recém-nascida à fuligem da morada
-das Gentes-Cobra promove uma “sincronização olfativa” que talvez levaría
+das Gentes-Cobra promove uma “sincronização olfativa” que talvez levaria
 a neófita a assumir a perspectiva desses perigosos seres que se
 incomodam facilmente com o cheiro de sangue dos corpos da mãe e do bebê.
-Além disso, a fuligem é considerada um resíduo oleoso. Como visto em B1,
+Além disso, a fuligem é considerada um resíduo oleoso. Como visto em **B1**,
 orifícios corporais devem ser abertos para que a pasta/óleo da coca seja
 expelido, deixando o corpo pela sola dos pés. Essa pasta/óleo é o cerume
 da vagina de uma Mulher Peixe filha de um Velho Cobra (**M9**).
@@ -11393,7 +11397,7 @@ são facilmente capturados com a mão, arco e flecha ou cestos. Como será
 visto à frente, a Cobra-Canoa transporta dentro de si Gentes-Peixe que
 se transformarão em humanos ao saírem.
 
-Em B6, a partir da placenta, o xamã transforma as águas para banhar a
+Em **B6**, a partir da placenta, o xamã transforma as águas para banhar a
 mãe e o bebê. O líquido placentário torna-se água-pura de maracujá e de
 fruta /tat/. As águas do rio passam a ser as águas do sumo de cucura
 para banhar. O termo em língua hup para placenta é /te͂h yu̖d/,
@@ -11404,7 +11408,7 @@ sua roupa, como um humano, mas também dentro de um ovo de peixe. Os
 banhos com sumos das frutas do mato, remédios humanos, talvez
 possibilitem diferenciar o bebê hup das Gentes-Peixe, transformando o
 ambiente e as estruturas que envolvem o feto. A floresta passa a ser o
-lugar de origem dos líquidos, e não o rio, a /te͂h yu̖d/, e não o “ovo de
+lugar de origem dos líquidos, e não o rio, a /te͂h yu̖d/,  e não o “ovo de
 peixe”. Jogar o ovo no rio mostra também essa necessidade de separar e
 diferenciar o bebê hup enquanto humano hup.
 
@@ -11413,39 +11417,39 @@ como uma gigantesca devoradora de jararacas, o ovo de peixe, uma roupa,
 faz o bebê humano aparecer para as Cobras como um alevino no ovo.
 Vestido em sua roupa-ovo, o nascituro protege-se dos riscos de ser
 identificado como um inimigo fedorento ou um assassino de peixes com
-timbó. A *sincronização olfativa* do bebê com as Cobras através da
+timbó. A sincronização olfativa do bebê com as Cobras através da
 fumaça/fuligem/óleo culinários atingem-no por essas afecções inimigas,
 enquanto as Cobras ofendem-se com o odor de sangue/timbó do corpo
 infantil e materno, o que as conduz ao ataque e à predação. O “choro
-enlouquecedor” é uma doença causada pelo /hã̗wäg s’ë̗kë̗y/, o “roubo do
+enlouquecedor” é uma doença causada pelo /hã̗wäg s’ë̗kë̗y/,   o “roubo do
 sopro vital”, que faz o recém-nascido sofrer como os rapazes que se
 recusaram a fazer o Dabucuri (**M15**), como os caçadores que matam presas
 sem a autorização do dono.
 
-Partindo da reflexão de Buchillet (1983), é possível dizer que, como
+Partindo da reflexão de Buchillet, é possível dizer que, como
 para os Desana, haja também para os Hupd’äh a busca etiológica para
-identificar a causa e o agente responsável pela /pë̗’/, “doença”, podendo
-haver “doenças de feitiço”, /döh pë̗’/, causadas pela ação maléfica de
-xamãs, e as “doenças de animais e espíritos”, /hã̗wäg pë̗’/, provocadas
-por seres como /Bisi̗w/, Gentes-Cobra, bichos do pé, etc. quando utilizam
-suas armas, corpos ou objetos (1983, p. 128).
+identificar a causa e o agente responsável pela /pë̗’/,  “doença”, podendo
+haver “doenças de feitiço”, /döh pë̗’/,  causadas pela ação maléfica de
+xamãs, e as “doenças de animais e espíritos”, /hã̗wäg pë̗’/,  provocadas
+por seres como /Bisi̗w/,  Gentes-Cobra, bichos do pé, etc. quando utilizam
+suas armas, corpos ou objetos.
 
-Febres, tosses, diarreias, dores musculares, ferimentos são /pë̗’/ e
+Febres, tosses, diarreias, dores musculares, ferimentos são /pë̗’/  e
 exigem que o doente fique em repouso deitado em sua rede. Depois de
 beber uma cuia de caxiri, é comum que o bebedor franza a testa e diga ao
-companheiro do lado: /Huptök pë̗’/, “Esse caxiri é forte”. Embriagados,
+companheiro do lado: /Huptök pë̗’/,  “Esse caxiri é forte”. Embriagados,
 os festeiros se deitam em redes, ou no chão, e quedam-se /äg na̗’ap i͂h
 däh/, “bêbados” ou “mortos de bêbados”. Quando mordem uma pimenta forte
-ou preparam um caldo de peixe com muito tempero, diz-se /ko̗w pë̗’/, “a
+ou preparam um caldo de peixe com muito tempero, diz-se /ko̗w pë̗’/,  “a
 pimenta arde”. A exposição a estímulos visuais, como as luzes coloridas
-da televisão ou a luminosidade solar forte, gera /käwäg pë̗’/, “dor na
+da televisão ou a luminosidade solar forte, gera /käwäg pë̗’/,  “dor na
 vista”. O mesmo ocorre quando se ouvem barulhos e estrondos que sujam o
-ouvido e causam /b’oto̗k pë̗’/, “dor de ouvido”. Assim, a noção de /pë̗’/
+ouvido e causam /b’oto̗k pë̗’/,  “dor de ouvido”. Assim, a noção de /pë̗’/
 assemelha-se à descrita por Lolli para os Yuhupdëh, aproximando doença e
 embriaguez por derrubarem a pessoa, mas também expressa a exposição a
 estímulos sensoriais intensos que têm efeito patogênico.
 
-Se o banho com fumaça e sumos /s’i̗d/, “lava”, o /hã̗wäg/, o barulho
+Se o banho com fumaça e sumos /s’i̗d/,  “lava”, o /hã̗wäg/, o barulho
 (gemido), o odor (fuligem) e o forte colorido (pinturas) causam doenças
 poluindo ou perturbando a pessoa a partir de seus sentidos. Visão,
 olfato e paladar são sentidos que parecem ser potencializados no
@@ -11455,25 +11459,25 @@ desconstruído pela ação dos muitos seres malfazejos incomodados pelo
 odor ofensivo exalado por seus corpos. Ao deslocar-se, o neófito começa
 a ver, ouvir, cheirar e tocar. Nos termos de Steele, o percurso ao longo
 do caminho da Cobra-Canoa é uma experiência sinestésica que leva a uma
-*ativação inter-sensorial* que vai concentrando a pessoa distribuída no
+ativação intersensorial que vai concentrando a pessoa distribuída no
 corpo à medida que paisagens, objetos e seres vão sendo apresentados,
-manipulados e observados pelo neófito (2006, p. 233). O risco da
+manipulados e observados pelo neófito. O risco da
 exposição pelos atos de mostrar do mentor ou pelo retorno onírico do
 bebê /hã̗wägät/ seria talvez um excesso de poder de reconhecer “outros”,
 de familiarizar-se, estando suscetível sensorialmente a assumir
-perspectivas não humanas (McCallum, 1998, p. 235).
+perspectivas não humanas.
 
 A viagem do /Te͂h bi’i̖d/ é assim um percurso de socialização que fabrica
 não só o corpo e a pessoa, mas também constitui os sentidos para os
 distintos regimes de percepção. Essa jornada revela-se uma longa
-experiência sensível, “um processo vital assim como a procriação, a
+experiência sensível, <!--citação--> “um processo vital assim como a procriação, a
 respiração ou o crescimento” (Merlau-Ponty, 2011, p. 31). Pensando com
 McCallum, o “corpo é um agente construído no fazer social”, a pessoa
-corporificada do neófito, /hã̗wägät/ e /sa̗pa̗t/, é “feita crescer” por
+corporificada do neófito, /hã̗wägät/ e /sa̗pa̗t/,   é “feita crescer” por
 intervenções constantes que se dão por meio do envolvimento do novo ser
-nos percursos e movimentos da mãe e do xamã (1998, p. 236).
+nos percursos e movimentos da mãe e do xamã.
 
-/Te͂h yoho̗y/, a “procura do filho”, e /Te͂h bɨ̗’ɨ̗y/, “fabricar o filho”,
+/Te͂h yoho̗y/,  a “procura do filho”, e /Te͂h bɨ̗’ɨ̗y/,   “fabricar o filho”,
 mostram-se processos longos e cuidadosos de fabricação da pessoa dos
 quais participam desde parentes próximos até afins mais distantes. Na
 “busca da filha” de Tereza, xamãs afins a Firmiano, como Ponciano e
@@ -11482,7 +11486,7 @@ senhoras Catarina e Maria estavam sempre próximas à casa da avó Paulina,
 contribuindo com conselhos e plantas medicinais. Traziam raízes e folhas
 de suas roças para o preparo de remédios, além de segurarem e ninarem a
 pequena bebê quando preciso. Por muitas noites, os senhores hup
-discutiram o /te͂h bi’i̖d/, seus trajetos, casas e movimentos para
+discutiram o /te͂h bi’i̖d/,  seus trajetos, casas e movimentos para
 entender o que tinha causado o “choro enlouquecedor”. Apenas quando
 concluíram que o avô não tinha protegido o /hã̗wäg/ da bebê da fuligem
 oleosa é que começaram a tentar ações xamânicas que pudessem proteger
@@ -11490,9 +11494,9 @@ melhor a criança e assegurar-lhe a vida. Estavam, desse modo, ajudando
 Firmiano em sua agência xamânica e fazendo a pequena Marijane surgir no
 curso de seus próprios movimentos ao longo do mundo.
 
-#### O leitinho dos velhos
+###O leitinho dos velhos
 
-/Pu͂’u̖͂k, tɨ̗h wähä̗däh hɨdnɨ̖h pud-dë̖h/, “a coca é o leitinho dos velhos”,
+/Pu͂’u̖͂k, tɨ̗h wähä̗däh hɨdnɨ̖h pud-dë̖h/,  “a coca é o leitinho dos velhos”,
 dizia Tereza, rindo e sentando-se ao meu lado na roda. Sua brincadeira
 revelava um modo de percepção do alimento de origem. Além do consumo
 antropofágico da carne e dos ossos pilados de /M’e̖h Hup i͂h/, o “Velho
@@ -11506,18 +11510,18 @@ os velhos riam, concordando com a professora, afinal, estavam mamando.
 Na hora do parto, o feto encontra-se sentado em seu banco de leite,
 segurando seu punhal, sua faca e seu bastão. Como no peito dos pajés, os
 nascituros têm pendurada uma pedra-semente, um quartzo, fonte de
-importantes poderes xamânicos. Durante toda a gestaçãiança
+importantes poderes xamânicos. Durante toda a gestação, a criança
 alimenta-se com a coca e o tabaco, substâncias que a fazem crescer.
 Referindo-se à alimentação dos pais bororo durante a gestação, Sylvia
-Caiuby Novaes (1986, p. 159) afirma que “Evidentemente, os padrões
+Caiuby Novaes (1986, p. 159) afirma que <!--citação--> “Evidentemente, os padrões
 alimentares têm papel de destaque desde a gravidez, pois é já a partir
 desse momento que se inicia o processo de criação do indivíduo, não como
 mero ser biológico, mas como alguém que deverá portar uma identidade
-social”. Nesse sentido, os pertences e a comensalidade dos *fetos
-comedores de coca* e dos *velhos que mamam* parecem apontar para um jogo
+social”. Nesse sentido, os pertences e a comensalidade dos fetos
+comedores de coca e dos velhos que mamam parecem apontar para um jogo
 de inversões rituais que aproxima pessoas que ocupam posições
 simetricamente inversas e extremas no ciclo vital. Refletindo com
-Houseman; Severi (2009), as *identificações* entre o feto, um noviço, e
+Houseman e Severi, as identificações entre o feto, um noviço, e
 o xamã, um iniciador, colocam-se através de um campo complexo de
 relações estabelecido no curso da convivência intensa dos avós com seus
 netos[^105].
@@ -11540,27 +11544,29 @@ antigos se adornavam ricamente com cocares, pinturas, pulseiras, flores,
 sementes. Descrevendo a relação entre os avós e seus netos para os Piro,
 Gow dirá que:
 
-> *Os mitos são* tsrunnini ginkakle*, “histórias dos antigos”. Essas
-> histórias são contadas pelos anciões aos jovens num ambiente de
-> intimidade e de descanso. \[…\] É porque seus netos estão interessados
-> que os anciões contam-nos essas histórias. Pelo que pude perceber, é
-> simplesmente o fato de estarem interessados que motiva a contação de
-> histórias: o contador quer contá-las e os ouvintes querem escutá-las.
-> O estímulo para que se conte essas histórias parte das próprias
-> crianças* (2001, p. 79).
+<!--estilo de citação-->
+ Os mitos são *tsrunnini ginkakle*, “histórias dos antigos”. Essas
+ histórias são contadas pelos anciões aos jovens num ambiente de
+ intimidade e de descanso. \[…\] É porque seus netos estão interessados
+ que os anciões contam-nos essas histórias. Pelo que pude perceber, é
+ simplesmente o fato de estarem interessados que motiva a contação de
+ histórias: o contador quer contá-las e os ouvintes querem escutá-las.
+ O estímulo para que se conte essas histórias parte das próprias
+ crianças. (2001, p. 79)
+<!--estilo de citação-->
 
-Como no evento narrativo de M15, o interesse dos netos em ouvir as
+Como no evento narrativo de **M15**, o interesse dos netos em ouvir as
 narrativas leva os velhos a contar com base em sua experiência de vida.
 Assim, as viagens de Ponciano à Casa-dos-Animais fazem-no contar a
-história de /Bisi̗w/ a partir de sua participação em eventos rituais e de
+história de /Bisi̗w/  a partir de sua participação em eventos rituais e de
 suas visitas oníricas. No mesmo sentido, as muitas viagens xamânicas
 realizadas pelo benzedor ao Lago de Leite tornam-no capaz de sintetizar
 as ações e trajetos aos netos.
 
-/Tɨ̗h wähä̗d/, “velhos/ anciões”, e /tɨ̗h wähä̗d bɨ̖gay/, “velhos antigos”,
+/Tɨ̗h wähä̗d/,  “velhos/ anciões”, e /tɨ̗h wähä̗d bɨ̖gay/,  “velhos antigos”,
 são os termos utilizados para referir-se aos idosos. O nascimento do
 primeiro neto faz um /pu̗b/, “adulto”, passar a ser chamado /wähä̗d/,
-“velho”. No início, os corpos dos /wähä̗d/ ainda estão duros como a casca
+“velho”. No início, os corpos dos /wähä̗d/  ainda estão duros como a casca
 das árvores mais resistentes. Seus pés são firmes e quase sem unhas,
 tendo sido moldados pelo chão dos caminhos percorridos, na maior parte
 das vezes, descalços. Seus membros rijos garantem não só a locomoção por
@@ -11571,23 +11577,23 @@ netos começam a conhecer as trilhas, os igarapés, os locais de caça, as
 Moradas Antigas e as aldeias distantes. No curso dessas viagens, muitas
 histórias são contadas pelos avós, que indicam, na paisagem, os
 vestígios deixados pelos ancestrais. Como durante nossa caminhada à
-/Hu̗͂-Mo̖y/, deliciando-se com o sabor das frutas da mata, observando
+/Hu̗͂-Mo̖y/,  deliciando-se com o sabor das frutas da mata, observando
 pegadas ou brincando com os filhotes de animais, os netos vão
 familiarizando-se com aspectos de um universo que será a referência para
 a prática xamânica e para os afazeres da caça e da pesca. A viagem pelo
-Rio de Leite (B7, ver p. 277) e a viagem pela mata são *caminhos
-vividos* que inserem as crianças em contextos para a aprendizagem
+Rio de Leite (**B7**) e a viagem pela mata são caminhos
+vividos que inserem as crianças em contextos para a aprendizagem
 através de suas ações e movimentos.
 
 Já os “antigos” passam a maior parte do tempo na aldeia, pois não
-conseguem mais deslocar-se pelos caminhos. Os /tɨ̗h wähä̗d bɨ̖gay/ caminham
+conseguem mais deslocar-se pelos caminhos. Os /tɨ̗h wähä̗d bɨ̖gay/  caminham
 pela aldeia apoiados em seus /sö̖h tëg/, “bastões/cajados”, e muitas
 vezes são guiados pelas mãos de um neto ainda criança. Enquanto os fetos
 seguram seus próprios bastões no útero, o cajado torna-se importante
 para que o avô consiga deslocar-se e participar do convívio da aldeia,
 auxiliado pelo neto. A dificuldade de audição, de locomoção e mesmo de
-fala, devido à ausência de dentes, vai transformando os /wähä̗d/ em
-/bɨ̖gay/. Deixam de ser procurados para realizar ações xamânicas, pois
+fala, devido à ausência de dentes, vai transformando os /wähä̗d/  em
+/bɨ̖gay/.  Deixam de ser procurados para realizar ações xamânicas, pois
 não conseguem concentrar seu pensamento para deslocar-se. Erram caminhos
 cósmicos, deixam de realizar ações importantes. Tornam-se incapazes de
 cercar ou proteger. Em suas narrativas, confundem personagens e
@@ -11596,41 +11602,43 @@ passagens dos mitos. Iniciam, assim um processo fundamental de
 
 Após a morte, esquecendo seus descendentes, o morto seguirá como
 pessoa-sopro (duplo) seu caminho rumo à Serra Grande, e seu duplo
-sombra, /b’atɨ̖b’/, se afastará da morada da família para a floresta.
+sombra, /b’atɨ̖b’/,  se afastará da morada da família para a floresta.
 Inversamente, as primeiras palavras do bebê são justamente os ermos de
 parentesco, geralmente formas carinhosas de referir-se aos pais e
-irmãos. A fala expressa o início do /hipã̗hã̗y/, “saber”, que vai
+irmãos. A fala expressa o início do /hipã̗hã̗y/,  “saber”, que vai
 inserindo o bebê na sociabilidade familiar. Num extremo, está aquele que
 começa a esquecer para partir, no outro, aquele que começa a aprender e
 a reconhecer para chegar. Como descreve Gow,
 
-> Os avós e netos piro encontram-se através do ciclo de vida nesse mundo
-> vivido: aqueles próximos ao final do processo de *nshinikanchi* e
-> estes no início. À medida que se aproximam da morte, os anciões vão
-> ficando “cansados de viver” e prontos para tornar-se algo diferente,
-> pessoas mortas. Seus próprios entes queridos, com os quais eles
-> passaram suas vidas, são agora pessoas mortas e *tsrunni*, “pessoas
-> antigas”, para seus parentes jovens *(2001, p. 89).*
+<!--estilo de citação-->
+ Os avós e netos piro encontram-se através do ciclo de vida nesse mundo
+ vivido: aqueles próximos ao final do processo de *nshinikanchi* e
+ estes no início. À medida que se aproximam da morte, os anciões vão
+ ficando “cansados de viver” e prontos para tornar-se algo diferente,
+ pessoas mortas. Seus próprios entes queridos, com os quais eles
+ passaram suas vidas, são agora pessoas mortas e *tsrunni*, “pessoas
+ antigas”, para seus parentes jovens. (2001, p. 89)
+<!--estilo de citação-->
 
 Com a perda da dentição e a dificuldade na locomoção, a coca passa a ser
-a base da alimentação. Além disso, pedaços de beijús, frutas, peixes,
+a base da alimentação. Além disso, pedaços de beijus, frutas, peixes,
 etc. são oferecidos quando o “antigo” chega à casa de seus inúmeros
 descendentes para complementar sua dieta. No sentido inverso, o aumento
 da dentição e a capacidade de arrastar-se pelo chão são sinais de que o
 bebê já pode comer peixes, formigas (manivara), certas frutas da mata e
 carnes de caça, desde que esses alimentos sejam devidamente benzidos. O
 desmame é uma ação fundamental para que o bebê comece a ser visto como
-/tɨh d’ö̗’/, uma “criança”. Enquanto a coca passa a ser a base da
+/tɨh d’ö̗’/,  uma “criança”. Enquanto a coca passa a ser a base da
 alimentação dos “antigos” complementada por uma dieta livre de
-restrições que insere a pessoa num processo de *lembrar para esquecer*,
+restrições que insere a pessoa num processo de lembrar para esquecer,
 o leite, após o nascimento, é a fonte exclusiva de nutrição do bebê que
-vai aos poucos *lembrando para reconhecer* (McCallum,1998, p. 235).
+vai aos poucos lembrando para reconhecer.
 
 Uma das formas de referir-se ao recém-nascido é chamá-lo de /baha̗d tu̗
 ay/, “aquele que acabou de aparecer”. O colo da mãe e da avô são os
 abrigos confortáveis e seguros para o bebê nessa fase. A expressão
 /hib’a̗h te͂h d’äh/, “ancestrais”, pode ser igualmente traduzida como
-“gente do nascimento” ou “gente do surgimento”. O verbo /baha̗d/ designa
+“gente do nascimento” ou “gente do surgimento”. O verbo /baha̗d/  designa
 o aparecimento e o surgimento, iluminando a proximidade entre o
 nascituro e os ancestrais, ambos como seres do surgimento. O paralelo
 entre os deslocamentos dos ancestrais e do nascituro permite considerar
@@ -11639,12 +11647,12 @@ criam a vida, a existência como mobilidade. Sentado e adornado em seu
 banco às margens do lago (útero), ou navegando pelo rio, o nascituro é
 ao mesmo tempo um ancestral e um neófito.
 
-Pensando com Anne-Christine Taylor (1996), *a coca do feto* e *o leite
-dos velhos* levam à identificação entre ambos a partir da comensalidade
+Pensando com Anne-Christine Taylor, a coca do feto e o leite
+dos velhos levam à identificação entre ambos a partir da comensalidade
 das rodas de coca e do pós-parto. Da mesma forma, os pertences do
 nascituro dotam-no de uma aparência humana específica, a dos antigos, ou
 ancestrais. O nascimento ganha assim um sentido de reaparição. Nas
-palavras da autora, “Segue-se disso que ser um ser humano real e vivo
+palavras da autora, <!--citação--> “Segue-se disso que ser um ser humano real e vivo
 implica apresentar um tipo especial de aparência corporal, praticar
 certos tipos de comportamento comunicativo e social, e possuir certos
 estados de consciência” (p. 205).
@@ -11653,7 +11661,7 @@ Deitados em suas redes de leite, os avós deslocam-se oniricamente depois
 das rodas de coca. O avô encontra seus ancestrais e aconselha-se sobre
 qual o melhor nome a ser dado a seu neto recém-nascido. O nome cerca o
 /hã̗wäg/ no peito, faz com que o sopro vital mantenha-se concentrado na
-/Hãg-Sa̗k-Mo̖y/, a “Casa-do-Pulsar”. Às margens do Lago de Leite, dentre
+/Hãg-Sa̗k-Mo̖y/,  a “Casa-do-Pulsar”. Às margens do Lago de Leite, dentre
 os muitos nomes que constituem o estoque onomástico de seu clã, o avô
 deve chamar o ancestral cujo nome será dado ao neto. Evocando o nome do
 antepassado, o xamã retira e concentra as parcelas distribuídas do
@@ -11666,21 +11674,23 @@ sopra a fumaça do cigarro benzido no corpo do bebê para que receba o
 da nominação, o ancestral regenera-se pela nova vida concebida com o
 sopro xamânico. Segundo Athias,
 
-> \[...\] *o nome de um ancestral é trocado e colocado em um
-> recém-nascido. Cada clã tem em geral um conjunto de cinco a sete nomes
-> próprios para sexo feminino e para sexo masculino. Esses nomes se
-> repetem e são dados de acordo com a ordem de nascimento dos
-> ancestrais. Na realidade, o recém-nascido é trocado por um ancestral.
-> E ele se tornará efetivamente membro do clã quando esta troca se
-> efetivar. O filho primogênito recebe o nome de seu avô. Este, por sua
-> vez, o recebeu do seu próprio avô. Os filhos que se seguem podem
-> receber qualquer um dos nomes dos irmãos mais novos do avô ancestral.
-> \[...\] Aí lhe é dado o fôlego, o sopro da vida, o sopro do ancestral
-> comum e fundador do clã. Essa cerimônia é feita com a criança perto do
-> homem mais velho de referência para o clã ou pelo avô paterno, caso
-> esteja vivo* (2006, p. 15, grifos meus).
+<!--estilo de citação-->
+ \[...\] o nome de um ancestral é trocado e colocado em um
+ recém-nascido. Cada clã tem em geral um conjunto de cinco a sete nomes
+ próprios para sexo feminino e para sexo masculino. Esses nomes se
+ repetem e são dados de acordo com a ordem de nascimento dos
+ ancestrais. Na realidade, o recém-nascido é trocado por um ancestral.
+ E ele se tornará efetivamente membro do clã quando esta troca se
+ efetivar. O filho primogênito recebe o nome de seu avô. Este, por sua
+ vez, o recebeu do seu próprio avô. Os filhos que se seguem podem
+ receber qualquer um dos nomes dos irmãos mais novos do avô ancestral.
+ \[...\] Aí lhe é dado o fôlego, o sopro da vida, o sopro do ancestral
+ comum e fundador do clã. Essa cerimônia é feita com a criança perto do
+ homem mais velho de referência para o clã ou pelo avô paterno, caso
+ esteja vivo (2006, p. 15, grifos meus).
+<!--estilo de citação-->
 
-Nesse jogo de identificações, o *feto sentado* surge como os ancestrais
+Nesse jogo de identificações, o feto sentado surge como os ancestrais
 que, após o chamado de /K’e̖g Te͂h/, sentaram-se em seus bancos e, às
 margens do lago, receberam a coca, o tabaco, o bastão, as flautas
 Jurupari, a zarabatana, os adornos rituais e as pinturas corporais
@@ -11689,16 +11699,16 @@ começa a conduzi-los na viagem de volta pelo Rio de Leite, visita as
 Casas-do-Rio. Ao longo dessa jornada, o nascituro e a mãe aproximam-se
 dos ancestrais, homens e mulheres, de suas moradas e de seus pertences.
 Simultaneamente, enquanto se desloca, o xamã faz o /hã̗wäg/ entrar no
-corpo e abrigar-se no peito, na /Hãg-Sa̗k-Mo̖y/ da pessoa. Parece haver,
+corpo e abrigar-se no peito, na /Hãg-Sa̗k-Mo̖y/  da pessoa. Parece haver,
 dessa forma, uma semelhança entre o corpo materno que abriga o feto
 sentado e a paisagem da criação.
 
 Durante a gravidez, o ventre e o peito maternos tornam-se
 Lagos de Leite. O leite forma-se no seio, /Pud/, próximo ao peito, à
-/Hãg-Sa̗k-Mo̖y/. Essa parte do corpo, que pode ser traduzida como “peito”,
+/Hãg-Sa̗k-Mo̖y/.  Essa parte do corpo, que pode ser traduzida como “peito”,
 é onde se situam o coração e o pulmão. Esses órgãos são percebidos pelos
 Hupd’äh principalmente pelos movimentos de pulsar e inflar, através do
-verbo /hãg-sa̗k/, “pulsar/respirar”. Como em /B’oto̗k-Mo̖y/, “orelha” ou
+verbo /hãg-sa̗k/, “pulsar/respirar”. Como em /B’oto̗k-Mo̖y/,  “orelha” ou
 “Casa-da-Audição”, o substantivo /mo̖y/, “morada”, “casa”, adere para
 compor o sentido de uma “Casa-do-Pulsar/Respirar”, que é também uma
 morada do /hã̗wäg/, “sopro vital”, e, portanto, uma /ɨ̗b’ mo̖y/, uma
@@ -11711,8 +11721,8 @@ do corpo são descritas por expressões compostas pelo substantivo /moy/.
 A /Katɨt-Moy/, “garganta/pescoço/boca” é também uma
 “Casa-da-Fala/Paladar”, uma morada vital que precisa ser protegida.
 Criança pequenas e bebês são adornados com colares de miçangas benzidos
-pelos xamãs para que tenham seus pescoços cercados. O nariz, /tö̖j/, pode
-também ser chamado /Tö̖j-Mo̖y/, “Casa-da-Respiração”. Todas essas regiões
+pelos xamãs para que tenham seus pescoços cercados. O nariz, /tö̖j/,  pode
+também ser chamado /Tö̖j-Mo̖y/,  “Casa-da-Respiração”. Todas essas regiões
 corporais estão ligadas a modulações do ar pela fala, respiração e
 sopro. É a partir dessas casas que se torna possível a transformação do
 regime corporal /sa̗pa̗t/ em /hã̗wägät/. “Caminhos corporais”, /sa̗p ti̖w/,
@@ -11724,30 +11734,30 @@ Casa-do-Pulsar, a Casa-da-Audição, a Casa-da-Respiração e a Casa-da-Fala
 assemelham-se à Casa-do-Sol-Nascente, à Casa-da-Cabeceira, à
 Casa-do-Meio, à Casa-do-Trovão.
 
-Desse modo, viajando para a paisaem da criação distante, o xamã
+Desse modo, viajando para a paisagem da criação distante, o xamã
 percorre os caminhos corporais e retira as parcelas distribuídas
 simultaneamente das Casas-Ancestrais e das Moradas-Órgãos corpóreas,
 corporificando os poderes de criação e de movimento do ancestral. As
 moradas corporais às margens do Lago de Leite parecem apontar para uma
-noção de vida expressa pela própria *cosmografia do corpo*.
+noção de vida expressa pela própria cosmografia do corpo.
 
 A pessoa corporifica a essência da localidade em seu próprio ser,
 formando, na junção dos sopros vitais, a substância de sua identidade. A
 percepção de Lagos de Leite, casas vitais e caminhos no corpo faz da
 pessoa hup um nexo em si, um elo generativo do ser com o mundo. Sentados
-em seus bancos, os *fetos comedores de coca* e os *velhos que mamam* têm
-um *lago diante de si*, e fazem convergir as potências generativas *para
-si*. O corpo transforma-se, portanto, num *lago de destino* assim como a
-*vista* do alto da Serra Grande. O corpo da mãe, o do bebê e o do xamã
-são a própria paisagem da criação, o lócus topográfico das potências *em
-si*. Desse modo, começa-se a entender em que medida o nascimento exige
-um cuidadoso *manejo de potências primordiais*.
+em seus bancos, os fetos comedores de coca e os velhos que mamam têm
+um lago diante de si, e fazem convergir as potências generativas para
+si. O corpo transforma-se, portanto, num lago de destino, assim como a
+vista do alto da Serra Grande. O corpo da mãe, o do bebê e o do xamã
+são a própria paisagem da criação, o lócus topográfico das potências em
+si. Desse modo, começa-se a entender em que medida o nascimento exige
+um cuidadoso manejo de potências primordiais.
 
-O *feto comedor de coca* e o *velho que mama* identificam-se
+O feto comedor de coca*e o velho que mama identificam-se
 reciprocamente como pessoas, pois constituem um contexto de interação
 particular que possibilita a reciprocidade inicial entre ambos para que
 o nascituro dê seus pertences de velho a um velho e possa nascer como um
-bebê (Taylor, 1996, p. 204). Se, após a nominação, o bebê é o ancestral,
+bebê. Se, após a nominação, o bebê é o ancestral,
 ao longo da primeira infância, a convivência com os avós é fundamental
 para que os noviços comecem a reconhecer, e os velhos comecem a
 esquecer. Nas rodas de coca, alimentando-se com a coca/leite, os
@@ -11758,9 +11768,10 @@ Lago de Leite. O corpo materno revela-se a própria paisagem da criação,
 diante da qual o feto se situa sentado e recebe seus pertences rituais,
 começando a vida como um velho em plena roda de coca.
 
-1.  ### /ɨb’/ ‒ Vida
 
-    1.  #### A panela invertida
+## /ɨb’/ ‒ Vida
+
+### A panela invertida
 
 Órfã de mãe, ainda menina, a professora Tereza perdeu o pai, brutalmente
 assassinado por índios Tukano que reivindicavam para si o domínio sobre
@@ -11783,158 +11794,158 @@ materiais didáticos e ensinar a seus alunos.
 A primeira gravidez de Tereza foi muito difícil. Ela teve pouco leite
 para alimentar o pequeno Zeferino e precisou da ajuda de outras
 lactantes para nutrir seu bebê. Foi com grande felicidade que percebeu
-estar grávida pela segunda vez. O casal tinha tentado por muitos aos,
+estar grávida pela segunda vez. O casal tinha tentado por muitos anos,
 mas ela não conseguia manter a gravidez. Nos comentários das rodas de
 coca, era comum que os senhores hup julgassem que a dificuldade de
 conceber de algumas mulheres como Tereza fosse atribuída à má realização
 do /b’a’ bi’id/, o “benzimento do beiju”.
 
-> []{#B7_Beiju .anchor}**B7. /B’a’ Bi’i̖d/ ‒ Benzimento do Beiju**
+**B7. /B’a’ Bi’i̖d/  ‒ Benzimento do Beiju**
 
 1º mov. Eu vou contar para você, Danilo, o benzimento do beiju.
 Primeiro, quando as mulheres têm filhos, eu faço-as entrar, sentar (no
 chão) e dou o beiju-de-tapioca-tanajura a elas.
 
-> Lavo para (tirar) o óleo do beiju dos diversos tipos de tapioca. Eu
-> lavo o óleo da tapioca da maniva-lâmina-de-cunuri, \[...\] o óleo da
-> tapioca da maniva-mamangaba, o óleo da tapioca da maniva- tanajura, o
-> óleo do beiju de tapioca da maniva-de-inajá. Eu lavo o óleo do beiju
-> da tapioca da maniva-lagarta, \[...\] o óleo do beiju da tapioca da
-> maniva-cuia.
->
-> Começo a cercar o caarpi das lagartas que dão nas manivas. \[...\] Eu
-> menciono todas as manivas com as quais elas fazem o beiju para lavar o
-> cheiro do óleo. Menciono todos os beijus.
->
-> Fico em pé para que fique bom, para que as mulheres não encontrem
-> filho rápido. Eu piso e cerco bem. Fazendo isso, já lavei todo o óleo
-> do beiju.
+Lavo para (tirar) o óleo do beiju dos diversos tipos de tapioca. Eu
+lavo o óleo da tapioca da maniva-lâmina-de-cunuri, \[...\] o óleo da
+tapioca da maniva-mamangaba, o óleo da tapioca da maniva- tanajura, o
+óleo do beiju de tapioca da maniva-de-inajá. Eu lavo o óleo do beiju
+da tapioca da maniva-lagarta, \[...\] o óleo do beiju da tapioca da
+maniva-cuia.
+
+Começo a cercar o caarpi das lagartas que dão nas manivas. \[...\] Eu
+menciono todas as manivas com as quais elas fazem o beiju para lavar o
+cheiro do óleo. Menciono todos os beijus.
+
+Fico em pé para que fique bom, para que as mulheres não encontrem
+filho rápido. Eu piso e cerco bem. Fazendo isso, já lavei todo o óleo
+do beiju.
 
 2º mov. Então, eu menciono, para as mulheres, todas as plumas/pelos dos
 animais. Para fechar o útero das mulheres, eu me refiro à
 panela-de-pelos da preguiça pequena (tipo de). Falo e vou fechando.
 
-> Assim, diz-se que (o esperma) passa rápido, não acha. Falo o
-> encantameno com o beiju delas e piso para cercar bem. Faço o sopro
-> para cercar e piso.
->
-> Menciono a panela-de-pelos do tamanduaí, a panela-e-pelos do jacuaçú,
-> a panela-de-plumas do urumutum, a panela-de-pelos do macaco-guariba, a
-> panela-de-plumas do mutum, a panela-de-plumas do
-> mutum-de-bunda-marrom.
->
-> Eu vou falando e fazendo fechar essa /u̗k b’o̖’/, a cuia do nascimento
-> da criança. Para essa eu falo e vou cercando, fechando e tirando para
-> cada cuia coberta primordial, para dentro de todas, de cada
-> panela-de-plumas da origem.
+Assim, diz-se que (o esperma) passa rápido, não acha. Falo o
+encantameno com o beiju delas e piso para cercar bem. Faço o sopro
+para cercar e piso.
+
+Menciono a panela-de-pelos do tamanduaí, a panela-e-pelos do jacuaçú,
+a panela-de-plumas do urumutum, a panela-de-pelos do macaco-guariba, a
+panela-de-plumas do mutum, a panela-de-plumas do
+mutum-de-bunda-marrom.
+
+Eu vou falando e fazendo fechar essa /u̗k b’o̖’/,  a cuia do nascimento
+da criança. Para essa eu falo e vou cercando, fechando e tirando para
+cada cuia coberta primordial, para dentro de todas, de cada
+panela-de-plumas da origem.
 
 3º mov. Caba. Com a caba fecho embaixo, falo para a caba (preta) do
 igapó da floresta que vive no rio grande. Conta-se que os xamãs extraem
 a casca do pé de turi com essa caba.
 
-> Faço as mulheres assemelharem-se à caba para que não engravidem
-> rápido. Vou cercando embaixo.
+Faço as mulheres assemelharem-se à caba para que não engravidem
+rápido. Vou cercando embaixo.
 
 4º mov. Eu coloco também aquele beiju de tapioca-marajá, a tapioca-açaí,
 a tapioca-buriti. Falo para esses (beijus), faço entrar, ficar apertado
 e em pé. (Para que as mulheres) não achem filho rápido, eu benzo para
 cercar e piso \[...\].
 
-> Falo para os curiangos. Menciono o curiango pequeno, o curiango /bo̖j’/
-> para que elas se assemelhem a eles.
->
-> Conta-se que todo o nosso esperma (dëh) cai como uma chuva sobre as
-> aves. Ao cair, elas o espalham e o mandam para baixo, espalhando
-> \[...\].
->
-> Faço as mulheres assemelharem-se à libélula, pois ela joga água para
-> cima. (Benzo para) os /dëy d’äh/, o /k’a/ pequeno, o /bɨ’ɨp/ pequeno.
-> Faço-os soltar a faca pequena que têm nas mãos, colocarem-nas para
-> baixo.
->
-> O esperma é, então, jogado. Espalha-se sendo mandado para fora.
-> Mencionei todas as /pã̗t b’o̖k/ das quais nós falamos.
+Falo para os curiangos. Menciono o curiango pequeno, o curiango /bo̖j’/
+para que elas se assemelhem a eles.
 
-5º mov. **Ko̗w –** Começo a lavar a pimenta. Lavo todo o óleo da pimenta
+Conta-se que todo o nosso esperma (dëh) cai como uma chuva sobre as
+aves. Ao cair, elas o espalham e o mandam para baixo, espalhando
+\[...\].
+
+Faço as mulheres assemelharem-se à libélula, pois ela joga água para
+cima. (Benzo para) os /dëy d’äh/, o /k’a/ pequeno, o /bɨ’ɨp/ pequeno.
+Faço-os soltar a faca pequena que têm nas mãos, colocarem-nas para
+baixo.
+
+O esperma é, então, jogado. Espalha-se sendo mandado para fora.
+Mencionei todas as /pã̗t b’o̖k/ das quais nós falamos.
+
+5º mov. **Ko̗w  –** Começo a lavar a pimenta. Lavo todo o óleo da pimenta
 amarela, da pimenta agulha, da pimenta /pupu̗’/.
 
-> Eu lavo todas as pimentas e cerco o caarpi das lagartas da pimenta
-> para que não tenhamos feridas de leishmaniose. Paro nesse lugar e fico
-> em pé.
->
-> 6º mov. **/Hõp/ ‒** Falo para os peixes. Lavo para tirar o óleo dos
-> peixes do igarapé que nós comemos. Lavo os /k’a̗p/ machos, os
-> acarapurús e os sarapós pequenos, os acarás, os mandis pequenos, as
-> piabas, as piabas arredondadas, as piabas prateadas. \[...\] Cerco a
-> tesoura/remo deles.
->
-> O óleo (dos peixes) é preciso lavar e a tesoura deles você vai
-> cercando.
->
-> \[...\] Falo para os peixes do rio grande: os aracus, os pacus, os
-> /hõ̖po̖y/. Lavo e tiro o óleo deles e \[...\] o piolho que têm na
-> brânquia. Cerco as tesouras dos piolhos (e dos peixes). Cerco todos os
-> peixes: os aracus, os peixes do igarapé vermelho (caatinga), dos
-> igarapés brancos. Falo para o peixe cabaré. Menciono todos os peixes
-> que nós comemos, cada um deles. Lavo todo o óleo dos peixes que nós
-> comemos, cabaris, mandis, jandiás. Refiro-me a todos os peixes que nós
-> conhecemos. \[...\] Lavo e faço sair todo o óleo, Danilo.
->
-> Cerco a tesoura (dos peixes) e do piolho dos peixes. Cerco e mando-os
-> colocá-las sobre o jirau. Do contrário, as mulheres terão
-> leishmaniose. Fico em pé (e termino) todo o benzimento dos peixes.
+Eu lavo todas as pimentas e cerco o caarpi das lagartas da pimenta
+para que não tenhamos feridas de leishmaniose. Paro nesse lugar e fico
+em pé.
 
-7º mov. **/Hu͂’/ ‒** Falo para os esquilos. Falo para os esquilos
+6º mov. **/Hõp/ ‒** Falo para os peixes. Lavo para tirar o óleo dos
+peixes do igarapé que nós comemos. Lavo os /k’a̗p/  machos, os
+acarapurus e os sarapós pequenos, os acarás, os mandis pequenos, as
+piabas, as piabas arredondadas, as piabas prateadas. \[...\] Cerco a
+tesoura/remo deles.
+
+O óleo (dos peixes) é preciso lavar e a tesoura deles você vai
+cercando.
+
+\[...\] Falo para os peixes do rio grande: os aracus, os pacus, os
+/hõ̖po̖y/. Lavo e tiro o óleo deles e \[...\] o piolho que têm na
+brânquia. Cerco as tesouras dos piolhos (e dos peixes). Cerco todos os
+peixes: os aracus, os peixes do igarapé vermelho (caatinga), dos
+igarapés brancos. Falo para o peixe cabaré. Menciono todos os peixes
+que nós comemos, cada um deles. Lavo todo o óleo dos peixes que nós
+comemos, cabaris, mandis, jandiás. Refiro-me a todos os peixes que nós
+conhecemos. \[...\] Lavo e faço sair todo o óleo, Danilo.
+
+Cerco a tesoura (dos peixes) e do piolho dos peixes. Cerco e mando-os
+colocá-las sobre o jirau. Do contrário, as mulheres terão
+leishmaniose. Fico em pé (e termino) todo o benzimento dos peixes.
+
+7º mov. **/Hu͂’/  ‒** Falo para os esquilos. Falo para os esquilos
 pequenos cinzentos e seus pertences. Mando-os colocar suas tesouras
 (sobre o jirau). Lavo o óleo e cerco o piolho deles. Se não cercamos a
 faca de seus piolhos, diz-se que as crianças terão /hupse̗t/ e nós
 teremos leishmaniose.
 
-> Lavo o óleo e cerco a tesoura e os piolhos de todos os animais (aves)
-> que voam: os jacundás, os urumutuns, os mutuns. (Sopro) todas as aves
-> que voam. \[...\]
->
-> É preciso lavar o óleo e cercar a tesoura e os piolhos (de todos os
-> animais que comem da) fruta “ucuuba” (tipo de), /su̗g/: as cutiuaias,
-> as cotias. (Faço-os colocar suas tesouras) para baixo.
->
-> Prossigo falando para todos os animais que ficam em cima da árvore
-> (/pöhöy hũ̗ n’a̖n/) e para todos os animais do chão (/tú hũ n’a̖n/), os
-> porcos, os veados, os tamanduás, as antas. Menciono todos (os animais)
-> que nós comemos ou experimentamos. Cerco para não haver /hup-sët/.
->
-> Cerco o canto /piha̗/ deles. Se não cercarmos essa canção (com
-> benzimento), ao comer (suas carnes), a criança terá /o̗t mi̗͂gi̗͂h/, “choro
-> enlouquecedor”. Cerco suas tesouras, seus piolhos (com suas tesouras).
->
-> Cerco a comida dos tatus. Cerco os tatus /hõ/ que comem areia. Cerco a
-> minhoca que é seu alimento. Sem esse benzimento, as crianças têm dor
-> de barriga quando comem o tatu.
->
-> Falo para os tatus /hõ̖’/, os tatus grandes, os inambus \[...\]. Cerco
-> a arma dos inambús que nos causa /hup-sët/. \[...\] Falo para os tatus
-> machos da caatinga, da terra firme, onde quer que eles busquem sua
-> comida. É preciso cercar sua minhoca da areia.
+Lavo o óleo e cerco a tesoura e os piolhos de todos os animais (aves)
+que voam: os jacundás, os urumutuns, os mutuns. (Sopro) todas as aves
+que voam. \[...\]
 
-PISAR Nesse lugar, eu chego e fico em pé, Danilo.
+É preciso lavar o óleo e cercar a tesoura e os piolhos (de todos os
+animais que comem da) fruta “ucuuba” (tipo de), /su̗g/:  as cutiuaias,
+as cotias. (Faço-os colocar suas tesouras) para baixo.
+
+Prossigo falando para todos os animais que ficam em cima da árvore
+(/pöhöy hũ̗ n’a̖n/)  e para todos os animais do chão (/tú hũ n’a̖n/), os
+porcos, os veados, os tamanduás, as antas. Menciono todos (os animais)
+que nós comemos ou experimentamos. Cerco para não haver /hup-sët/.
+
+Cerco o canto /piha̗/  deles. Se não cercarmos essa canção (com
+benzimento), ao comer (suas carnes), a criança terá /o̗t mi̗͂gi̗͂h/,  “choro
+enlouquecedor”. Cerco suas tesouras, seus piolhos (com suas tesouras).
+
+Cerco a comida dos tatus. Cerco os tatus /hõ/ que comem areia. Cerco a
+minhoca que é seu alimento. Sem esse benzimento, as crianças têm dor
+de barriga quando comem o tatu.
+
+Falo para os tatus /hõ̖’/,  os tatus grandes, os inambus \[...\]. Cerco
+a arma dos inambús que nos causa /hup-sët/. \[...\] Falo para os tatus
+machos da caatinga, da terra firme, onde quer que eles busquem sua
+comida. É preciso cercar sua minhoca da areia.
+
+PISAR 		Nesse lugar, eu chego e fico em pé, Danilo.
 
 /Tök ni̗/, “ter barriga”, é como se designa, em língua hup, a gravidez. O
 termo diferencia-se de /tök k’ö̗d te͂h/, “ter filho dentro” ou “estar
 prenha”, utilizado para referir-se a fêmeas, como a paca ou a anta.
 Outro modo de referir-se à gestante é comentar que os “seios mostram o
-leite”, /pud-dë̖h bë̗y/. A metamorfose corporal faz com que o ventre e o
+leite”, /pud-dë̖h bë̗y/.  A metamorfose corporal faz com que o ventre e o
 peito da mulher sejam percebidos continuamente pelos xamãs como
 Lagos de Leite que nutrem, protegem e desenvolvem a criança. O feto
-cresce na chamada /uk b’o̖’/ ou /hib’a̗h u̗k b’o̖’/, respectivamente “útero”
+cresce na chamada /uk b’o̖’/  ou /hib’a̗h u̗k b’o̖’/,  respectivamente “útero”
 e “útero de nascimento”. A expressão compõe-se pela junção do
-substantivo “cuia’, /b’o̖’/, ao verbo /u̗k/, “cobrir”. Nas conversas
+substantivo “cuia’, /b’o̖’/,  ao verbo /u̗k/, “cobrir”. Nas conversas
 noturnas, os xamãs também se referem ao útero feminino como /te͂h b’o̗k/,
-“panela do filho”, e /pã̗t b’o̗k/, “panela de plumas”. Uma última forma é
-designar o útero como /b’o̖’ m’a̖j’a̖t/, “cuia de argila”, atribuindo uma
+“panela do filho”, e /pã̗t b’o̗k/,  “panela de plumas”. Uma última forma é
+designar o útero como /b’o̖’ m’a̖j’a̖t/,   “cuia de argila”, atribuindo uma
 materialidade terrosa e úmida ao recipiente. Nessa forma, assemelha-se
 aos recipientes culinários antigos dos quais as lascas de cerâmica de
-Semente-de-Tabaco, /b’o̗k-ka̗b b’a̗h/, são apenas os vestígios. A
-“linguagem dos benzimentos”, /bi’i̖d ɨ̗d/, explicita o caráter de
+Semente-de-Tabaco, /b’o̗k-ka̗b b’a̗h/,  são apenas os vestígios. A
+“linguagem dos benzimentos”, /bi’i̖d ɨ̗d/,   explicita o caráter de
 recipiente do útero, uma “cuia coberta” como as cuias de coca que
 circulam nas rodas, uma “panela”, um utensílio culinário feminino onde o
 feto cresce protegido.
@@ -11944,13 +11955,13 @@ esposa, elas me pediram para ensinar-lhes os nomes que os brancos dão
 aos órgãos genitais. Em seguida listaram os diversos nomes com os quais
 os Hupd’äh se referem ao pênis e à vagina:
 
-**Vagina** – /b’o̖y/, “vagina”; /kã̗ç/, “roer/roedora”; /hi͂/ (?); /te͂h
-hisu̗’/, “cobre/fecha filho”;
+**Vagina** – /b’o̖y/,  “vagina”; /kã̗ç/,  “roer/roedora”; /hi͂/  (?); /te͂h
+hisu̗’/,  “cobre/fecha filho”;
 
-**Pênis** – /Tɨ̗b/, “pênis”; /ha̖t ti wäg/, “caroço de jacaré”; /ha̖t ti̖p/,
+**Pênis** – /Tɨ̗b/,  “pênis”; /ha̖t ti wäg/, “caroço de jacaré”; /ha̖t ti̖p/,
 “ovo de jacaré”; /d’ök/, (?) “pênis”.
 
-Rindo, explicaram-me que o homem deve saber /d’ö̗’ k’ë̗të̗y/, “meter”, para
+Rindo, explicaram-me que o homem deve saber /d’ö̗’ k’ë̗të̗y/,   “meter”, para
 fazer um filho. Quando está com um bom parceiro, a mulher /pub no̗o̗p/,
 “geme”. Através do gemido, uma “fala forte”, demonstra sua satisfação e
 expressa seu sentimento pelo parceiro. Disseram também que o consumo
@@ -11958,93 +11969,97 @@ constante de coca leva os velhos a ficarem com o “pênis fraco/mole”,
 /tɨ̗b we̖y meh/.
 
 Para conceber, o útero deve conter a /ɨ̗b’ dëh/, a “água da vida”, um
-líquido feminino. É também como /dë̖h/, “líquido/água”, que os xamãs se
+líquido feminino. É também como /dë̖h/,  “líquido/água”, que os xamãs se
 referem ao esperma, /si̖w/, substância masculina que, nas conversas
 corriqueiras, é chamada também /tak/, “seiva”. O esperma é produzido a
 partir das águas do Lago de Leite que há no ventre e no peito masculino.
-É composto por /hãg-sa̗k/, “sopro vital/ pulsar”, /pud-dë̖h/, “leite”, e
+É composto por /hãg-sa̗k/,  “sopro vital/ pulsar”, /pud-dë̖h/,  “leite”, e
 /yõ̖h dëh/, “água-pura”, substâncias capazes de gerar a vida. Penetrando
 o útero, uma “panela/cuia” plena de “água da vida”, o esperma mistura-se
 a essa /ɨ̗b’ dëh/, compondo uma solução que cerca o esperma, impede sua
-passagem e faz a criança surgir sentada em seu banco de leite (B6). Do
+passagem e faz a criança surgir sentada em seu banco de leite (**B6**). Do
 esperma, visto como a contribuição paterna da concepção, originam-se os
 “ossos”, /k’e̖g/, e o /hã̗wäg/, “sopro vital”, da criança. Feitiços que
 visem a tornar a mulher estéril fazem com que essa “água da vida” seque
 em sua panela-útero. A temperatura dessa solução aquosa varia conforme a
 temperatura do corpo feminino que se torna extremamente quente com a
-evolução da gravidez (Monteiro, 2013, comunicação pessoal)[^106]. Esse
+evolução da gravidez[^106]. Esse
 processo parece muito próximo ao que McCallum descreve para os Kaxinawá,
 
-> *O corpo da mulher é também um instrumento de transformação das
-> substâncias necessárias para a construção do corpo da criança. O útero
-> é comparado a uma panela que transforma o alimento cru em “cozido” –
-> ba (cozido, criado, formado). O processo de gerar uma criança também é
-> chamado de ba – e o útero parece aquecer a criança assim crescendo ou
-> “cozinhando” até que ela esteja pronta para nascer* (1998, p. 222).
+<!--estilo de citação-->
+ O corpo da mulher é também um instrumento de transformação das
+ substâncias necessárias para a construção do corpo da criança. O útero
+ é comparado a uma panela que transforma o alimento cru em “cozido” –
+ ba (cozido, criado, formado). O processo de gerar uma criança também é
+ chamado de ba – e o útero parece aquecer a criança assim crescendo ou
+ “cozinhando” até que ela esteja pronta para nascer. (1998, p. 222)
+<!--estilo de citação-->
 
 Pleno de sangue, o ventre materno é uma região quente que abriga uma
 *criança na panela*. A gestação ganha os contornos de um processo
-culinário e a partir do sangue da mãe formam-se o “sangue”, /biyi̖w/, a
-“carne”, /d’a̗p/, e a “pele”, /b’o̗k/, do feto. Na barriga, o bebcresce
-envolvido pela /te͂h yu̖d/, a “placenta”, que é também uma roupa para
-cercar e proteger. O feto é o /hup d’ö’ su̗du̗y/, a “criança vestida” ou
+culinário e a partir do sangue da mãe formam-se o “sangue”, /biyi̖w/,  a
+“carne”, /d’a̗p/,  e a “pele”, /b’o̗k/,  do feto. Na barriga, o bebê cresce
+envolvido pela /te͂h yu̖d/,  a “placenta”, que é também uma roupa para
+cercar e proteger. O feto é o /hup d’ö’ su̗du̗y/,   a “criança vestida” ou
 “envolvida”. Os primeiros meses da gravidez são denominados /d’äw tik
-d’a̗k/, “neófito recostado”, quando a barriga está ainda pequena. Uma
-segunda fase é a /d’äw tök-pö̗g/, “nascituro na barriga grande”, período
+d’a̗k/,  “neófito recostado”, quando a barriga está ainda pequena. Uma
+segunda fase é a /d’äw tök-pö̗g/,  “nascituro na barriga grande”, período
 que vai aproximadamente até o quinto mês de gravidez e que revela
 importantes transformações no corpo da mãe como o crescimento dos seios,
 o aumento da barriga, a subida do bebê e a mudança na postura. Em
-seguida, todos se referem à gestante como /su̗’ tëg wa̗y/, aquela que vai
+seguida, todos se referem à gestante como /su̗’ tëg wa̗y/,  aquela que vai
 “pegar o bebê a sair”. Nesse momento, já se espera que o nascimento
-ocorra em breve. O mês em que a mulher dá a luz é o /su̗’u̗h të̗e̗p wero̗/,
+ocorra em breve. O mês em que a mulher dá a luz é o /su̗’u̗h të̗e̗p wero̗/,  
 “mês do nascimento” ou “mês de pegar”, sendo importante iniciar os
 preparativos para o parto. Uma das maneiras de referir-se ao
-recém-nascido é a expressão /po̗ho̗y ay/ traduzida para mim como “mole” ou
+recém-nascido é a expressão /po̗ho̗y  ay/ traduzida para mim como “mole” ou
 “molengo”, mas que também pode ser glosada como “cozido” ou “fervido”.
-Seguindo Lévi-Strauss (1968), a gestação assemelha-se a uma
+Seguindo Lévi-Strauss, a gestação assemelha-se a uma
 “endo-cozinha”, sendo o bebê fervido na mediação da água, da qual surge,
 e da panela-útero que o contém, num momento de estreitamento dos laços
-familiares (1968, p. 28)[^107].
+familiares[^107].
 
-Silverwood-Cope (1990) e Reid (1979) denominam de “sistema de energia” o
+Silverwood-Cope e Reid denominam de “sistema de energia” o
 modo de percepção hup que diferencia os corpos dos seres a partir de
-graus de presença de energias /k’ɨ̗/, “quentes”, e /tu̗t/, “frias”[^108].
+graus de presença de energias /k’ɨ̗/,  “quentes”, e /tu̗t/, “frias”[^108].
 Seguindo a descrição dos autores, o *feto na panela* surge como uma
 composição de elementos “frios” e “quentes” que formam o “corpo”, /sa̗p/,
-o “sopro vital”, /hã̗wäg/, e a “sombra”, /b’atɨ̖b’/. O sangue, a carne e a
+o “sopro vital”, /hã̗wäg/, e a “sombra”, /b’atɨ̖b’/.  O sangue, a carne e a
 pele são dotados da energia “quente” do próprio sangue materno. Do
-sangue origina-se também o /b’atɨ̖b’/ infantil, um princípio vital ligado
+sangue origina-se também o /b’atɨ̖b’/  infantil, um princípio vital ligado
 ao calor, à força e à agressividade. A urina, as fezes, os suores e os
-odores são materializações do /b’atɨ̖b’/ eliminadas pelos orifícios
+odores são materializações do /b’atɨ̖b’/  eliminadas pelos orifícios
 corporais. Já o esperma origina o /hã̗wäg/, um princípio vital
 essencialmente “frio”, e os ossos, tidos como “mornos”. O /hã̗wäg/
 forma-se no peito do neófito e é constituído por /hãg-sa̗k/,
-“sopro/pulsar”, /yõ̖h dëh/, “água-pura”, e /pud-dë̖h/, “leite”. É um
+“sopro/pulsar”, /yõ̖h dëh/, “água-pura”, e /pud-dë̖h/,  “leite”. É um
 princípio vital ligado à serenidade, à fala, à sabedoria e à ação
-xamânica protetora e terapêutica. Também o /b’atɨ̖b’/ está situado no
+xamânica protetora e terapêutica. Também o /b’atɨ̖b’/  está situado no
 peito e torna-se mais intenso quando a pessoa adoece com o
 enfraquecimento ou roubo do /hã̗wäg/. Ao nascer, a criança possui um
-grande /b’atɨ̖b’/ que diminui ao longo da vida, ao contrário do /hã̗wäg/
+grande /b’atɨ̖b’/  que diminui ao longo da vida, ao contrário do /hã̗wäg/
 que cresce, atingindo seu auge com a velhice. Por isso, os velhos xamãs
 que benzem o parto são considerados frios e quase inodoros. Não é raro
 acenderem fogueiras pequenas, próximas a suas redes durante a noite ou
 acomodarem-se próximos ao fogo de cozinha da casa mesmo durante o dia.
 
-> **/Hã̗wäg/ (sopro vital) : /B’atɨ̖b’/ (sombra) **
->
-> **/Tu̗t/ (frio) : /K’ɨ̗/ (calor)**
->
-> **Sereno : Agressivo**
+<!--ver fig. 4 p. 327 do arquivo pdf-->
+**/Hã̗wäg/ (sopro vital) : /B’atɨ̖b’/ (sombra) **
+
+**/Tu̗t/ (frio) : /K’ɨ̗/ (calor)**
+
+**Sereno : Agressivo**
 
 **Inodoro : Fedorento**
 
 Gradações de intensidade
 
+
 O recém-nascido, “molengo”, é um ser quente como sua mãe. Juntos exalam
 odores intensos e têm grandes concentrações de sangue em seus corpos,
-características que os tornam ofensis seres malfazejos. Analisando
+características que os tornam ofensivos seres malfazejos. Analisando
 as restrições alimentares do sistema médico barasana e taiwano, Langdon
-(1975, p. 88) aponta que “parece que tanto o sangue menstrual quanto
+(1975, p. 88) aponta que <!--citação--> “parece que tanto o sangue menstrual quanto
 aquele que acompanha o parto são portadores de perigos a toda a
 comunidade”. De forma semelhante, entre os Hupd’äh a presença intensa de
 sangue faz com que seja perceptiva a evitação da casa nos primeiros dias
@@ -12053,21 +12068,23 @@ visitas do xamã e da senhora acompanhante. Esses perigos que envolvem a
 presença excessiva do “calor” nos corpos no pós-parto são bem
 contextualizados por Reid,
 
-> *Para além dos limites das atividades culinárias, o sistema de energia
-> estende-se também para a esfera ritual. Em períodos de crise, quando
-> uma pessoa está doente ou quando uma mulher dá a luz, aquele que está
-> em sofrimento deve apenas consumir comidas frias para conter as
-> grandes quantidades de* Ku͂ Ponah *que dominam o corpo. Quando executa
-> benzimentos de cura para pessoas doentes, o xamã deve alimentar-se
-> apenas de alimentos “frios” e evitar o contato com a luz do sol
-> intensa ou com o fogo. De modo inverso, um homem deve consumir
-> alimentos “quentes” quando prepara o veneno de caça para fazer o
-> veneno pegar. Aquele que pretende praticar feitiços contra outra
-> pessoa também come alimentos quentes e evoca agentes “quentes” para
-> atacarem a vítima. Acredita-se que os Índios do Rio possuam mais* Mair
-> Ponah *que os Hupdʉ, o que faz com que tenham “raiva” e perigosos
-> feitiços. De modo semelhante, é a presença de* Ku͂ Ponah *nos espíritos
-> da floresta o que faz deles canibais e malévolos* (1979, p. 253).
+<!--estilo de citação-->
+ Para além dos limites das atividades culinárias, o sistema de energia
+ estende-se também para a esfera ritual. Em períodos de crise, quando
+ uma pessoa está doente ou quando uma mulher dá a luz, aquele que está
+ em sofrimento deve apenas consumir comidas frias para conter as
+ grandes quantidades de Ku͂ Ponah que dominam o corpo. Quando executa
+ benzimentos de cura para pessoas doentes, o xamã deve alimentar-se
+ apenas de alimentos “frios” e evitar o contato com a luz do sol
+ intensa ou com o fogo. De modo inverso, um homem deve consumir
+ alimentos “quentes” quando prepara o veneno de caça para fazer o
+ veneno pegar. Aquele que pretende praticar feitiços contra outra
+ pessoa também come alimentos quentes e evoca agentes “quentes” para
+ atacarem a vítima. Acredita-se que os Índios do Rio possuam mais Mair
+ Ponah que os Hupdʉ, o que faz com que tenham “raiva” e perigosos
+ feitiços. De modo semelhante, é a presença de Ku͂ Ponah nos espíritos
+ da floresta o que faz deles canibais e malévolos. (1979, p. 253)
+ <!--estilo de citação-->
 
 Como os corpos dos seres humanos, todos os alimentos possuem equilíbrios
 diferenciais de energias quentes ou frias. Após o nascimento, a mãe e o
@@ -12084,28 +12101,30 @@ agência xamânica e a nutrição gradual levam ao resfriamento, à
 desodorização e à pacificação dos corpos. Como mostra Århem para os
 Makuna,
 
-> Benzendo os alimentos, os seres humanos transformam as pessoas-animais
-> em alimentos humanos e, assim, afirmam sua humanidade. A capacidade
-> xamânica permite aos humanos superar os perigos inerentes à “natureza”
-> e, ao mesmo tempo, incorporar a força vital que ela contém *(1996, p.
-> 194).*
+<!--estilo de citação-->
+ Benzendo os alimentos, os seres humanos transformam as pessoas-animais
+ em alimentos humanos e, assim, afirmam sua humanidade. A capacidade
+ xamânica permite aos humanos superar os perigos inerentes à “natureza”
+ e, ao mesmo tempo, incorporar a força vital que ela contém (1996, p.
+ 194).
+<!--estilo de citação-->
 
 O leite materno pode ser visto como um alimento composto essencialmente
 por energia “fria”, sendo comparável apenas a algumas frutas, cultivadas
 e silvestres, e à água. A amamentação e a lactação possibilitam, assim,
-o resfriamento dos corpos neonatais. Em B7, o xamã menciona variedades
+o resfriamento dos corpos neonatais. Em **B7**, o xamã menciona variedades
 de maniva e retira o óleo de todos os derivados desse tubérculo para que
 a pouca quantidade de calor desses alimentos seja neutralizada. O beiju,
 o mingau e a farinha passam a ser a primeira fonte nutritiva do casal
-durante a couvade.
+durante a *couvade*.
 
 Logo, frutas silvestres e da roça, como o /si̖p/, “biriba”, /mi̖n/,
-“ingá”, /dö̖g/, “uirapixuna”, /mo̗t/, “tipo de cunuri”, /pë̖d/, “cunuri”,
+“ingá”, /dö̖g/,  “uirapixuna”, /mo̗t/, “tipo de cunuri”, /pë̖d/,  “cunuri”,
 /sana̗/, “abacaxi”, são reintroduzidas à dieta e, com o tempo, começam a
 ser dadas ao bebê. São também muito consumidas durante a gestação. O
 cubiu, fruta azeda, é uma das frutas prediletas das gestantes por
 aliviar o enjoo. As formigas assadas, principalmente as “manivaras”,
-/kok’ã̗w/, são consideradas como um alimento não vegetal rico em energia
+/kok’ã̗w/,  são consideradas como um alimento não vegetal rico em energia
 fria e, por isso, são boas para a refeição das gestantes, sendo
 introduzidas já nas primeiras semanas da dieta neonatal. Soma-se a isso
 o fato de elas constituírem um alimento para a “troca de pele”, estando
@@ -12113,51 +12132,51 @@ presentes na dieta da moça que passa pela menarca e do rapaz que
 participa das cerimônias de /Döhö d’äh/, “Jurupari”. Para endurecer a
 pele do bebê “molengo”, as mulheres alimentam-se de frutas de árvores
 com casca dura de animais de couro duro, como o jacaré, para que a
-criança seja /tab’a̗’/, “dura/resistente” (SSL, 2010; Reid, 1979).
+criança seja /tab’a̗’/,  “dura/resistente”.
 
-Os vários tipos de pimenta mencionados em B7 têm um papel muito
+Os vários tipos de pimenta mencionados em **B7** têm um papel muito
 importante na culinária hup. Diferenciadas pelo grau de ardência, cor e
 tamanho, as pimentas são o tempero necessário ao cozimento de peixes e
 carnes pela sua propriedade de amainar o “calor” e a agressividade
-ipregnados nesses alimentos. Para extrair a essência quente inerente à
+impregnados nesses alimentos. Para extrair a essência quente inerente à
 própria pimenta, o xamã lava o óleo e cerca a cuia de caarpi da lagarta
 que come suas folhas. Como a gestação, a agência xamânica parece análoga
 ao processo culinário, já que é um preparo para o consumo próprio das
-substâncias. Pensando com Langdon (1975, p. 108), observa-se que a
-sequência de menção a tipos de alimentos em B7 reflete uma ordem
+substâncias. Pensando com Langdon, observa-se que a
+sequência de menção a tipos de alimentos em **B7** reflete uma ordem
 temporal de reintrodução desses mesmos alimentos na dieta, cabendo à
 pimenta um papel de transição entre vegetais e carnes
 
-Todos os seres designados como /hu̗͂/, “animais”, e como “peixes”, /hõ̖p/,
+Todos os seres designados como /hu̗͂/ , “animais”, e como “peixes”, /hõ̖p/,
 são fontes da essência “quente” presente em maior grau no sangue e na
 gordura, e em menor na carne, ossos e pele. Assim como os humanos hup,
-também peixes e animais possuem /hã̗wäg/ e /b’atɨ̖b’/. O tamanho
+também peixes e animais possuem /hã̗wäg/ e /b’atɨ̖b’/.  O tamanho
 exacerbado desse segundo princípio vital faz com que a característica
 fedorenta de seus corpos seja incorporada pelo consumidor, que passa a
 exalar um forte cheiro. O abate da presa faz o sopro vital e a sombra
 deixarem a carcaça, mas o calor, a agressividade e o mau cheiro
 permanecem impregnados à carne e ao sangue. Esse odor torna-se perigoso
 por ser ofensivo aos “parentes” das presas caçadas, ofende igualmente
-seres como /B’atɨ̖b’/, /Bisi̗w/, Gentes-Árvore, entre outros. O tempo de
+seres como /B’atɨ̖b’/,  /Bisi̗w/,  Gentes-Árvore, entre outros. O tempo de
 cozimento em água ou de moqueio varia de acordo com o grau de energia
 quente da carne, e seu consumo deve ser feito sempre com pedaços de
-beiju, sumos de fruta e/ou manicuera. Nas palavras de Århem (1996, p.
+beiju, sumos de fruta e/ou manicuera. Nas palavras de Århem <!--citação-->(1996, p.
 194), “comer envolve um processo de consubstanciação parcial e
 identificação contextual entre quem come e a comida – e, portanto,
 também a potencialidade de o comedor ser ‘consumido’ pela própria comida
 que ele consome”. São os riscos representados por essa consubstanciação
 entre o consumidor e o alimento que exigem a transformação xamânica e o
 cozimento como pacificações simultâneas e combinadas dos pais, do bebê e
-de seus respectivos alimentos (Reid, 1979, p. 252-3).
+de seus respectivos alimentos.
 
 Algumas grávidas dizem sentir náuseas com o cheiro e gosto de peixes
-como o surubim, a /b’ö̖y/, “traíra”, o /pö̗/, “sarapó”. Isso as leva a
-preferir o consumo de peixes mais “frios”, como o /poho̗t/, “aracu”, ou a
+como o surubim, a /b’ö̖y/,  “traíra”, o /pö̗/,  “sarapó”. Isso as leva a
+preferir o consumo de peixes mais “frios”, como o /poho̗t/,  “aracu”, ou a
 piaba. As águas dos igarapés são tidas como mais frias que aquelas dos
 rios grandes, o que parece delinear um critério de diferenciação entre
-os peixes pelo calor de seus habitates e também de seus corpos, que
+os peixes pelo calor de seus habitantes e também de seus corpos, que
 variam de tamanho (grande ou pequeno), de forma (arredondado) e de cor
-(prateada) em B7. De acordo com uma gradação baseada nesses princípios,
+(prateada) em **B7**. De acordo com uma gradação baseada nesses princípios,
 os peixes vão sendo introduzidos à dieta do casal em resguardo. O óleo é
 extraído e a agressividade é aplacada pelo procedimento de cercar as
 “tesouras”, armas laminares dos peixes e dos “piolhos”. Esses parasitas
@@ -12170,7 +12189,7 @@ Da copa das árvores para o solo, do chão ao subterrâneo, os /hu̗͂/,
 suas armas laminares cercadas. A atenção do xamã volta-se, como no caso
 dos peixes, para os minúsculos piolhos munidos de suas facas. Iniciando
 pelo pequeno esquilo especificado por sua cor e por seu tamanho,
-*fala-se para* aves voadoras que possuem quantidade considerável de
+fala-se para aves voadoras que possuem quantidade considerável de
 carne. Cutiuaias e cotias, mamíferos que comem a fruta ucuuba, são os
 primeiros animais de solo mencionados. A tendência dos /pöhöy hũ̗ n’a̖n/,
 “animais do alto”, a serem herbívoros mostra-se um critério importante
@@ -12186,30 +12205,31 @@ pessoa sofrer com o “choro enlouquecedor”.
 Enquanto a ausência de carnes marca a dieta neonatal, durante a gestação
 é importante que a futura mãe tenha uma alimentação carnívora, porque é
 necessário aumentar a quantidade de sangue e calor em seu corpo para
-formar e transformar o feto. As carnes de paca, cotia e macacos /ö̗h/ são
+formar e transformar o feto. As carnes de paca, cotia e macacos /ö̗h/  são
 boas misturas, mas as carnes de “tatu canastra”, /o̖k/, e de “tamanduá”,
-/bɨ̗g/, devem ser evitadas. Não se pode comer animais que tenham sido
+/bɨ̗g/,  devem ser evitadas. Não se pode comer animais que tenham sido
 caçados com curare, pois o veneno, substância excessivamente quente,
-pode fazer mal para o bebê e até mesmo causar abortos (SSL, 2010, p.
-23). Pode-se interromper uma gravidez indesejada consumindo-se uma
+pode fazer mal para o bebê e até mesmo causar abortos. Pode-se interromper uma gravidez indesejada consumindo-se uma
 grande variedade de plantas abortivas, os /te͂h na̖m/, os “curares de
 criança”, conhecidas pelas mulheres desde a infância. Mantendo uma
 alimentação carnívora equilibrada com muitas frutas, formigas e beiju, a
 gestante assegura um aquecimento e o cozimento adequados ao
 desenvolvimento do feto. Ao contrário, o superaquecimento leva a um
-cozimento que amoloce, apodrece o bebê, tendo como resultado o aborto.
+cozimento que amolece, apodrece o bebê, tendo como resultado o aborto.
 Como mostra Lévi-Strauss,
 
-> *É patente o paralelismo com o cozimento por ebulição, cujos meios
-> culturais (recipientes) são preservados, mas o cozimento, êste que é,
-> ele próprio, assimilado a um processo de autoaniquilação, uma vez que
-> seu resultado definitivo equivale, pelo menos verbalmentre, a esta
-> putrefação que o cozimento deveria prevenir ou retardar* (1968, p.
-> 32).
+<!--estilo de citação-->
+ É patente o paralelismo com o cozimento por ebulição, cujos meios
+ culturais (recipientes) são preservados, mas o cozimento, este que é,
+ ele próprio, assimilado a um processo de autoaniquilação, uma vez que
+ seu resultado definitivo equivale, pelo menos verbalmente, a esta
+ putrefação que o cozimento deveria prevenir ou retardar. (1968, p.
+ 32)
+ <!--estilo de citação-->
 
 Tão logo nasça a criança, o xamã sopra uma cuia de mingau mencionando as
-panelas de plumas/pelos de aves e mamíferos, e *vira o útero ao
-contrário* para impedir que o esperma entre no recipiente e molhe a
+panelas de plumas/pelos de aves e mamíferos, e*vira o útero ao
+contrário para impedir que o esperma entre no recipiente e molhe a
 argila. Essas ações são fundamentais para que a mulher possa engordar,
 amamentar e cuidar do recém-nascido antes de conceber novamente[^110].
 Quando o bebê começa a andar, esse 2º movimento do encantamento, também
@@ -12221,23 +12241,25 @@ gestação traz o perigo da concentração de sangue e energia quente no
 corpo da mãe, impedindo o resfriamento, a desodorização e o
 endurecimento do bebê. Como mostra Hugh-Jones para os Tukano,
 
-> *No nascimento, na nominação, na puberdade e na iniciação, o kumu
-> controla as transições corporais e as transformações através da
-> manipulação de artefatos identificados com as partes do corpo.
-> Enunciados pelas divindades, os primeiros benzimentos afirmam essa
-> identidade, mas o processo se dá numa direção oposta – longe dos
-> corpos concretos e próximo a artefatos mais abstratos que servem como
-> sinais para os componentes “espirituais” desses corpos. Isso é o que
-> permite a socialização de pensamentos e de comportamentos \[…\]*
-> (2009, p. 47).
+<!--estilo de citação-->
+ No nascimento, na nominação, na puberdade e na iniciação, o kumu
+ controla as transições corporais e as transformações através da
+ manipulação de artefatos identificados com as partes do corpo.
+ Enunciados pelas divindades, os primeiros benzimentos afirmam essa
+ identidade, mas o processo se dá numa direção oposta – longe dos
+ corpos concretos e próximo a artefatos mais abstratos que servem como
+ sinais para os componentes “espirituais” desses corpos. Isso é o que
+ permite a socialização de pensamentos e de comportamentos \[…\]
+ (2009, p. 47).
+ <!--estilo de citação-->
 
 A *inversão da panela* pode ser vista como uma manipulação xamânica
 desse artefato identificado ao útero que retoma a ação primordial de
-junção do /hãwäg/ da mãe às margens do Lago de Leite (B6). As *panelas
-de plumas* e os *bancos de plumas* são artefatos, potências primordiais
+junção do /hãwäg/ da mãe às margens do Lago de Leite (**B6**). As panelas
+de plumas e os bancos de plumas são artefatos, potências primordiais
 cujo manejo assegura a concentração da pessoa, o aleitamento e o
 resfriamento dos corpos. Ao banhar o corpo da mulher ritualmente com a
-fumaça da folha /bu̗y k’e̖t/, o xamã faz com que ela se sente nos bancos
+fumaça da folha /bu̗y k’e̖t/,  o xamã faz com que ela se sente nos bancos
 de plumas de patos e pássaros. Do mesmo modo como as plumas aumentam o
 volume corporal das aves, elas engordam a mulher para que esta tenha
 bastante leite e nutra seu bebê. Engordar a mãe e o recém-nascido são
@@ -12247,10 +12269,10 @@ gradativa, pela interdição do intercurso sexual e pela ação xamânica.
 “Quando chove, a água cai nas penas dos pássaros e vai embora, não
 molha. Também a libélula joga a água para cima, espalha...”, foi como
 Samuel me explicou por que o benzedor menciona o curiango e a libélula
-em B7. Os insetos voadores devem ser desarmados, mas é graças à
-semelhaça criada entre as mães e as libélulas que o esperma, uma água,
+em **B7**. Os insetos voadores devem ser desarmados, mas é graças à
+semelhança criada entre as mães e as libélulas que o esperma, uma água,
 é jogado longe, espalha-se e não “molha” o útero. As panelas-de-plumas
-do jacuaçú, do urumutum, do mutum e as panelas-de-pelos de mamíferos
+do jacuaçu, do urumutum, do mutum e as panelas-de-pelos de mamíferos
 (como a preguiça, o tamanduaí, o guariba) têm em comum com as asas dos
 insetos a propriedade de espalhar a água da chuva. A não aderência da
 água, uma impermeabilidade, dispersa o esperma/água evitando que a
@@ -12263,20 +12285,20 @@ a boca da panela para o cóccix e o fundo para o canal vaginal. O ferrão
 da caba ajuda a extrair o pedaço duro de casca de turi com o qual o xamã
 vedará definitivamente a abertura vaginal. As mulheres assemelham-se às
 cabas, tornam-se cercadas, tapadas em baixo, e não engravidam. Se em
-M16, o pai abre a mãe para o nascimento dos gêmeos, abrindo uma *mulher
-tapada*, em B7, o xamã tapa as *mulheres abertas* para protegê-las dos
+**M16**, o pai abre a mãe para o nascimento dos gêmeos, abrindo uma mulher
+tapada, em **B7**, o xamã tapa as mulheres abertas para protegê-las dos
 riscos de uma nova fecundação. Essa rotação que veda assemelha-se, em
 maior escala, à criação da barreira intransponível que cerca o “útero
 ctônico” da Casa-dos-Animais para impedir a saída de presas e a entrada
 dos xamãs hup[^111].
 
-O que está em jogo em B7 é o ganho de peso da mulher articulado ao
+O que está em jogo em **B7** é o ganho de peso da mulher articulado ao
 resfriamento e à desodorização dos corpos consubstanciados para
 assegurar a nutrição apropriada do bebê. O corpo da mãe é um instrumento
 que, ao transformar as substâncias, constrói o corpo da criança.
-Enquanto a gestação pode ser vista como um *processo de cozimento*
+Enquanto a gestação pode ser vista como um processo de cozimento
 uterino que gera e desenvolve o feto, o aleitamento parece ser um
-*processo de resfriamento* que, a partir da dieta materna benzida,
+processo de resfriamento que, a partir da dieta materna benzida,
 garante a desodorização e a atenuação do sangue que tanto ofendem os
 seres malfazejos e coloca em risco toda a comunidade. O manejo da
 panela-útero, um artefato corporal, mostra-se um movimento tenso de
@@ -12288,13 +12310,13 @@ recém-nascida à aldeia e o empenho coletivo dos “comedores de coca” para
 curar e proteger a bebê através da dieta de reintrodução progressiva dos
 alimentos benzidos.
 
-####  A mãe sentada
+###A mãe sentada
 
 O local do parto deve ser preparado previamente pelo xamã. Com a fumaça
 do breu, ele defuma para cercar a casa, a roça ou a área próxima a um
 caminho, espaço previamente escolhido pela mulher para ter o bebê.
 Nenhum homem pode aproximar-se do local depois que ele estiver
-preparado. /Te͂h su̗’ hipã̗h nɨ̗h/, “a mulher não saberá parir” se houver a
+preparado. /Te͂h su̗’ hipã̗h nɨ̗h/,  “a mulher não saberá parir” se houver a
 presença masculina na hora do parto. O mesmo perigo corre a mulher que
 vê as flautas Jurupari ou que passa a comer coca com os senhores. Assim,
 da mesma forma como é interditado às mulheres ver as flautas Jurupari, é
@@ -12306,9 +12328,9 @@ acocora-se.
 É geralmente uma senhora quem acompanha o parto. Seu vínculo com a mãe
 pode ser de consanguinidade, mãe ou tia (M, MM, MZ), ou de afinidade
 (HM, HD) dependendo da configuração do casamento como bilocal ou
-virilocal (Reid, 1979; Pozzobon, 1991). Essa /bab ni ãy/,
-“acompanhante”, é coniderada uma pessoa experiente por ter se sentado
-muitas vezes sobre seu próprio banco de leite para dar a luz. Além
+virilocal. Essa /bab ni ãy/,
+“acompanhante”, é considerada uma pessoa experiente por ter se sentado
+muitas vezes sobre seu próprio banco de leite para dar à luz. Além
 disso, a presença da anciã é também a participação de uma senhora que
 não menstrua mais, algo importante, já que o sangue feminino é tido como
 perigoso. É comum que a acompanhante do parto cuide da gestante durante
@@ -12342,60 +12364,59 @@ humano (abdução do /hã̗wäg/) ou pelas armas laminares (feridas). Como a
 Desse modo, as ações do xamã, um velho que se senta todas as noites em
 seu banco de leite para proteger e regenerar a vida, e as da
 acompanhante, uma senhora que já se sentou muitas vezes em seu banco de
-leite para dar a luz, parecem ser complementares e fundamentais para o
+leite para dar à luz, parecem ser complementares e fundamentais para o
 nascimento Como o sangue menstrual, o sêmem masculino também atrai e
 causa a fúria dos seres malfazejos pelo seu odor. Por isso, o velho
 benzedor, um “comedor de coca”, e um /tɨ̗b we̖y meh/, “pênis mole”, e a
-senhora que passou pela menopausa tornam-se pessoas adquadas para
+senhora que passou pela menopausa tornam-se pessoas adequadas para
 auxiliar o processo de nascimento. As ações /hã̗wägät/ do xamã agem
 durante o acontecimento do parto. Manifestam sua presença sob outro
 regime corporal, já que a participação masculina representa perigo. De
-modo diferente, a acompanhante age /sa̗pa̗t/, como pessoa corporificada
+modo diferente, a acompanhante age /sa̗pa̗t/,   como pessoa corporificada
 estando sempre ao lado da parturiente.
 
-Em B6, o xamã deve *fazer sentar* a mãe sobre seu banco de leite e, ao
-mesmo tempo, *tirar o banco* primordial da criança para que ela deixe o
+Em **B6**, o xamã deve fazer sentar a mãe sobre seu banco de leite e, ao
+mesmo tempo, tirar o banco primordial da criança para que ela deixe o
 útero. Como me contou Catarina, com o auxílio da acompanhante, a
 gestante se posta de cócoras. Para manter o equilíbrio em meio às
-contrações eà força para os esforços expulsivos, a mãe ampara-se na
+contrações e à força para os esforços expulsivos, a mãe ampara-se na
 rede, caso esteja em casa, ou em um galho de árvore, se estiver na roça.
 Ajudada, a mãe abre bem suas pernas, alarga ao máximo a abertura vaginal
 para que, a partir da coxa (fêmur e paleta) e da cintura pélvica (ilíaco
 ‒ osso do quadril), concentre suas forças para empurrar o bebê.
 Assumindo essa postura, a mulher senta-se em seu banco de leite, um
-*alinhamento corporal* formado pela contração da coxa e da cintura
+alinhamento corporal formado pela contração da coxa e da cintura
 pélvica, assume a postura primordial para trazer uma nova pessoa à vida.
-O *xamã sentado* e a *mãe acocorada* tiram o banco da criança para que
+O xamã sentado e a mãe acocorada tiram o banco da criança para que
 ela se desloque do Lago de Leite à aldeia, do ventre aos braços da mãe.
 
 A obstetrícia designa como posição vertical a postura acocorada assumida
-por gestantes para dar a luz, diferenciando-a da postura do decúbito
+por gestantes para dar à luz, diferenciando-a da postura do decúbito
 dorsal ou supina, com a pessoa deitada horizontalmente de barriga para
 cima, posição normalmente adotada pela biomedicina para a realização dos
 partos. Estudos atuais apontam que a posição vertical não diminui o
 fluxo sanguíneo, como acontece na posição dorsal, reduz a duração do
 período expulsivo, diminui a dor e possibilita a menor alteração nos
-padrões de batimentos cardio-fetais (Santos et al., 2009; OMS, 1996).
+padrões de batimentos cardio-fetais.
 Postando-se em seu banco de leite com a ajuda da acompanhante, a
 parturiente alinha-se corporalmente, encontra sustentação no fêmur
 (coxa) e no quadril (cintura pélvica) para o movimento expulsivo, alivia
 a dor e sustenta-se como as fêmeas para parir.
 
-Ainda que não sejam *mulheres tapadas* (sem ânus nem vagina) (**M16**), as
-mães hup têm pequenos orifícios se comparadas às fêmeas mamíferas
-(Lévi-Strauss, 2004b). Postar-se sentada no banco de leite é uma
+Ainda que não sejam mulheres tapadas (sem ânus nem vagina) (**M16**), as
+mães hup têm pequenos orifícios se comparadas às fêmeas mamíferas. 
+Postar-se sentada no banco de leite é uma
 habilidade comum à mulher hup e às fêmeas que também contraem a região
-do fêmur e do quadril para dar a luz. A sequência de interações
-xamânicas com asêmeas animais estabelece-se como uma gradação que
+do fêmur e do quadril para dar à luz. A sequência de interações
+xamânicas com as fêmeas animais estabelece-se como uma gradação que
 parte dos seres de menor tamanho para, apenas no final, fazer menção à
 grande égua. A homologia entre os bancos de leite expande gradativamente
 a estrutura corporal materna. O xamã parte da paca, um roedor de médio
-porte (de 61 a 77 cm, e de 5 a 13 Kg), passa pelo caititu (de 70 a 90
-cm, e 17 a 30 Kg), pelas porcas (de 95 cm a 1,10 m, e de 25 a 40 Kg),
-pelas antas (de 1,70 a 2,10 m, e de 227 a 250 Kg) e, por fim, menciona a
-égua, um grande mamífero (de 1,50 m a 1,60 m, e 450 a 550 Kg) (Emmons,
-1990; Bonatelli, 2001; Santos, 2002; Torres, 1958). No sentido inverso,
-*fala-se para* os filhos dos mamíferos pequenos, fazendo com que o bebê
+porte (de 61 a 77 cm, e de 5 a 13 kg), passa pelo caititu (de 70 a 90
+cm, e 17 a 30 kg), pelas porcas (de 95 cm a 1,10 m, e de 25 a 40 kg),
+pelas antas (de 1,70 a 2,10 m, e de 227 a 250 kg) e, por fim, menciona a
+égua, um grande mamífero (de 1,50 m a 1,60 m, e 450 a 550 kg). 
+No sentido inverso, fala-se para os filhos dos mamíferos pequenos, fazendo com que o bebê
 reduza sua dimensão corporal e passe mais facilmente pela abertura
 vaginal alargada.
 
@@ -12404,59 +12425,58 @@ quando conversam sobre a vida sexual. Assim, ao mencionar a paca, o xamã
 aproxima-se dessa percepção anatômica do órgão sexual feminino como uma
 boca pequena que rói o pênis. De acordo com Bonatelli, uma das
 características notáveis da paca quanto a seu sistema reprodutivo vem a
-ser o fato de seus membros pélvicos serem muito musculosos (Bonatelli,
-2001, p. 14). Os animais adultos apresentam dimorfismo sexual, o que
+ser o fato de seus membros pélvicos serem muito musculosos. 
+Os animais adultos apresentam dimorfismo sexual, o que
 permite diferenciar machos e fêmeas pelo tamanho e formato da cabeça.
 Nos machos a cabeça é mais achatada e larga, enquanto nas fêmeas a
 cabeça é mais fina e esguia. O primeiro cio pode ocorrer com
 aproximadamente um ano de idade, período em que os machos também iniciam
 a atividade sexual. O período de prenhez é em média de 115 dias,
-nascendo um filhote na maioria dos casos, e, raramente, dois ou três
-(Bonatelli, 2001, p. 13-5). As pacas vivem em casais monogâmicos num
+nascendo um filhote na maioria dos casos, e, raramente, dois ou três. 
+As pacas vivem em casais monogâmicos num
 dado território, mas deslocam-se sempre separadamente à procura de
 alimentos (frutas, brotos, raízes e tubérculos). Têm hábitos noturnos e
 podem ser encontradas nas margens de grandes rios. Durante o dia
 mantêm-se em tocas (troncos ocos, buracos) com os orifícios vedados por
-folhas (Emmons, 1990, p. 205).
+folhas.
 
 Os caititus e os porcos possuem sistemas reprodutivos semelhantes aos
 dos suínos domésticos, acasalam-se em todas as épocas do ano e possuem
 placenta. As gestações são de 144 a 148 dias para os catetos e de 156 a
 162 para os porcos-queixada. A cada gestação são gerados dois filhotes,
-em média, podendo, às vezes, nascer um ou três (Santos, 2002, p. 19-20).
+em média, podendo, às vezes, nascer um ou três.
 Os caititus e os porcos são animais gregários de hábitos diurnos,
 deslocam-se em manadas de até 20 indivíduos (caititus) e de 50 a 300
 indivíduos (porcos) por trilhas. Ambos têm fortes odores que se acentuam
 quando são surpreendidos. Dormem em buracos na terra e sob as raízes das
 árvores. Alimentam-se de frutas, castanhas e brotos, mas os porcos comem
-também lesmas e pequenos animais (Emmons, 1990, p. 158-9).
+também lesmas e pequenos animais.
 
 Entre os mamíferos das terras baixas, as antas e os cavalos pertencem à
-mesma ordem, Perissodactyla (equidae, rhinocerotidae, tapirus) (Castro
-et al., 2001). Segundo May Jr. (2011), o ciclo reprodutivo da anta é
+mesma ordem, *Perissodactyla* (*equidae*, *rhinocerotidae*, *tapirus*). 
+Segundo May Jr., o ciclo reprodutivo da anta é
 lento. A maturidade sexual ocorre por volta dos quatro anos de idade. A
 gestação, que dura de 395 a 399 dias, gera um único filhote e o
 intervalo entre gestações é de 18 meses, algo que causa rápidos
-declínios populacionais quando uma população é alvo constante da caça
-(May Jr, 2011, p. 29; Emmons, 1990, p. 156-7). No que diz respeito à
-reprodução equina, a idade média de puberdade das éguas é de 12 a 15
+declínios populacionais quando uma população é alvo constante da caça. 
+No que diz respeito à reprodução equina, a idade média de puberdade das éguas é de 12 a 15
 meses. Um único filhote é concebido por gestação. O olfato é fundamental
 para a reprodução dos equinos, pois o macho sente-se atraído pelos
 odores exalados pelos genitais externos da égua, aproxima-se, exibe-se e
 inicia tentativas de monta (cópula). O período médio de gestação oscila
 entre 335 e 340 dias, havendo maior duração na gestação de fetos machos
 que na de fêmeas (2 a 7 dias a mais). Próximo ao momento do parto, as
-éguas afastam-se para dar a luz solitariamente. Começam a caminhar
+éguas afastam-se para dar à luz solitariamente. Começam a caminhar
 nervosas em círculos quando a bolsa se rompe, e iniciam movimentos de
 tombar e levantar repetidas vezes. Segundo Evans, quando o potro está
 saindo, as extremidades anteriores e o tronco passam com facilidade, mas
 no momento em que a bacia do feto penetra a pélvis da égua, “pode
-produzir-se um ligeiro descanso” (Evans et al., 1977, p. 396). Suponho
-que seja esse “descanso”, uma postura sentada a que B6 faz referência,
-seja o ato de *sentar-se sobre o banco de leite* comum às fêmeas e às
+produzir-se um ligeiro descanso”. Suponho
+que seja esse “descanso”, uma postura sentada a que **B6** faz referência,
+seja o ato de sentar-se sobre o banco de leite comum às fêmeas e às
 mulheres hup.
 
-Na sequência: {paca &gt; caititu &gt; porco &gt; anta &gt; égua}, além
+Na sequência: {paca > caititu > porco > anta > égua}, além
 da gradação crescente das aberturas femininas, o tempo da gestação
 aumenta à medida que se passa de um mamífero ao outro. A quantidade de
 filhotes por gestação, que varia de um a três nos menores, passa a ser
@@ -12467,8 +12487,7 @@ sexual, a vagina roedora, a égua parece relacionar-se à dieta alimentar
 baseada exclusivamente em beiju e mingau, ambos de origem vegetal
 (maniva). O forte odor, traço marcante dos catetos e porcos, atenua-se
 na anta e na égua, sendo que a anta toma banhos frequentes de lama e
-água para aliviar-se dos carrapatos e moscas (Lima et al., 2006, p.
-279). Considerando-se que a restrição alimentar e os banhos diminuem os
+água para aliviar-se dos carrapatos e moscas. Considerando-se que a restrição alimentar e os banhos diminuem os
 odores exalados pelos corpos da mãe e da criança, a identificação passa
 de fedorentos a desodorizados. O aumento do intervalo entre as
 gestações, igualmente gradativo nessa sequência de fêmeas, é visto como
@@ -12476,17 +12495,17 @@ importante para que as mulheres hup possam nutrir e cuidar bem do bebê
 e, ao mesmo tempo, consigam recuperar-se da gravidez e engordar. O
 padrão de gestação de um único filhote no caso das antas e éguas reflete
 o ideal de não gemelaridade gestacional hup, já que o segundo rebento é
-considerado um /b’atɨ̖b/, fruto do intercurso sexual involuntário da mãe
+considerado um /b’atɨ̖b/,  fruto do intercurso sexual involuntário da mãe
 com um ser malfazejo. Um último aspecto comum às fêmeas mencionadas em
-B6 vem a ser sua mobilidade, que, como no caso da paca, contribui para
+**B6** vem a ser sua mobilidade, que, como no caso da paca, contribui para
 que todas tenham membros pélvicos musculosos, como observa Descola,
 
-> *Essas restrições geram dois tipos de consequências para as populações
-> de herbívoros terrestres (pacas, antas, roedores e veados): de um
-> lado, uma frágil densidade geral engendrada pela dispersão do material
-> vegetal comestível e, por outro lado, uma tendência à mobilidade,
-> principalmente para as espécies gregárias que precisam forragear por
-> vastas áreas de nomadismo* (1986, p. 77).
+ Essas restrições geram dois tipos de consequências para as populações
+ de herbívoros terrestres (pacas, antas, roedores e veados): de um
+ lado, uma frágil densidade geral engendrada pela dispersão do material
+ vegetal comestível e, por outro lado, uma tendência à mobilidade,
+ principalmente para as espécies gregárias que precisam forragear por
+ vastas áreas de nomadismo. (1986, p. 77)
 
 A vida gregária e a mobilidade para a procura de frutos e grãos
 dispersos em vastas regiões são aspectos relevantes para a fabricação da
@@ -12499,13 +12518,13 @@ para a sociabilidade, algo que talvez remeta ao excessivo exercício de
 respeito às interdições para que, através de seu comportamento, a mãe
 deixe de expor a comunidade aos perigos que sua condição representa. Há,
 assim, um engajamento prático da mãe com a materialidade de seu próprio
-corpo para gerar a forma banco de leite para dar a luz. A ação xamânica
+corpo para gerar a forma banco de leite para dar à luz. A ação xamânica
 complementa esse esforço cotidiano inserindo a mãe num campo relacional
 orientado pela habilidade dos deslocamentos e do parto.
 
-Portanto, *fazer sentar* revela-se uma ação fundamental para que a
+Portanto, fazer sentar revela-se uma ação fundamental para que a
 mulher hup adquira progressivamente os atributos corporais e sociais da
-maternidade como uma *habilidade*. A agência xamânica promove a
+maternidade como uma habilidade. A agência xamânica promove a
 interação da gestante com as fêmeas a partir de uma sequência específica
 que transforma e protege à medida que se passa da pequena roedora à
 grande ruminante. O banco de leite coloca-se como uma postura anatômica
@@ -12527,7 +12546,7 @@ correrem para não vê-la. Ou seja, o processo de expansão corporal de
 Desse modo, talvez a pequena paca ajude a ocultar a mãe quando sua
 abertura ainda é reduzida, e uma visibilidade cada vez mais acentuada vá
 fazendo a mãe ser temida pelo tamanho, pela força e pelo grito. Nesse
-sentido, creio que a égua, um animal de Branco, aja como o vestido de
+sentido, creio que a égua, um animal de branco, aja como o vestido de
 /Döh Ãy/ nesse momento de extremo aquecimento e sanguinidade corporal. A
 égua possibilita que a mulher hup tenha uma vagina gigante, uma força
 exacerbada, uma grande rapidez, tornando-se perceptível e temida.
@@ -12541,15 +12560,15 @@ andarilhos e apavora as jararacas.
 
 Além de transformar a postura corporal feminina, fazendo sentar e
 abrir-se, o xamã e a acompanhante devem intervir para transformar a
-gestualidade sonora materna. O *gemido de dor*, perigoso para os ouvidos
-das crianças, precisa tornar-se um *grito de ordem* (gemido  grito).
+gestualidade sonora materna. O gemido de dor, perigoso para os ouvidos
+das crianças, precisa tornar-se um grito de ordem (gemido - grito).
 Enquanto o gemido pode ser considerado como um som contínuo de
 lamentação que varia de acordo com a intensidade da dor ou estímulo, o
 grito configura-se como um som forte emitido de forma direta, intensa e
 descontínua. Como gemido, o gesto vocal aproxima-se, por um lado, ao som
 das mulheres durante o intercurso sexual e, por outro, à lamentação em
 decorrência da dor. Como o barulho do Trovão, o gemido da mãe suja a
-/b’oto̗k-moy/, a “Casa-da-Audição/ ouvido”, e faz com que a criança sofra
+/b’oto̗k-moy/,  a “Casa-da-Audição/ouvido”, e faz com que a criança sofra
 com o “choro enlouquecedor”. Os contínuos urros de desconsolo do bebê
 sujam o ouvido dos xamãs, impedem que pensem, conversem e benzam
 corretamente. Desse modo, o barulho do “choro enlouquecedor”, um lamento
@@ -12557,11 +12576,11 @@ emitido pela criança, torna as famílias vulneráveis aos ataques dos
 seres malfazejos. Como os benzedores não conseguem cercar as pessoas, o
 choro faz com que todos estejam visíveis e desprotegidos[^112].
 
-Com o *grito de ordem*, a voz materna metamorfoseia-se em voz de
+Com o grito de ordem, a voz materna metamorfoseia-se em voz de
 mãe-paca, de mãe-porca, de mãe-égua que não sentem dor e ordenam
 ativamente a saída de seus filhotes[^113]. Do lamento (gemido), uma
 atitude paciente e passiva, a parturiente torna-se agente a partir de
-sua própria inicitiva (grito). Os caititus e os porcos são animais
+sua própria iniciativa (grito). Os caititus e os porcos são animais
 quietos, mas emitem um “latido” quando surpreendidos. Já as antas são
 consideradas silenciosas, pois se comunicam por assobios, mas bufam caso
 se sintam ameaçadas. As éguas relincham sonoramente e defendem-se
@@ -12577,13 +12596,13 @@ gemidos contínuos que sujam e causam sofrimento a todos.
 Dentro da Casa-dos-Animais, o eco do tambor de pedra fazia com que os
 xamãs libertassem os animais para a floresta. /Tããw/ era o som forte e
 preciso que Ponciano fazia com a boca para imitar o poderoso eco que
-percorria as paredes rochosas, fazendo com que, /Bisi̗w/, um terrível
+percorria as paredes rochosas, fazendo com que, /Bisi̗w/,  um terrível
 dono dos animais, cedesse presas aos caçadores. O interior de sua morada
 é visto como uma grande aldeia plena de festas, Dabucuris dos animais
 que não param de copular e reproduzir-se. Como mencionado, do alto de
-/Hu͂ya̗w-Paç/, o grito assustador de /Dö̗h Ã̗y/ afugenta os caçadores que
-passam da posição de predadores à de presas medrosas. O *grito de ordem*
-e a *percussão ritual* podem ser vistos, nesse sentido, como gestos
+/Hu͂ya̗w-Paç/,   o grito assustador de /Dö̗h Ã̗y/ afugenta os caçadores que
+passam da posição de predadores à de presas medrosas. O grito de ordem e a 
+percussão ritual podem ser vistos, nesse sentido, como gestos
 imperativos de mando que provocam a saída ou a fuga das presas. Se o
 grito das fêmeas expulsa os filhotes do útero, o eco do tambor rochoso é
 também uma emissão sonora precisa que ordena ao dono dos animais a saída
@@ -12592,7 +12611,7 @@ morro (útero ctônico). A saída dos animais para a floresta mostra-se uma
 ação análoga ao parto, já que o movimento de expulsão imperativa e
 precisa é suscitado pelo som potente da percussão da rocha e da voz.
 
-/Ye̗͂h/, “mandar/ordenar”, vem a ser uma atitude fundamental na relação
+/Ye̗͂h/,  “mandar/ordenar”, vem a ser uma atitude fundamental na relação
 dos pais com seus filhos. Apesar do respeito que há à vontade das
 crianças, saber mandar é importante para que todos participem das
 atividades da casa e não queiram apenas /ya̗ga̗t ni̗i̗/, “estar na rede”.
@@ -12607,26 +12626,26 @@ ordem.
 Desse modo, quando a mãe reverte seu gemido em grito e ordena a saída da
 criança, ela inicia um processo educativo, fazendo com que a criança não
 queira “ficar apenas em sua casa”. O bebê sentado que sovina suas coisas
-tem uma atitude antisocial. Recusa-se a deixar sua morada uterina,
+tem uma atitude antissocial. Recusa-se a deixar sua morada uterina,
 recusa-se a obedecer e recusa-se a dar seus pertences. Obedecendo à
 ordem, o bebê entrega seus pertences ao xamã como uma dádiva. Ao mesmo
 tempo, cedendo suas armas, ele atende a um chamado sedutor e lança-se
 como uma presa frágil aos braços de sua mãe. Deixa o útero como um
 filhote de paca, de porco, de anta, de égua, saindo, ao fim de seu
 ritual de crescimento, pela grande abertura. Pensando com McCallum, com
-o *grito de ordem* a mãe inicia a socialização da criança a partir de
+o grito de ordem a mãe inicia a socialização da criança a partir de
 uma “pedagogia prática” que a faz, através de seu próprio gesto de dar
 seus pertences, aprender princípios de reciprocidade e de hierarquia que
-orientam as relações sociais (MaCallum, 2001, p. 27). A expulsão do
+orientam as relações sociais. A expulsão do
 útero introduz o bebê num contexto propício para perceber e agir em
 consonância com esses preceitos aprendidos no curso de sua ação.
 
-Na interpretação de Hugh-Jones (2009, p. 47), “Como os benzimentos
+Na interpretação de Hugh-Jones (2009, p. 47), <!--citação--> “Como os benzimentos
 deixam claro, estes artefatos são os resultados e índices de seus
 pensamentos e intenções, e signos dos corpos humanos que futuramente
 criarão, uma criação que se desloca do pensamento, por meio do artefato,
-em direção ao corpo”. Seguindo Hugh-Jones, é possível dizer que o *banco
-de leite* relaciona-se a uma estrutura óssea comum a animais e humanos
+em direção ao corpo”. Seguindo Hugh-Jones, é possível dizer que o banco
+de leite relaciona-se a uma estrutura óssea comum a animais e humanos
 que permite assumir a postura ritual adequada para a ação xamânica e
 para o nascimento. As fêmeas mamíferas servem de referência para o
 alinhamento da atenção da mãe, que, dotada de uma corporalidade
@@ -12637,16 +12656,17 @@ materialidade de seu próprio corpo, o qual tem, na postura e musculatura
 das fêmeas, horizontes de habilidade a seguir. Concentrando e
 potencializando suas forças, as parturientes tornam-se hipermulheres
 sentadas sobre bancos e corpos animalizados. Abrem suas vaginas
-expandidas e gritam para ordenar a saída do filho. O *banco de leite*,
+expandidas e gritam para ordenar a saída do filho. O banco de leite,
 que permite aos xamãs a postura adequada para comer coca, conversar e
 benzer, possibilita que a mãe tenha forças para deslocar o filho do
 útero para o mundo.
 
-1.  ### Filhotes e filhos
 
-    1.  #### A mãe tamanduá e seu filhote
+##Filhotes e filhos
 
-/Bɨ̗g ã̗h me̗h yɨ̗’ɨ̗h. Ayu̖p ã̗y pö̗g. Tɨnɨ̖h te͂h pɨ̗d/, “Matei um tamanduá, uma
+###A mãe tamanduá e seu filhote
+
+/Bɨ̗g ã̗h me̗h yɨ̗’ɨ̗h. Ayu̖p ã̗y pö̗g.  Tɨnɨ̖h te͂h pɨ̗d/,  “Matei um tamanduá, uma
 mãe com seu filhote”, comemorou Samuel logo que chegou da roça. À tarde,
 enquanto caminhava com seu cachorro Juto, ouviu o som das folhagens
 chacoalhando. Latindo, o cão avançou por entre as árvores. Corria de um
@@ -12678,7 +12698,7 @@ Enquanto cortava a carcaça, Samuel explicava-me sobre a anatomia do
 tamanduá. O rabo é o “remo”, /he̖͂y’ b’ah/, que faz com que o animal corra
 rapidamente em sua fuga. Suas garras perigosas são suas /yö̗k b’ah/, suas
 “espadas primordiais”. Caçador e xamã parecem estar cientes dessa
-espécie de “corporalidade artefactual” dos animais para a realização de
+espécie de “corporalidade *artefactual*” dos animais para a realização de
 suas ações. Na manhã seguinte, depois de ter sido benzida por Ponciano,
 a carne cozida da mãe tamanduá e do filhote era chupada e degustada por
 suas netas, que caminhavam sorrindo pelo terreiro.
@@ -12687,28 +12707,28 @@ Durante o encontro noturno, os senhores contaram que, conforme segue em
 disparada, o tamanduá, assustado, defeca. O caçador tem que persegui-lo
 lateralmente para não pisar em suas fezes. A alimentação desse mamífero
 baseia-se exclusivamente em diversos tipos de formigas que ele persegue
-desloando-se por uma vasta região (Emmons, 1990). O tamanduá é o /kapi
+desloando-se por uma vasta região. O tamanduá é o /kapi
 yo’o̖m i͂h/, o “dono do caarpi”. É ele quem prepara o caarpi para todos os
 animais e entoa o perigoso canto /ya̗m piha/. Por isso, seus dejetos são
 venenosos e extremamente fedorentos. O contato com suas fezes causa
 feridas que podem ser mortais. O bucho desse bebedor de caarpi é
-descartado para que não cause malefícios. Em B7, o benzedor cerca as
+descartado para que não cause malefícios. Em **B7**, o benzedor cerca as
 armas laminares e a cuia de caarpi do tamanduá ao mencionar a canção que
 esse ser entoa quando oferece o caarpi aos outros animais. O consumo da
 carne não benzida pode fazer a criança sofrer com o “choro
 enlouquecedor”. As armas e o canto /piha/ relacionam-se à origem desse
 ser. Sua agressividade manifesta-se em sua corporalidade pelo odor
 (caarpi) e pelas garras. Como salienta Århem (1996, p. 188) para os
-Makuna, “Dentro da categoria inclusiva de *masa* (gente), diferentes
+Makuna, <!--citação-->“Dentro da categoria inclusiva de *masa* (gente), diferentes
 classes de seres são distinguidas por traços específicos (referidos como
 ‘armas’) que são associados à origem mítica de cada classe e seus
 hábitos reprodutivos e alimentares específicos”. Enquanto o útero-panela
 e o banco de leite ajudam a perceber o corpo como uma composição de
 artefatos que são instrumentos para a postura e para a culinária, viu-se
-em B4 que há a presença de armas laminares nos membros de humanos e
-animais. Enquanto traduzíamos B6, Samuel fez o seguinte comentário: “O
+em **B4** que há a presença de armas laminares nos membros de humanos e
+animais. Enquanto traduzíamos **B6**, Samuel fez o seguinte comentário: “O
 homem é forte e a mulher fraca. As armas da mulher são a /wa̖n te͂h/,
-“punhal”, /yö̗k b’ah/, “facão”, /k’i̗g-b’ah/, “arco”, /sab’a̖k/,
+“punhal”, /yö̗k b’ah/, “facão”, /k’i̗g-b’ah/,  “arco”, /sab’a̖k/,
 “zarabatana”, todas pequenas. Estão nos braços e nas pernas”.
 
 Ainda no útero, meninos e meninas diferenciam-se pelo tipo e tamanho dos
@@ -12726,11 +12746,11 @@ manualmente nas andanças pela mata. A mãe tamanduá possuía perigosas e
 grandes espadas, percebidas também como suas garras. Enquanto caçador,
 Samuel manejou com grande destreza seu terçado para matar e esquartejar
 as presas. No entanto, foi sua esposa quem carregou o aturá pesadíssimo
-com a carne dos tamanduás por quase três quilómetros, demonstrando uma
+com a carne dos tamanduás por quase três quilômetros, demonstrando uma
 habilidade e força superiores às de Samuel quanto ao transporte da
 carga.
 
-O pequeno filhote de tamanduá que acompanhava sua mãe, já possuía suas
+O pequeno filhote de tamanduá que acompanhava sua mãe já possuía suas
 armas corporais. Os caçadores não subestimam a destreza dos pequenos
 tamanduás no manejo de suas armas. Suas garras são espadas cujo corte
 pode rasgar a pele, abrindo sérias feridas. Assim como a presença do
@@ -12739,15 +12759,15 @@ concepção e crescimento do filhote e da criança hup, como na origem
 mítica, possibilita a apropriação de habilidades e poderes pelas armas
 que vão, pouco a pouco, definindo a própria identidade do ser.
 
-Retomando B6, ao nascer, os fetos devem entregar suas armas, bancos,
+Retomando **B6**, ao nascer, os fetos devem entregar suas armas, bancos,
 adornos e instrumentos ao xamã. Esse ato, visto como um primeiro ato de
 reciprocidade e respeito deixa o bebê desprovido de suas armas. Em
-muitos encantamentos, vistos até aqui (B2) (B5) (B6)(B7), encaminhar os
+muitos encantamentos, vistos até aqui (**B2**) (**B5**) (**B6**)(**B7**), encaminhar os
 seres malfazejos para suas moradas e fazê-los largar suas armas
-constituem ações que pacificam Cobras, /B’atɨ̖b’/, Gentes-Árvore, etc.
+constituem ações que pacificam Cobras, /B’atɨ̖b’/,  Gentes-Árvore etc.
 Nesse sentido, fazer o nascituro entregar suas armas pacifica-o para que
 nasça sem causar males para a mãe, uma poderosa fêmea. Conforme a
-criança cresce, seus pais vão ensinando-os a fabricar os /muhu̗’ tëg/,
+criança cresce, seus pais vão ensinando-os a fabricar os /muhu̗’ tëg/, 
 “brinquedos”, pequenos arco e flechas, aturás, zarabatanas para os
 filhos se divertirem e acompanharem-nos à roça ou à mata. Suponho que
 através dos brinquedos os pais, gradualmente, restituam aos filhos seus
@@ -12757,13 +12777,13 @@ Logo cedo, é comum ver as mães com seus grandes aturás serem seguidas
 por uma fila de meninas, suas filhas, que puxam aturás menores,
 proporcionais a seus tamanhos. Na roça, aprendem a lidar com a maniva
 que, depois de colhida e limpa, é transportada por todas elas até a
-casa. Como visto, osaturás fortalecem o quadril e a região lombar para
+casa. Como visto, os aturás fortalecem o quadril e a região lombar para
 o parto. Começada pela mãe, a trama de fios de cipó de arumã é
 continuada pelas filhas, que aprendem a tecer desde muito novas. No fim
 da tarde, as filhas sentam-se perto da mãe, que tece, conversa com
-outras mulheres e aguarda que o beijú asse no forno coletivo. Em meio à
+outras mulheres e aguarda que o beiju asse no forno coletivo. Em meio à
 trama dos fios, as meninas vão se inserindo na sociabilidade feminina
-aldeã. Refletindo com Ingold (2000, p. 357), esse aprendizado ocorre não
+aldeã. Refletindo com Ingold, esse aprendizado ocorre não
 pela internalização de regras do “como fazer”, mas pela sintonia gradual
 dos movimentos da mãe e da filha ao tramar os fios e ao carregar os
 cestos pelos caminhos.
@@ -12776,7 +12796,7 @@ Divertem-se muito nos campeonatos de tiro através dos quais comparam as
 distâncias, as alturas e a precisão de seus lançamentos. Ao acompanhar o
 pai numa caminhada, os meninos levam suas armas e imitam-no no porte, no
 lançamento, na mira e na busca pelos alvos. Ao longo do caminho, os pais
-indicam árvores como a /pe̗͂y-tëg/, mostrada a mim por Ponciano, para
+indicam árvores como a /pe̗͂y-tëg/,  mostrada a mim por Ponciano, para
 ensinar-lhes qual a melhor madeira para fazer os arcos. É fundamental
 saber fabricar as pontas de flecha específicas para cada tipo de caça.
 Além disso, a partir das indicações dos rastros dos animais, os pais
@@ -12792,19 +12812,19 @@ Através dos arco e flechas os meninos são introduzidos pelos pais e
 irmãos maiores em contextos que propiciam a oportunidade para o uso de
 suas armas. É esse uso que desenvolve o movimento controlado e regular
 dos membros e das mãos integrando gesto e arma como formas geradas pela
-ação (Ingld, 2000, p. 354). Nesse sentido, o manejo das “armas
-próteses” é também um agenciamento das “armas primordiais” e “\[...\]
+ação. Nesse sentido, o manejo das “armas
+próteses” é também um agenciamento das “armas primordiais” e <!--citação-->“\[...\]
 nesses caminhos aprende-se a ‘desservir-se’ das armas tanto quanto
 servir-se delas, como se a potência e a cultura do afecto fossem o
 verdadeiro objetivo do agenciamento, a arma sendo apenas um meio
 provisório” (Deleuze; Guattari, 1997, p. 85).
 
-[]{#Fig45_Isabel .anchor}Isabel terminando um aturá (foto: Danilo Paiva
-Ramos, 2012)
+<!--Fig. 23-->
+Isabel terminando um aturá (foto: Danilo Paiva Ramos, 2012)
 
 Com o crescimento corporal, os aturás e os arcos e flechas aumentam de
 tamanho, os meninos e a meninas tornam-se mais hábeis para construí-los.
-Os meninos adquirem melhor mira e tonus muscular, enquanto as mãos
+Os meninos adquirem melhor mira e tônus muscular, enquanto as mãos
 femininas passam a tramar com rapidez e leveza. No menino, o
 arco e flecha presente nos braços aumenta de tamanho, mas seu aturá
 mantém-se pequeno, enquanto na menina o cesto cresce, mas o arco e
@@ -12821,13 +12841,13 @@ lâminas/garras, mas não conseguia a mesma eficácia no uso de seu
 remo/rabo para a fuga, o que aponta para sua condição de noviço, que,
 como as crianças hup, é introduzido aos poucos pela mãe em contextos
 para o uso de suas armas e instrumentos corporais. Como ressalta
-Hugh-Jones (2009, p. 48-9), “se as pessoas são progressivamente
+Hugh-Jones (2009, p. 48-9), <!--citação--> “se as pessoas são progressivamente
 construídas e socializadas como montagens de objetos, também os objetos
 podem socializar pessoas \[...\] Fazer coisas é, assim, fazer a si e a
 maestria da técnica é a maestria do eu”.
 
-Os golpes de terçado precisos foram dados no focinho (/tö̖j-moy/) e no
-pescoço (/k’atɨ̗t-moy/) dos tamanduás. A mira dos arqueiros visa sempre
+Os golpes de terçado precisos foram dados no focinho (/tö̖j-moy/)  e no
+pescoço (/k’atɨ̗t-moy/)  dos tamanduás. A mira dos arqueiros visa sempre
 atingir o peito (/hãg-sa̗k moy/) das presas, uma técnica muito eficaz
 principalmente na caça a grandes mamíferos como o tamanduá, a anta, os
 porcos e os catetos. O caçador evita, desse modo, os membros, onde estão
@@ -12841,8 +12861,8 @@ estruturas possuídas por cada ser. Como o filhote de tamanduá, as
 crianças hup também têm suas armas, adornos e utensílios corporais.
 
 Acredito que a designação de partes do corpo como artefatos, armas e
-instrumentos expressa a habilidade de alternância entre a /ɨ̗d/, “fala”,
-e a /bi’i̖d ɨ̗d/, “linguagem de benzimento”. Essa alternância entre
+instrumentos expressa a habilidade de alternância entre a /ɨ̗d/,  “fala”,
+e a /bi’i̖d ɨ̗d/,  “linguagem de benzimento”. Essa alternância entre
 gêneros discursivos é também a alternância entre modos de percepção da
 corporalidade do ser. Parece haver um paralelismo entre a aquisição de
 habilidades no uso e fabricação de armas e instrumentos pelo noviço e
@@ -12851,14 +12871,13 @@ McCallum, a produção desses artefatos depende do desenvolvimento de
 “corpos que sabem”. Produzir seria, assim, transmitir aquilo que o corpo
 sabe para o objeto produzido, permitindo que o próprio objeto no curso
 do uso pela pessoa, humana ou animal, molde as partes do seu corpo
-fazendo crescer os artefatos primordiais e as habilidades (McCallum,
-1998, p. 228). Os objetos têm, assim, *graus relativos de materialidade*
-aos quais caçadores e xamãs se referem através de uma *alternância
-perspectiva da percepção* que faz os corpos surgirem como composições
-artefactuais vivas em dados contextos relacionais (Hugh-Jones, 2009, p.
-50).
+fazendo crescer os artefatos primordiais e as habilidades. Os objetos têm, assim, graus relativos de materialidade
+aos quais caçadores e xamãs se referem através de uma alternância
+perspectiva da percepção que faz os corpos surgirem como composições
+artefactuais vivas em dados contextos relacionais.
 
-#### O arco e o cesto 
+
+###O arco e o cesto 
 
 Na noite de 17 de março de 2012, depois da roda de coca, voltei para a
 casa de Américo, onde eu estava alojado. Abri a porta com cuidado, pois
@@ -12883,8 +12902,8 @@ peguem em terçado, pois o filho pode ter /Pu̖ç Way/, “umbigo saído”
 Após o nascimento, os pais devem ficar na rede. Além do jejum, é
 necessário que o casal não toque em instrumentos de trabalho ou armas.
 “Então, eu sopro a cuia de beber mingau da mulher. Se quiser, ela fica
-um dia parada e já está bom”, explica Ponciano em B6. A restrição do
-tato é tambémuma contenção dos movimentos que devem tender à
+um dia parada e já está bom”, explica Ponciano em **B6**. A restrição do
+tato é também uma contenção dos movimentos que devem tender à
 imobilidade. Como na dieta alimentar, o manuseio dos objetos acompanha a
 restituição gradual dos deslocamentos. Com o tempo, o casal começa a
 poder visitar as casas vizinhas, participar das rodas de conversa até
@@ -12912,15 +12931,17 @@ Deleuze e Guattari, nesse momento de restrição dos movimentos, os pais
 seguem os cipós e as madeiras no fluxo de suas matérias, em suas
 itinerâncias conforme fazem crescer seus artefatos,
 
-> *De qualquer modo, trata-se de seguir a madeira, e de seguir na
-> madeira, conectando operações e uma materialidade, em vez de impor uma
-> forma a uma matéria: mais que a uma matéria submetida a leis, vai-se
-> na direção de uma materialidade que possui um nomos. Mais que a uma
-> forma capaz de impor propriedades à matéria, vai-se na direção de
-> traços materiais de expressão que constituem afectos* (1980, p. 96).
+<!--estilo de citação-->
+ De qualquer modo, trata-se de seguir a madeira, e de seguir na
+ madeira, conectando operações e uma materialidade, em vez de impor uma
+ forma a uma matéria: mais que a uma matéria submetida a leis, vai-se
+ na direção de uma materialidade que possui um nomos. Mais que a uma
+ forma capaz de impor propriedades à matéria, vai-se na direção de
+ traços materiais de expressão que constituem *afectos*. (1980, p. 96)
+<!--estilo de citação-->
 
 Isabel alerta que a mãe que pega em aturá deixa os olhos da criança
-/mi͂gi͂/, “loucos”. O pai que pega em arco e flecha ou terçado faz o
+/mi͂gi͂/,  “loucos”. O pai que pega em arco e flecha ou terçado faz o
 umbigo do bebê sair. Enquanto o arco e flecha e o terçado são armas
 manejadas pelo caçador em seus combates com as presas, o aturá é o cesto
 de carga que acompanha a mulher em praticamente todos os seus afazeres.
@@ -12929,7 +12950,7 @@ agricultora com seu aturá às costas seguem com uma “identidade vaga”
 entre os corpos e as coisas. Seguem como matéria-fluxo-movimento na
 sinergia entre os artefatos corpóreos primordiais, o peso do cesto às
 costas e o volume do arco oprimido pela pressão da mão cerrada. São
-assim conjuntos vagos que “desprendem uma corporeidade (materialidade)
+assim conjuntos vagos que <!--citação--> “desprendem uma corporeidade (materialidade)
 que não se confunde nem com a essencialidade formal intangível, nem com
 a coisidade sensível, formada e percebida” (Deleuze; Guattari, 1997, p.
 95). Dirigem-se a contextos de agenciamento que se dão no encontro com o
@@ -12940,7 +12961,7 @@ No encontro com o animal, o caçador hup maneja suas armas, facas e
 arcos e flechas. Empunhadas externamente em suas mãos, as armas são
 também parte constitutiva de seus membros corporais. A agressividade dos
 combatentes, considerada como um calor excessivo, impregna-se nos corpos
-do predadore da presa. O arco e flecha ou o terçado incandescente faz
+do predador e da presa. O arco e flecha ou o terçado incandescente faz
 arder os braços do caçador. Chegando à sua casa, o caçador pendura logo
 suas armas nos caibros do telhado de caranã e come pimenta para atenuar
 a agressividade que o combate despertou em si. De forma semelhante, as
@@ -12950,11 +12971,11 @@ ainda ferir o caçador ou sua família durante o consumo. A carne dos
 animais precisa ser bem cozida com pimenta para impedir o ataque onírico
 da vítima com suas armas primordiais, facas, espadas e cuias de caarpi.
 
-Durante a couvade, ao tocar as suas armas ou ao ingerir a carne não
+Durante a *couvade*, ao tocar as suas armas ou ao ingerir a carne não
 benzida, o pai faz sair o umbigo do recém-nascido. Para a cura, o xamã
 sopra uma colher de aço, objeto frio que, ao entrar em contato com o
 umbigo, reverte sua dilatação/putrefação, endurece e resfria o “molengo”
-na parte que ntes era o local de ligação materno-fetal pelo
+na parte que antes era o local de ligação materno-fetal pelo
 cordão-umbilical. Esse aquecimento das armas e membros do caçador parece
 análogo ao calor que a condução da rabeta, uma máquina, faz aderir ao
 corpo do navegante. No caso de Elias, segurar a máquina quente foi a
@@ -12970,7 +12991,7 @@ que está situado o calor do corpo. Já o frio se encontra espalhado pelo
 resto do corpo. Para verificar-se a febre, coloca-se a mão na testa, nos
 braços e nas pernas, pois a doença faz espalhar o calor desse centro
 vital para as extremidades corporais. Além do aquecimento da cabeça e
-peito, quando estão com “febre”, /pë’ wɨd ne̖n/, os Hupd’äh dizem ver
+peito, quando estão com “febre”, /pë’ wɨd ne̖n/,  os Hupd’äh dizem ver
 cores, manchas luminosas que os olhos começam a perseguir de modo
 perturbado. O equilíbrio entre o frio das extremidades e as energias do
 sopro vital, essencialmente frio, e da sombra, essencialmente quente, é
@@ -12979,29 +13000,31 @@ também ver reto como o pensamento que /mɨnɨ̗g ha̗m/, “segue reto”, algo
 que remete a um movimento “retilíneo” ou “focado” dos olhos. /Mi̗͂gi̗͂/,
 “louco”, é a pessoa cujo pensamento se encontra espalhado. Desloca-se em
 muitos sentidos, mas não consegue concentrar-se e seguir um caminho. A
-febre que causa /Käwä̖g mi̗͂gi̗͂/, “olhos loucos”, faz os olhos perderem o
+febre que causa /Käwä̖g mi̗͂gi̗͂/,  “olhos loucos”, faz os olhos perderem o
 rumo, movimentarem-se a esmo e perseguirem cores espalhadas pelo espaço.
 
 Na roça, o aturá fica exposto ao sol por muito tempo, enquanto a mulher
 trabalha a maniva. Nesse sentido, pegando-o ou carregando-o, a mulher
 toca um objeto externo que se apoia sobre sua estrutura lombar, composta
-por seu cesto primordial. Em B6, o xamã faz com que /Wero̗ Hup Te͂h i͂h/, o
-“Sol”, s para sua morada celeste, apague sua lenha corporal, largue
+por seu cesto primordial. Em **B6**, o xamã faz com que /Wero̗ Hup Te͂h i͂h/, o
+“Sol”, suba para sua morada celeste, apague sua lenha corporal, largue
 sua faca e volte seu olhar para cima. Como visto, o odor dos corpos da
 mãe e do bebê ofende esse ancestral que se vinga através de sua luz e
 calor. O objeto pessoal e de carga da mulher torna-se o vetor da
 agressividade desse ser, que leva os corpos já quentes da mãe e do bebê
-a arder em febre, e os olhos, a enlouquecer. Nos termos de Buchillet
-(1983), a doença causada pelo toque do aturá é um modo de feitiço
-indireto causado pela ação maléfica do Sol. Nas palavras da antropóloga:
+a arder em febre, e os olhos, a enlouquecer. Nos termos de Buchillet, 
+a doença causada pelo toque do aturá é um modo de feitiço
+indireto causado pela ação maléfica do sol. Nas palavras da antropóloga:
 
-> *A segunda forma de feitiçaria consiste em alterar um objeto que
-> pertence a, ou que é utilizado pela pessoa que se pretende agredir,
-> recitando um encantamento sobre esse objeto: o mal é assim transferido
-> ao indivíduo. Como em numerosos grupos indígenas, os Desana postulam
-> uma ligação entre um indivíduo e seus pertences (vestes, utensílios,
-> etc.) como continuidades de si em efeitos pessoais ou nos objetos que
-> ele utiliza* (Buchillet, 1983, p. 137).
+<!--estilo de citação-->
+ A segunda forma de feitiçaria consiste em alterar um objeto que
+ pertence a, ou que é utilizado pela pessoa que se pretende agredir,
+ recitando um encantamento sobre esse objeto: o mal é assim transferido
+ ao indivíduo. Como em numerosos grupos indígenas, os Desana postulam
+ uma ligação entre um indivíduo e seus pertences (vestes, utensílios,
+ etc.) como continuidades de si em efeitos pessoais ou nos objetos que
+ ele utiliza. (Buchillet, 1983, p. 137)
+<!--estilo de citação-->
 
 Da mesma forma como o sopro das palavras faz com que as ações /hã̗wägät/
 do xamã se condensem no cigarro para depois, quando inspiradas, agirem
@@ -13010,26 +13033,25 @@ calor e a agressividade frutos da exposição à ação do Sol ou ao ardor
 das batalhas impregnam-se nos objetos, próteses externas e, ao mesmo
 tempo, artefatos que compõem o corpo. O bebê, um molengo, em contato
 permanente com os pais, é exposto a essas energias, que intensificam a
-presença de /k’ɨ̗/, “calor”, em seu corpo, ocasionando a febre, a
+presença de /k’ɨ̗/,  “calor”, em seu corpo, ocasionando a febre, a
 perturbação ocular, a saída do umbigo e a abertura de feridas. O toque
 dos objetos é um *acontecimento-afecto* que faz os agenciamentos das
 armas e instrumentos convergirem dos pais para o bebê através do fluxo
 existente entre a pessoa e os corpos-objetos, conjuntos vagos de
-matéria-movimento, matéria-energia e matéria-fluxo (Deleuze; Guattari,
-1997, p. 95).
+matéria-movimento, matéria-energia e matéria-fluxo. 
 
-Em M15, /Bisi̖w/ é vencido pelos pais vingadores ao beber o caxiri
+Em **M15**, /Bisi̖w/ é vencido pelos pais vingadores ao beber o caxiri
 soprado. Aceitando o oferecimento, ele toca um recipiente grande de
 argila, uma /bok tãw/, e bebe o líquido que o embriaga rapidamente.
-Bêbado, /ä̗g na̗’ yɨ̗’ɨ̗y/, ele cai no chão. Os pais colocam-no sobre a
+Bêbado, /ä̗g na̗’ yɨ̗’ɨ̗y/,   ele cai no chão. Os pais colocam-no sobre a
 lenha e o queimam. A ardência faz seu corpo desarranjar-se. Seu corpo
-artefactual fragmenta-se e surgem as flautas Jurupari, seus ossos. Antes
+*artefactual* fragmenta-se e surgem as flautas Jurupari, seus ossos. Antes
 de morrer ele pragueja ameaçando fazer com que os Hupd’äh sofram como
 ele sofreu. Algumas doenças que acometem os Hupd’äh derivam dos
-sofrimentos que os antigos causaram a /Bisi̗w/. Nesse sentido, o
+sofrimentos que os antigos causaram a /Bisi̗w/.  Nesse sentido, o
 canibalismo anal, que aniquila os rapazes, pode ser visto como uma
 primeira ação de roubo do espírito para o consumo predatório. Se o fogo
-que queima /Bisi̗w/ desconstrói seu corpo, fragmentando sua pessoa
+que queima /Bisi̗w/  desconstrói seu corpo, fragmentando sua pessoa
 corporificada em múltiplas flautas singulares, as doenças que acometem o
 recém-nascido parecem também desconstruí-lo pela intensidade extrema de
 calor.
@@ -13040,7 +13062,7 @@ umbigo mostra-se uma dilatação/putrefação no local que antes era a
 ligação com a mãe. As feridas, aberturas corporais, podem também ser
 vistas como tensões d fragmentação ocasionadas pela pele mole,
 decompondo-se. Sem estar duro o suficiente para suportar o ataque
-onírico de seres como as Gentes-Árvore, /B’atɨ̖b’/, ou a vingança das
+onírico de seres como as Gentes-Árvore, /B’atɨ̖b’/,  ou a vingança das
 presas e peixes consumidos pelos pais que ferem com suas armas
 laminares, as feridas abrem-se e custam a fechar. Podem ocasionar dores
 terríveis e agravar-se como no caso da leishmaniose. A cuia de caarpi
@@ -13048,12 +13070,12 @@ oferecida por insetos (como os bichos do pé), ou por animais consumidos
 (como o tamanduá) são causas do choro enlouquecedor, que pode ocasionar
 febres, umbigo saído e olhos perturbados. Pensando com Lolli (2010, p.
 29), a exposição do bebê a essas afecções de outrem por intermédio de
-seus pais revela, “na doença, o caráter duplo de construção e de
+seus pais revela, <!--citação-->“na doença, o caráter duplo de construção e de
 desconstrução da função xamânica que se mostra mais patente, à medida
 que concomitantemente implica de um lado a recuperação do doente e do
 outro a desconstrução dos agentes patogênicos”.
 
-Segundo McCallum, (1998, p. 217) o corpo é “afetado e construído por
+Segundo McCallum, (1998, p. 217) o corpo é <!--citação-->“afetado e construído por
 diferentes processos materiais que ocorrem perto ou dentro de seus
 corpos, como no *couvade* e nas ‘relações de substância’ de forma mais
 geral”. Durante o resguardo, a *consubstancialização* entre os pais e o
@@ -13066,20 +13088,21 @@ que, devido ao aquecimento, os olhos se perturbem e percam seu foco, o
 umbigo dilate-se e saia, a pele se abra em feridas e o sopro vital deixe
 o corpo.
 
-### O feto adornado e o dono dos animais
+
+##O feto adornado e o dono dos animais
 
 Numa roda de coca, conversando sobre o benzimento do filho, Ponciano me
 contou que, no útero, além de comer coca como os velhos, o “feto de sexo
-masculino”, /tiyi̖’/, está armado com seu arco e flecha e com sua
+masculino”, /tiyi̖’/,  está armado com seu arco e flecha e com sua
 zarabatana. Em sua cabeça, ostenta um lindo cocar colorido feito com
 penas de arara e papagaio. Recobre sua nuca com o /wi̖h huj/, “cocar de
 penas de gavião”. Em seus braços, tem pulseiras de tucum, suas /K’ö̖b
 s’o̗/ e /K’ö̖b hikub/. Sua perna vibra ao som de seu /yã̖ç/, “chocalho de
 pé”, a cada passo de dança. Carrega, às costas, um pequeno cesto aturá.
-Já a menina, /tã’ã̗y/, decora seus cabelos pendurando uma “flor”, /s’o̗/,
+Já a menina, /tã’ã̗y/,  decora seus cabelos pendurando uma “flor”, /s’o̗/,
 na orelha. Carrega às costas seu grande aturá para levar a maniva. Para
-o preparo do caxiri, a menina traz consigo seu “ralador”, /hɨ̗p/, seu
-“balaio”, /pa̗’/, e seu suporte de cumatá, /moho̖y/. Além dos instrumentos
+o preparo do caxiri, a menina traz consigo seu “ralador”, /hɨ̗p/,  seu
+“balaio”, /pa̗’/,  e seu suporte de cumatá, /moho̖y/. Além dos instrumentos
 de trabalho, está munida de um arco e flecha e uma zarabatana pequenos.
 Os meninos têm as faces pintadas de preto. As meninas, de vermelho.
 Ambos estão sentados sobre seus “bancos de nascimento”, /hib’a̗h kä̗d/.
@@ -13089,15 +13112,15 @@ Seguram firme seus “bastões”, /sö̖h tëg/, e têm as “sementes de pedra
 Adornados dessa forma, assemelham-se aos antigos em pleno Dabucuri
 quando, dançando, manejavam as potências primordiais. Pensando com Gow,
 os fetos adornados são *agentes de seu próprio nascimento*, nas palavras
-do autor sobre os Piro, “o genitor e a genitora são os agentes de seu
+do autor sobre os Piro, <!--citação-->“o genitor e a genitora são os agentes de seu
 vir a ter corpo;as o feto é o agente de seu próprio nascimento. Os
 bebês ‘surgem de dentro’ ativamente; eles não são passivamente ‘paridos’
-ou dados à luz’ ”(Gow, 1997, p. 47).
+ou dados à luz’”(Gow, 1997, p. 47).
 
 Os encontros cerimoniais entre moradores de aldeias distintas de um
 mesmo grupo local para realizar trocas rituais de alimentos por caxiri
-recebem, em língua hup, o nome de /Pä̗’/, “derramar”, que são os
-/Dabucuris/ uaupésinos em Língua Geral. Trazendo cestos carregados com
+recebem, em língua hup, o nome de /Pä̗’/,  “derramar”, que são os
+/Dabucuris/ uaupésinos em língua geral. Trazendo cestos carregados com
 frutas, carnes ou peixes, os “convidados” derramam suas dádivas no
 centro da maloca, ofertando-as a seus anfitriões. Enunciados formais de
 agradecimento e exaltação dos parceiros de troca acompanham o gesto de
@@ -13112,46 +13135,48 @@ terrível /Bisi̗w/.
 
 Ainda hoje, momentos antes da realização do evento, os senhores hup
 começam a comentar nas rodas de coca a “queda das frutas”, referindo-se
-à maturação do ingá, do ucuqui, do uacú, etc. que atraem os animais. Em
+à maturação do ingá, do ucuqui, do uacu, etc. que atraem os animais. Em
 plena fartura, as pacas, cotias, tamanduás realizam danças e cerimônias
-de trocas em /Hu̗͂-Mo̖y/, a “Casa-dos-Animais”, junto ao seu dono, /Bisi̗w/.
+de trocas em /Hu̗͂-Mo̖y /, a “Casa-dos-Animais”, junto ao seu dono, /Bisi̗w/.
 Esse é o momento de formar grupos para colher grandes quantidades de
 frutos, abater um número substancial de presas, e/ou tinguijar os
 igarapés. Os donos hup designam representantes para viajar à aldeia dos
 parentes distantes para combinar a celebração. Realizados secretamente
-na década de 1970 devido ao temor da repressão salesiana, os /Pä̗’/ dos
-Hupd’äh não puderam ser observados por Reid (1979), que escreveu as
-seguintes notas sobre o ritual,
+na década de 1970 devido ao temor da repressão salesiana, os /Pä̗’/  dos
+Hupd’äh não puderam ser observados por Reid, que escreveu as
+seguintes notas sobre o ritual:
 
-> Durante os rituais formais, as crianças, meninos e meninas, são
-> obrigados a deixar a maloca e a manterem-se afastados quando os
-> trompetes Jurupari entram na maloca. Entretanto, com aproximadamente 9
-> anos, os jovens são expostos aos trompetes pela primeira vez.
-> Disseram-me que esse é o evento que marca formalmente a transição da
-> infância à idade adulta. \[…\] As cerimônias rituais de troca
-> praticadas pelos Hupdʉ são denominadas Pwu!, que significa derramar.
-> \[…\] Essas cerimônias geralmente envolvem o uso dos trompetes
-> sagrados, que possuem diversos nomes em Hupdʉ. Desse modo, em rituais
-> formais, os jovens não somente performam e aprendem como tocar os
-> trompetes sagrados, mas também a dançar corretamente. Além disso,
-> recebem orientações dos anciões em mitologia e cantos. \[...\] Muitos
-> dias antes da realização dos rituais, os homens Hupdʉ vão à floresta
-> para caçar ou coletar frutas silvestres demandadas, enquanto os Índios
-> do Rio preparam o caxiri, o tabaco e a coca. \[…\] Na alvorada, após
-> algumas horas de descanso em seus cantos, os Hupdʉ começam a
-> apresentação das frutas aos anfitriões, vestindo suas melhores roupas
-> e tendo o rosto pintado. Eles dançam em linha até a maloca, e após
-> sequências de dança e consumo de bebida, depositam suas dádivas no
-> centro da maloca *(Reid, 1979, p. 151-2; 181-2).*
+<!--estilo de citação-->
+ Durante os rituais formais, as crianças, meninos e meninas, são
+ obrigados a deixar a maloca e a manterem-se afastados quando os
+ trompetes Jurupari entram na maloca. Entretanto, com aproximadamente 9
+ anos, os jovens são expostos aos trompetes pela primeira vez.
+ Disseram-me que esse é o evento que marca formalmente a transição da
+ infância à idade adulta. \[…\] As cerimônias rituais de troca
+ praticadas pelos Hupdʉ são denominadas Pwu!, que significa derramar.
+ \[…\] Essas cerimônias geralmente envolvem o uso dos trompetes
+ sagrados, que possuem diversos nomes em Hupdʉ. Desse modo, em rituais
+ formais, os jovens não somente performam e aprendem como tocar os
+ trompetes sagrados, mas também a dançar corretamente. Além disso,
+ recebem orientações dos anciões em mitologia e cantos. \[...\] Muitos
+ dias antes da realização dos rituais, os homens Hupdʉ vão à floresta
+ para caçar ou coletar frutas silvestres demandadas, enquanto os Índios
+ do Rio preparam o caxiri, o tabaco e a coca. \[…\] Na alvorada, após
+ algumas horas de descanso em seus cantos, os Hupdʉ começam a
+ apresentação das frutas aos anfitriões, vestindo suas melhores roupas
+ e tendo o rosto pintado. Eles dançam em linha até a maloca, e após
+ sequências de dança e consumo de bebida, depositam suas dádivas no
+ centro da maloca.(Reid, 1979, p. 151-2; 181-2).
+<!--estilo de citação-->
 
 Para descrever os pertences dos seres intrauterinos, Ponciano remetia-se
 sempre às antigas cerimônias de Dabucuri que havia presenciado. Cores,
-sons e gestos dos pais e avós teciam as linhas dessa *memória ritual*,
-que fazia um imenso sorriso abrir-se nos lábios do xamã (Severi, 1996).
+sons e gestos dos pais e avós teciam as linhas dessa memória ritual,
+que fazia um imenso sorriso abrir-se nos lábios do xamã.
 Ele explicava que a tinta que colore os rostos dos nascituros é
-preparada com a mistura da planta /yawi̖’/, “samambaia” (tipo de), com a
+preparada com a mistura da planta /yawi̖’/,  “samambaia” (tipo de), com a
 semente de /me̖’/, “carajuru”[^114], para a pigmentação vermelha, ou com
-“jenipapo”, /d’a̖d/, para obter a cor negra. “Era assim que os antigos
+“jenipapo”, /d’a̖d/,  para obter a cor negra. “Era assim que os antigos
 pintavam seus rostos para os Dabucuris antes”, lembrava-se. O ancião
 trouxe um /yãç/, “chocalho de pé”, que havia fabricado depois de nossa
 caminhada à Casa-dos-Animais. Colhera as castanhas enquanto
@@ -13198,10 +13223,10 @@ odores agradáveis que os ajudavam na sedução. As flores que enfeitavam
 as orelhas das moças podiam estar igualmente preparadas para atrair
 parceiros. Ainda hoje, devido à imensa quantidade de caxiri ingerida
 durante os Dabucuris, as mulheres passam os dias anteriores carregando
-aturás cheios de maniva. Usam seus “ralos”, /hɨ̖p/, para extrair a massa
+aturás cheios de maniva. Usam seus “ralos”, /hɨ̖p/,  para extrair a massa
 que depois é espremida nos cumatás para obter a manicoera.
 
-O *feto adornado* parece fazer convergir para a gestação modos de ação
+O feto adornado parece fazer convergir para a gestação modos de ação
 característicos dos Dabucuris. A transmissão de bens, adornos e
 instrumentos corporificam potências primordiais. Esse processo ganha
 expressão com as danças performadas durante os Dabucuris. Os gestos e
@@ -13210,79 +13235,80 @@ poderão transformar os fetos em humanos em ancestrais e, reversamente,
 regenerar o ancestral pelo novo ser. Agentes de seu nascimento, ao longo
 do desenvolvimento uterino, os nascituros preparam-se para a interação
 com o “avô xamã”, que, como Ponciano, lembra-se de cada detalhe dos
-adornos rituais dos antigos. Os *fetos adornados* surgem com seus
+adornos rituais dos antigos. Os fetos adornados surgem com seus
 pertences que são também índices diacríticos de seus sexos e posições no
-campo de interações rituais. Uma espécie de *devir ancestral* faz sua
+campo de interações rituais. Uma espécie de devir ancestral faz sua
 pintura e adornos identificarem-nos aos “antigos” e aos “velhos”.
 Sentados diante de um Lago de Leite, os fetos são os próprios ancestrais
-a receber de /K’e̖g Te͂h/ os ossos/flautas de /Bisi̗w/, os Jurupari, junto
+a receber de /K’e̖g Te͂h/ os ossos/flautas de /Bisi̗w/,  os Jurupari, junto
 com os demais bens e alimentos da origem (**M15**).
 
 Às vésperas do Dabucuri, alguns mentores ainda levam os grupos de
-rapazes para colher frutas como cucura, ucuqui, uacú, pupunha e ingá nas
-roças do /Bisi̗w/, espalhadas pela mata. Aqueles que estão prestes a ver
+rapazes para colher frutas como cucura, ucuqui, uacu, pupunha e ingá nas
+roças do /Bisi̗w/,  espalhadas pela mata. Aqueles que estão prestes a ver
 os ossos/flautas desse ancestral, queimados pelos antigos hup, precisam
-caçar as presasliberadas pelo dono e colher as frutas por ele cedidas.
-Para isso, os xamãs realizam viagens prévias à /Hu̗͂-Moy/, para oferecer
-sopros vitais e/ou tabaco como dádivas a /Bisi̗w/. Todo o cuidado é pouco
+caçar as presas liberadas pelo dono e colher as frutas por ele cedidas.
+Para isso, os xamãs realizam viagens prévias à /Hu̗͂-Moy/ , para oferecer
+sopros vitais e/ou tabaco como dádivas a /Bisi̗w/.  Todo o cuidado é pouco
 para que os jovens hup não tenham seus sopros vitais devorados por esse
-terrível predador. O ritual de troca entre grupos hup (/pä̗’/) e a
-iniciação masculina (/döhö̗/) dependem, assim, do estabelecimento da
+terrível predador. O ritual de troca entre grupos hup (/pä̗’/)  e a
+iniciação masculina (/döhö̗/)  dependem, assim, do estabelecimento da
 reciprocidade adequada com esse ancestral. Ao mesmo tempo, os animais
-bebem, cantam, dançam e copulam no interior da /Hu̗͂-Moy/, realizando seus
+bebem, cantam, dançam e copulam no interior da /Hu̗͂-Moy/,  realizando seus
 próprios Dabucuris para que os Hupd’äh possam, posteriormente, também
 celebrar, “procurar filhos” e transformar seus rapazes em homens fortes.
 
 Enquanto o “avô benzedor” convence o feto, sentado, a entregar seus
-pertences (B6), os xamãs devem convencer /Bisi̗w/ a regenerar as presas e
+pertences (**B6**), os xamãs devem convencer /Bisi̗w/  a regenerar as presas e
 libertá-las para saírem para a floresta. Essa ação “diplomática”
 instaura a reciprocidade entre um avô e seu neto e entre um ancestral e
 seus descendentes. Evocando o nome de um antepassado clânico, o avô
 concentra a pessoa distribuída do neto/ancestral. Soprando as flautas
-enquanto dançam, os netos reúnem os ossos, os fragmentos de /Bisi̗w/ num
+enquanto dançam, os netos reúnem os ossos, os fragmentos de /Bisi̗w/  num
 corpo de dança, trazendo à vida o ancestral para crescerem, endurecerem
 seus corpos e protegerem-se das doenças.
 
 Se, comendo a coca, os senhores hup predam os ossos e a carne do Velho
-Cobra, e assumem a perspectiva de /We̗d B’ö̖’/, o nascimento insere o bebê
+Cobra, e assumem a perspectiva de /We̗d B’ö̖’/,  o nascimento insere o bebê
 num processo gradativo de oferecimento de alimentos, algo que aproxima
-os bebês da pessoa de /We̗d B’ö̖’/, o irmão maior de /Bisi̗w/. É preciso
+os bebês da pessoa de /We̗d B’ö̖’/,  o irmão maior de /Bisi̗w/.  É preciso
 lembrar que esse primogênito não conhecia os alimentos próprios como
-beiju, peixe moqueado, caxiri, coca, tabaco, etc. Progressivamente, os
+beiju, peixe moqueado, caxiri, coca, tabaco etc. Progressivamente, os
 alimentos das Gentes-Cobra vão sendo oferecidos a ele por uma Mulher
 Peixe, sua esposa. De seu vômito surgem os alimentos próprios e as
-plantas domesticadas. Ao longo de B7, para tornar os alimentos próprios,
+plantas domesticadas. Ao longo de **B7**, para tornar os alimentos próprios,
 o xamã manda os animais para suas moradas ancestrais e cerca suas armas
 para que as presas não se vinguem daquele que preda seus corpos.
 Seguindo Århem,
 
-> *Conforme o benzedor dos alimentos remove a “armas” da comida e
-> manda-as de volta a sua origem, ele performa um ato essencialmente
-> regenerativo: faz retornar a “alma” do animal morto e cozido (ou da
-> planta comestível) para sua casa de nascimento e, por meio disso,
-> permite seu subsequente renascimento* (Århem, 1996, p.197).
+<!--estilo de citação-->
+ Conforme o benzedor dos alimentos remove a “armas” da comida e
+ manda-as de volta a sua origem, ele performa um ato essencialmente
+ regenerativo: faz retornar a “alma” do animal morto e cozido (ou da
+ planta comestível) para sua casa de nascimento e, por meio disso,
+ permite seu subsequente renascimento .(Århem, 1996, p.197)
+<!--estilo de citação-->
 
 A morte do animal é, como para os humanos, uma fragmentação de seus
 princípios vitais com o retorno de seu sopro vital à morada primordial.
-Numa conversa, Américo disse que /Bisi̗w/ chama os animais para juntá-los
+Numa conversa, Américo disse que /Bisi̗w/  chama os animais para juntá-los
 novamente. Seu grito, que pode ser ouvido pelos caçadores a ecoar pela
-mata, concentra nmente os princípios vitais das presas abatidas,
+mata, concentra novamente os princípios vitais das presas abatidas,
 regenerando a vida. A reunião dos animais suscitada por seu chamado é,
 assim, a concentração de seus seres tornando-os vivos novamente. Plena
 de Dabucuris, a Casa-dos-Animais assemelha-se a uma maloca onde a dança
 e o sopro das flautas fazem surgir Lagos de Leite. A predação constitui
-a base da reciprocidade generativa entre os humanos e o dono dos animais
-(Århem, 1996).
+a base da reciprocidade generativa entre os humanos e o dono dos animais.
 
 A iniciação dos rapazes pelo Dabucuri parece ser, dessa forma, não só
 uma separação do universo feminino para a transformação do menino em
 adulto, descendente de um ancestral clânico patrilateral, mas também a
 possibilidade de trazer à vida os ancestrais, reunindo-os na
-reverberação de uma singularidade oculta, o /Bisi̗w/. Suponho que
+reverberação de uma singularidade oculta, o /Bisi̗w/.  Suponho que
 integrar-se como sopro e som, como parte do /hã̗wäg/ desse ser, dota a
 pessoa não só da habilidade de curar e gerar a vida, juntando o sopro
 vital espalhado pelas casas, mas também do poder de entender a morte
-como uma disjunção. Age-se sobre o corpo artefactual e cosmográfico para
+como uma disjunção. Age-se sobre o corpo *artefactual* e cosmográfico para
 curar e regenerar a vida.
 
 O crescimento do feto e a regeneração dos animais se dão através de um
@@ -13296,8 +13322,9 @@ dos Lagos de Leite. Munidos e constituídos por suas armas e pertences,
 eles fazem as potências primordiais convergirem para si, regenerando-os
 como presas ou predadores num potente círculo de reciprocidade vital.
 
- Sopros na noite 
------------------
+
+#Sopros na noite 
+
 
 *Meu pai grande*
 
@@ -13313,9 +13340,10 @@ como presas ou predadores num potente círculo de reciprocidade vital.
 
 (Milton Nascimento)
 
-1.  ### Jurupari
 
-    1.  #### Sopros
+##Jurupari
+
+###Sopros
 
 Sons graves ressoavam pela floresta. Pareciam ecos vindos de um lugar
 muito distante. O vento espalhava os timbres aterradores pela madrugada.
@@ -13353,11 +13381,11 @@ músicos sentados contrastava com a seriedade da dança. Uma panela
 transbordando caxiri começava a ser oferecida por Pedro Paulo As cuias
 matavam a sede dos flautistas e dos rapazes que chegavam aos poucos.
 Traziam às costas cestos cheios de “buriti da mata”[^115], /s’u̖gut
-s’a̖k/. Entravam cambaleantes. Dirigiam-se ao centro da maloca e
+s’a̖k/.  Entravam cambaleantes. Dirigiam-se ao centro da maloca e
 derrubavam as cargas no chão. Emitiam um sonoro /AHHH! Hihihiii!/,
 comemorando o êxito na tarefa cumprida. Sentavam-se e pediam uma cuia,
-com urgência, /Ayu̖p b’o̖’ d’ö’ k’e ne̗n/, “oferece-me uma cuia logo, por
-favor”!
+com urgência, /Ayu̖p b’o̖’ d’ö’ k’e ne̗n/,  “oferece-me uma cuia logo, por
+favor!”.
 
 De repente, interrompeu-se a melodia soturna. As quatro flautas gigantes
 deitaram-se aos pés dos tocadores. Todos riam, debochavam uns dos
@@ -13415,13 +13443,13 @@ Jurupari faz com que o Lago de Leite surja no centro da maloca. Os
 troncos de sustentação passam a ser os morros, /Pa̖ç-Moy/,
 “Casas-de-Pedra”, habitadas pelos ancestrais. Ao oeste, a entrada
 torna-se a Porta-da-Cabeceira, e, ao leste, abre-se a /Sa̗ka̗n-Moyo̗/, a
-“Porta-do-Sol-Nascente”. O igarapé faz-se o /Pud-Dë̖h/, “Rio de Leite”,
+“Porta-do-Sol-Nascente”. O igarapé faz-se o /Pud-Dë̖h/,  “Rio de Leite”,
 local de onde as flautas emergem como os ancestrais para caminharem pela
 trilha até a maloca que é também a /Te͂h-S’ɨ̖g-Mo̖y-Paç/,
 “Serra da Iniciação” ou “Serra do Pedaço”.
 
 Após a mudança do som que anuncia a saída, os aerofones rumaram para seu
-abrigo, no leito do pequeno /Dö̗-Dëh/, “Igarapé-Vermelho”. Uma roda
+abrigo, no leito do pequeno /Dö̗-Dëh/,  “Igarapé-Vermelho”. Uma roda
 formou-se para os últimos toques até que os instrumentos foram sendo
 silenciados. Assim como na morte quando os princípios vitais da pessoa
 são separados, os instrumentos, afastados da boca dos músicos, começaram
@@ -13430,9 +13458,9 @@ atravessar os tubos para concentrar-se novamente no peito dos
 descendentes. O céu já clareava. Logo as mulheres e as crianças
 começariam a despertar.
 
-Não havia senhores presentes à dança. O /Pä̗’/, “Dabucuri”, realizava-se
+Não havia senhores presentes à dança. O /Pä̗’/,  “Dabucuri”, realizava-se
 por ocasião do “tempo da queda do buriti”, /S’a̖k no̗h kiri̗ wero̗/
-(jun./jl.). Nas semanas antes da realização do Dabucuri, ao relatarem
+(junho/julho). Nas semanas antes da realização do Dabucuri, ao relatarem
 suas caminhadas pela mata, os senhores comentavam sobre a imensa
 quantidade de buriti que estava maturando em algumas áreas. Alguns que,
 como Mandu, foram pescar nos igarapés distantes explicavam onde era
@@ -13450,13 +13478,13 @@ No dia seguinte, enquanto todos dançavam cariçu e forró na maloca, os
 anciões mantiveram-se sentados na roda de coca. Por vezes, um deles
 deslocava-se à palhoça para reabastecer a panela de caxiri. As bocas
 verdes da coca matavam a sede com a bebida embriagante. Nas conversas,
-os velhos lembravam-se das prieiras visões dos instrumentos que
+os velhos lembravam-se das primeiras visões dos instrumentos que
 tiveram, dos timbres e nomes de cada um dos trompetes e flautas, de
 rituais em suas aldeias natais. Bebiam e sorriam comentando os namoros,
 os incidentes e as viagens a outras comunidades para a realização dos
 Dabucuri.
 
-De acordo com Reid (1979), os /Pä̗’/ são ritos de passagem que oscilam
+De acordo com Reid, os /Pä̗’/  são ritos de passagem que oscilam
 entre eventos de maior ou menor magnitude para a iniciação dos rapazes
 transformando-os em homens adultos, ao mesmo tempo em que reafirmam a
 reciprocidade entre grupos afins pelo circuito de dádivas.
@@ -13466,22 +13494,22 @@ necessários à retirada das flautas do igarapé. Fazem também o convite
 aos parceiros de troca que podem ser desde moradores da própria aldeia,
 de outras comunidades ou mesmo pessoas de outra etnia. O importante é
 constituir as condições necessárias que levem ao crescimento do /hã̗wäg/
-e ao endurecimento das peles e ossos dos rapazes (1979, p. 281-2).
+e ao endurecimento das peles e ossos dos rapazes.
 
 Desse modo, não parece haver uma divisão tão marcada entre a cerimônia
-do Jurupari e a troca de alimentos como a descrita por Hugh-Jones (1979)
+do Jurupari e a troca de alimentos como a descrita por Hugh-Jones 
 para os Barasana. Para o autor, haveria a divisão entre um ritual de
 Dabucuri (*He* Casa de Fruta) que seria uma etapa do processo de
-iniciação, preparando a todos paa o rito principal, o *He* Casa, uma
+iniciação, preparando a todos para o rito principal, o *He* Casa, uma
 grande cerimônia iniciática marcada por ações masculinas que levam a uma
 apropriação simbólica das capacidades femininas de reprodução e
 menstruação para dar vida aos rapazes e transformá-los em adultos,
-membros do *sib* de descendência patrilinear (1979, p. 72; p. 251). Mais
-próximo ao que descreve Lolli (2010) para os Yuhupdëh, creio que entre
+membros do *sib* de descendência patrilinear. Mais
+próximo ao que descreve Lolli para os Yuhupdëh, creio que entre
 os Hupd’äh haja ainda hoje a alternância entre eventos em que as trocas
 rituais se somam à iniciação dos rapazes, e eventos em que a ênfase
 recai sobre o oferecimento entre os parceiros, não sendo realizada a
-iniciação (Lolli, 2010, p. 138). Não se observa, portanto, uma relação
+iniciação. Não se observa, portanto, uma relação
 de etapas entre as ações ritualizadas. Passo agora a descrever de que
 maneira aspectos observados através do contínuo entre as rodas de coca e
 caminhos se relacionam com a sequência de ações desse Dabucuri,
@@ -13489,7 +13517,7 @@ constituindo um campo de percepção e ação que diferencia e transforma as
 pessoas, definindo ou alterando as posições ocupadas por cada uma na
 *performance* e na sociabilidade da aldeia.
 
-#### Instrumentos ambíguos
+###Instrumentos ambíguos
 
 Em minha última viagem de campo, Américo me contou que as flautas
 Jurupari vistas por mim no ano anterior não eram apenas diferenciadas em
@@ -13498,30 +13526,30 @@ mantêm relações de parentesco entre si. Cada par pode ser formado por um
 “marido”, /te͂’ip/, e por uma “esposa”, /te͂’in/, o que revela um laço
 matrimonial.[^117] Mas as flautas possuem também laços fraternos, pois o
 “macho” e a “fêmea” podem ser igualmente irmão e irmã entre si. Há casos
-como o do par /Soho̗/, “Carangueijo”, e /Mo̗t/[^118], em que os dois
+como o do par /Soho̗/,  “Caranguejo”, e /Mo̗t/[^118], em que os dois
 termos são considerados irmãos e cônjuges simultaneamente.
 
-[]{#Fig46_RelacoesMatrimoniais .anchor}Relações matrimoniais e
-fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/
+<!--Fig. 24-->
+Relações matrimoniais e fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/
 
 Os nomes dos trompetes são todos nomes de animais como /Moho̖y/, “Veado”,
-/Kuku̗y/, “Macaco-da-Noite”, sendo que muitos deles correspondem ao
-conjunto de nomes masculinos do clã /Sokw’ä̗t/. Da mesma forma, os nomes
-das flautas, cujo sentido remete a frutas como /Pë̖d/, “Cunuri”, /Mo̗t/,
+/Kuku̗y/,  “Macaco-da-Noite”, sendo que muitos deles correspondem ao
+conjunto de nomes masculinos do clã /Sokw’ä̗t/.  Da mesma forma, os nomes
+das flautas, cujo sentido remete a frutas como /Pë̖d/,  “Cunuri”, /Mo̗t/,
 ou solos como /Mu̖n/, “Caatinga”, compõem igualmente o conjunto de nomes
-femininos do clã /Sok’wä̗t/. Por fim, cada par de dançarinos com suas
+femininos do clã /Sok’wä̗t/.  Por fim, cada par de dançarinos com suas
 flautas forma uma unidade geracional, havendo instrumentos “avós”,
 “pais”, “crianças” ou “netos”, como é o caso do flautim /bi̖’/. De uma
 forma surpreendente, muitas das relações sociais dos participantes do
 Dabucuri estabeleciam também a sociabilidade dos instrumentos.
 
-Como descreve Piedade (1997, p. 120), o conjunto de instrumentos tem
+Como descreve Piedade, o conjunto de instrumentos tem
 sempre um trompete como aerofone principal, o “chefe”. Seu toque é
 repetido pelos demais de acordo com as particularidades de articulação
 de cada instrumento (técnica *hocket*). Assim, nos pares, a fêmea repete
-o macho e ambos repetem o “chfe”. Ancestrais clânicos, os trompetes
+o macho e ambos repetem o “chefe”. Ancestrais clânicos, os trompetes
 (machos) podem apenas ser tocados por descendentes vistos como /nɨ̖h
-ba̗bd’äh/, “nossos irmãos”, ou seja, agnatos reais ou classificatórios.
+ba̗bd’äh/,  “nossos irmãos”, ou seja, agnatos reais ou classificatórios.
 Por outro lado, as flautas (fêmeas) podem ser tocadas tanto pelos /yo̖h
 d’äh/, “cunhados”, como pelos “irmãos”. Os pares de dançarinos
 alternam-se, desse modo, entre duplas de agnatos ou duplas de afins,
@@ -13530,23 +13558,25 @@ flautas”, irmãs ou esposas, constituem uma posição não marcada que pode
 ser ocupada de forma a aludir a relações endogâmicas ou exogâmicas.
 Segundo Piedade que analisou a Música de Jurupari dos Tukano,
 
-> *Como na Música de Cariçu e de Japurutú, emprega-se aqui uma técnica
-> de alternância em cada par de instrumentos, no entanto os papéis e as
-> regras são bastante diferentes. Novamente os papéis de chefe e
-> respondedor são associados a um instrumento macho e uma fêmea. Mas
-> além disso, os instrumentos miriá representam seres musicais da
-> natureza, com nomes de animais, cada um dotado de uma força espiritual
-> específica. O representante macho destes seres é o trompete, feito de
-> paxiúba, enquanto a fêmea é uma flauta, feita de jupatí. De fato, no
-> simbolismo Jurupari a questão do gênero (gender) é uma temática
-> central que perpassa todos seus elementos. Os miriá-põ’ra e a Música
-> de Jurupari são segredos dos homens* (1997, p. 115).
+<!--estilo de citação-->
+ Como na Música de Cariçu e de Japurutu, emprega-se aqui uma técnica
+ de alternância em cada par de instrumentos, no entanto os papéis e as
+ regras são bastante diferentes. Novamente os papéis de chefe e
+ respondedor são associados a um instrumento macho e uma fêmea. Mas
+ além disso, os instrumentos miriá representam seres musicais da
+ natureza, com nomes de animais, cada um dotado de uma força espiritual
+ específica. O representante macho destes seres é o trompete, feito de
+ paxiúba, enquanto a fêmea é uma flauta, feita de jupatí. De fato, no
+ simbolismo Jurupari a questão do gênero (*gender*) é uma temática
+ central que perpassa todos seus elementos. Os miriá-põ’ra e a Música
+ de Jurupari são segredos dos homens. (1997, p. 115)
+<!--estilo de citação-->
 
 De forma semelhante, no evento de Jurupari presenciado por mim, as
 relações entre os pares de trompete e flauta delineiam-se através de
 diferenciações de gênero, de função musical (chefe/respondedor) e de
 timbre que apontam também para um poder maior dos instrumentos “machos”
-com nomes de animais. Nos dois onjuntos representados em esquema, é
+com nomes de animais. Nos dois conjuntos representados em esquema, é
 possível dizer que no grupo da direita a ênfase recai sobre uma
 endogamia extrema, ao contrário do grupo de irmãos à esquerda. Os
 diagramas podem ser lidos como modos de relação possíveis dos irmãos com
@@ -13554,7 +13584,7 @@ suas irmãs, quer os primeiros as tomem por esposas, negando assim a
 aliança com grupos afins, quer aceitem considerá-las apenas irmãs,
 estabelecendo relações de afinidade com outros clãs.
 
-Como descreve Reid (1979, p. 109), a estrutura social hup está baseada
+Como descreve Reid, a estrutura social hup está baseada
 numa organização clânica, havendo dois grupos de clãs hierarquicamente
 ranqueados e correlacionados por afinidade (grupos exogâmicos). Cada clã
 é um grupo de descendência patrilinear cujos membros são /Te̖͂h däh/, os
@@ -13570,35 +13600,28 @@ indivíduo move-se através de três gerações assumindo o lugar de filho,
 de pai e de avô, de forma semelhante à diferenciação entre as flautas
 Jurupari (1979, p. 117).
 
-  ---------------------- ---------------
-  **Ba̗b’däh**            **Yo̖h däh**
-  Sokw’ä̗t Noh K’öd Te̖͂h   Dög M’e̖h Te̖͂h
-  Moy Kä’ Te̖͂h            Pi̖j Nowa̗ Te̖͂h
-  Hu̖d Te̖͂h                ɨh Noh Te̖͂h
-                         K’ö̖g K’eg Te̖͂h
-                         Paç Ya’a̗m Te̖͂h
-  ---------------------- ---------------
+<!--inserir quadro p.365 do arquivo pdf-->
 
 Grupos exogâmicos presentes em /Ta̗t-Dëh/ divididos em /bab’däh/,
 “irmãos”, e /yo̖h däh/, “cunhados”, segundo a perspectiva do clã
 majoritário /Sokw’ä̗t Noh K’öd Te͂h/.
 
-Seguindo Reid (1979), a divisão entre os clãs forma dois grandes grupos
+Seguindo Reid, a divisão entre os clãs forma dois grandes grupos
 exogâmicos não nominados que não geram um senso de pertencimento. Já os
 aproximadamente 25 clãs nominados criam um forte senso de incorporação e
 alteridade com outros clãs, levando seus membros a se perceberem num
 plano geral como Hupd’äh. Cada clã relaciona-se com o outro como irmão
-maior (/sät/) e irmão menor (/yawa̗m/) (1979, p. 112-3). A partir do
+maior (/sät/) e irmão menor (/yawa̗m/) . A partir do
 sistema de descendência patrilinear, observa-se a prerrogativa do
 casamento entre primos cruzados bilaterais reais. Com base nisso, as
 relações matrimoniais entre instrumentos irmãos poderiam ser descritas
-como casamentos incestuosos ou casamentos “ruins”, /pa̗y/. Entretanto,
-como mostra Reid (1979), são percentualmente raros os casamentos entre
+como casamentos incestuosos ou casamentos “ruins”, /pa̗y/.  Entretanto,
+como mostra Reid, são percentualmente raros os casamentos entre
 primos cruzados bilaterais reais, sendo mais comuns aqueles entre primos
 cruzados classificatórios de modo unilateral. A recorrência de número
 considerável de casamentos entre membros de clãs agnatos ou com membros
 do mesmo clã e a inexistência de sanções a tais uniões revelam a
-importância dos casamentos com agnatos próximos (Reid, 1979, p. 119-20).
+importância dos casamentos com agnatos próximos.
 
 Portanto, a ênfase em relações endo- ou exogâmicas entre os pares de
 instrumentos situa, através da forma de interações da *performance*, as
@@ -13610,7 +13633,8 @@ das flautas foi especialmente interessante para entender os papéis
 femininos e masculinos e as dimensões endo- e exogâmicas nesse circuito
 de trocas.
 
-#### A dádiva do buriti
+
+###A dádiva do buriti
 
 No dia seguinte, quando as flautas já haviam deixado a maloca para
 retornar a seu abrigo ribeirinho, mães, senhoras e moças dirigiram-se à
@@ -13630,9 +13654,9 @@ flautas, as relações de gênero mostravam-se fundamentais para a
 interação da troca de alimentos.
 
 Postando-se próxima à oferenda, Tereza iniciou uma fila de mulheres que
-se estendeu até a “Porta da Cabeceira”, /Dëh K’et Yoh Moyo̗/. Defronte à
+se estendeu até a “Porta da Cabeceira”, /Dëh K’et Yoh Moyo̗/.  Defronte à
 professora, Mandu ficou em pé e deu início a uma fila de homens que se
-esticou no sentido da “Porta do Sol Nascente”, /Sa̗ka̗n Moyo̗/. Os
+esticou no sentido da “Porta do Sol Nascente”, /Sa̗ka̗n Moyo̗/.  Os
 porta-vozes iniciaram, então, as falas formais de agradecimento. Rindo e
 meio sem jeito, Tereza voltou seu olhar para Mandu, mencionou o
 sofrimento e os perigos enfrentados pelos homens para trazer e ofertar o
@@ -13646,15 +13670,17 @@ oferecendo cuias aos homens já sentados. Comentando sobre os Dabucuri
 realizados atualmente entre parceiros Tukano e Tariano na região de
 Iauareté, Andrello afirma que:
 
-> *O dabucuri estabelece, portanto, uma espiral de prestações e
-> contraprestações, pois para cancelar o débito criado é preciso um
-> outro dabucuri, no qual as posições irão se inverter. Apesar da
-> plasticidade que envolve o ritual – atestada pelas novas situações que
-> passam a ocorrer hoje em dia ‒, sua estrutura básica refere-se essa
-> justaposição de identidades, cuja epítome é a relação entre dois
-> grupos que trocam mulheres, isto é, a relação entre cunhados. Tal
-> relação é, precisamente, a que se verifica entre os Tariano e Tukano*
-> (2011, p. 18).
+<!--estilo de citação-->
+ O dabucuri estabelece, portanto, uma espiral de prestações e
+ contraprestações, pois para cancelar o débito criado é preciso um
+ outro dabucuri, no qual as posições irão se inverter. Apesar da
+ plasticidade que envolve o ritual – atestada pelas novas situações que
+ passam a ocorrer hoje em dia ‒, sua estrutura básica refere-se essa
+ justaposição de identidades, cuja epítome é a relação entre dois
+ grupos que trocam mulheres, isto é, a relação entre cunhados. Tal
+ relação é, precisamente, a que se verifica entre os Tariano e Tukano.
+ (2011, p. 18)
+<!--estilo de citação-->
 
 No caso, as prestações e contraprestações no evento descrito colocam-se
 entre um grupo de homens e outro de mulheres, ambos os grupos justapondo
@@ -13665,26 +13691,28 @@ medida a dádiva de buritis situa as relações de aliança entre os clãs de
 e realização dos Dabucuris. Conversando com Américo, ele me explicou que
 se pode realizar oferecimentos de diversos tipos de /s’u̖gu̖t a̗g/, “frutas
 do mato” como: ucuqui, buriti, açaí, /mo̗t/ (tipo de cunuri), ingá
-/po̗-min/, cucura do mato /pɨ̖͂g/. Em suas palavras,
+/po̗-min/,  cucura do mato /pɨ̖͂g/.  Em suas palavras,
 
-> *Quando cai ucuqui, vai ver no mato. Depois conversa com o pessoal:
-> “Eu queria fazer Dabucuri para vocês”. O outro pergunta “quantos dias
-> dá pra tirar?”. O que tá oferecendo diz “se em três, quatro ou cinco”.
-> “Já! Eu quero”, responde o Joaquim, “bora tirar”. Vão em grupo. O
-> outro fala: “Vamos arrancar maniva pra fazer caxiri!”* (Caderno de
-> Campo, Abr. de 2012).
+<!--estilo de citação-->
+ Quando cai ucuqui, vai ver no mato. Depois conversa com o pessoal:
+ “Eu queria fazer Dabucuri para vocês”. O outro pergunta “quantos dias
+ dá pra tirar?”. O que tá oferecendo diz “se em três, quatro ou cinco”.
+ “Já! Eu quero”, responde o Joaquim, “bora tirar”. Vão em grupo. O
+ outro fala: “Vamos arrancar maniva pra fazer caxiri!”. (Caderno de
+ Campo, Abr. de 2012)
+<!--estilo de citação-->
 
 Uma grande caça, a obtenção de muitos peixes ao tinguejar um igarapé ou
 a maturação de uma enorme quantidade de frutos da mata são eventos que
 motivam os parceiros de troca ao oferecimento. O arranjo envolve a
 divisão dos papéis e a distribuição das tarefas para que a coleta, por
-exemplo, leve à obtenção de um voume grande de frutas. Será considerado
-o “dono do Dabucuri”, /pä̗’ yo’o̖m i͂h/, aquele que /ë̗yë̗p/, “chamou a
-ação”, ao perceber a maturação da fruta. É ele o /kɨhsä̗t/, o “primeiro”,
+exemplo, leve à obtenção de um volume grande de frutas. Será considerado
+o “dono do Dabucuri”, /pä̗’ yo’o̖m i͂h/, aquele que /ë̗yë̗p/,   “chamou a
+ação”, ao perceber a maturação da fruta. É ele o /kɨhsä̗t/,  o “primeiro”,
 que será seguido por seus parceiros de troca os /hu͂y ha̗m däh/, os
 “acompanhantes” ou os “seguidores”. Como durante as caminhadas em que o
-grupo de viajantes segue um /kɨhsä̗t/, “guia” ou “mentor”, o acordo de
-troca inicial define, de um lado, o /kɨhsä̗t ë̗yë̗p/, que será o dono a
+grupo de viajantes segue um /kɨhsä̗t/,  “guia” ou “mentor”, o acordo de
+troca inicial define, de um lado, o /kɨhsä̗t ë̗yë̗p/,   que será o dono a
 quem cabe coordenar os preparativos e produzir uma grande quantidade de
 caxiri, e, de outro, os /hu͂y ha̗m däh/, membros de clãs afins ao do dono
 que devem organizar o trabalho dos rapazes para que estes colham as
@@ -13694,7 +13722,7 @@ Além da capacidade de observação, o “dono chamador” deve certificar-se
 com a esposa da possibilidade de colheita de grande quantidade de
 manivas para o preparo do caxiri que será oferecido aos dançarinos,
 carregadores e demais presentes enquanto as flautas Jurupari forem
-tocadas. A esposa do “dono chamador” contacom a ajuda de suas filhas,
+tocadas. A esposa do “dono chamador” conta com a ajuda de suas filhas,
 noras e sobrinhas para conseguir dar conta do preparo do volume exigido
 pelo evento. O marido e seus filhos contribuem ajudando a carregar os
 aturás, repletos de maniva, da roça até a casa. Por vezes, nas noites
@@ -13710,26 +13738,28 @@ caxiri para acelerar a fermentação. No final da tarde, ele espera a
 todos com uma grande canoa de caxiri plena de bebida. Ao longe,
 começa-se a ouvir o som das flautas Jurupari soar. Antes de retirar o
 Jurupari do igarapé, é preciso que os dançarinos se banhem e bebam
-algumas cuias de /bi’i̖d hu̗ptök/, “caxiri benzido”, na casa do dono para
+algumas cuias de /bi’i̖d hu̗ptök/,  “caxiri benzido”, na casa do dono para
 intensificarem a energia quente de seus corpos. Com a aproximação dos
 instrumentos, as panelas de caxiri começam a “ferver” intensamente. Nas
 palavras de Américo:
 
-> *O caxiri vai fervendo conforme vai chegando o Jurupari. O chefe do
-> caxiri está chamando. Ele fala: “Já chega, vocês sofreram muito no
-> mato, muito perigo. Agora vocês vão viver bem. Ele oferece duas cuias
-> do caxiri benzido. Todos bebem e ficam bêbados rápido. O dono fala:
-> /Hu̖͂t döh tu̗u̗y. Hup he̖me̖y s’u̖gu̖t, tɨ͂hɨ̗͂y ni̗i̗, Bisi̗w ni̗i̗, Döh Ã̗y ni̗i̗.
-> Hu̗ptök ne̗ne̗n. K’o̗po̗p/, “Vocês querem tabaco. Vocês sofreram na mata
-> onde há muita jararaca. Passaram pelos perigosos domínios do /Bisi̗w/,
-> da /Döh Ã̗y/. O caxiri já vem. Eu ofereço para que vocês se
-> satisfaçam”* (Caderno de campo, Abril de. 2012).
+<!--estilo de citação-->
+ O caxiri vai fervendo conforme vai chegando o Jurupari. O chefe do
+ caxiri está chamando. Ele fala: “Já chega, vocês sofreram muito no
+ mato, muito perigo. Agora vocês vão viver bem. Ele oferece duas cuias
+ do caxiri benzido. Todos bebem e ficam bêbados rápido. O dono fala:
+ /Hu̖͂t döh tu̗u̗y. Hup he̖me̖y s’u̖gu̖t, tɨ͂hɨ̗͂y ni̗i̗, Bisi̗w ni̗i̗, Döh Ã̗y ni̗i̗.
+ Hu̗ptök ne̗ne̗n. K’o̗po̗p/, “Vocês querem tabaco. Vocês sofreram na mata
+ onde há muita jararaca. Passaram pelos perigosos domínios do /Bisi̗w/,
+ da /Döh Ã̗y/. O caxiri já vem. Eu ofereço para que vocês se
+ satisfaçam”. (Caderno de campo, Abril de. 2012)
+<!--estilo de citação-->
 
 Novamente, o dono “chama” seus seguidores através do caxiri fervente.
 Ele recebe aqueles que se arriscaram nos dias anteriores para colher e
 carregar os cestos com frutos da mata. Passaram pelos territórios de
 seres como /Bisi̗w/ e /Döh Ã̗y/, muitas vezes retirando os frutos de áreas
-consideradas como roças desseperigosos seres. Em sua fala, o dono
+consideradas como roças desses perigosos seres. Em sua fala, o dono
 acolhe aqueles que sofreram e demonstraram sua valentia ao vencer tantos
 perigos. Como retribuição, oferece a bebida extremamente embriagante e o
 tabaco. Por volta das três da madrugada, quando todos já beberam
@@ -13767,7 +13797,7 @@ a esse clã.
 Eram eles que levavam surras com o ramo de ingá nas pernas, braços e
 antebraços e foram também os que deixaram a maloca antes da saída das
 flautas. Essas ações permitem vê-los como neófitos participando de um
-contínuo de ações ritualizadas. As flautas do clã /Sokw’ä̗t/ foram
+contínuo de ações ritualizadas. As flautas do clã /Sokw’ä̗t/  foram
 tocadas para transformar esses rapazes em homens. O esforço físico para
 o carregamento do peso, o afastamento da comunidade para áreas perigosas
 na mata, o percurso pelas trilhas e as surras com ramos de ingá
@@ -13779,28 +13809,28 @@ feminina de membros do clã majoritário. Sandra[^119], esposa de Pedro
 Paulo, é membro do clã /Sokwä̗t Noh K’öd Te̖͂h/, assim como Tereza, esposa
 de Elias e Angelina, esposa de Mandu. A dádiva às mulheres era também
 uma celebração das alianças estabelecidas com os donos locais a partir
-dos casamentos com irmãs e filhas /Sokw’ä̗t/. A fila masculina era
+dos casamentos com irmãs e filhas /Sokw’ä̗t/.  A fila masculina era
 composta por aqueles que se fixaram em /Ta̗t-Dëh/ após se casarem com as
-irmãs, filhas ou netas dos /Sokw’ä̗t/. A recorrência de uniões que
+irmãs, filhas ou netas dos /Sokw’ä̗t/.  A recorrência de uniões que
 levaram os homens a estabelecer a moradia da família num local próximo
 de onde vivem os cunhados e sogros ressalta a importância das mulheres
-/Sokw’ä̗t/ para a consolidação de uma tendência à uxorilocalidade dos
+/Sokw’ä̗t/  para a consolidação de uma tendência à uxorilocalidade dos
 membros de clãs “de fora” (80% dos casados) e uma virilocalidade dos
 membros do clã majoritário (87% dos casados).
 
 As falas de Mandu no diálogo formal com Tereza são palavras proferidas
 por um ancião do grupo de afins moradores de /Ta̗t-Dëh/. Ele é, ao mesmo
-tempo, um “tio classificatório”, /pã̗ç/ de Pedro Paulo. Sua interlocutora
+tempo, um “tio classificatório”, /pã̗ç/  de Pedro Paulo. Sua interlocutora
 é a filha do falecido Joanico, ancestral de referência de uma das
 linhagens dos /Sokw’ä̗t Noh K’öd Te̖͂h/. Assim, através do Dabucuri, homens
-membros de clãs afins ofertavam buritis às mulheres /Sokw’ä̗t/, muitas
+membros de clãs afins ofertavam buritis às mulheres /Sokw’ä̗t/,  muitas
 vezes suas esposas e cunhadas. Pela via dessa mediação feminina, a
 reciprocidade de gêneros recolocava a dádiva entre afins. Num próximo
-encontro de Dabucuri seriam os donos /Sokw’ä̗t/ que deveriam retribuir as
+encontro de Dabucuri seriam os donos /Sokw’ä̗t/  que deveriam retribuir as
 ofertas, quer às mulheres, quer a seus cunhados.
 
-[]{#Fig47_PapeisRituais .anchor}Papéis rituais: clã /Sokw’ä̗t Noh K’öd
-Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/
+<!--Fig. 25-->
+Papéis rituais: clã /Sokw’ä̗t Noh K’öd Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/
 
 Tomando como referência a posição ocupada pelos neófitos, é possível
 observar que o oferecimento de buritis e a contrapartida em massa de
@@ -13815,12 +13845,12 @@ seres como /Bisi̗w/ e /Döh Ã̗y/, tais esforços os tornam capazes de tomar
 mulheres como esposas e exercer seus papéis de maridos, obtendo
 alimentos, ensinando os filhos e convivendo com seus afins.
 
-Tendo as mulheres /Sokw’ä̗t/ ocupado o papel de parceiras de troca, o
+Tendo as mulheres /Sokw’ä̗t/  ocupado o papel de parceiras de troca, o
 evento que presenciei foi fundamental para uma observação do Dabucuri
 como uma forma de interação marcada por agências masculinas e femininas
-que promovem interessantes *condensações rituais* em torno das relações
-de aliança matrimonial e de descendência clânica (Houseman; Severi,
-2009). As flautas ancestrais (fêmeas) constituem uma posição aberta à
+que promovem interessantes condensações rituais em torno das relações
+de aliança matrimonial e de descendência clânica. 
+As flautas ancestrais (fêmeas) constituem uma posição aberta à
 composição de duplas de dançarinos entre afins. Na dança do Jurupari, as
 flautas (fêmeas) sopradas pelos cunhados revelam a participação desejada
 desses afins na iniciação dos rapazes para que, futuramente, novas
@@ -13848,13 +13878,13 @@ de anfitriões. Ao contrário, tocando os trompetes (machos) e oferecendo
 os frutos adquiridos pelo trabalho masculino, os agnatos se postam como
 convidados situados numa posição masculina. Da dança das flautas para a
 troca de alimentos, as posições se invertem, passando as mulheres
-/Sokw’ä̗t/ a ocupar um papel feminino, ofertando, como anfitriãs, um
+/Sokw’ä̗t/  a ocupar um papel feminino, ofertando, como anfitriãs, um
 produto de seus trabalhos. Já os homens de clãs afins passam a ser os
 doadores das frutas colhidas por seus primos e sobrinhos cruzados (ZS),
 ocupando, assim, um lugar masculino de convidados no Dabucuri. Ao
 descrever as múltiplas formas de percepção da maloca tukano durante os
 Dabucuris e cerimônias de Jurupari, Hugh-Jones refere-se à maloca como
-sendo uma Casa Andrógena (1993, p.112).
+sendo uma Casa Andrógena.
 
 Entendo que a sequência de ações ritualizadas que presenciei se
 estabelecia através de pares *masculino e feminino*, *sênior e júnior*,
@@ -13872,7 +13902,7 @@ masculinas e femininas pelas flautas e trompetes, pelos alinhamentos de
 gênero durante o oferecimento ou pelo preparo e oferecimento do caxiri
 para situar consanguíneos e afins nas posições de doadores e receptores
 no circuito das dádivas. Seguindo Houseman e Severi (2009, p. 163),
-parece que “é a forma do campo relacional no qual os protagonistas são
+parece que <!--citação-->“é a forma do campo relacional no qual os protagonistas são
 engajados que orienta o estabelecimento de um contexto próprio ao
 comportamento ritual”.
 
@@ -13890,16 +13920,17 @@ um vasto campo de interações através do qual pessoas diferentes ocupam
 as posições de doador e receptor, e situam formas múltiplas de
 reciprocidade.
 
-1.  ### Cuias de coca 
 
-    1.  #### Flautas e domínios 
+## Cuias de coca 
+
+### Flautas e domínios 
 
 Numa roda de coca no ano seguinte, conversando com os senhores hup sobre
 a cerimônia de Jurupari que presenciei, Ponciano contou sobre os perigos
 que os ancestrais enfrentaram para trazer as flautas Jurupari do
 Lago de Leite dentro da Cobra-Canoa. Todas as vezes que as flautas são
 tocadas e trazidas para a maloca, é preciso que os participantes
-enfrentem novamente os perigos da interação com o /Bisi̗w/, as
+enfrentem novamente os perigos da interação com o /Bisi̗w/,  as
 Gentes-Cobra, Gentes-Árvore e demais seres que possam agir contra as
 pessoas hup. Caminhar com as flautas e dançar na maloca são ações
 através das quais os participantes do ritual refazem os percursos e
@@ -13909,47 +13940,46 @@ instrumentos pertencem aos donos locais, senhores como Ponciano e
 Firmino, a quem são atribuídos territórios, agrupamentos residenciais e
 rodas de coca.
 
-> []{#M17_Flautas .anchor}**M17.** [[]{#OLE_LINK40 .anchor}]{#OLE_LINK39
-> .anchor}**Viagem com as flautas**
->
-> Os “Ancestrais”, /Hib’a̗h te̖͂h d’äh/, apareceram em Ipanoré. Daí, foram
-> dentro da Cobra-Canoa para o Lago de Leite para receber suas coisas.
-> Receberam coca, tabaco, as histórias, a zarabatana, o arco e a flecha,
-> o pilão de coca, tudo. Todas as etnias receberam e depois vieram na
-> Cobra-Canoa. Foram para o Papuri primeiro. Lá há o /hib’a̗h kä̗d/,
-> “banco-de-nascimento”. Em seguida, foram para /Dëh Pohot/,
-> “Caruru-Cachoeira”. Dali, foram para /S’ɨ̗g-Mo̖y-Paç/,
-> “Serra da Iniciação”. Foi lá que /K’e̖g-Te͂h/ deu as flautas sagradas.
->
-> Foram então para /To̗͂h-Paç/, “Serra dos Porcos”. Lá em /Tõ̗h/ há um
-> cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra da Iniciação” é na
-> cabeceira do /K’a̗j-Dëh/, “Igarapé-Cutiváia”. Fui lá com meu pai. Há um
-> caminho, mas está muito ruim. Em /Su̗g-Dëh/, “Igarapé-Beija-Flor”, há
-> os ancestrais dos /Paç Ya’a̗m Te̖͂h/. Já os ancestrais dos /Dög M’e̖h Te̖͂h/
-> ficam na cabeceira de /Ta̗t-Dëh/. As flautas sagradas foram dadas aos
-> homens na “Serra da Iniciação”.
->
-> As flautas vieram do corpo queimado do /Bisi̗w/. Ele comeu as crianças
-> pelo ânus e depois foi queimado pelos pais. De seu corpo fizeram-se as
-> flautas. Seu /hã̗wäg/ saiu e foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
->
-> Houve um tempo em que eram as mulheres que tinham as flautas. Os
-> homens não sabiam fazer roça. Elas não sabiam tocar os /Döhö däh/,
-> “Jurupari”. Não tinham vagina nem menstruavam. Por causa da posse das
-> flautas Jurupari elas ficaram doentes e morreram, todas elas.
->
-> Tocar as flautas lava as frutas e a carne. /Bisi̗w/ não aparece, mas
-> fica ouvindo. As mulheres, quando roubaram as flautas, ficaram sem
-> saber ter filhos. Acabaram morrendo. Hoje, as mulheres têm muito medo.
-> As flautas ficam no igarapé para as mulheres não verem. A cerimônia
-> faz os jovens transformarem-se em guerreiros. Se as mulheres virem,
-> morrem todas (Ponciano, 26/02/2012).
+**M17. Viagem com as flautas**
 
-Em M17, a navegação pelo Rio de Leite na Cobra-Canoa permite aos
+ Os “Ancestrais”, /Hib’a̗h te̖͂h d’äh/, apareceram em Ipanoré. Daí, foram
+ dentro da Cobra-Canoa para o Lago de Leite para receber suas coisas.
+ Receberam coca, tabaco, as histórias, a zarabatana, o arco e a flecha,
+ o pilão de coca, tudo. Todas as etnias receberam e depois vieram na
+ Cobra-Canoa. Foram para o Papuri primeiro. Lá há o /hib’a̗h kä̗d/,
+ “banco-de-nascimento”. Em seguida, foram para /Dëh Pohot/,
+ “Caruru-Cachoeira”. Dali, foram para /S’ɨ̗g-Mo̖y-Paç/,
+ “Serra da Iniciação”. Foi lá que /K’e̖g-Te͂h/  deu as flautas sagradas.
+
+ Foram então para /To̗͂h-Paç/, “Serra dos Porcos”. Lá em /Tõ̗h/  há um
+ cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra da Iniciação” é na
+ cabeceira do /K’a̗j-Dëh/,  “Igarapé-Cutivaia”. Fui lá com meu pai. Há um
+ caminho, mas está muito ruim. Em /Su̗g-Dëh/, “Igarapé-Beija-Flor”, há
+ os ancestrais dos /Paç Ya’a̗m Te̖͂h/. Já os ancestrais dos /Dög M’e̖h Te̖͂h/
+ ficam na cabeceira de /Ta̗t-Dëh/. As flautas sagradas foram dadas aos
+ homens na “Serra da Iniciação”.
+
+ As flautas vieram do corpo queimado do /Bisi̗w/.  Ele comeu as crianças
+ pelo ânus e depois foi queimado pelos pais. De seu corpo fizeram-se as
+ flautas. Seu /hã̗wäg/ saiu e foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
+
+ Houve um tempo em que eram as mulheres que tinham as flautas. Os
+ homens não sabiam fazer roça. Elas não sabiam tocar os /Döhö däh/,
+ “Jurupari”. Não tinham vagina nem menstruavam. Por causa da posse das
+ flautas Jurupari elas ficaram doentes e morreram, todas elas.
+
+ Tocar as flautas lava as frutas e a carne. /Bisi̗w/  não aparece, mas
+ fica ouvindo. As mulheres, quando roubaram as flautas, ficaram sem
+ saber ter filhos. Acabaram morrendo. Hoje, as mulheres têm muito medo.
+ As flautas ficam no igarapé para as mulheres não verem. A cerimônia
+ faz os jovens transformarem-se em guerreiros. Se as mulheres virem,
+ morrem todas (Ponciano, 26/02/2012).
+
+Em **M17**, a navegação pelo Rio de Leite na Cobra-Canoa permite aos
 ancestrais receber os alimentos primordiais, coca e tabaco, as armas de
 caça, arco e flecha e zarabatana, o pilão para o preparo da coca e as
 histórias[^120]. No retorno à planície do Uaupés, os ancestrais
-sentam-se para conversar nos “bancos de scimento” às margens do rio
+sentam-se para conversar nos “bancos de nascimento” às margens do rio
 Papuri, para comer coca, fumar e “saber como iriam habitar aquelas
 terras” (**M13**). Após essa roda de coca primordial, os viajantes seguem
 caminhando até a Serra da Iniciação, onde recebem as flautas Jurupari
@@ -13971,18 +14001,20 @@ terra”. Como descreve Athias, cada clã utiliza uma área comum
 delimitada, no interior da qual perambulam e desenvolvem atividades
 produtivas.
 
-> *Para os Hupdah* nîh s’ah *representa o espaço, o lugar, o território
-> que eles podem perambular, andar, caçar, neste caso, no interior da
-> floresta, os fazem parte deste mundo, mas habitado, com donos. A ideia
-> de fronteira existe, é como se eles estivessem ligados a esta terra
-> podendo usufruir de todo espaço necessário na floresta, no interior, o
-> que tenho chamado de área interfluvial. Cada clã Hupdah utiliza uma
-> área comum e neste espaço encontram-se os locais onde K’ég-teh esteve
-> durante a criação do mundo* (2010, p. 61).
+<!--estilo de citação-->
+ Para os Hupd’äh, nîh s’ah representa o espaço, o lugar, o território
+ que eles podem perambular, andar, caçar, neste caso, no interior da
+ floresta, os fazem parte deste mundo, mas habitado, com donos. A ideia
+ de fronteira existe, é como se eles estivessem ligados a esta terra
+ podendo usufruir de todo espaço necessário na floresta, no interior, o
+ que tenho chamado de área interfluvial. Cada clã hupd’äh utiliza uma
+ área comum e neste espaço encontram-se os locais onde K’ég-teh esteve
+ durante a criação do mundo. (2010, p. 61)
+<!--estilo de citação-->
 
-De modo interessante, os eventos narrados por Ponciano em M17 iluminam
+De modo interessante, os eventos narrados por Ponciano em **M17** iluminam
 muitos dos acontecimentos que levaram à formação da comunidade de
-/Ta̗t-Dëh/. Os ancestrais das famílias /Sokw’ä̗t/, que hoje habitam esse
+/Ta̗t-Dëh/. Os ancestrais das famílias /Sokw’ä̗t/,  que hoje habitam esse
 grande assentamento, nasceram e passaram suas infâncias numa Morada
 Antiga, nas imediações da Serra Grande chamada /B’o̖t-Pe̗m-Dëh Mo̖y-Höd/.
 Dos nove filhos que o avô (FF) de Ponciano teve, sete eram homens e
@@ -13992,25 +14024,23 @@ brigavam muito nas festas de caxiri e, por isso, mudavam-se e
 constituíam novos assentamentos. Como mostra Pozzobon ao discutir a
 mobilidade espacial dos povos Maku, as brigas são um dos fatores de
 fissão dos grupos locais que leva um ou mais grupos domésticos a se
-mudarem para se agregar a outro assentamento ou formar uma nova aldeia
-(2011, p. 58-9).
+mudarem para se agregar a outro assentamento ou formar uma nova aldeia.
 
 Esse foi o caso de Severiano, um /sät/, “irmão maior”, do *sibling*,
 que, após seu casamento e alguns desentendimentos, constituiu uma morada
 chamada /Hëhë Po̗ Mo̖y Höd/. Já Antônio, um dos mais velhos, foi habitar a
-região de /B’ö̖’-Paç/. A formação do novo assentamento envolvia a posse
+região de /B’ö̖’-Paç/.  A formação do novo assentamento envolvia a posse
 de conjuntos de flautas Jurupari por esses que se tornaram donos de suas
-comunidades. Com o tempo, famílias de clãs afins passaram a cohabitar a
+comunidades. Com o tempo, famílias de clãs afins passaram a co-habitar a
 morada desses senhores, devido ao casamento de um(a) filho(a), pelo
-*status* hierárquico desses homens /Sokw’ä̗t/, e pelas relações de troca
+*status* hierárquico desses homens /Sokw’ä̗t/,  e pelas relações de troca
 mantidas por esses donos com índios tukano ou comerciantes. A
 importância do processo de agregação de famílias afins é descrita por
 Pozzobon como fundamental para a composição cognática dos assentamentos,
-o que contribui para a estabilidade e continuidade no tempo (2011, p.
-66).
+o que contribui para a estabilidade e continuidade no tempo. 
 
 Entretanto, antes das primeiras visitas dos padres, esses ancestrais
-/Sokw’ä̗t/ iniciaram conjuntamente um processo de constituição de
+/Sokw’ä̗t/  iniciaram conjuntamente um processo de constituição de
 assentamentos[^121]. As novas moradas fixaram-se em locais mais
 distantes das cabeceiras e de acesso mais fácil aos comerciantes e
 índios tukano. Durante a caminhada para a Serra Grande, passamos pelas
@@ -14025,7 +14055,7 @@ espalhadas pela região. Nosso percurso para a Serra Grande permitiu
 observar como os assentamentos anteriores a /Ta̗t-Dëh/ já vinham
 reaproximando os membros desse *sibling* que traziam consigo as famílias
 afins com as quais coabitavam. Tomando como referência os dados de
-Pozzobon (2011, p. 66), esse movimento de reaproximação do *sibling* de
+Pozzobon, esse movimento de reaproximação do *sibling* de
 mesmo sexo segue um padrão de acordo com o qual os assentamentos hup
 procuram “manter mais coeso o grupo de siblings de mesmo sexo, apesar de
 agregar afins”.
@@ -14036,20 +14066,22 @@ realizados tanto no interior desse grupo local, quanto externamente, com
 aldeias do Igarapé-Japú e com os Tukano do Tiquié. Nesse sentido, as
 tentativas de “atração” e composição de um povoado-missão dos salesianos
 articulam-se de modo complexo a esse processo iniciado anteriormente
-pelo *sibling* /Sokw’ä̗t/. Devido à presença missionária, as cerimônias
+pelo *sibling* /Sokw’ä̗t/.  Devido à presença missionária, as cerimônias
 das flautas tornam-se secretas aos brancos, mas não menos constantes.
 Reid descreve a tendência de composição de base agnática dos grupos
 locais hup com a agregação de famílias afins da seguinte maneira:
 
-> *Embora os Hupdʉ também empreguem esse princípio de aglutinação
-> através dos siblings por gênero, o uso da aglutinação através dos
-> siblings masculinos ocorre com maior frequência entre eles.
-> Consequentemente, a composição dos grupos locais Hupdʉ tende a ser
-> menos de base agnática do que entre os Bara-Maku* (1979, p. 127).
+<!--estilo de citação-->
+ Embora os Hupdʉ também empreguem esse princípio de aglutinação
+ através dos *siblings* por gênero, o uso da aglutinação através dos
+ *siblings* masculinos ocorre com maior frequência entre eles.
+ Consequentemente, a composição dos grupos locais Hupdʉ tende a ser
+ menos de base agnática do que entre os Bara-Maku (1979, p. 127).
+<!--estilo de citação-->
 
 Desse modo, a formação do povoado-missão de /Ta̗t-Dëh/, na década de
 1970, reuniu membros de referência do clã /Sokw’ä̗t Noh K’öd Te̖͂h/ que
-habitavam várias partes da região interfluvial dos igarapés /K’a̗j-Dëh/ e
+habitavam várias partes da região interfluvial dos igarapés /K’a̗j-Dëh/  e
 /Pi̖j-Dëh/. Atualmente, a comunidade é constituída por vinte e seis
 “casas”, /mo̖y/, concentradas às margens do Igarapé-Taracuá. A população
 da aldeia é de 202 indivíduos. Está dividida em trinta e oito /kaka/,
@@ -14064,8 +14096,8 @@ Como mencionado anteriormente, o senhor Henrique morava com sua família
 nas cercanias da Serra da Cutivaia. Ao mudar-se para a nova aldeia,
 construiu sua casa próxima a uma trilha que o levava até o sítio de sua
 antiga morada. Ao longo desse percurso, abriu roças com seus filhos, e
-não deixou de pescar no /K’a̗j-Dëh/ e e caçar na serra. Trouxe consigo
-um par de flautas (/B’öh/ e /Wöwö̗y/) para tocar nos Dabucuris.
+não deixou de pescar no /K’a̗j-Dëh/  e caçar na serra. Trouxe consigo
+um par de flautas (/B’öh/ e /Wöwö̗y/)  para tocar nos Dabucuris.
 Acompanharam-no os pais do senhor Miguel, parentes afins com quem esse
 dono coabitava[^122]. Henrique e seus filhos tornaram-se os donos de
 todo o território das imediações desse /K’a̗j-Paç Ti̖w/, “Caminho da
@@ -14076,7 +14108,7 @@ filhos de Henrique.
 Numa festa de caxiri, Samuel revelou que as flautas /Soho̗/ e /Mo̗t/
 pertencem a seu pai, Ponciano, estendendo-se a posse a ele e a seus
 irmãos. São flautas médias que acompanharam as mudanças de Gustavo,
-bisavô de Samuel (FFF) e pai de Henrique (F). A flauta /Soho̗/ é
+bisavô de Samuel (FFF) e pai de Henrique (F). A flauta /Soho̗/  é
 considerada a /nu̗h/, “cabeça”, a primeira numa hierarquia que estabelece
 também seu grau de importância. /Yo’o̗m i͂h/, “dono” de /Ta̗t-Dëh/,
 Ponciano detém igualmente esse instrumento considerado o /Hib’a̗h Te͂h
@@ -14086,10 +14118,11 @@ de Henrique, o caminho que se abre de /Ta̗t-Dëh/ e leva até /B’ö̖’-Paç
 irmãos e filhos abrem suas roças, pescam e caçam (ver diagrama anexo ‒
 Anexo 2).
 
-[]{#Fig48_DistrCasa .anchor}Distribuição das casas de /Ta̗t-Dëh/
+<!--Fig. 26-->
+Distribuição das casas de /Ta̗t-Dëh/
 
 Por ocasião da fundação de /Ta̗t-Dëh/, a reunião de muitos membros do
-*sibling* /Sokw’ä̗t/, como Antônio, Francisco, Henrique, Joanico,
+*sibling* /Sokw’ä̗t/,  como Antônio, Francisco, Henrique, Joanico,
 Paulino, fez com que conjuntos de flautas Jurupari, antes dispersos,
 fossem concentrados e enterrados no Igarapé-Vermelho. A coabitação
 gravitava em torno da pessoa de Antônio, um irmã maior do grupo, que,
@@ -14104,7 +14137,7 @@ batalha que seus antepassados tiveram com um grupo desana da região.
 Após vencer o confronto, Antônio apoderou-se da gigantesca flauta /Bɨh
 Kawah/ dos inimigos. No evento que presenciei, esse instrumento foi
 tocado pelos netos desse patriarca. Certa vez, Ponciano descreveu o
-timbre inigualável desse Jurupari, /tuhu̗p hõ̗h/, “um som maravilhoso”,
+timbre inigualável desse Jurupari, /tuhu̗p hõ̗h/,  “um som maravilhoso”,
 exclamava o ancião a sorrir. Sempre que ouvem a /Bɨh Kawah/, os filhos e
 netos lembram-se da valentia e da força desse antigo hup, um verdadeiro
 /u͂h me̗h i͂h/, “guerreiro”.
@@ -14115,11 +14148,11 @@ as famílias afins que os acompanharam, outras famílias hup de clãs afins
 ou agnatos começaram a visitar a nova comunidade por ocasião das festas
 de caxiri ou Dabucuri. Algumas delas fizeram pedidos formais ao dono
 para que pudessem se mudar para lá. Os afins obtiveram concessões de uso
-de algumas áreas dos territórios de famílias /Sokw’ä̗t/ para abrir roças
+de algumas áreas dos territórios de famílias /Sokw’ä̗t/  para abrir roças
 ou pescar, condicionadas ao respeito dos limites estabelecidos pelos
 donos. Seus territórios originários foram deixados em regiões distantes.
 Sem possuir seus próprios caminhos, transitam pelos territórios de seus
-“cunhados”, /yo̖h/, e de seus “sogros”, /k’o̗t/. “Aqueles que são de
+“cunhados”, /yo̖h/, e de seus “sogros”, /k’o̗t/.  “Aqueles que são de
 outras terras”, /sã̗p s’a̗h d’u̗u̗y d’äh/, são considerados /hu͂y ha̗m d’äh/,
 “acompanhantes” ou “seguidores”, aqueles que auxiliam seus donos na
 abertura ou capina de roças, na extração de palhas de caranã para a
@@ -14128,14 +14161,14 @@ netos, e no papel de apanhadores nas rodas de coca. A coabitação exigiu
 que as flautas desses outros clãs fossem trazidas ou fabricadas para
 possibilitar a iniciação dos rapazes afins. O domínio territorial e as
 alianças matrimoniais fazem com que os donos ocupem continuamente a
-posição de /kɨhsä̗t ë̗yë̗p/, “donos chamadores”, que são seguidos pelos
+posição de /kɨhsä̗t ë̗yë̗p/,   “donos chamadores”, que são seguidos pelos
 “acompanhantes”, seus afins reais ou classificatórios.
 
 Os motivos para a fixação desses grupos décadas atrás vão desde a busca
 pela escola e capela inauguradas pelos salesianos, até a boa qualidade
 dos solos para o plantio e a oportunidade de acesso a mercadorias
 trocadas com os Tukano, cuja aldeia de beira-rio dista algumas horas de
-caminhada. Algo que sempre é mencionado peos senhores hup quando
+caminhada. Algo que sempre é mencionado pelos senhores hup quando
 explicam o porquê da vinda de seus pais a /Ta̗t-Dëh/ vem a ser a fama de
 aldeia pacífica, com poucas brigas, que o assentamento possuía já
 naquela época. A presença de muitos homens de alto ranque do importante
@@ -14143,8 +14176,8 @@ clã /Sokw’ä̗t Noh K’öd Te̖͂h/, a realização frequente de Dabucuri e
 cerimônias de iniciação com as flautas Jurupari e a atuação de poderosos
 xamãs tornavam essa “nova comunidade” uma morada especialmente
 interessante para muitos dos antepassados. Seguindo a reflexão de Reid
-(1979, p. 138) sobre a mobilidade de grupos domésticos e indivíduos
-(*short term mobility*) é possível dizer que a busca por reexpressar
+sobre a mobilidade de grupos domésticos e indivíduos
+(*short term mobility*) é possível dizer que a busca por re-expressar
 relações sociais de um modo espacial norteou essa *fluidez*[^123],
 levando à fissão e agregação de diversos grupos em vários assentamentos
 até a formação da aldeia de /Ta̗t-Dëh/.
@@ -14156,12 +14189,12 @@ em auxílios estabelecem laços em termos político-econômicos, um grande
 número de trocas matrimoniais foi aproximando cada vez mais os senhores
 afins. Morando na casa de seus filhos mais velhos, ao lado da morada de
 um irmão e geralmente próximo à casa de um dono/cunhado, os senhores
-afins inserem-se sempre no /kopot/ de um dos donos /Sokw’ä̗t/. Os filhos
+afins inserem-se sempre no /kopot/ de um dos donos /Sokw’ä̗t/.  Os filhos
 casam-se com membros de uma das linhagens do clã majoritário, e os netos
 são criados conjuntamente.
 
 Assim, as principais “vilas” formaram-se em torno de homens de
-referência do *sibling* /Sokw’ä̗t/. A /heyho̗ kopot/, “vila central”, tem
+referência do *sibling* /Sokw’ä̗t/.  A /heyho̗ kopot/, “vila central”, tem
 como casa principal a de Jovino (casa 1) onde mora o dono da aldeia,
 Ponciano. Fazem parte desse agrupamento as casas dos filhos de Henrique
 e Paulino, e as dos filhos de Firmiano, homem de referência do clã /Pi̖j
@@ -14174,18 +14207,18 @@ frequentar a escola. Distante dos /kopot/ centrais, o primogênito do
 ancestral Joanico construiu uma casa onde habita com a esposa e a sogra,
 e uma segunda, para seu filho e sua nora.
 
-[]{#Fig49_LacosKopotFirmino .anchor}Laços de afinidade e filiação do
-/kopot/ centrado em Firmino (ego)
+<!--Fig. 27-->
+Laços de afinidade e filiação do /kopot/ centrado em Firmino (ego)
 
-[]{#Fig50_KopotPonciano .anchor}/Kopot/ centrado em Ponciano (ego) por
-laços de afinidade e filiação
+<!--Fig. 28-->
+/Kopot/ centrado em Ponciano (ego) por laços de afinidade e filiação
 
 Os esquemas de parentesco permitem ver com clareza de que modo as casas
 que compõem um agrupamento formam-se a partir dos laços de afinidade e
 filiação orientados em função da pessoa de um dos donos locais. Numa
 escala maior, esses agrupamentos parecem seguir uma tendência descrita
 por Pozzobon do “líder” do grupo local consolidar laços de parentesco em
-torno de si. Em suas palavras, “Vimos que o líder do grupo local é como
+torno de si. Em suas palavras, <!--citação--> “Vimos que o líder do grupo local é como
 um feixe de laços de parentesco próximo, ao qual se ligam os demais
 coabitantes através da filiação ou da afinidade. É frequente que o líder
 pertença ao grupo agnato mais numeroso” (2011, p. 65).
@@ -14203,7 +14236,7 @@ Nessa narrativa (**M17**), Ponciano relembra a viagem que fez com seu pai,
 Antônio, à Serra da Iniciação. Após a viagem na Cobra-Canoa, os
 ancestrais caminharam até essa serra para receberem as flautas Jurupari
 de /K’e̖g Te͂h/. Em pleno processo de reunião de famílias e instrumentos
-sagrados do *sibling* /Sokw’ä̗t/ e de clãs afins, esse dono leva o filho
+sagrados do *sibling* /Sokw’ä̗t/  e de clãs afins, esse dono leva o filho
 a um local onde todos os grupos e instrumentos estavam reunidos. Na
 Serra da Iniciação, os ancestrais comeram coca, beberam caarpi e
 dançaram com as flautas. De lá, rumaram para as diferentes regiões em
@@ -14215,16 +14248,15 @@ outras terras”) se situa como o lado de fora do sistema, enquanto uma
 multiplicidade de grupos similares (/bab’däh/ ‒ “donos da terras”) se
 situa como seu lado de dentro (2005, p.48). As relações internas
 expressas pelos /kopot/, pelas rodas de coca ou pelas cerimônias de
-Jurupari parecem indicar uma lógica da suplementaridade entre os “donos
+Jurupari parecem indicar uma lógica da “suplementaridade” entre os “donos
 da terra” e as “gentes de outras terras” que constitui relações de
-exterioridade necessárias à autoconstituição da aldeia (Lima, 2005;
-Viveiros de Castro, 1986, p. 76).
+exterioridade necessárias à autoconstituição da aldeia.
 
 *Caminhar com as flautas* mostra-se um modo de ação que, ao longo do
-percurso, cria caminhos e territórios, e faz surgirem “afastamentos
+percurso, cria caminhos e territórios, e faz surgirem <!--citação--> “afastamentos
 diferenciais no seio da sociedade” (Lima, 2005, p. 49). Dispersando-se
 com suas flautas ou reunindo-se novamente, os membros do *sibling*
-/Sokw’ä̗t/ consolidam o novo assentamento comoum ponto nodal para o
+/Sokw’ä̗t/  consolidam o novo assentamento como um ponto nodal para o
 convívio e a vida ritual. Eles mantêm seus caminhos e domínios como
 linhas de fuga que os permitem alternar a sociabilidade da aldeia com
 períodos de atividades produtivas em suas terras afastadas. Trama de
@@ -14233,7 +14265,7 @@ caminhos, a comunidade compõe a textura do mundo vivido.
 Retirar as flautas Jurupari do igarapé, caminhar com elas até a maloca
 para dançar em torno do Lago de Leite faz com que os múltiplos
 deslocamentos dos ancestrais ao descerem da Serra da Iniciação, as
-mudanças dos antepassados /Sokw’ä̗t/, suas brigas, batalhas e
+mudanças dos antepassados /Sokw’ä̗t/,  suas brigas, batalhas e
 reaproximações se articulem através dos movimentos e timbres das flautas
 para transformar os rapazes em guerreiros em plena paisagem da criação.
 
@@ -14251,19 +14283,18 @@ coca desses donos e estabelecem seus laços em torno da reciprocidade
 matrimonial e ritual. Em muitos sentidos, a grande aldeia ganha os
 contornos de uma Serra da Iniciação, onde pessoas de clãs diversos se
 reúnem para sentar-se nas rodas, dançar com as flautas Jurupari e
-separar-se para caminhar e habitar novas paragens. Seguindo Lima (2005,
-p. 52), caminhar com as flautas faz com que a distância espacial faça
+separar-se para caminhar e habitar novas paragens. Seguindo Lima, caminhar com as flautas faz com que a distância espacial faça
 surgirem tantas perspectivas quantos forem os caminhos, ao mesmo tempo
 que os /kopot/ e rodas de coca integram as partes através de relações de
 complementariedade.
 
-#### Pilão-Jurupari
+###Pilão-Jurupari
 
 Quase um mês depois de meu pedido para que Miguel fabricasse um pilão, o
 objeto ficou pronto. Dado o trabalho intenso que a produção exige,
 troquei com o artesão uma grande quantidade de bens como redes,
 lanternas, bacias, baldes, anzóis e alimentos, como forma de pagamento.
-/Me̗y pö̗g nu̗p pu͂’u͂k tö̖k, bɨ̗’ hisa̗p!/, “custa caro esse pilão de coca, dá
+/Me̗y pö̗g nu̗p pu͂’u͂k tö̖k, bɨ̗’ hisa̗p!/,  “custa caro esse pilão de coca, dá
 muito trabalho para fazer!”, justificava para enfatizar a necessidade de
 retribuí-lo bem pelo esforço empreendido. Acompanhei o trabalho
 diariamente fazendo visitas à sua casa para descrever bem os
@@ -14276,7 +14307,7 @@ carne assada e a pimenta seca.
 
 No dia 28 de agosto de 2011, Miguel acordou cedo e caminhou por algumas
 horas pela trilha de sua roça. Levava o machado de um de seus cunhados
-apoiado no ombro para tombar o tronco maciço do /säsäw dö̗/, “pau-brasil”
+apoiado no ombro para tombar o tronco maciço do /säsäw dö̗/,  “pau-brasil”
 (*Sickingia tinctoria*). A árvore, não muito grande, encontrava-se numa
 área de solo úmido, próxima a um igarapé. Diante dela, o artesão e seu
 filho mais velho, Pedro Paulo, demoraram algumas horas para conseguir
@@ -14293,7 +14324,7 @@ A fabricação evolveu a participação de filhos, netos e genros de Miguel
 que, sempre que podiam, iam trabalhar um pouco na perfuração do pilão.
 Nos períodos em que esculpia a peça, Miguel tomava conta dos netos
 pequenos, filhos de Pedro Paulo. As crianças divertiam-se ao ajudar o
-avô em sua produção. Foram elas que sopraram afumaça do breu
+avô em sua produção. Foram elas que sopraram a fumaça do breu
 incandescente introduzido pelo artesão para vedar o tubo, tão logo
 concluídos os processos de polimento e escavação. Miguel demorou ainda
 alguns dias para fabricar o socador, pau que acompanha o tubo para
@@ -14313,7 +14344,7 @@ comigo estudando violão, começaram a gargalhar. Ari seguiu fazendo os
 passos de dança e imitando o som do Jurupari até que não aguentou mais,
 largou o pilão e começou a rir. Como Ari, muitos dos rapazes presentes,
 iniciavam, nos últimos anos, sua participação nas cerimônias das
-flautas. Esses jovens /Sokw’ä̗t/ participaram da dança do Jurupari que
+flautas. Esses jovens /Sokw’ä̗t/  participaram da dança do Jurupari que
 presenciei. Imagino que a graça da piada tinha a ver com o fascínio
 exercido pela experiência vivenciada. A graça que a figura de um
 *pilão-Jurupari* evocava diz respeito, a meu ver, às diferenças
@@ -14330,7 +14361,7 @@ procedimentos adequados à fabricação do instrumento. A palmeira é
 encontrada nos igapós ou margens de igarapés, áreas alagadas da
 floresta. É considerada uma árvore de porte mediano, sustentada por um
 feixe cônico de raízes adventícias recobertas por espinhos curtos e
-grossos (Silva et al., 1977, p. 164). Constantemente, o artesão
+grossos. Constantemente, o artesão
 dirige-se ao local onde tombou a árvore para escavar e raspar o tronco.
 Diferente da fabricação do pilão, o trabalho é realizado na mata,
 distante das mulheres e crianças, devido aos perigos envolvidos na
@@ -14338,26 +14369,28 @@ fabricação. Um terçado e um enxó são os instrumentos utilizados pelos
 artesãos para esculpir as peças. Macho e fêmea são feitos a partir do
 mesmo tronco e costumam ter proporções semelhantes. Comparando passagens
 da mitologia barasana com características botânicas da paxiúba,
-Hugh-Jones (1979, p. 157-9) chama a atenção para o caráter mediador
+Hugh-Jones chama a atenção para o caráter mediador
 dessa palmeira que cresce num terreno alagado e é usada para construir
 instrumentos que permanecem enterrados no rio para, durante os rituais,
 serem montados e trazidos para a maloca:
 
-> *Os próprios instrumentos são feitos de partes do tronco da palmeira
-> de paxiúba, assim como todos os instrumentos de Yurupary. De acordo
-> com os mitos do Yurupary, essa palmeira cresceu a partir das cinzas do
-> corpo queimado de Yurupary. A alma de Yurupary \[...\] penetrou a
-> palmeira durante seu crescimento e a partir dela ascendeu ao céu.
-> \[...\] Os instrumentos He também estabelecem mediação entre a terra e
-> a água, devido ao fato de serem mantidos submersos nos rios, sendo
-> trazidos para a terra seca para o uso. A passagem da água para a
-> terra, e da floresta, onde são mantidos, para a maloca, onde são
-> utilizados, sinaliza também a passagem da morte, estado inerte, para a
-> vida, enquanto um estado ativo*.
+<!--estilo de citação-->
+ Os próprios instrumentos são feitos de partes do tronco da palmeira
+ de paxiúba, assim como todos os instrumentos de Yurupary. De acordo
+ com os mitos do Yurupary, essa palmeira cresceu a partir das cinzas do
+ corpo queimado de Yurupary. A alma de Yurupary \[...\] penetrou a
+ palmeira durante seu crescimento e a partir dela ascendeu ao céu.
+ \[...\] Os instrumentos He também estabelecem mediação entre a terra e
+ a água, devido ao fato de serem mantidos submersos nos rios, sendo
+ trazidos para a terra seca para o uso. A passagem da água para a
+ terra, e da floresta, onde são mantidos, para a maloca, onde são
+ utilizados, sinaliza também a passagem da morte, estado inerte, para a
+ vida, enquanto um estado ativo.
+<!--estilo de citação-->
 
 A versão mítica barasana mostra-se como uma transformação de **M17** com as
 flautas Jurupari surgindo do corpo queimado de uma Anaconda, um ser da
-água, e não de /Bisi̗w/, um ser da mata. Creio que seja possível ver
+água, e não de /Bisi̗w/,  um ser da mata. Creio que seja possível ver
 também o caráter mediador das flautas num sentido próximo ao explicitado
 por Hugh-Jones. Após a saída da “água, do rio, da cobra” (**M13**), os
 ancestrais hup caminham pela mata e sobem até o topo da
@@ -14374,15 +14407,15 @@ o breu para vedá-los de forma semelhante ao procedimento realizado na
 fabricação do pilão. O breu amolecido é passado nos lados externo e
 interno do tubo para garantir o timbre adequado ao instrumento.
 Murmurando palavras para um pedaço de breu ou para um cigarro, o artesão
-executa o /hã̗wäg bi’i̖d/, “encantamento do sopro vital”, e o /ha̖t bi’i̖d/,
+executa o /hã̗wäg bi’i̖d/,  “encantamento do sopro vital”, e o /ha̖t bi’i̖d/,
 o “encantamento de nominação”. O xamã desloca-se como /hã̗wäg/ ao
 Lago de Leite, chama o ancestral cujo nome será dado à flauta e, sentado
-em seu banco, concentra a pessoa-sopro distribuída pelas moradas (B6). A
+em seu banco, concentra a pessoa-sopro distribuída pelas moradas (**B6**). A
 ação xamânica traz o instrumento à vida como um ancestral através de um
 processo semelhante àquele que faz do recém-nascido um ser humano. O
 timbre do instrumento é o resultado da destreza do artesão, bem como das
 características singulares da pessoa-sopro ancestral. Como aponta
-Cabalzar (2010, p. 54), “a nominação (benzimento de nome) garante às
+Cabalzar (2010, p. 54), <!--citação-->“a nominação (benzimento de nome) garante às
 pessoas a obtenção de certas capacidades vitais essenciais, sem as quais
 elas não crescem nem adquirem força ao longo da vida”. Timbre e nome são
 atributos da flauta sempre ressaltados pelos tocadores para descrever a
@@ -14408,34 +14441,33 @@ Dessa perspectiva, creio que pelo ato de nominação da flauta o xamã não
 dá a vida ao instrumentos, fazendo com que a vida passe a estar na
 coisa, mas revela o fluxo generativo que traz o objeto e as pessoas à
 existência por sua participação dinâmica e mútua num mesmo campo
-relacional (Ingold, 2011, p. 68). As memórias evocadas pelo uso do pilão
+relacional. As memórias evocadas pelo uso do pilão
 reestabelecem um fluxo generativo de sua materialidade que produz o
 encontro entre sua história como artefato fabricado e utilizado por
 antepassados num tempo pretérito e o preparo da coca atual pelos
 descendentes que, através de seu engajamento com o pilão, “crescem nos
-saberes” ao relembrar e benzer pelas palavras e sopros (Ingold, 2000, p.
-148). Utilizado todas as noites para preparar a coca e para chamar os
+saberes” ao relembrar e benzer pelas palavras e sopros. Utilizado todas as noites para preparar a coca e para chamar os
 senhores habitantes de /Ta̗t-Dëh/, o pilão reúne a todos num modo de ação
-que gera a vida “\[...\] através do contínuo da vida orgânica, sabendo
+que gera a vida <!--citação-->“\[...\] através do contínuo da vida orgânica, sabendo
 que essa vida, ela mesma, estabelece-se pela geração contínua do fluxo
 das matérias” (2000, p. 31).
 
 Entendo que a aproximação das ações rituais da cerimônia do Jurupari e
 das rodas de coca a partir do pilão-Jurupari ajude a entender como
 jovens e anciões se situam num campo de relações com esses artefatos que
-se tornam índices de seus pensamentos, intenções e capacidades corporais
-(Hugh-Jones, 2009). Segurando o pilão de um Branco como se fosse um
+se tornam índices de seus pensamentos, intenções e capacidades corporais. 
+Segurando o pilão de um branco como se fosse um
 Jurupari, Ari divertia a todos por dar ao triturador o *status* de
 instrumento musical de sopro. A paródia de Ari zombava dos próprios
 rapazes, desconhecedores do xamanismo, tão jovens que não sabiam nem o
 que fazer com o pilão. Inversamente, explicitava que o pilão era o
 Jurupari dos velhos para tocarem sua coca. Certamente, fora esse jogo
 que levou o artesão Miguel a sentar-se ao meu lado para fumar um cigarro
-e rir com os rapazes. Afinal, tinha fabricado um pilão para um Branco
+e rir com os rapazes. Afinal, tinha fabricado um pilão para um branco
 que, estranhamente, comia coca, se interessava pelo xamanismo e pela
 dança das flautas.
 
-#### Pessoas-sopro
+###Pessoas-sopro
 
 Conversando com Evaldo sobre as flautas-Jurupari, ele me explicou que o
 sopro que habita os tubos durante a dança deve partir de um músico cujo
@@ -14449,19 +14481,19 @@ patrilinearidade é um princípio fundamental para a transmissão dos
 instrumentos, a *performance* parece expressar a importância de “grupos de
 descendência corpórea”, que relacionam pessoas por meio da identidade
 corporal e do continuo da mesma substância corporal que atravessa
-ancestrais e descendentes (Seeger, 1980, p. 125).
+ancestrais e descendentes.
 
-Com o envelhecimento, o “ancião”, /wähä̗d/, começa a ter dificuldade em
+Com o envelhecimento, o “ancião”, /wähä̗d/,  começa a ter dificuldade em
 soprar a flauta e dançar com ela durante horas na maloca. Os senhores
 dão lugar para que novos flautistas comecem a manejar os instrumentos
 durante a cerimônia. Além do nome /döhö d’äh/, “sopros” ou
-“pessoas-sopro”, as flautas são também chamadas de /wähä̗däh/, “velhos”
-ou “antigos” (Reid, 1979, p. 168). De modo interessante, os senhores
+“pessoas-sopro”, as flautas são também chamadas de /wähä̗däh/,  “velhos”
+ou “antigos”. De modo interessante, os senhores
 deixam de dançar ao mesmo tempo em que passam a pertencer a uma
 categoria que engloba os instrumentos, antepassados distantes tidos como
 os primeiros ancestrais de uma linhagem clânica. Paralelamente, a
 interrupção da execução das melodias do Jurupari acompanha a
-intensificação da prática dos /bi’i̖d/, “sopros”, a partir do tabaco e
+intensificação da prática dos /bi’i̖d/,  “sopros”, a partir do tabaco e
 outras substâncias para proteger e fazer seus filhos crescerem sem
 doenças (**B2**). É nessa fase da vida que os homens começam a frequentar as
 rodas com assiduidade e a manusear o pilão para partilhar a coca e as
@@ -14475,7 +14507,7 @@ anciões começam a não ter mais o corpo envolto pela casca dura das
 vão se tornando progressivamente mais duras, atingindo o auge de
 resistência na maturidade. Os jovens possuem “corpos moles” que ainda
 não foram endurecidos o suficiente para possuírem a corporalidade do
-guerreiro (**M17**). Como aponta Reid (1979, p. 151), “De modo mais geral,
+guerreiro (**M17**). Como aponta Reid (1979, p. 151), <!--citação--> “De modo mais geral,
 contudo, a iniciação é um processo por meio do qual os jovens atravessam
 o estágio que os Hupdʉ chamam ‘aqueles de corpos moles, não totalmente
 formados’ ou adolescência”. Em ambos os casos, jovens e velhos estão
@@ -14494,14 +14526,16 @@ divisão das partes do instrumento Jurupari, elas são designadas como
 boca, pele, osso, etc., o que explicita a analogia entre as flautas e o
 corpo humano,
 
-> Um pouco antes do início do ritual, os convidados pegam suas cargas de
-> frutas da floresta e lá eles constroem os trompetes Jurupari a partir
-> da casca e do tronco de várias árvores. As palavras utilizadas para
-> descreveras várias partes do trompete são pele, osso, boca etc., o que
-> aponta que essas entidades representam corpos. Uma vez construídos
-> esses corpos, eles são penetrados pelas sombras ou fantasmas das
-> gentes do nascimento (ancestrais), e nesse estado são perigosos, pois
-> estão repletos de essência quente *(Reid, 1979, p. 280).*
+<!--estilo de citação-->
+ Um pouco antes do início do ritual, os convidados pegam suas cargas de
+ frutas da floresta e lá eles constroem os trompetes Jurupari a partir
+ da casca e do tronco de várias árvores. As palavras utilizadas para
+ descreveras várias partes do trompete são pele, osso, boca etc., o que
+ aponta que essas entidades representam corpos. Uma vez construídos
+ esses corpos, eles são penetrados pelas sombras ou fantasmas das
+ gentes do nascimento (ancestrais), e nesse estado são perigosos, pois
+ estão repletos de essência quente. (Reid, 1979, p. 280).
+<!--estilo de citação-->
 
 Segundo o pesquisador, esses corpos construídos e formados pela boca,
 ossos e pele se tornam plenos de energia quente e perigosa quando, ao
@@ -14517,10 +14551,10 @@ pessoas que possuem graus distintos de dureza e pulsação respiratória.
 outras duas uma de cada lado da boca”, contou Américo quando
 conversávamos sobre os perigos do Jurupari. A dança das flautas pode não
 só gerar cura e proteção, como também causar doenças e sofrimento.
-Afinal, com as flautas, /Bisi̗w/ fez a Humanidade “sofrr como ele
+Afinal, com as flautas, /Bisi̗w/  fez a Humanidade “sofrer como ele
 sofreu” (**M15**). Todos aqueles que participaram da cerimônia que
 presenciei partilharam, pela manhã, as ardidas pimentas benzidas. É
-preciso lembrar que as flautas compunham o corpo artefactual de /Bisi̗w/.
+preciso lembrar que as flautas compunham o corpo *artefactual* de /Bisi̗w/.
 Ossos do corpo queimado desse ser, os instrumentos são uma matéria plena
 de energia quente que precisa ser manuseada com cuidado. Se, após o
 confronto com a presa na caça, o homem come pimenta para atenuar a
@@ -14530,23 +14564,23 @@ pimenta” para enfraquecer o calor de seus corpos. Durante uma roda de
 coca, Jovino alertou-me sobre alguns gestos que não devem ser feitos
 durante o Dabucuri:
 
-> *Durante o Dabucuri, não pode coçar a cabeça, senão pega piolho. Coça
-> apenas com um pauzinho. Não pode cruzar os braços, senão vira /o/, um
-> peixinho pequeno. Antes de chegarem as mulheres, pode pegar o cariçu
-> para fazer limpeza, porque elas não podem pisar na saliva do Jurupari.
-> Pode dar ferida na perna da mulher e do homem. Pode dar infecção. Toca
-> o cariçu e limpa. Na hora da festa, só velho pode comer peixe assado
-> que pesca no mato. \[...\] Dá /Sub/, “ferida”, quando come carne
-> assada sem benzer durante a festa. Não pode assobiar nem gritar, senão
-> dá cárie. Não pode encostar na mulher, porque ela pode sentir o cheiro
-> da flauta* (Jovino, 24/ 08/ 2011).
+ Durante o Dabucuri, não pode coçar a cabeça, senão pega piolho. Coça
+ apenas com um pauzinho. Não pode cruzar os braços, senão vira /o/, um
+ peixinho pequeno. Antes de chegarem as mulheres, pode pegar o cariçu
+ para fazer limpeza, porque elas não podem pisar na saliva do Jurupari.
+ Pode dar ferida na perna da mulher e do homem. Pode dar infecção. Toca
+ o cariçu e limpa. Na hora da festa, só velho pode comer peixe assado
+ que pesca no mato. \[...\] Dá /Sub/, “ferida”, quando come carne
+ assada sem benzer durante a festa. Não pode assobiar nem gritar, senão
+ dá cárie. Não pode encostar na mulher, porque ela pode sentir o cheiro
+ da flauta. (Jovino, 24/ 08/ 2011)
 
 É preciso limpar a maloca soprando as flautas cariçu para neutralizar a
 afecção patogênica da saliva do Jurupari. O contato dos dedos com a
 cabeça torna o couro cabeludo suscetível à presença de piolhos. O
 assobio e o grito degeneram os dentes pelas cáries e o contato corporal
 com as mulheres deve ser evitado para que não sintam o odor das flautas
-impregnado nos homens. Como destaca Reid (1979, p. 282), “Os Hupdʉ são
+impregnado nos homens. Como destaca Reid (1979, p. 282), <!--citação-->“Os Hupdʉ são
 bastante explícitos quanto ao fato de que praticar rituais faz todas as
 pessoas crescerem, ao regenerar a alma dentro delas, e dizem que deixar
 de praticá-los causa doenças, deterioração e morte”.
@@ -14581,13 +14615,13 @@ igualmente um *devir-guerreiro*.
 
 Através de seus movimentos e da atenção que mantêm, os rapazes
 desenvolvem uma sensibilidade íntima e pessoal para outros modos de ser
-como aqueles dos primeiros Hupd’äh e dos velhos. Com a análise de B6,
+como aqueles dos primeiros Hupd’äh e dos velhos. Com a análise de **B6**,
 foi possível entender que, evocando o nome do ancestral, o xamã retira
 as parcelas distribuídas da pessoa desse antepassado. Se o sopro
 concentrado do antepassado dá a vida ao bebê, pelo toque da flauta e
 movimentos de danças, os descendentes trazem à vida os antigos com a
 essência vital que receberam como uma dádiva ao nascer. Refletindo com
-Lima (2005, p. 145), o *feto adornado* e o *rapaz flautista* parecem
+Lima, o *feto adornado* e o *rapaz flautista* parecem
 deixar ver a concentração do sopro vital e do sopro das flautas como
 processos de individuação da pessoa que se torna um ser para si e para
 outrem. Na dança, as linhas-vitais de antepassados e descendentes se
@@ -14596,28 +14630,28 @@ interpenetram, atravessam-se através dos movimentos e das ações
 cada qual com suas formas, capacidades e disposições para fazer crescer
 e fortalecer os rapazes.
 
-Tomando como referência a comparação de Viveiros de Castro (2008) entre
+Tomando como referência a comparação de Viveiros de Castro entre
 “totemismo” e “sacrifício”, creio poder dizer que soprar a flauta
 revela-se uma ação de *transdução* que corporifica simultaneamente as
 pessoas do descendente e do ancestral homônimos no fluxo contínuo da
-respiração e gesto musical. Diferenciados enquanto *polos pressupostos
-como autosemelhantes*, o sopro, um gesto de indução/transdução, cria uma
-zona, um momento de indiscernibilidade entre eles, acionando “relações
+respiração e gesto musical. Diferenciados enquanto polos pressupostos
+como autossemelhantes, o sopro, um gesto de indução/transdução, cria uma
+zona, um momento de indiscernibilidade entre eles, acionando <!--citação-->“relações
 intensivas que modificam a natureza dos próprios termos, pois ‘fazem
 passar’ algo entre eles” (p. 89). As ações de *soprar as flautas* e de
 *concentrar a pessoa-sopro distribuída* realizadas pelos dançarinos e
 pelos xamãs parecem regenerar a vida pela energética do contínuo entre
 /wähä̗däh/, “velhos”, e /te̖͂h d’äh/, “filhos”, por meio da transdução
-entre sopros, corpos e objetos (B2). Na energética do contínuo desses
+entre sopros, corpos e objetos (**B2**). Na energética do contínuo desses
 “grupos de substância” todo cuidado é pouco, pois o endurecimento e
 crescimento são o reverso da degeneração e da morte.
 
-1.  ### Cuias de caxiri
+## Cuias de caxiri
 
-    1.  #### O caxiri das manivas 
+### O caxiri das manivas 
 
 À medida que os dançarinos começam a se aproximar da maloca, o caxiri
-/po̗ho̗y/, “ferve”, cada vez mais. O gosto doce das primeiras cuias
+/po̗ho̗y/,   “ferve”, cada vez mais. O gosto doce das primeiras cuias
 oferecidas passa a ser marcado pelo amargor da bebida em seu ponto forte
 e ideal para o consumo. Com apenas poucas cuias, dançarinos e
 carregadores embriagam-se. Suas gargalhadas e vozes tomam conta da
@@ -14638,7 +14672,7 @@ colocar caldo de cana ou pacotes de açúcar. Depois de terminada a
 mistura, a preparadora tampa a canoa com folhas de bananeira para que a
 bebida fermente até atingir o ponto de consumo. Caxiris preparados no
 intervalo de um dia são chamados /ɨ̗b’ dëh/, “caxiris vivos”, que serão
-sempre menos fortes e mais adocicados que os /tä̗w hu̗ptök/, “caxiris
+sempre menos fortes e mais adocicados que os /tä̗w hu̗ptök/,  “caxiris
 bravos”, cujo tempo de descanso varia de dois a três dias. O preparo do
 caxiri e seu oferecimento nas festas são atividades femininas que
 definem a posição ocupada pelas mulheres no campo de interações da
@@ -14662,6 +14696,7 @@ vermelhas”, em grande quantidade, para o preparo da bebida[^125]. Foi às
 Comentando sobre o trabalho feminino, Reid enfatiza o caráter árduo da
 lida com as manivas e a pouca especialização entre as agricultoras,
 
+<!--estilo de citação-->
 > *As mulheres geralmente colhem, capinam e replantam pedaços de
 > aproximadamente 4x4 metros em algumas horas. Depois disso, retornam ao
 > porto próximo à casa. Todas as mulheres se reúnem nesse local,
@@ -16485,7 +16520,7 @@ assumindo suas perspectivas, o viajante adquire habilidades e saberes
 que lhe permitem maior êxito nas ações protetivas ou agressivas.
 
 A Casa-da-Cachaça edifica-se como uma estrutura que contém outras
-moradas, revelando-se um sintético campo relacional Branco que envolve
+moradas, revelando-se um sintético campo relacional branco que envolve
 outros planos de atuação e percepção proporcionados pelas demais
 substâncias. Enquanto as práticas eméticas pela ingestão de águas nas
 nascentes dos morros mostram-se formas de relacionar-se, como ocorre com
@@ -16656,7 +16691,7 @@ Retomar a viagem onírica ao subterrâneo de Henrique me faz perceber que
 só agora posso *esquecer meu esquecimento* para perceber como busquei,
 ao longo das viagens para as serras e da participação contínua nas rodas
 de coca, reencontrar a vida que fez nascer esse primeiro laço de amizade
-estabelecido entre eu, o pesquisador Branco, e Henrique, um ancião hup
+estabelecido entre eu, o pesquisador branco, e Henrique, um ancião hup
 (Deleuze; Guattari, 1995)[^150]. De certo modo, vejo agora que a
 experiência etnográfica e os movimentos de análise realizados
 constituíram-se como uma longa jornada em que procurei me situar com
@@ -16767,12 +16802,12 @@ coca, os Maku parecem agir como os viajantes hup em plena visita às
 moradas cósmicas. Sentindo ainda os impactos do terror do “boom da
 borracha”, creio que essas pessoas maku provavelmente vestissem “roupas
 de animais mansos” para oferecer coca e acalmar a violência dos Tukano e
-de seu convidado, o ilustre pesquisador alemão Branco, que os agredia
+de seu convidado, o ilustre pesquisador alemão branco, que os agredia
 com adjetivos desumanizadores, fotos impessoais e “torturantes sessões
 de trabalho linguístico”.
 
 Nas rodas de coca, o /Häw/ ressurgia nas lembranças de João como um
-Branco, irmão de Peter, que caminhava pelas trilhas descalço, caçava com
+branco, irmão de Peter, que caminhava pelas trilhas descalço, caçava com
 zarabatana, comia coca e ouvia bem os benzimentos. A etnografia
 compreensiva de Howard Reid e Peter Silverwood-Cope fizeram esses
 pesquisadores viverem na memória de alguns de meus interlocutores como
@@ -17059,7 +17094,7 @@ corporificadas numa existência em permanente estado de transformação.
 
 A meu ver, em meio às águas negras do rio Tiquié, depois de tantos
 caminhos e rodas vivenciadas mutuamente, a oferta de coca de Ponciano
-não era mais um gesto para acalmar e proteger do Branco, dando *coca
+não era mais um gesto para acalmar e proteger do branco, dando *coca
 para o viajante estrangeiro*, mas sim a partilha da *coca dos viajantes
 hup*,com a qual, desde os tempos de Semente de Tabaco, os Hupd’äh se
 nutrem com essa potência primordial para deslocar-se pelo mundo.
@@ -18477,7 +18512,7 @@ concedidas a esta pesquisa.
     /Tõh Hayam/, ouviu que um antigo antropólogo enlouquecera ao tomar
     caarpi. Segundo o pajé, embora pesquisadores bebam caarpi com os
     Tuyuca ou Tukano, a força do caarpi hup torna desaconselhável seu
-    consumo por um Branco.
+    consumo por um branco.
 
 [^139]: De um modo parecido, analisando a relação entre gritos e
     sujeira, Lévi-Strauss (2004, p. 360) aponta que ambos os termos
