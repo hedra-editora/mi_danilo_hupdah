@@ -14646,9 +14646,9 @@ entre sopros, corpos e objetos (**B2**). Na energética do contínuo desses
 “grupos de substância” todo cuidado é pouco, pois o endurecimento e
 crescimento são o reverso da degeneração e da morte.
 
-## Cuias de caxiri
+##Cuias de caxiri
 
-### O caxiri das manivas 
+###O caxiri das manivas 
 
 À medida que os dançarinos começam a se aproximar da maloca, o caxiri
 /po̗ho̗y/,   “ferve”, cada vez mais. O gosto doce das primeiras cuias
@@ -14690,24 +14690,25 @@ roças. As manivas são plantadas em grupos que se espalham por toda a
 clareira do espaço agrícola. Numa parte estão as /kaya̖k ti̖g töhö̗/,
 “manivas brancas”, mais utilizadas para a produção de farinha e beiju.
 Apesar de haver alguns tipos de “maniva branca” utilizadas para o
-preparo do caxiri, o mais comum é colher as /kaya̖k dö̗/, “manivas
+preparo do caxiri, o mais comum é colher as /kaya̖k dö̗/,  “manivas
 vermelhas”, em grande quantidade, para o preparo da bebida[^125]. Foi às
 /kopot/, “vilas”, dessas manivas que nos dirigimos naquela manhã.
 Comentando sobre o trabalho feminino, Reid enfatiza o caráter árduo da
 lida com as manivas e a pouca especialização entre as agricultoras,
 
 <!--estilo de citação-->
-> *As mulheres geralmente colhem, capinam e replantam pedaços de
-> aproximadamente 4x4 metros em algumas horas. Depois disso, retornam ao
-> porto próximo à casa. Todas as mulheres se reúnem nesse local,
-> banham-se, banham seus bebês e lavam os tubérculos de mandioca.
-> \[...\] Na maior parte dos dias, o cultivo e processamento de mandioca
-> leva entre seis e nove horas, sendo o restante do tempo preenchido
-> pelas atividades domésticas. Do modo como pude observar, há pouca
-> especialização individual entre as mulheres, embora as mulheres mais
-> velhas possam preparar a farinha de mandioca e, especialmente, tramar
-> cestos de carga muito mais rápido que as mulheres jovens* (Reid, 1979,
-> p. 39).
+ As mulheres geralmente colhem, capinam e replantam pedaços de
+ aproximadamente 4x4 metros em algumas horas. Depois disso, retornam ao
+ porto próximo à casa. Todas as mulheres se reúnem nesse local,
+ banham-se, banham seus bebês e lavam os tubérculos de mandioca.
+ \[...\] Na maior parte dos dias, o cultivo e processamento de mandioca
+ leva entre seis e nove horas, sendo o restante do tempo preenchido
+ pelas atividades domésticas. Do modo como pude observar, há pouca
+ especialização individual entre as mulheres, embora as mulheres mais
+ velhas possam preparar a farinha de mandioca e, especialmente, tramar
+ cestos de carga muito mais rápido que as mulheres jovens (Reid, 1979,
+ p. 39).
+<!--estilo de citação-->
 
 De certo modo, enfatizando não a especialização das agricultoras segundo
 suas competências técnicas, mas sim o modo como fazem crescer as plantas
@@ -14720,7 +14721,7 @@ Como me explicou Américo, cada “vila” agrupa apenas as manivas de mesmo
 nome e origem que são plantadas uma próxima à outra. Sentando-se no meio
 da plantação, Américo mostrou a “vila” onde o casal cultiva um tipo de
 maniva branca que foi transmitida a Isabel por sua sogra. Fora essa
-maniva que fizera o capitão crescer forte e s doenças e, por isso,
+maniva que fizera o capitão crescer forte e sem doenças e, por isso,
 seus filhos sempre comiam os beijus preparados com as plantas dadas pela
 mãe de Américo. Quando se casou, Isabel ganhou de sua própria mãe em
 /Pi̖j-Dëh/ tubérculos de diversos tipos de maniva para que iniciasse sua
@@ -14732,7 +14733,7 @@ Desse modo, a roça pode ser descrita como uma grande aldeia formada por
 “vilas” de manivas que podem ter sido trazidas de outras comunidades ou
 transplantadas das roças das mães e tias das agricultoras. Interpretando
 a relação entre as mulheres barasana e o cultivo de manivas, C.
-Hugh-Jones (1979, p. 173) ressalta que “a confiança que se pode ter em
+Hugh-Jones (1979, p. 173) ressalta que <!--citação-->“a confiança que se pode ter em
 uma plantação sugere que a mulher harmoniza-se com a mandioca, em vez de
 empregar seus poderes físicos e mentais contra ela”. No caso, o
 agrupamento das manivas em “vilas” que assemelham a roça a uma aldeia ou
@@ -14744,7 +14745,7 @@ produtivo é o resultado da história de vida da agricultora que, através
 de sua produção, cuida de seu marido e dos filhos, fazendo-os crescer.
 Partindo da reflexão de Ingold (2000, p. 87), as mulheres hup
 estabelecem as condições para o crescimento das plantas e de suas
-próprias famílias, “\[...\] suas atividades são parte do ambiente para
+próprias famílias, <!--citação-->“\[...\] suas atividades são parte do ambiente para
 as plantas”.
 
 Em cada uma das “vilas”, as manivas formam rodas de conversa e oferecem
@@ -14763,7 +14764,7 @@ xamânica, as pimentas também benzem as manivas em troca de cuias de
 caxiri. Apontando para o chão, Américo revelou que um imenso
 Rio de Leite se estende por debaixo da terra e alimenta as plantas com
 seu leite e águas-puras, nutrientes que possibilitam o crescimento dos
-vegetais. Como no caso Achuar descrito por Descola, “essa pequena
+vegetais. Como no caso Achuar descrito por Descola, <!--citação-->“essa pequena
 população de plantas estabelece em seu meio aspectos de sociabilidade
 idênticos aos dos homens” (1986, p. 244).
 
@@ -14774,7 +14775,7 @@ humano, com os encantamentos, com os oferecimentos de caxiri e com o
 aleitamento.
 
 Analisando as analogias entre o processo de trabalho feminino com as
-manivas, ações rituais e passagens míticas, C. Hugh-Jones (1979) mostra
+manivas, ações rituais e passagens míticas, C. Hugh-Jones mostra
 como a lida com a maniva pode ser vista como uma contraparte feminina às
 cerimônias masculinas de Jurupari. Enfatizando aspectos de renovação, de
 crescimento e transformação, a antropóloga explicita os paralelos entre
@@ -14788,14 +14789,14 @@ Dabucuri. Nas roças das mulheres hup, a convivência das plantas parece
 dar-se de forma ritualizada, já que a reciprocidade entre manivas e coca
 se estabelece através da articulação entre uma forma de interação
 própria das festas, o oferecimento de caxiri, e outra comum às rodas de
-coca, o pedido de benzimento. Seguindo a reflexão de Descola (1986, p.
+coca, o pedido de benzimento. Seguindo a reflexão de Descola <!--citação-->(1986, p.
 263), “quando postulamos que as plantas cultivadas são seres animados, é
 evidentemente normal tentar estabelecer com elas relações sociais
 harmoniosas \[...\] que servem, igualmente, aos fins das relações entre
 humanos”.
 
 Longe da maloca, entre uma colher de coca e uma cuia de caxiri, os
-senhores hup divertem-se nos /hu̗ptök wa̗g/, “dias de festa de caxiri”.
+senhores hup divertem-se nos /hu̗ptök wa̗g/,  “dias de festa de caxiri”.
 Nos dias anteriores, apanhadores e donos colhem uma quantidade grande de
 folhas para que todos possam comer e conversar durante toda a festa. O
 pilão começa a soar no meio da manhã e seu som mistura-se aos timbres
@@ -14845,14 +14846,13 @@ que estabelecem os parâmetros para a fabricação dos corpos dos neófitos,
 os úteros femininos são percebidos como panelas/cuias-recipientes cheios
 de /ɨ̗b’ dëh/, “água-da-vida”, líquido que envolve o esperma para gerar o
 feto-sentado. Como no desenvolvimento humano intrauterino, a
-“fermentação é uma transubstanciação da bebida” (Lima, 2005, p. 295), e
+“fermentação é uma transubstanciação da bebida” <!--citação-->(Lima, 2005, p. 295), e
 não é por acaso que chamam de /ɨ̗b’ dëh/ uma das formas de caxiri com
 pouca fermentação. A gestação se dá por um processo análogo ao
 cozimento-fermentação que faz o nascituro crescer como um ancestral hup
 dentro da panela/cuia. Creio que a aproximação entre flautas Jurupari e
 panelas de caxiri revela a articulação entre duas agências fundamentais
-para a criação e desenvolvimento da vida. Seguindo Hugh-Jones (2009, p.
-45), num plano abstrato, tubos e recipientes relacionam-se às
+para a criação e desenvolvimento da vida. Seguindo Hugh-Jones, num plano abstrato, tubos e recipientes relacionam-se às
 capacidades e processos de reprodução. Por um lado, os tubos soprados
 são uma forma gerada ao longo dos movimentos da dança que contribui para
 a expressão da continuidade entre ancestrais e descendentes pelo sopro
@@ -14872,7 +14872,7 @@ senhores e mulheres, entre a coca e os tubérculos. No evento do Dabucuri
 que presenciei, as mulheres receberam como dádiva dos homens uma imensa
 quantidade de buritis soprados pelas flautas Jurupari durante a
 madrugada. Trazidos à vida pelos descendentes, os ancestrais Jurupari
-são /wähä̗d’äh/, “anciões”, que benzem as frutas com as quais as mulheres
+são /wähä̗d’äh/,  “anciões”, que benzem as frutas com as quais as mulheres
 prepararão sumos, águas-puras para serem bebidas pela família. Fervidos
 e ralados, os buritis transformam-se numa massa que é adicionada ao
 caxiri a ser oferecido a todos durante as festas.
@@ -14884,22 +14884,21 @@ explicita a habilidade feminina de fazer crescer os filhos e o marido
 através do preparo dos alimentos e dos cuidados com as plantas na roça.
 Como as manivas que oferecem as cuias de caxiri à coca, as mulheres
 oferecem a massa a um velho xamã, Mandu, em retribuição aos frutos
-benzidos pelos ancestrais-Jurupari. Pensando com C. Hugh-Jones (1979), é
+benzidos pelos ancestrais-Jurupari. Pensando com C. Hugh-Jones, é
 possível ver em que medida o consumo das substâncias é também um consumo
 dos processos míticos, xamânicos e práticos que fazem com que a
 sociabilidade das plantas e de humanos ocorram a partir de formas de
 interação semelhantes e complementares. O caxiri e a coca são veículos
 de interação social que agregam pessoas, plantas e humanos, em torno do
-consumo das substâncias, das conversas e dos encantamentos (Hugh-Jones,
-1995; C. Hugh-Jones, 1979).
+consumo das substâncias, das conversas e dos encantamentos.
 
-#### A fala poderosa
+###A fala poderosa
 
 Numa festa de caxiri, depois que as mulheres já tinham abandonado a
 maloca com suas panelas, Vicente e João Brasil sentaram-se um ao lado do
 outro. Tinham uma panela de caxiri diante de si e, entre uma cuia e
 outra, conversavam intensamente. No momento em que me aproximei, eles me
-ofereceram caxiri e disseram: /ɨ̗d pa̗y, nɨ̖h ɨ̗d/, “fala ruim, a nossa
+ofereceram caxiri e disseram: /ɨ̗d pa̗y, nɨ̖h ɨ̗d/,  “fala ruim, a nossa
 conversa”. João Brasil explicava ao primo paralelo as ações de um
 feitiço. Rapidamente, enfatizaram que essa era uma “fala ruim” em
 oposição à “fala boa”, a “fala dos benzimentos” através da qual eles
@@ -14912,24 +14911,26 @@ poderosa” permite a aquisição de habilidades xamânicas para causar
 parentes.
 
 Quando se encontram sentados nas rodas de coca bebendo caxiri, além das
-piadas e conversas amistosas, os senhores hup conversam pela /pu̗b ɨ̗d/, a
-“fala poderosa”, ou /döh ɨ̗d/, “fala dos sopros”, por meio da qual
+piadas e conversas amistosas, os senhores hup conversam pela /pu̗b ɨ̗d/,  a
+“fala poderosa”, ou /döh ɨ̗d/,  “fala dos sopros”, por meio da qual
 aprendem e ensinam feitiços. Os estragos podem fazer pessoas ou famílias
 adoecerem, e até mesmo dizimar aldeias inteiras, impedir a caça e a
 pesca devido ao aprisionamento dos animais, e induzir pessoas ao
-suicídio. Retomando M15, a queima do corpo de /Bisi̗w/ faz surgirem as
+suicídio. Retomando **M15**, a queima do corpo de /Bisi̗w/  faz surgirem as
 flautas Jurupari, mas em meio à sua agonia o ser ancestral amaldiçoa os
 Hupd’äh que passam a sofrer com as brigas, os envenenamentos e as mortes
 após a vingança dos pais dos rapazes devorados. Como descreve
 Reichel-Dolmatoff (1986, p. 188) para os Desana:
 
-> *O fato de que o mesmo sentimento de segurança pessoal também exige,
-> por vezes, atitudes negativas, é apenas natural. Agressões mágicas
-> para causar uma desgraça ao próximo, doença ou até a morte são
-> frequentes entre os Desana e as causas para essas inimizades podem ser
-> múltiplas: a invasão de um território de caça ou de pesca; um roubo
-> cometido em uma roça ou, talvez, algum desgosto ocorrido durante uma
-> festa*.
+<!--estilo de citação-->
+ O fato de que o mesmo sentimento de segurança pessoal também exige,
+ por vezes, atitudes negativas, é apenas natural. Agressões mágicas
+ para causar uma desgraça ao próximo, doença ou até a morte são
+ frequentes entre os Desana e as causas para essas inimizades podem ser
+ múltiplas: a invasão de um território de caça ou de pesca; um roubo
+ cometido em uma roça ou, talvez, algum desgosto ocorrido durante uma
+ festa.
+<!--estilo de citação-->
 
 A palavra /döhöy/ traduzida pelos Hupd’äh como “estrago” ou “feitiço”
 possui a mesma raiz da palavra /döhö/, um dos nomes dados aos Jurupari.
@@ -14949,16 +14950,18 @@ palavras apenas causarão malefícios aos outros. Para Buchillet (1983, p.
 131), as “doenças de feitiço” são causadas pela realização de
 encantamentos semelhantes aos benzimentos de cura e proteção:
 
-> *Por outro lado, os textos foram concebidos para cuidar (encantamentos
-> terapêuticos) ou para provocar (encantamentos maléficos) esses
-> malefícios. Esses textos são elaborados a partir de episódios míticos
-> relativos às situações de criação das doenças. \[..\] A cura e o meio
-> de produzir as doenças são transmitidas aos ku͂bu͂ pelas gerações. Os
-> Desana insistem sempre sobre o fato de que não há “bons ku͂bu͂” ou “ku͂bu͂
-> malfeitores”, toda cura é ensinada e aprendida ao mesmo tempo que seu
-> contrário, encantamentos terapêuticos e agressões fazem parte de um
-> arsenal terapêutico de todo ku͂bu͂, encantamentos terapêuticos e de
-> agressões são, portanto, complementares*.
+<!--estilo de citação-->
+ Por outro lado, os textos foram concebidos para cuidar (encantamentos
+ terapêuticos) ou para provocar (encantamentos maléficos) esses
+ malefícios. Esses textos são elaborados a partir de episódios míticos
+ relativos às situações de criação das doenças. \[..\] A cura e o meio
+ de produzir as doenças são transmitidas aos ku͂bu͂ pelas gerações. Os
+ Desana insistem sempre sobre o fato de que não há “bons ku͂bu͂” ou “ku͂bu͂
+ malfeitores”, toda cura é ensinada e aprendida ao mesmo tempo que seu
+ contrário, encantamentos terapêuticos e agressões fazem parte de um
+ arsenal terapêutico de todo ku͂bu͂, encantamentos terapêuticos e de
+ agressões são, portanto, complementares.
+<!--estilo de citação-->
 
 Na explicação dada por meus interlocutores, a “fala poderosa” pode ser
 vista como complementar às ações terapêuticas, pois permite aos xamãs
@@ -14968,12 +14971,14 @@ sofrimento. Refletindo sobre a cerimônia de rupari, Reid (1979, p.
 281) afirma que os participantes induzem um estado pleno de energia
 quente e extremamente perigoso. Em suas palavras,
 
-> *Desse modo, os Hupdʉ induzem neles mesmos um estado muito quente e
-> perigoso que leva ao clímax do dia seguinte, quando as mulheres e as
-> crianças correm da casa e os trompetes Jurupari e as frutas são
-> trazidas para dentro*.
+<!--estilo de citação-->
+ Desse modo, os Hupdʉ induzem neles mesmos um estado muito quente e
+ perigoso que leva ao clímax do dia seguinte, quando as mulheres e as
+ crianças correm da casa e os trompetes Jurupari e as frutas são
+ trazidas para dentro.
+<!--estilo de citação-->
 
-Retomando M15, é possível perceber que os males que acometem /Bisi̗w/
+Retomando **M15**, é possível perceber que os males que acometem /Bisi̗w/
 delineiam um processo de intensificação de energias e elementos quentes.
 O caroço de uacu queimado, que o leva primeiro ao desmaio, em seguida a
 uma agressividade intensa que o faz devorar os rapazes vivos. Em
@@ -14982,7 +14987,7 @@ ancestral que seria, então, queimado vivo. As flautas surgem do extremo
 aquecimento de seu corpo pelo caxiri e pelo fogo, num momento de extrema
 agressividade e violência que resulta no aparecimento das doenças, das
 brigas e dos envenenamentos como modos de a humanidade “sofrer como
-/Bisi̗w/ sofreu”. Esses males são, portanto, feitiços causados pela ação
+/Bisi̗w/  sofreu”. Esses males são, portanto, feitiços causados pela ação
 maléfica de /Bisi̗w/.
 
 Substâncias plenas de energia fria, os buritis atenuam o calor extremo
@@ -14998,16 +15003,16 @@ peles dos rapazes são uma essência fria que atinge a pele mole para
 endurecê-la e moldá-la. O exercício de controle sobre a agressividade
 que leva os rapazes a perseguirem o agressor, mas não a revidar os
 açoites parece constituir o contexto relacional para o aprendizado de um
-controle de si (Buchillet, 1983).
+controle de si.
 
 Em meio às cuias de caxiri e às “falas poderosas”, os xamãs intensificam
 a energia quente de seus corpos, mas o consumo de coca e a postura
-sentada nos bancos de leite matêm o equilíbrio para que atenuem ou
+sentada nos bancos de leite mantêm o equilíbrio para que atenuem ou
 dirijam sua agressividade contra seus inimigos. Nos encontros noturnos,
 a carne e ossos assados e pilados do Velho Cobra são cuidadosamente
-misturados com o /pu͂’u͂k-b’ö̖h/, o “sal de coca”, obtido a partir das
+misturados com o /pu͂’u͂k-b’ö̖h/,  o “sal de coca”, obtido a partir das
 cinzas das folhas secas de embaúba queimadas. A própria embaúba recebe o
-nome de /pu͂’u͂k-b’ö̖h-tëg/, “árvore de sal de coca”, expressão que a
+nome de /pu͂’u͂k-b’ö̖h-tëg/,  “árvore de sal de coca”, expressão que a
 identifica pela sua condição de tempero culinário para o preparo da
 coca[^126]. O sal é um condimento pleno de energia fria que atenua o
 calor dos alimentos. Da mesma maneira, o “sal da coca” permite que a
@@ -15016,7 +15021,7 @@ gustativo. Bem temperada com sal, a coca fica doce como o leite,
 mantendo certo grau de calor bom para fazer crescer os saberes, mas fria
 o suficiente para que os xamãs se mantenham serenos e falem apenas sobre
 encantamentos de cura e proteção. Desse modo, é possível ver como nas
-cerimônias de Jurupari, nas rodas de caxiri enos encontros noturnos há
+cerimônias de Jurupari, nas rodas de caxiri e nos encontros noturnos há
 um equilíbrio tenso entre energias quentes e frias, entre estados de
 serenidade e violência, cujo domínio pelo xamã se torna fundamental para
 que consiga curar, cercar ou agredir. As festas de caxiri e danças de
@@ -15030,7 +15035,7 @@ bate-bocas até confrontos corporais. Em casos extremos, as brigas podem
 levar ao assassinato com os oponentes empunhando terçados ou
 atingindo-se com flechas envenenadas. O envolvimento de grupos em defesa
 de ambas as partes pode gerar guerras como as que ocorreram no início
-dos anos 2000, em /Pɨ̖͂g-Dëh/ e em /To̗͂h- Haya̗m/. Essas /u͂h me̗h/,
+dos anos 2000, em /Pɨ̖͂g-Dëh/ e em /To̗͂h- Haya̗m/.  Essas /u͂h me̗h/,
 “guerras/batalhas”, de enfrentamento entre clãs oponentes causaram
 muitas mortes e culminaram na fissão do grupo local. Comentando sobre as
 brigas durante as festas de caxiri, Reid (1979, p. 135-6) vê nos
@@ -15038,17 +15043,19 @@ conflitos suscitados pelos eventos coletivos e pelo consumo da bebida um
 contexto de expressão das tensões, frustrações e ódios entre pessoas e
 grupos. Nas palavras do autor:
 
-> Os Hupdʉ são calmos, quietos e autocontrolados no dia a dia, mas à
-> medida que a festa se inicia, a casa torna-se cada vez mais barulhenta
-> \[...\] Nos momentos finais da festa ocorrem brigas sérias que
-> irrompem entre coabitantes, ou entre anfitriões e convidado,
-> terminando quase sempre em mortes ou em injúrias sérias. \[...\]
-> Exceto pelos desentendimentos ocasionais entre maridos e esposas, as
-> brigas ocorrem somente durante as festas de caxiri ou rituais. \[...\]
-> Desejos, frustrações, ciúmes, afetos ou desafetos pessoais e outras
-> tensões propensas a ocorrer entre grupos pequenos de pessoas vivendo
-> em intensa intimidade encontram expressão durante as festas de caxiri,
-> ao passo que são completamente reprimidas no dia-a-dia*.*
+<!--estilo de citação-->
+ Os Hupdʉ são calmos, quietos e autocontrolados no dia a dia, mas à
+ medida que a festa se inicia, a casa torna-se cada vez mais barulhenta
+ \[...\] Nos momentos finais da festa ocorrem brigas sérias que
+ irrompem entre coabitantes, ou entre anfitriões e convidado,
+ terminando quase sempre em mortes ou em injúrias sérias. \[...\]
+ Exceto pelos desentendimentos ocasionais entre maridos e esposas, as
+ brigas ocorrem somente durante as festas de caxiri ou rituais. \[...\]
+ Desejos, frustrações, ciúmes, afetos ou desafetos pessoais e outras
+ tensões propensas a ocorrer entre grupos pequenos de pessoas vivendo
+ em intensa intimidade encontram expressão durante as festas de caxiri,
+ ao passo que são completamente reprimidas no dia-a-dia.
+<!--estilo de citação-->
 
 Nos dias de festa de caxiri, depois de beber na maloca, é comum haver
 desentendimentos entre rapazes, irmãos entre si, que começam a brigar. O
@@ -15066,7 +15073,7 @@ De modo diferente, as brigas de mulheres acontecem principalmente entre
 aquelas que pertencem ao clã local e suas afins, que são “gente de
 outras terras”. Ao longo da festa, as rodas de caxiri das mulheres vão
 ficando cada vez mais animadas. Com suas panelas, elas começam a rir e a
-falar alto. Quando se levantam, iniciam “cantos”, /yamido̗’/ dedicados ao
+falar alto. Quando se levantam, iniciam “cantos”, /yamido̗’/  dedicados ao
 homem sentado para quem estão oferecendo o caxiri. Esse deve beber todo
 o caxiri da cuia e não pode devolvê-la enquanto a cantora não terminar
 sua canção. Num dado momento, elas levantam-se e começam a cantar
@@ -15077,12 +15084,12 @@ seus clãs, suas famílias, seus maridos. Já as “donas da terra” contam de
 sua vida, do casamento com maridos de outras terras, bem como sobre seus
 filhos, roças e caxiris. Se o diálogo musical for amistoso, os versos de
 uma e outra trarão agradecimentos por ajudas e pela boa convivência.
-Esses cantos constituem um gênero denominado /hisösö̗y yamido̗’/, “cantos
+Esses cantos constituem um gênero denominado /hisösö̗y yamido̗’/,  “cantos
 alegres”. Entretanto, os desafios podem culminar em /tä̗w yamido̗’/,
 “cantos de ira”, com versos que vão insultando a oponente através da
 desqualificação de sua pessoa. Atacando-se mutuamente, as cantoras
 maculam a imagem de boas trabalhadoras e de boas mães, acusam-se de
-roubo, de mau comportamento, etc. As disputas são acompanhadas por
+roubo, de mau comportamento etc. As disputas são acompanhadas por
 outras mulheres e podem suscitar brigas corporais entre as
 interlocutoras que terminarão com a intervenção de um marido ou filho.
 
@@ -15090,7 +15097,7 @@ Nos encontros noturnos dos dias que se seguem às festas, os senhores
 conversam muito sobre as brigas. Comendo coca, procuram entender a causa
 e a origem do sopro que fez irmãos verem-se como inimigos, e “cunhadas”
 a porem risco sua boa convivência. Dependendo das pessoas que se
-envolveram na disputa e dos motivos que levaram ao cnfronto, os xamãs
+envolveram na disputa e dos motivos que levaram ao confronto, os xamãs
 saberão se o causador foi um feiticeiro tukano, ou um xamã hup de outro
 grupo local como /Pi̖j-Dëh/ ou /To̗͂h-Ha̗yam/, comunidades que possuem
 membros residentes em /Ta̗t-Dëh/ e que já agiram xamanicamente contra as
@@ -15098,22 +15105,24 @@ famílias da aldeia. Entretanto, brigas no seio de famílias de alto
 ranque são atribuídas geralmente à ação maléfica de índios tukano
 habitantes de comunidades próximas. Pozzobon (2011, p. 59) vê as brigas
 entre agnatos como um dos fatores que leva à fissão dos grupos locais e
-de unidades sociais.
+de unidades sociais:
 
-> *Mas em muitos casos \[...\] as fissões resultam efetivamente de más
-> relações entre irmãos ou primos paralelos próximos. A competição por
-> mulheres e as acusações mútuas de feitiçaria podem não somente levar à
-> fissão do grupo, mas também à segmentação do clã em clãs menores.
-> \[...\] a dispersão e a agregação são processos complementares: quando
-> um assentamento se fissiona, é muito provável que outro receba os
-> novos habitantes*.
+<!--estilo de citação-->
+ Mas em muitos casos \[...\] as fissões resultam efetivamente de más
+ relações entre irmãos ou primos paralelos próximos. A competição por
+ mulheres e as acusações mútuas de feitiçaria podem não somente levar à
+ fissão do grupo, mas também à segmentação do clã em clãs menores.
+ \[...\] a dispersão e a agregação são processos complementares: quando
+ um assentamento se fissiona, é muito provável que outro receba os
+ novos habitantes.
+<!--estilo de citação-->
 
 Tendo observado inúmeras brigas entre mulheres afins e nenhuma entre
 cunhados, entendo que as inúmeras tensões que existem entre as famílias
 que possuem territórios de domínio e aquelas que têm permissões para
 viver e trabalhar na região se expressam, muitas vezes, através desses
 confrontos entre cantoras. No Dabucuri que presenciei, ao receberem a
-dádiva, as mulheres /Sokw’ä̗t/ posicionavam-se num campo de relações que
+dádiva, as mulheres /Sokw’ä̗t/  posicionavam-se num campo de relações que
 celebrava as boas alianças e a convivência entre os clãs. Inversamente,
 entendo que os cantos e as brigas de mulheres afins permitem que as
 tensões e inimizades entre as famílias venham à tona sem fazer com que a
@@ -15150,18 +15159,18 @@ encontro noturno. Esse é o momento em que os velhos estão deitados em
 suas redes, começando a dormir e a deslocar-se oniricamente pelo cosmos.
 Nessas viagens, acalmam seres, encontram-se com ancestrais, visitam
 diversas moradas e protegem seus descendentes. Caso adormeçam antes, os
-velhos têm “pesadelos”, /so̖͂h ni pa̗y/, e acordam gritando, têm seus
+velhos têm “pesadelos”, /so̖͂h ni pa̗y/,  e acordam gritando, têm seus
 sopros vitais e saberes roubados por feiticeiros ou seres malfazejos.
 Assim, no evento que presenciei, as flautas foram trazidas à maloca no
 intervalo de tempo em que os senhores se movimentavam pelo universo.
 
-Pensando com Buchillet (1983, p. 155), é possível dizer que o domínio e
+Pensando com Buchillet, é possível dizer que o domínio e
 maestria das potências corporais é fundamental para que os indivíduos
 tenham controle de si ao consumirem substâncias como o caxiri e a coca,
 bem como para manterem suas posturas adequadas durante a cerimônia das
-flautas. Os senhores hup dizem “trabalhar muito” nsses períodos
+flautas. Os senhores hup dizem “trabalhar muito” nesses períodos
 posteriores às festas. Rodas grandes realizam-se e contam com a presença
-dos membros do *sibling* /Sokw’ä̗t/ e dos principais benzedores afins. Os
+dos membros do *sibling* /Sokw’ä̗t/  e dos principais benzedores afins. Os
 “comedores de coca” sentam-se entre cunhados, o que é fundamental, pois
 sendo membros de clãs diferentes e tendo vivido em outras aldeias,
 possuem habilidades diferenciais e complementares para curar as doenças
@@ -15172,19 +15181,18 @@ uma postura serena e livre do calor intenso. À luz das conversas da
 uma série de ações terapêuticas e protetoras para atenuar os males
 causados e cercar a todos contra feitiços dos inimigos estrangeiros.
 
-1.  ### Cuias de caarpi
+##Cuias de caarpi
 
-    1.  #### Na Serra da Iniciação
+###Na Serra da Iniciação
 
 Numa festa de caxiri de 2012, Samuel sentou-se ao meu lado na roda de
-coca, longe da maloca, e começamos a conversar sobre a [[]{#OLE_LINK41
-.anchor}]{#OLE_LINK42 .anchor}“Serra da Iniciação” (**M17**)
-([]{#M18_Iniciacao .anchor}M18). Os senhores presentes disseram que os
+coca, longe da maloca, e começamos a conversar sobre a “Serra da Iniciação” (**M17**)
+(**M18**). Os senhores presentes disseram que os
 antigos se referiam a esse morro igualmente como /Huphisɨh-Paç/, a
 “Serra da Menstruação”. A alteração da toponímia devia-se à importância
 de esconder das mulheres e crianças o verdadeiro nome do local onde os
 ancestrais tocaram as flautas pela primeira vez. Segundo Samuel, os
-antigos valiam-se muito dessa /yä̗d ɨ̗d/, “linguagem de ocultar”, para que
+antigos valiam-se muito dessa /yä̗d ɨ̗d/,  “linguagem de ocultar”, para que
 encantamentos e toponímias fossem inacessíveis às mulheres e aos
 brancos. Atualmente, é permitido revelar o verdadeiro sentido de
 palavras até então acessíveis apenas a iniciados, pois os “homens
@@ -15199,7 +15207,7 @@ abrindo as primeiras trilhas até chegarem à
 Serra da Iniciação/Menstruação. Durante o percurso, colheram todas as
 frutas que são hoje mencionadas nos encantamentos: /Siwi̖b/,
 “bacaba”[^127], /Yã̗h/, “uacu”[^128], /Mi̖n/[^129], “ingá”, /Po̗-min/,
-“ingá silvestre”, /Buhu̗/, “curura”[^130]. Como nas caminhadas em que os
+“ingá silvestre”, /Buhu̗/,  “curura”[^130]. Como nas caminhadas em que os
 anciões mostravam frutas e plantas aos rapazes enquanto os guiavam pelos
 trajetos para familiarizá-los com elementos e potências importantes para
 as ações xamânicas, essa viagem dos antigos se constitui como um
@@ -15208,16 +15216,18 @@ se revelando para que, mais tarde, os ancestrais soubessem quais frutas
 poderiam ser oferecidas nos Dabucuris e quais substâncias deveriam ser
 utilizadas para a cura e proteção. Continuando, Samuel contou que:
 
-> *No alto do morro havia duas casas. Numa delas ficaram as mulheres com
-> suas crianças. Essa casa foi toda cercada com pari para ocultar os
-> instrumentos sagrados. A outra era uma casa grande, uns 100 metros ela
-> tinha. Os homens tiraram as flautas e começaram a tocá-las. Foram
-> caminhando até entrarem na maloca onde seus cunhados os esperavam.
-> Dançaram. Mostraram as flautas pros cunhados que eram todos animais:
-> /me̖t/, “cotia”, /k’a̗j/, “cutivaia”, /ta̖h/, “anta”, /pɨ̖͂g/, “preguiça”,
-> /e̖ç/, “uacari”, /tõ̗h/, “porco”, /töhö̗t/, “caititu”, /bɨ̗g/, “tamanduá”.
-> O /kɨhsä̗t/, “primeiro” ancestral, era /Döhö Pu̗b i͂h/, que é o /soho̗/,
-> “caranguejo”* (Cad. Camp. fev./2012).
+<!--estilo de citação-->
+ No alto do morro havia duas casas. Numa delas ficaram as mulheres com
+ suas crianças. Essa casa foi toda cercada com pari para ocultar os
+ instrumentos sagrados. A outra era uma casa grande, uns 100 metros ela
+ tinha. Os homens tiraram as flautas e começaram a tocá-las. Foram
+ caminhando até entrarem na maloca onde seus cunhados os esperavam.
+ Dançaram. Mostraram as flautas pros cunhados que eram todos animais:
+ /me̖t/, “cotia”, /k’a̗j/, “cutivaia”, /ta̖h/, “anta”, /pɨ̖͂g/, “preguiça”,
+ /e̖ç/, “uacari”, /tõ̗h/, “porco”, /töhö̗t/, “caititu”, /bɨ̗g/, “tamanduá”.
+ O /kɨhsä̗t/, “primeiro” ancestral, era /Döhö Pu̗b i͂h/, que é o /soho̗/,
+ “caranguejo” (Cad. Camp. fev./2012).
+<!--estilo de citação-->
 
 Chegando ao topo do morro, os ancestrais depararam-se com duas casas,
 uma próxima à outra. A divisão em duas casas, uma cercada, destinada às
@@ -15231,24 +15241,26 @@ faziam das grutas moradas semelhantes à Casa-do-Trovão[^131]. Nesse
 sentido, a divisão entre uma casa masculina aberta e outra feminina
 cercada (tapada) parece remeter a uma interdição generalizada do manejo
 e visão das flautas pelas mulheres para todos os seres, Humanos,
-Espíritos e Animais[^132]. Como bem ressalta Piedade (1997), a
+Espíritos e Animais[^132]. Como bem ressalta Piedade, a
 interdição visual segue paralela à permissão da audição, já que mulheres
 e crianças escutam continuamente a melodia das flautas. Nas palavras do
 pesquisador:
 
-> Como se sabe, a simbologia que envolve os ritos Jurupari (e portanto
-> também sua musicalidade) está vinculada a um idioma da masculinidade,
-> que perpassa rito e música, e envolve também os *miriá-põ’ra*,
-> formando um complexo cultural interdito às mulheres. Quero sugerir que
-> esta proibição parece ser principalmente visual: reclusas fora da
-> maloca, elas podem ouvir o som do Jurupari. É significativo que os
-> sons musicais Jurupari sejam assim um código de acesso permitido a
-> elas, uma via aberta que as leva a este complexo simbólico. Os homens
-> sabem disso, e portanto pode-se levantar a hipótese de que proibição
-> visual e permissão sonora façam parte das regras de comunicabilidade
-> entre masculinidade e feminilidade, e não da dominação masculina que
-> caracteriza a visão do antagonismo sexual no ARN (Piedade, 1997, p.
-> 116).
+<!--estilo de citação-->
+ Como se sabe, a simbologia que envolve os ritos Jurupari (e portanto
+ também sua musicalidade) está vinculada a um idioma da masculinidade,
+ que perpassa rito e música, e envolve também os *miriá-põ’ra*,
+ formando um complexo cultural interdito às mulheres. Quero sugerir que
+ esta proibição parece ser principalmente visual: reclusas fora da
+ maloca, elas podem ouvir o som do Jurupari. É significativo que os
+ sons musicais Jurupari sejam assim um código de acesso permitido a
+ elas, uma via aberta que as leva a este complexo simbólico. Os homens
+ sabem disso, e portanto pode-se levantar a hipótese de que proibição
+ visual e permissão sonora façam parte das regras de comunicabilidade
+ entre masculinidade e feminilidade, e não da dominação masculina que
+ caracteriza a visão do antagonismo sexual no ARN (Piedade, 1997, p.
+ 116).
+<!--estilo de citação-->
 
 Em /Ta̗t-Dëh/, a separação entre a dança dos homens na maloca e o sono
 das mulheres e crianças nas casas mostra-se uma atualização dessa
@@ -15268,7 +15280,7 @@ com mulheres. Quando desperta de seu sono, o rapaz encontra-se molhado
 com a própria ejaculação, algo que traz perigo para toda a família, já
 que o odor do esperma ofende as Gentes-Cobra. A menarca vem acompanhada
 igualmente dos sonhos eróticos das meninas, que precisam ser logo
-benzidas com o /bu̗y k’e̖t bi’i̖d/, “benzimento da folha buy-ket”, para
+benzidas com o /bu̗y k’e̖t bi’i̖d/,  “benzimento da folha buy-ket”, para
 estarem protegidas. Como visto acima, o odor do sangue menstrual é
 percebido como veneno de timbó pelos Homens-Cobra. Furiosos, eles atacam
 a família da moça. Descritas como /hikad ni/, “transformações” ou
@@ -15283,17 +15295,17 @@ afastamento dos rapazes do convívio social durante a iniciação. Ao mesmo
 tempo em que a denominação da Serra da Iniciação como
 Serra da Menstruação oculta os fatos que lá ocorreram, aproxima o
 sentido da iniciação masculina como uma menstruação ou uma menarca, algo
-próximo ao descrito por Hugh-Jones (1979) para os Barasana.
+próximo ao descrito por Hugh-Jones para os Barasana.
 
 Como me explicaram os senhores hup, essas interdições visuais e
 linguísticas fazem-se necessárias para que as mulheres não se apossem
 novamente das flautas, o que levaria todas à morte e sofrimento (**M17**).
-Tomando as palavras de Lima (2005, p. 311), “incorporando a
+Tomando as palavras de Lima (2005, p. 311), <!--citação-->“incorporando a
 feminilidade, os homens se tornam suscetíveis à experiência da
 alteridade, enquanto as mulheres, arrastadas neste processo, parece que
 são banidas para fora da humanidade”. Se a interdição da visão das
-flautas é também a interação num campo sonoro, como constata Piedade
-(1997), acredito que a “linguagem oculta” que esconde a referência ao
+flautas é também a interação num campo sonoro, como constata Piedade, 
+acredito que a “linguagem oculta” que esconde a referência ao
 local de iniciação e mostra o espaço da “menstruação masculina”
 explicite para as mulheres sentidos importantes para sua proteção e
 afastamento durante a *performance*.
@@ -15310,11 +15322,11 @@ mulheres é que a Serra da Menstruação é o local primordial de
 transformação dos homens em guerreiros e que, banidas desse espaço, elas
 se situam na posição de predadoras apenas para num momento seguinte
 serem presas fáceis das Gentes-Cobra caso não sejam protegidas, cercadas
-com a fumaça da folha /bu̗y k’e̖t/, pelos homens. Deixam, assim, de
+com a fumaça da folha /bu̗y k’e̖t/,  pelos homens. Deixam, assim, de
 almejar à sua condição de caçadoras e de mulheres tapadas que detinham o
 domínio das flautas (**M17**)[^133].
 
-#### A grande maloca
+###A grande maloca
 
 Na noite, a vigília masculina e o sono feminino, a *performance* masculina
 na maloca e o sono individual das mulheres em suas casas possibilitam a
@@ -15322,11 +15334,13 @@ separação necessária entre homens e mulheres para a execução das
 flautas. Como mostra Hugh-Jones (1979, p. 248), ao analisar as
 cerimônias de Jurupari entre os Barasana,
 
-> *Na Casa He, categorias que são normalmente mantidas separadas são
-> fundidas e confundidas: a casa torna-se o universo, o passado e o
-> presente fundem-se a tal ponto que os mortos vivem e os vivos morrem,
-> o tempo presente torna-se o tempo mítico, um tempo quando os seres
-> humanos, animais, e ancestrais eram ainda indiferenciados*.
+<!--estilo de citação-->
+ Na Casa He, categorias que são normalmente mantidas separadas são
+ fundidas e confundidas: a casa torna-se o universo, o passado e o
+ presente fundem-se a tal ponto que os mortos vivem e os vivos morrem,
+ o tempo presente torna-se o tempo mítico, um tempo quando os seres
+ humanos, animais, e ancestrais eram ainda indiferenciados.
+<!--estilo de citação-->
 
 No alto da Serra da Iniciação, a reciprocidade se estabelece entre os
 ancestrais hup e seus cunhados, afins animais. A casa grande, onde os
@@ -15348,8 +15362,8 @@ mulheres do outro. Senhoras e moças circulam com as panelas de caxiri
 oferecendo cuias a todos. No centro, casais formam-se, e as danças não
 param até o cair da noite.
 
-> []{#Fig53_VistaTatDeh .anchor}**Figura 9.** Vista externa da maloca de
-> /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011).
+<!--Fig. 29-->
+Vista externa da maloca de /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011).
 
 Comparada às malocas de outras aldeias, a /Ä̗g-Mo̖y/ de /Ta̗t-Dëh/ pode ser
 vista como uma das maiores e talvez a única construída a partir dos
