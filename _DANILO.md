@@ -127,7 +127,7 @@ Segunda Parte
 
 9. Considerações finais
 
-[<!-- Coca para os viajantes 354](#coca-para-os-viajantes)
+Coca para os viajantes 354](#coca-para-os-viajantes)
 
 [A coca dos viajantes 356](#a-coca-dos-viajantes)
 
@@ -230,10 +230,10 @@ Segunda Parte
 
 [256 363](#section-28)
 
-[Agradecimentos 371](#agradecimentos) Verificar, inexistentes no sumário da tese -->
+[Agradecimentos 371](#agradecimentos) 
 
 
-#Coca, tabaco e caxiri – entradas para o mundo Hupd’äh
+Coca, tabaco e caxiri – entradas para o mundo Hupd’äh
 
 
 No final da tarde, de qualquer casa desta aldeia hupd’äh à beira do
@@ -398,7 +398,7 @@ surgem o batalhão do exército, as casas de alvenaria, o ginásio, os
 prédios públicos, e a imperiosa Igreja matriz salesiana com seu colégio
 acoplado.
 
-<!-- Fig 1. -->
+Figura 1
 Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)
 
 A viagem ao Tiquié é adiada a cada dia. A falta de chuvas ou o excesso
@@ -678,7 +678,7 @@ minha vida. Foi com esse encantamento também que comecei a viajar pelos
 rios da região do alto rio Negro, a sentar-me nas rodas de coca, a ouvir sobre as
 viagens dos antigos, e a andar pelos caminhos das matas.
 
-<!--Fig. 2  -->
+Figura 2
 Vista da aldeia de /Ta̗t-Dëh/ (foto: Sylvia C. Novaes, 2012)
 
 ## Encontros noturnos e caminhos vividos 
@@ -836,7 +836,7 @@ próximo aos grandes rios têm a ver com a agência missionária salesiana,
 que procurou agregar em grandes aldeias, designadas pelo pesquisador como
 povoados-missão, o maior número de pessoas para evangelização. 
 
-<!-- Fig. 3 -->
+Figura 3
 Localização da comunidade Hupd’äh de /Ta̗t-Dëh/, Taracuá-Igarapé
 
 A estrutura social hup tem nos clãs agnáticos seus segmentos básicos
@@ -896,7 +896,7 @@ um dicionário hupd’äh-português e cartilhas na língua hup. Esses
 materiais vêm permitindo aos professores desenvolver junto aos alunos a
 escrita e o aprendizado de sua língua.
 
-<!-- Fig. 4 -->
+Figura 4
 Regiões habitadas por populações das etnias Hupd’äh e Yuhupdëh no médio Tiquié
 
 O contato teve inicio com as frentes de colonização desde o século
@@ -922,13 +922,13 @@ Ricardo se lembrou das histórias do antropólogo que usava tanga, falava
 hup, caçava e pescava.
 
 <!-- Estilo de citação -->
-Mostrei a Ricardo o livro de Howard Reid. Ele disse que os velhos
-falaram pra ele desse que chamavam Haw. Ele usava tanga. Ficava lá no
-meio deles. Falava a língua hup. Ia caçar no mato, pescava, fazia tudo
-como os Hupd’äh. Ele e o Peter (Peter Silverwood-Cope). Ele falava pros
-velhos que veio de avião. Eles gostavam desse /Haw/. Mas ele foi embora
-e não voltou mais. O avô de Ricardo conheceu-o. Ele foi embora uns anos
-antes de Ricardo nascer (Caderno de campo, 25/11/2009).
+> Mostrei a Ricardo o livro de Howard Reid. Ele disse que os velhos
+> falaram pra ele desse que chamavam Haw. Ele usava tanga. Ficava lá no
+> meio deles. Falava a língua hup. Ia caçar no mato, pescava, fazia tudo
+> como os Hupd’äh. Ele e o Peter (Peter Silverwood-Cope). Ele falava pros
+> velhos que veio de avião. Eles gostavam desse /Haw/. Mas ele foi embora
+> e não voltou mais. O avô de Ricardo conheceu-o. Ele foi embora uns anos
+> antes de Ricardo nascer (Caderno de campo, 25/11/2009).
 <!-- Estilo de citação -->
 
 Durante minhas estadas em campo, sempre ouço também histórias dos
@@ -1110,7 +1110,7 @@ progressivas, vistas por ele como grupos de transformação.
 Sobre os grupos de transformação de mitos, o antropólogo diz que
 “o sentido de um termo só pode ser definido substituindo-o em todos os
 contextos em que seja encontrado. \[...\] o mito é reorganizado de tal
-maneira que ele próprio se constitui como contexto” <!-- Adicionar rodapé para citação: Levi-Strauss, 2003, p. 247 -->.
+maneira que ele próprio se constitui como contexto” (Levi-Strauss, 2003, p. 247).
 Partindo de categorias empíricas definidas por meio da observação
 etnográfica de culturas específicas, a análise através dos grupos de
 transformação possibilita isolar noções abstratas e encadeá-las em
@@ -1417,16 +1417,16 @@ maku. Nas primeiras linhas do artigo “Die Maku”, publicado no ano de
 descreve os Maku da seguinte maneira: 
 
 <!-- [Estilo de citação] -->
-Entre o Rio Negro e o rio Yapurá, numerosos indígenas sem assentamento
-fixo vagam pela selva. São “índios do mato”, como dizem os brasileiros,
-toscos nômades caçadores que não possuem plantações, nem conhecem rede
-ou canoa, mas, por outro lado, conhecem a selva com a palma de suas
-mãos. Vivem da caça, da pesca e dos frutos da selva. Seus vizinhos,
-tribos sedentárias e de nível mais alto de desenvolvimento, odeiam-nos e
-perseguem-nos como a animais selvagens. Obrigam-nos a servir-lhes como
-escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
-vendem-nos a comerciantes brancos em troca de rifles e outras
-mercadorias europeias[^5]. 
+> Entre o Rio Negro e o rio Yapurá, numerosos indígenas sem assentamento
+> fixo vagam pela selva. São “índios do mato”, como dizem os brasileiros,
+> toscos nômades caçadores que não possuem plantações, nem conhecem rede
+> ou canoa, mas, por outro lado, conhecem a selva com a palma de suas
+> mãos. Vivem da caça, da pesca e dos frutos da selva. Seus vizinhos,
+> tribos sedentárias e de nível mais alto de desenvolvimento, odeiam-nos e
+> perseguem-nos como a animais selvagens. Obrigam-nos a servir-lhes como
+> escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
+> vendem-nos a comerciantes brancos em troca de rifles e outras
+> mercadorias europeias[^5]. 
 <!-- [Estilo de citação] -->
 
 É com estranhamento que os olhos de alguém que tenha vivido entre os
@@ -1484,13 +1484,13 @@ vestígios de uma raça aborígene reduzida à escravidão por tribos
 conquistadoras. Nas palavras de Münzel: 
 
 <!-- [Estilo de citação] -->
-Destarte, os Maku recebem o papel de *missing link* na pirâmide
-evolucionista. Visto que sempre os povos superiores e mais bonitos
-conquistaram e escravizaram os inferiores, os Maku – de fato
-escravizados por outros índios – devem ser inferiores e, para
-Koch-Grünberg, mais feios. Visto que deve haver, na pirâmide, uma base
-de gente feia e primitiva, próxima dos animais, os Maku devem constituir
-essa base (1969, p. 145). 
+> Destarte, os Maku recebem o papel de *missing link* na pirâmide
+> evolucionista. Visto que sempre os povos superiores e mais bonitos
+> conquistaram e escravizaram os inferiores, os Maku – de fato
+> escravizados por outros índios – devem ser inferiores e, para
+> Koch-Grünberg, mais feios. Visto que deve haver, na pirâmide, uma base
+> de gente feia e primitiva, próxima dos animais, os Maku devem constituir
+> essa base (1969, p. 145). 
 <!-- [Estilo de citação] -->
 
 Para o autor, com as melhores descrições etnográficas sobre os povos da
@@ -1516,8 +1516,8 @@ por exemplo, o modo de vida Maku é tomado como modelo do não humano e do
 animalesco. Para esse povo, os Maku habitam a floresta, não têm
 moradias fixas, não possuem conhecimentos sobre rituais nem
 ornamentos, casam-se com aqueles que falam a mesma língua,
-incestuosamente, <!-- “não comem senão carne, caçam no escuro e andam sem
-trilhas” (Silverwood-Cope, 1990, p. 72) inserir rodapé com fonte da citação?-->. 
+incestuosamente, “não comem senão carne, caçam no escuro e andam sem
+trilhas” (Silverwood-Cope, 1990, p. 72). 
 Também são vistos como “canibais”, tanto por não respeitarem as interdições alimentares dos
 “índios do rio” como por caçarem e comerem seres humanos. O povo que “anda sem trilhas”, “caça no escuro”, “não planta” e
 “não tem habitações fixas ou rituais” parece delinear-se aos olhos
@@ -1545,16 +1545,15 @@ fato um povo nômade e inferior. Para tanto, o etnógrafo oferece a
 seguinte descrição de uma suposta aldeia maku: 
 
 <!-- [Estilo de citação] -->
-Em minha viagem pelo Curicuriary, em fevereiro de 1904, apesar de não
-ter localizado esses homens da selva, descobri nas profundezas da selva,
-próximo à montanha de mesmo nome, dois acampamentos abandonados, muito
-primitivos. Eram compostos por numerosas cabanas de proteção que
-chegavam apenas à altura de um homem. Alguns paus enterrados em forma de
-pirâmide e cobertos com folhas. Nesses míseros refúgios que realmente
-não merecem o nome de cabanas, vive o Maku frequentemente com sua
-numerosa família, exposto às inclemências do tempo como o animal
-fugitivo da floresta.
-<!-- [Estilo de citação - adicionar rodapé: Koch-Grünberg, 1906/2010, p. 31, trad. do autor]  -->
+> Em minha viagem pelo Curicuriary, em fevereiro de 1904, apesar de não
+> ter localizado esses homens da selva, descobri nas profundezas da selva,
+> próximo à montanha de mesmo nome, dois acampamentos abandonados, muito
+> primitivos. Eram compostos por numerosas cabanas de proteção que
+> chegavam apenas à altura de um homem. Alguns paus enterrados em forma de
+> pirâmide e cobertos com folhas. Nesses míseros refúgios que realmente
+> não merecem o nome de cabanas, vive o Maku frequentemente com sua
+> numerosa família, exposto às inclemências do tempo como o animal
+> fugitivo da floresta. (Koch-Grünberg, 1906/2010, p. 31)  -->
 
 Qualquer um que tenha aceitado o convite de uma pessoa hup para uma
 incursão à caça ou à pesca verá na descrição acima a arquitetura de um
@@ -1581,11 +1580,10 @@ encontra nas oposições entre agricultores *versus* caçadores-coletores e
 nômades *versus* sedentários as bases para a interpretação das relações
 entre esses diferentes povos como relações de “senhor e escravo”.
 Retomando o primeiro excerto citado acima, num dado momento o autor
-afirma que as tribos sedentárias <!-- “Obrigam-nos a servir-lhes como
+afirma que as tribos sedentárias “Obrigam-nos a servir-lhes como
 escravos nos trabalhos domésticos e agrícolas e, em algumas situações,
 vendem-nos a comerciantes brancos em troca de rifles e outras
 mercadorias europeias” (Koch-Grünberg, 1906/2010, p. 29).
- criar rodapé para a autoria da citação?-->
 
 Para a compreensão desse excerto, é preciso ter como referência o
 contexto histórico da exploração da borracha, que fazia com que
@@ -1643,8 +1641,8 @@ línguas maku, já que a lista do viajante austríaco se perdeu.
 Koch-Grünberg descreve essas entrevistas dizendo que “os indivíduos às
 vezes proferiam as palavras rápida e timidamente, outras vezes
 vacilantes e a meia voz, de um modo animal que corresponde à natureza
-geral desses habitantes primitivos da selva”<!--  (Koch-Grünberg, 1906/2010,
-p. 34) criar rodapé?-->. 
+geral desses habitantes primitivos da selva” (Koch-Grünberg, 1906/2010,
+p. 34). 
 A elaboração da primeira lista de palavras em língua Maku
 relaciona-se também à busca por formular, em termos científicos, a
 hipótese da ocupação inicial do noroeste amazônico por povos ancestrais
@@ -1656,14 +1654,14 @@ redução da variedade linguística dos Maku. Num determinado momento do artigo,
 região é formulada da seguinte forma: 
 
 <!-- [Estilo de citação] -->
-A explicação consiste talvez no fato de que a massa dos atuais Maku
-constitui uma mescla de restos de tribos de diferentes línguas que em
-tempos anteriores foram os donos exclusivos de toda a região. Entre os
-invasores Arawak que vieram do norte ou do noroeste e as tribos do grupo
-Betoya que mais tarde chegaram do oeste e do sudoeste, estes autóctones
-primitivos foram paulatinamente comprimidos e logo fusionados. Esse
-processo histórico se deduz com bastante certeza a partir da atual
-configuração das tribos do alto rio Negro e de seus rios tributários. 
+> A explicação consiste talvez no fato de que a massa dos atuais Maku
+> constitui uma mescla de restos de tribos de diferentes línguas que em
+> tempos anteriores foram os donos exclusivos de toda a região. Entre os
+> invasores Arawak que vieram do norte ou do noroeste e as tribos do grupo
+> Betoya que mais tarde chegaram do oeste e do sudoeste, estes autóctones
+> primitivos foram paulatinamente comprimidos e logo fusionados. Esse
+> processo histórico se deduz com bastante certeza a partir da atual
+> configuração das tribos do alto rio Negro e de seus rios tributários. 
 <!-- [Estilo de citação - adicionar rodapé: Koch-Grünberg, 1906/2010, p. 31] -->
 
 Como mostram Becerra, Calvo e Rubio em 1996, Koch-Grünberg formula
@@ -1673,15 +1671,15 @@ referendadas mais tarde, em 1982, por Nimuendajú, que reapresenta a
 hipótese dos “primeiros habitantes” da seguinte maneira:
 
 <!-- [Estilo de citação] -->
-A primeira população destas terras parece ter sido formada por ora das
-poucas numerosas de uma cultura extremamente rudimentar, desconhecendo a
-princípio a cerâmica, a arte têxtil, a navegação, a lavoura e as
-construções permanentes, levando uma vida errante pelos centros da mata.
-Hoje os seus representantes, os pacíficos Maku dos centros, entre os
-afluentes grandes do Uaupés e Xiriána, em parte hostis nos sertões da
-margem esquerda do mesmo rio, já se acham profundamente influenciados
-pela cultura da segunda camada, da qual porém se conservam até hoje
-nitidamente separados]{} (Nimuendajú, 1982, p. 169, grifos meus).
+> A primeira população destas terras parece ter sido formada por ora das
+> poucas numerosas de uma cultura extremamente rudimentar, desconhecendo a
+> princípio a cerâmica, a arte têxtil, a navegação, a lavoura e as
+> construções permanentes, levando uma vida errante pelos centros da mata.
+> Hoje os seus representantes, os pacíficos Maku dos centros, entre os
+> afluentes grandes do Uaupés e Xiriána, em parte hostis nos sertões da
+> margem esquerda do mesmo rio, já se acham profundamente influenciados
+> pela cultura da segunda camada, da qual porém se conservam até hoje
+> nitidamente separados]{} (Nimuendajú, 1982, p. 169, grifos meus).
 <!-- [Estilo de citação] -->
 
 
@@ -1715,7 +1713,7 @@ como “tribos sedentárias”. Uma segunda contraposição entre nômades e
 sedentários ocorre quando o autor propõe que os Guaríua-Tapujo,
 habitantes da região do Japurá, seriam erroneamente designados “Maku”,
 pois possuíam “casas grandes e bem construídas, belas plantações e
-uma certa cultura” (1906/2010, p. 31) <!-- O autor traduziu todas as passagens do espanhol até então, portanto, sugeri tradução para esta também. CRIAR RODAPÉ COM REFERÊNCIA DA CITAÇÃO - KOCH-GRÜNBERG, 1906/2010, p. 31--> 
+uma certa cultura” (Koch-Grünberg, 1906/2010, p. 31).
 Seriam, assim, diferentes dos Maku-nômades, habitantes da região do rio Negro, que se moviam
 constantemente e estariam sempre em contenda com os Guaríua. Desse modo,
 seja na invasão da região por povos sedentários e agricultores, seja nos
@@ -1734,8 +1732,8 @@ seringueiros que, em meio a uma expedição de represália aos
 Maku-Guariba, depararam-se com duas malocas e roças grandes, Tastevin
 delineia uma imagem desse grupo muito próxima às descrições das
 populações sedentárias e agricultoras. São, por outro lado, “índios
-bravos” que <!-- “manifestam-se aos civilizados através de assassinatos,
-roubos, raptos e incêndios” (2008, p. 79) adc rodapé -->. De modo diferente, os
+bravos” que “manifestam-se aos civilizados através de assassinatos,
+roubos, raptos e incêndios” (2008, p. 79). De modo diferente, os
 Maku-mansos do Jurubaxi seriam inferiores, por possuírem pequenas roças,
 por serem “apaixonados pela caça” e por retomarem o “caminho da
 floresta” quando se veem contrariados. Tastevin
@@ -1912,18 +1910,18 @@ crítica correspondia à visão difundida pelo artigo de Alfred Métraux no
 Silverwood-Cope dirá que:
 
 <!-- Estilo de citação -->
-Primeiro, os Maku são classificados como “caçadores e colhedores”.
-Isto não está claramente baseado em qualquer observação direta
-quantitativa das atividades de subsistência dos Maku. Deve-se, mais
-provavelmente, ao modo como as duas atividades “caça” e “colheita” são,
-de certo modo, associadas na mente ocidental como características de
-]{}[subsistência dos povos nômades de pouco cultivo. \[...\] Em segundo 
-lugar, enquanto é discutível se ou não os Maku deveriam ser designados
-como nômades ou seminômades, é certo que os Maku são muito móveis em
-comparação com os Índios do Rio sedentários. \[...\] Koch-Grünberg
-(1906), McGovern (1927) e Nimuendajú (1950) dizem que os Maku foram
-escravos dos Tukano mas exemplificam com poucos casos que indiquem o
-grau de escravidão. (1990, p. 74)
+> Primeiro, os Maku são classificados como “caçadores e colhedores”.
+> Isto não está claramente baseado em qualquer observação direta
+> quantitativa das atividades de subsistência dos Maku. Deve-se, mais
+> provavelmente, ao modo como as duas atividades “caça” e “colheita” são,
+> de certo modo, associadas na mente ocidental como características de
+> ]{}[subsistência dos povos nômades de pouco cultivo. \[...\] Em segundo 
+> lugar, enquanto é discutível se ou não os Maku deveriam ser designados
+> como nômades ou seminômades, é certo que os Maku são muito móveis em
+> comparação com os Índios do Rio sedentários. \[...\] Koch-Grünberg
+> (1906), McGovern (1927) e Nimuendajú (1950) dizem que os Maku foram
+> escravos dos Tukano mas exemplificam com poucos casos que indiquem o
+> grau de escravidão. (1990, p. 74)
 <!-- Estilo de citação -->
 
 Nas linhas finais de sua tese, o antropólogo ressalta a importância de
@@ -1973,15 +1971,15 @@ dos Maku.
 ###Dois irmãos
 
 <!-- Estilo de citação -->
-Esse /Häw/ comia coca. Eu o conheci lá em /Pɨ̖͂g-Dëh/
-quando eu ainda morava lá. O irmão dele era o Peter. Mas o Peter ficava
-mais pra lá. Os dois viajavam muito juntos. Eu era rapaz e vi esse
-/Häw/. Ele era alto! Comia muita coca e ouvia bem os benzimentos. Sabia
-bem a nossa língua. Ele tinha a zarabatana dele. Era bom caçador. Matava
-muito macaco-barrigudo. Usava aquele /b’ö̗b/, “tanga”, dos
-antigos e andava descalço. Ele tinha uma namorada tukano que morava lá
-em Pari-Cachoeira. Por isso, ia sempre pra lá. Você sabe onde ele está
-agora? (Caderno de Campo, 09/09/2011).
+> Esse /Häw/ comia coca. Eu o conheci lá em /Pɨ̖͂g-Dëh/
+> quando eu ainda morava lá. O irmão dele era o Peter. Mas o Peter ficava
+> mais pra lá. Os dois viajavam muito juntos. Eu era rapaz e vi esse
+> /Häw/. Ele era alto! Comia muita coca e ouvia bem os benzimentos. Sabia
+> bem a nossa língua. Ele tinha a zarabatana dele. Era bom caçador. Matava
+> muito macaco-barrigudo. Usava aquele /b’ö̗b/, “tanga”, dos
+> antigos e andava descalço. Ele tinha uma namorada tukano que morava lá
+> em Pari-Cachoeira. Por isso, ia sempre pra lá. Você sabe onde ele está
+> agora? (Caderno de Campo, 09/09/2011).
 <!-- Estilo de citação -->
 
 Na aldeia de /Ta̗t-Dëh/, sentado com os velhos antropólogo Howard
@@ -1996,17 +1994,17 @@ Num dado momento do trabalho, Silverwood-Cope relata da seguinte forma
 o momento em que decidiu acompanhar os homens em suas incursões à mata:
 
 <!-- Estilo de citação -->
-\[...\] o caminho para uma melhor compreensão da experiência maku
-seria acompanhar os caçadores à floresta. A princípio não foi nada
-fácil. Os Maku achavam em parte divertido e em parte inconveniente
-ter-me com eles na aldeia. Mas, na floresta, eu era só um problema e um
-impedimento. \[...\] eu havia esperado aprender a caçar sob exatamente
-as mesmas condições dos Maku – saí de pés descalços e tentei usar
-zarabatanas e arcos e flechas. \[...\] Usando sapatos de basquete, pude
-acompanhar caçadores que perseguiam as grandes caças de solo; correr de
-pés descalços era mais silencioso, mas meus pés delicados ficaram tão
-cortados, feridos e cheios de espinhos que logo me vi reduzido a um
-trôpego vagaroso (1990, p. 34). 
+> \[...\] o caminho para uma melhor compreensão da experiência maku
+> seria acompanhar os caçadores à floresta. A princípio não foi nada
+> fácil. Os Maku achavam em parte divertido e em parte inconveniente
+> ter-me com eles na aldeia. Mas, na floresta, eu era só um problema e um
+> impedimento. \[...\] eu havia esperado aprender a caçar sob exatamente
+> as mesmas condições dos Maku – saí de pés descalços e tentei usar
+> zarabatanas e arcos e flechas. \[...\] Usando sapatos de basquete, pude
+> acompanhar caçadores que perseguiam as grandes caças de solo; correr de
+> pés descalços era mais silencioso, mas meus pés delicados ficaram tão
+> cortados, feridos e cheios de espinhos que logo me vi reduzido a um
+> trôpego vagaroso (1990, p. 34). 
 <!-- Estilo de citação -->
 
 Como afirma Silverwood-Cope, através das caminhadas na floresta e da
@@ -2157,21 +2155,21 @@ consideradas entediantes, desinteressantes e cansativas. A abordagem de
 Reid torna-se explícita no excerto a seguir:
 
 <!-- Estilo de citação -->
-A *especialização de habilidades* pode ser vista como outro princípio
-importante para a *bem-sucedida exploração do ambiente* pelo homem
-Hupdʉ. Já discuti anteriormente o amplo espectro de técnicas
-utilizadas para a coleta de recursos florestais. Eles matam e
-alimentam-se de quase todas as espécies de caça da floresta tropical;
-utilizam certa variedade de métodos para pescar os peixes dos
-igarapés; e alimentam-se de boa variedade de espécies de insetos,
-frutas silvestres e castanhas. As técnicas empregadas para cada tarefa
-exigem diferentes proporções de *energia física*, *habilidades* e
-*conhecimentos*. Três fatores governam a variedade das habilidades
-empregadas por qualquer indivíduo: a *idade*(e consequentemente sua
-experiência e conhecimento), *sua condição física*, e suas próprias
-*preferências*. Um quarto fator que repercute sobre as preferências
-pessoais vem a ser o leque de habilidades empregadas por outro
-corresidente (1979, p. 58, grifos meus).
+> A *especialização de habilidades* pode ser vista como outro princípio
+> importante para a *bem-sucedida exploração do ambiente* pelo homem
+> Hupdʉ. Já discuti anteriormente o amplo espectro de técnicas
+> utilizadas para a coleta de recursos florestais. Eles matam e
+> alimentam-se de quase todas as espécies de caça da floresta tropical;
+> utilizam certa variedade de métodos para pescar os peixes dos
+> igarapés; e alimentam-se de boa variedade de espécies de insetos,
+> frutas silvestres e castanhas. As técnicas empregadas para cada tarefa
+> exigem diferentes proporções de *energia física*, *habilidades* e
+> *conhecimentos*. Três fatores governam a variedade das habilidades
+> empregadas por qualquer indivíduo: a *idade*(e consequentemente sua
+> experiência e conhecimento), *sua condição física*, e suas próprias
+> *preferências*. Um quarto fator que repercute sobre as preferências
+> pessoais vem a ser o leque de habilidades empregadas por outro
+> corresidente (1979, p. 58, grifos meus).
 <!-- Estilo de citação -->
 
 A alternância entre ambos os modos de ação, “perambular” e “trabalhar”,
@@ -2313,11 +2311,11 @@ compreensiva?
 Peter Silverwood-Cope refere-se às rodas da seguinte forma:
 
 <!-- Estilo de citação -->
-À noite, homens de diferentes grupos domésticos sentam-se juntos,
-algumas vezes fora e, outras vezes, na casa do homem mais velho, para
-discutir a caça e a floresta, para contar estórias e para conversar e
-discutir os problemas da comunidade, dos seus vizinhos e dos Índios do
-Rio (1990, p. 86).
+> À noite, homens de diferentes grupos domésticos sentam-se juntos,
+> algumas vezes fora e, outras vezes, na casa do homem mais velho, para
+> discutir a caça e a floresta, para contar estórias e para conversar e
+> discutir os problemas da comunidade, dos seus vizinhos e dos Índios do
+> Rio (1990, p. 86).
 <!-- Estilo de citação -->
 
 No que diz respeito às unidades sociais, Silverwood-Cope
@@ -2400,27 +2398,27 @@ Num dado momento, Reid descreve a coca em meio à relação entre Hupd’äh
 e Tukano da seguinte maneira:
 
 <!-- Estilo de citação -->
-Depois de terminado o dia de trabalho, os homens Hupdʉ adultos 
-geralmente tentam convencer um dos Índios do rio presentes a permitir
-que colham e processem folhas de coca próximo à casa. Pedem também
-permissão para que possam preparar uma pequena trouxa para o consumo
-próprio, que o grupo mantém pendurada em alguma parte do caminho de
-retorno à aldeia. \[...\] Os continentes são peneirados e despejados em
-uma cuia pelo homem Hupdʉ que finaliza o preparo e oferece ao
-dono. Este lança o pó à boca algumas vezes e, em seguida, faz com que a
-cuia circule entre os demais homens presentes. Depois disso, o dono
-despeja parte do pó em uma lata e permite que os Hupdʉ peguem o
-restante. \[...\] Os Hupdʉ raramente conversam com os Índios do
-rio, mas escutam suas conversas e fazem comentários em sua própria
-língua. Por vezes, traduzem parte do diálogo dos Índios do rio para
-algum jovem presente que não tenha compreendido a língua (tukano) que
-está sendo falada. Não é apenas por propósitos sociais que a coca e o
-tabaco são preparados; mas também são utilizadas na cura de doenças.
-Tanto os Hupdʉ quanto os Índios do rio possuem xamãs que praticam
-esses ritos de cura. Entretanto, enquanto alguns grupos locais
-Hupdʉ não possuem um xamã coabitante, a maior parte dos Índios do
-rio possuem. \[...\] Há poucos Hupdʉ que possuem reputação de
-serem xamãs poderosos, mas há muitos Índios do rio com tal reputação.
+> Depois de terminado o dia de trabalho, os homens Hupdʉ adultos 
+> geralmente tentam convencer um dos Índios do rio presentes a permitir
+> que colham e processem folhas de coca próximo à casa. Pedem também
+> permissão para que possam preparar uma pequena trouxa para o consumo
+> próprio, que o grupo mantém pendurada em alguma parte do caminho de
+> retorno à aldeia. \[...\] Os continentes são peneirados e despejados em
+> uma cuia pelo homem Hupdʉ que finaliza o preparo e oferece ao
+> dono. Este lança o pó à boca algumas vezes e, em seguida, faz com que a
+> cuia circule entre os demais homens presentes. Depois disso, o dono
+> despeja parte do pó em uma lata e permite que os Hupdʉ peguem o
+> restante. \[...\] Os Hupdʉ raramente conversam com os Índios do
+> rio, mas escutam suas conversas e fazem comentários em sua própria
+> língua. Por vezes, traduzem parte do diálogo dos Índios do rio para
+> algum jovem presente que não tenha compreendido a língua (tukano) que
+> está sendo falada. Não é apenas por propósitos sociais que a coca e o
+> tabaco são preparados; mas também são utilizadas na cura de doenças.
+> Tanto os Hupdʉ quanto os Índios do rio possuem xamãs que praticam
+> esses ritos de cura. Entretanto, enquanto alguns grupos locais
+> Hupdʉ não possuem um xamã coabitante, a maior parte dos Índios do
+> rio possuem. \[...\] Há poucos Hupdʉ que possuem reputação de
+> serem xamãs poderosos, mas há muitos Índios do rio com tal reputação.
 <!-- Estilo de citação - adicionar rodapé/referência: Reid, 1979, p. 58 -->
 
 As notas de Reid referem-se a uma roda de coca muito semelhante àquela
@@ -2720,35 +2718,35 @@ seu cunhado, um homem hup.
 
  **M1**. A pescaria do /b’atɨ̖b’/ (história de /b’atɨ̖b’/)
 
-  O /b’atɨ̖b’/ casou-se com uma mulher hup. Ele chamou seu cunhado para
- tinguejar[^11]. “Vamos pescar traíra, cunhado?”. “Mais tarde nós vamos
- tinguejar sarapó”, respondeu o cunhado. Quando chegou a noite, o
- cunhado concordou em ir, pois queria muito tinguejar sarapó e o
- /b’atɨ̖b’/ prometeu que pegariam muitos peixes. Pescaram muitos
- sarapós, mas o /b’atɨ̖b’/ pegou os peixes e jogou-os fora. “Eu quero
- pescar outros peixes, não quero sarapó”, afirmou. Puseram-se a
- caminhar novamente e o /b’atɨ̖b’/ foi apanhando pacas. Chegaram
- aqui[^12], no lugar da árvore /b’öb’ö̖d/, por volta das 21h00.
-
- /Ko̗yërë/, /ko̗yërë/, era o rugido da onça que se aproximava. Primeiro
- chegou a jaguatirica, que era uma traíra para ele. Ela comeu a paca,
- que era uma minhoca para o /b’atɨ̖b’/. Ele matou a fera e o cunhado
- teve medo. Muitas onças foram mortas por ele.
-
- O cunhado correu quando viu a segunda que era muito grande. Corria ao
- redor do /b’atɨ̖b’/, desgovernado, até que pisou no pé dele. Com o
- pisão, o diabo morreu, aqui mesmo onde estamos. Mas ele ressuscitou e
- começou a tirar a pele das onças, que, para ele, eram as escamas das
- traíras. “/Ya’a̗m d’äh nɨ̖h b’ö̖y/!, dizia, “as onças são as minhas
- traíras”!. O cunhado hup pediu para irem embora. Voltaram para casa.
-
- Dias depois, o /b’atɨ̖b’/ chamou novamente o cunhado para uma pescaria.
- O hup aceitou e, quando estavam chegando ao lago, ele pisou no pé do
- /b’atɨ̖b’/ e voltou correndo. Pegou sua irmã e fugiram. Estavam já na
- metade do caminho, quando o /b’atɨ̖b’/ os encontrou. Furioso,
- arremessou uma “lança”, /sara̗p-b’ah/ que varou as costas de sua esposa
- e saiu pelo peito. A mulher morreu, mas o cunhado conseguiu escapar e
- retornou para sua comunidade.
+  > O /b’atɨ̖b’/ casou-se com uma mulher hup. Ele chamou seu cunhado para
+ > tinguejar[^11]. “Vamos pescar traíra, cunhado?”. “Mais tarde nós vamos
+ > tinguejar sarapó”, respondeu o cunhado. Quando chegou a noite, o
+ > cunhado concordou em ir, pois queria muito tinguejar sarapó e o
+ > /b’atɨ̖b’/ prometeu que pegariam muitos peixes. Pescaram muitos
+ > sarapós, mas o /b’atɨ̖b’/ pegou os peixes e jogou-os fora. “Eu quero
+ > pescar outros peixes, não quero sarapó”, afirmou. Puseram-se a
+ > caminhar novamente e o /b’atɨ̖b’/ foi apanhando pacas. Chegaram
+ > aqui[^12], no lugar da árvore /b’öb’ö̖d/, por volta das 21h00.
+> 
+ > /Ko̗yërë/, /ko̗yërë/, era o rugido da onça que se aproximava. Primeiro
+ > chegou a jaguatirica, que era uma traíra para ele. Ela comeu a paca,
+ > que era uma minhoca para o /b’atɨ̖b’/. Ele matou a fera e o cunhado
+ > teve medo. Muitas onças foram mortas por ele.
+> 
+ > O cunhado correu quando viu a segunda que era muito grande. Corria ao
+ > redor do /b’atɨ̖b’/, desgovernado, até que pisou no pé dele. Com o
+ > pisão, o diabo morreu, aqui mesmo onde estamos. Mas ele ressuscitou e
+ > começou a tirar a pele das onças, que, para ele, eram as escamas das
+ > traíras. “/Ya’a̗m d’äh nɨ̖h b’ö̖y/!, dizia, “as onças são as minhas
+ > traíras”!. O cunhado hup pediu para irem embora. Voltaram para casa.
+> 
+ > Dias depois, o /b’atɨ̖b’/ chamou novamente o cunhado para uma pescaria.
+ > O hup aceitou e, quando estavam chegando ao lago, ele pisou no pé do
+ > /b’atɨ̖b’/ e voltou correndo. Pegou sua irmã e fugiram. Estavam já na
+ > metade do caminho, quando o /b’atɨ̖b’/ os encontrou. Furioso,
+ > arremessou uma “lança”, /sara̗p-b’ah/ que varou as costas de sua esposa
+ > e saiu pelo peito. A mulher morreu, mas o cunhado conseguiu escapar e
+ > retornou para sua comunidade.
 
 
 Em pé, no meio da lagoa/capoeira, Samuel pisou forte o chão mostrando
@@ -2786,13 +2784,13 @@ fumaça em nossos /hã̗wäg/, “sopros vitais”. Era um “benzimento para
 cercar nossos sonhos ruins”, um /sõ̖h ni̗ pa̗y bi’i̖d/.
 
 <!-- Estilo de citação -->
- Essa visão de mundo em que, aparentemente, cada perspectiva é aí mesmo
- válida e verdadeira, e onde existe a capacidade para ver o mundo a
- partir do ponto de vista de uma classe de seres diferentes daquela à
- qual um determinado ser pertence, é, de fato, fonte e manifestação de
- poder místico (como no caso do xamã), de um homem necessariamente
- “descentrado”; o ponto de vista do homem se converte, simplesmente, em
- um de muitos pontos de vista (Århem, 1993, p. 22).
+ > Essa visão de mundo em que, aparentemente, cada perspectiva é aí mesmo
+ > válida e verdadeira, e onde existe a capacidade para ver o mundo a
+ > partir do ponto de vista de uma classe de seres diferentes daquela à
+ > qual um determinado ser pertence, é, de fato, fonte e manifestação de
+ > poder místico (como no caso do xamã), de um homem necessariamente
+ > “descentrado”; o ponto de vista do homem se converte, simplesmente, em
+ > um de muitos pontos de vista (Århem, 1993, p. 22).
 <!-- Estilo de citação -->
 
 O “acampamento dos hup” é ao mesmo tempo “lagoa de pesca de /b’atɨ̖b’/” e
@@ -2805,7 +2803,7 @@ buscava influenciar o campo de percepção desses outros seres e as
 transformações entre esses diversos planos separados e simultâneos, onde
 nos situávamos e, com medo, tentávamos dormir.
 
-<!-- Fig. 5 -->
+Figura 5
 Mapa da viagem à Serra Grande
 
 
@@ -2859,7 +2857,7 @@ rio Tiquié, ao norte o Papuri, a leste o Uaupés. Mais acima, avistávamos
 as /Ya’a̗m-Huh/, Cachoeiras-de-Iauaretê. Lá do alto, contemplávamos o
 mundo em miniatura.
 
-<!-- Fig. 6 -->
+Figura 6
 Mandu avista a /Paç-Tẽ̖h/, “Serra-Pequena” (Foto Danilo P. Ramos, 2012)
 
 
@@ -2892,7 +2890,7 @@ que vai se formando uma camada sobre o substrato rochoso. Segundo o autor,
  conhecimento. Nesse mesmo sentido, a linha da escrita é, para ele, um
  percurso de rememoração. E ambos os casos, o conhecimento é integrado
  ao longo do caminho do movimento (2007, p. 43)”.  
- <!-- criar rodapé com a fonte da citação acima? -->
+ 
 
 Durante a viagem, em meio a nossas andanças, sempre que me mostravam um
 animal, uma planta, um peixe ou diziam o nome de um lugar, eu os
@@ -2910,7 +2908,7 @@ Assim, no contexto dessas conversas, a imagem do GPS rememorava nossas
 percepções ao longo de um percurso de observação e ajudava a integrar
 o saber num modo não cartográfico.
 
-<!-- Fig. 7 -->
+Figura 7
 Escritos na rocha (foto: Danilo P. Ramos, 2012)
 
 Como em relatos de viagem, a crônica do caderno, as linhas e pontos do
@@ -2968,7 +2966,7 @@ vezes banhar-se na Serra Grande. Entendo que essas ações realizam uma
 “fabricação do corpo”, uma intervenção sobre a matéria que recria o
 corpo em banhos que são como passagens entre vida e morte.
 
-<!-- Fig. 8 -->
+Figura 8
 Banho de Demétrio (foto: Danilo P. Ramos, 2012)
 
 Nosso /kɨhsä̗t/, guia, falou dos pés de “coca de abiu”, /wahna̗w-pũ’ũk/,
@@ -3710,13 +3708,13 @@ tatu morresse asfixiado. Enquanto descansávamos, Samuel explicou-me, em
 português, o que estávamos fazendo:
 
  <!-- estilo de citação -->
- /Yë̖w hõ̗hõ̗k/ - “fogo de tatu” é o carapanã. O tatu dorme dentro da
- terra. Quando a gente mexe, sai muito carapanã. É o fogo do tatu. O
- tatu ficou dentro da /s’a̗h-mo̖y/, “casa de terra”. Quando chegou,
- apagou o fogo. Primeiro, pegou o cupim. Segundo, fazer fogo. Ele tá
- dormindo dentro da terra na casa dele. Depois, chegou fumaça. Na hora
- ele morreu respirando. Bomba! Como branco. A bomba de matar animais é
- veneno deles mesmo. (Caderno de campo, 29/03/2012)
+ > /Yë̖w hõ̗hõ̗k/ - “fogo de tatu” é o carapanã. O tatu dorme dentro da
+ > terra. Quando a gente mexe, sai muito carapanã. É o fogo do tatu. O
+ > tatu ficou dentro da /s’a̗h-mo̖y/, “casa de terra”. Quando chegou,
+ > apagou o fogo. Primeiro, pegou o cupim. Segundo, fazer fogo. Ele tá
+ > dormindo dentro da terra na casa dele. Depois, chegou fumaça. Na hora
+ > ele morreu respirando. Bomba! Como branco. A bomba de matar animais é
+ > veneno deles mesmo. (Caderno de campo, 29/03/2012)
  <!-- estilo de citação -->
 
 Da mesma forma como os mosquitos carapanã atormentam os viajantes hup
@@ -4397,13 +4395,13 @@ masculinas que envolvem o aprendizado de mitos e dos meios de proteção
 dos filhos e da esposa. Em suas palavras,
 
 <!-- estilo de citação -->
- Os malefícios em questão se “trans-substanciam”, de tal forma que sua
- agencialidade destrutiva se manifesta de maneira positiva, na forma de
- uma agencialidade que fortalece, nutre e beneficia por meio de alguma
- substância “própria”. Os homens efetuam essas transformações através
- da agencialidade predadora de suas substâncias rituais: principalmente
- do pó de coca processado, denominado “mambe”, e do tabaco misturado
- com sal vegetal. (2004, p. 37)
+ > Os malefícios em questão se “trans-substanciam”, de tal forma que sua
+ > agencialidade destrutiva se manifesta de maneira positiva, na forma de
+ > uma agencialidade que fortalece, nutre e beneficia por meio de alguma
+ > substância “própria”. Os homens efetuam essas transformações através
+ > da agencialidade predadora de suas substâncias rituais: principalmente
+ > do pó de coca processado, denominado “mambe”, e do tabaco misturado
+ > com sal vegetal. (2004, p. 37)
  <!-- estilo de citação -->
 
 O pesquisador analisa o processo de aprendizagem entre pai e filho que
@@ -4828,10 +4826,10 @@ que ele explicitou as relações entre a “história de /Wed B’ö̖’/” e 
 como a cada noite as ações eram atualizadas. Em suas palavras,
 
 <!-- estilo de citação -->
- O som do pilão que ouvimos é o osso da coca. A folha assando no forno
- é a carne do “Velho Cobra”. A coca é o dedo dele. A imbaúba misturada
- é o sal, tempero para a carne assada. O tabaco é o irmão da coca. Sem
- tabaco a carne não tem óleo (Caderno de campo, 08/07/2012).
+ > O som do pilão que ouvimos é o osso da coca. A folha assando no forno
+ > é a carne do “Velho Cobra”. A coca é o dedo dele. A imbaúba misturada
+ > é o sal, tempero para a carne assada. O tabaco é o irmão da coca. Sem
+ > tabaco a carne não tem óleo (Caderno de campo, 08/07/2012).
 <!-- estilo de citação -->
 
 Observando a roda há mais de um ano e tendo ouvido a “história de /Wed
@@ -5468,11 +5466,11 @@ sua fúria. Também para Lolli, a concepção yuhup de pensamento diz
 respeito a ação e ao deslocamento. Em suas palavras,
 
 <!-- estilo de citação -->
- O que gostaria de frizar é que pah-këy me sugere ao mesmo tempo uma
- distinção entre planos distintos de atuação e a possibilidade de
- atravessar os planos conectando-os, já que se age alhures para agir
- aqui: através de pah-këy, a atuação em um plano é também a atuação em
- outros planos* (2010, p. 72).
+> O que gostaria de frizar é que pah-këy me sugere ao mesmo tempo uma
+> distinção entre planos distintos de atuação e a possibilidade de
+> atravessar os planos conectando-os, já que se age alhures para agir
+> aqui: através de pah-këy, a atuação em um plano é também a atuação em
+> outros planos* (2010, p. 72).
 <!-- estilo de citação -->
 
 Conversando muitas noites com Jovino e seu pai, Ponciano, disseram-me
@@ -5490,11 +5488,11 @@ des origines chez les Desana du Uaupes* abrindo os seguintes
 questionamentos:
 
 <!-- estilo de citação -->
- Entendendo que a eficácia terapêutica repousa no encantamento, e que
- as palavras desse encantamento refletem a ideia de um deslocamento no
- espaço, uma progressão do kubu de um local a outro para identificar os
- agentes responsáveis pela doença, poderíamos nós, portanto, falar de
- uma viagem do kubu? (1983, p. 198).
+> Entendendo que a eficácia terapêutica repousa no encantamento, e que
+> as palavras desse encantamento refletem a ideia de um deslocamento no
+> espaço, uma progressão do kubu de um local a outro para identificar os
+> agentes responsáveis pela doença, poderíamos nós, portanto, falar de
+> uma viagem do kubu? (1983, p. 198).
 <!-- estilo de citação -->
 
 As perguntas colocadas pela autora sobre o deslocamento do kubu durante
@@ -15374,7 +15372,7 @@ Cabari, Japú e Papuri, que visitei, têm dimensões mais modestas. Suas
 estruturas se assemelham às das casas de moradia hup. É comum também
 que, em muitas comunidades, a casa do dono, geralmente maior que as
 demais, se constitua como espaço para a realização de festas de caxiri e
-Dabucuris (Pozzobon, 2011).
+Dabucuris.
 
 Seis ou quatro troncos firmes (acariquara)[^134] são fincados no chão
 para constituir as fundações das casas. A essas colunas são amarradas as
@@ -15400,17 +15398,17 @@ laço forte de reciprocidade. À luz da cerimônia de Dabucuri descrita, é
 possível dizer que, ao longo da caminhada até a Serra da Iniciação, os
 ancestrais assumem o lugar dos neófitos ao recolher e conhecer as
 frutas, potências passíveis de gerar importantes relações de
-reciprocidade. Pensando com Hugh-Jones (1993), ancestrais hup
+reciprocidade. Pensando com Hugh-Jones, ancestrais hup
 constituem-se como “os de outras terras” e os Animais como os “donos da
 terra”, mas formam uma casa singular erigida por aqueles que dançam e
 conversam dentro dela para criar as bases de um modo simétrico e
-complementar de relação entre grupos afins (Hugh-Jones, 1993, p.101).
+complementar de relação entre grupos afins.
 
 Na maloca, ao tocar e exibir as flautas longe das mulheres, os
 ancestrais hup assemelham-se aos cunhados do *sibling* /Sokw’ä̗t/, “gente
 de outra terra”, que oferece frutos, respeita as interdições, conversa
 pela “linguagem de ocultar” e cria as condições para que os descendentes
-sejam iniciados e se casem. Enquanto, na caça, o hamado sedutor
+sejam iniciados e se casem. Enquanto, na caça, o chamado sedutor
 explicita o papel masculino do caçador e feminino da presa, trazendo os
 frutos, os ancestrais hup ocupam uma posição masculina, enquanto os
 Animais assumem posições femininas. A dança das flautas no alto da serra
@@ -15419,7 +15417,7 @@ objetos que são potências primordiais necessárias à habitação e
 regeneração da vida nessas novas paragens. Dando as flautas e
 constituindo um contexto próprio para que os ancestrais hup dancem, os
 Animais apreendem os Hupd’äh como humanos e revelam-se dotados de
-perspectivas que contêm outras perspectivas (Lima, 2005, p. 216).
+perspectivas que contêm outras perspectivas.
 
 Se em /Ta̗t-Dëh/ é necessário que as “gentes de outra terra” peçam
 autorização aos donos e tornem-se cunhados, o Dabucuri da
@@ -15427,10 +15425,10 @@ Serra da Menstruação não deixa de ser uma demonstração das habilidades
 dos peregrinos para que possam, ao descer da serra e caminhar com suas
 flautas, dispersar-se e constituir seus próprios domínios (**M17**) (**M18**).
 Tomando as palavras de Lima, a dádiva das flautas na Serra da Iniciação
-explicita que “para os animais a nossa alteridade relativa com eles é
+explicita que <!--estilo de citação-->“para os animais a nossa alteridade relativa com eles é
 humana, isto é, política” (2005, p. 215).
 
-#### Assentos marcados
+###Assentos marcados
 
 Além da relação de afinidade entre Humanos e Animais, a assimetria
 revela os Animais como os “senhores da terra”, os primeiros a chegar e a
@@ -15440,36 +15438,36 @@ roda e beber o caarpi oferecido pelo Tamanduá para revelar suas
 habilidades xamânicas. Seguindo nossa conversa, Samuel contou a seguinte
 narrativa:
 
-> **M18. O caarpi do Tamanduá**
->
-> O Tamanduá é o dono do caarpi. /Bɨ̗g we̗d no̗’o̗p, kapi̖’, hu̖͂t/. Ele deu
-> comida a todos os animais, caarpi, tabaco. Primeiro, deu para a Arara,
-> para o Papagaio e para o Periquito. Eles beberam e comeram a língua
-> (parte da). Não sabiam beber caarpi. É por isso que falam hoje em dia.
->
-> A merda do tamanduá fede muito porque ele é o dono do caarpi. Disse
-> que todos tinham bebido caarpi. Daí, o /Yawa̖ç/, “Macaco-Prego”,
-> escondeu o rabo dele no banco e falou para os outros comerem o rabo.
-> Disse que ele já tinha comido. A Cotia, a Paca, a Cutivaia, a Anta, a
-> Preguiça também. O Uacari, o Porco, o Caititu, todos comeram o próprio
-> rabo. Só o macaco não comeu. Ele tinha escondido o dele. Tava
-> enganando. Aí, o cunhado perguntou onde estava o rabo deles. E eles já
-> tinham comido. Ficaram sem rabo.
->
-> Isso tudo aconteceu lá na Serra da Menstruação. Depois que tocaram, os
-> ancestrais hup sentaram nos bancos. Havia três tipos de banco: os
-> /pud-dë̖h käd/, “bancos de leite”, os /sãy käd/, “bancos sãy”, e os
-> /wahna̗w käd/, “bancos de abiu”. Estavam usando cocar de penas de
-> mutum, arara e papagaio. Na cintura tinham pussangas: /yo̗ k’e̖t/ e /hõ̗
-> pë̖’ k’e̖t/. Tavam bebendo as cuias de caarpi oferecidas pelo Tamanduá.
-> Eles ficavam alegres e cantavam /kapiwaia/ (Caderno de Campo,
-> 27/03/2012) [^136].
+ **M18. O caarpi do Tamanduá**
+
+ O Tamanduá é o dono do caarpi. /Bɨ̗g we̗d no̗’o̗p, kapi̖’, hu̖͂t/. Ele deu
+ comida a todos os animais, caarpi, tabaco. Primeiro, deu para a Arara,
+ para o Papagaio e para o Periquito. Eles beberam e comeram a língua
+ (parte da). Não sabiam beber caarpi. É por isso que falam hoje em dia.
+
+ A merda do tamanduá fede muito porque ele é o dono do caarpi. Disse
+ que todos tinham bebido caarpi. Daí, o /Yawa̖ç/, “Macaco-Prego”,
+ escondeu o rabo dele no banco e falou para os outros comerem o rabo.
+ Disse que ele já tinha comido. A Cotia, a Paca, a Cutivaia, a Anta, a
+ Preguiça também. O Uacari, o Porco, o Caititu, todos comeram o próprio
+ rabo. Só o macaco não comeu. Ele tinha escondido o dele. Tava
+ enganando. Aí, o cunhado perguntou onde estava o rabo deles. E eles já
+ tinham comido. Ficaram sem rabo.
+
+ Isso tudo aconteceu lá na Serra da Menstruação. Depois que tocaram, os
+ ancestrais hup sentaram nos bancos. Havia três tipos de banco: os
+ /pud-dë̖h käd/, “bancos de leite”, os /sãy käd/, “bancos sãy”, e os
+ /wahna̗w käd/, “bancos de abiu”. Estavam usando cocar de penas de
+ mutum, arara e papagaio. Na cintura tinham pussangas: /yo̗ k’e̖t/ e /hõ̗
+ pë̖’ k’e̖t/. Tavam bebendo as cuias de caarpi oferecidas pelo Tamanduá.
+ Eles ficavam alegres e cantavam /kapiwaia/ (Caderno de Campo,
+ 27/03/2012) [^136].
 
 Entre um gole e outro de caxiri oferecido pelas mulheres, Samuel
-contou-me M18 para explicitar o poder do Tamanduá como aquele que dá o
+contou-me **M18** para explicitar o poder do Tamanduá como aquele que dá o
 caarpi aos Animais e aos Humanos. Dentro de sua grande maloca, os
 Animais realizavam rodas de caarpi. A bebida era oferecida aos demais
-por esse mamífero que é um poderoso xamã. O oferecimento de crpi
+por esse mamífero que é um poderoso xamã. O oferecimento de caarpi
 diferencia os Animais entre aqueles que sabem e aqueles que não sabem
 beber, ou seja, de acordo com suas habilidades. Aqueles que sabem beber
 permanecem com seus corpos originais, mas aqueles que enlouquecem
@@ -15497,8 +15495,8 @@ Sua ação o mantém como um animal do alto da floresta, diferente dos
 animais de solo que, sem saber beber, se veem desprovidos de rabo e da
 possibilidade de ocupar os níveis superiores da mata. Segundo Reid, os
 Hupd’äh classificam a floresta verticalmente dividindo-a em três níveis:
-o “chão”, /su̗m/, o “meio”, /hak ten/, e o “topo”, /k’et d’öh/ (1979, p.
-235). Como visto em B7, essa separação tem importância tanto para a
+o “chão”, /su̗m/, o “meio”, /hak ten/, e o “topo”, /k’et d’öh/. 
+Como visto em **B7**, essa separação tem importância tanto para a
 caça, quanto para as práticas xamânicas, pois permite identificar os
 animais de acordo com o nível habitado e com suas armas. Sentado num
 banco, o macaco oculta seu rabo e, pela fala, mostra-se capaz de agir
@@ -15534,7 +15532,7 @@ presença de todos. De forma semelhante, ao sentarem-se para beber o
 caarpi do Tamanduá, os ancestrais hup recebem o oferecimento de modo
 equânime, mas diferenciam-se de acordo com os bancos que ocupam.
 
-A narrativa M18 delineia os traços de uma forma de interação articulada
+A narrativa **M18** delineia os traços de uma forma de interação articulada
 à cerimônia de Jurupari, que se assemelha muito às rodas de coca
 noturnas. O oferecimento é realizado por um dono que, como o dono da
 coca, concentra a substância para oferecê-la a seus agnatos Animais e a
@@ -15557,7 +15555,7 @@ As danças de /kapiwaia/ são lembradas em muitas das conversas dos
 senhores nos encontros noturnos. Era geralmente em meio a Dabucuris de
 iniciação dos rapazes, quando as flautas Jurupari eram tocadas, que se
 formavam as rodas para o consumo conjunto do caarpi e da coca.
-Percebendo a nostalgia desses tempos em que os senhores bebiam carpi e
+Percebendo a nostalgia desses tempos em que os senhores bebiam caarpi e
 dançavam, perguntei muitas vezes o porquê da não realização do
 /kapiwaia/ nos dias de hoje. Meus interlocutores respondiam: /kapi̖’ yu̗m
 nɨ̗h, toho̗y ay/, “não se planta mais caapi, acabou-se”. O cultivo do
@@ -15567,7 +15565,7 @@ para realizar encontros de iniciação xamânica.
 
 Recebendo aqueles que pretendem beber o líquido em sua casa, geralmente
 afastada da aldeia, o pajé prepara três tipos de caarpi: /ä̗g kapi̖’/,
-/bi’i̖d kapi̖’/ e /ya̗m kapi̖’/, respectivamente “caarpi de beber”, “caarpi
+/bi’i̖d kapi̖’/  e /ya̗m kapi̖’/, respectivamente “caarpi de beber”, “caarpi
 de benzer” e “caarpi de cantar”. Ele sopra os potes de caarpi para que a
 substância fique mais forte, da mesma forma como o dono do caxiri benze
 a bebida antes de oferecê-la aos dançarinos no Dabucuri. Seus
@@ -15583,14 +15581,14 @@ encantamentos e mitos de seus interlocutores.
 Ponciano, que participou de uma roda quando era jovem, contou-me que ao
 beber caarpi soube que seria um “xamã-do-banco”, /kä̗d hup i͂h/, porque
 seus ouvidos não permaneceram silenciosos durante o evento[^138]. Ouvia
-continuamente um “chiado”, /huhu̗y/. Esse barulho é visto com uma sujeira
+continuamente um “chiado”, /huhu̗y/.  Esse barulho é visto com uma sujeira
 que impede a concentração plena para ouvir e aprender com os ancestrais
 e demais seres com quem o xamã interage durante seus deslocamentos
 oníricos. Um som auricular mais intenso será ouvido pelos /bi’i̖d hup
 i͂h/, “xamãs-sopradores”, que serão capazes de realizar apenas certos
 tipos de encantamentos, além de correr sérios risco de enlouquecimento
 caso consumam tipos fortes de caarpi como o /se͂he̖͂k kapi̖’/, “caarpi
-paricá”, e o /hã̗wäg su̗’ kapi̖’/, “caarpi de pegar o sopro vital”, de
+paricá”, e o /hã̗wäg su̗’ kapi̖’/,  “caarpi de pegar o sopro vital”, de
 consumo exclusivo dos pajés. Esses benzedores têm no /ä̗g caapi/, na coca
 e no tabaco substâncias cujo consumo os permite sonhar, proteger e
 curar. Entretanto, não é necessário que um senhor participe de uma
@@ -15624,10 +15622,10 @@ Dessa maneira, nas rodas de caarpi, serão considerados /säw/, “pajés”,
 somente aqueles que, ao beber, se encontrem em completo silêncio, sejam
 habilidosos para viajar pelo cosmos, tenham marcantes experiências
 visionárias e aprendam com os diversos interlocutores. A forma como um
-pajé retira a doença do corpo da pessoa é levada em conta pariferenciar os /säw/. Aspergir água é uma ação realizada apenas por
+pajé retira a doença do corpo da pessoa é levada em conta para diferenciar os /säw/. Aspergir água é uma ação realizada apenas por
 alguns pajés que fazem com que o agente patogênico deixe o corpo
 escorrendo com o líquido para o chão. Já os pajés que chupam extraem a
-afecção maléfica pela sucção, retirando do corpo espinhos, pêlos,
+afecção maléfica pela sucção, retirando do corpo espinhos, pelos,
 dentes, afecções de seres que tenham investido contra o doente. Com o
 tempo, as viagens xamânicas tornam os pajés cada vez mais respeitados
 tanto pelas curas e proteções que são capazes de executar, quanto pelos
@@ -15637,20 +15635,22 @@ capacidade para agredir e matar podem fazer do pajé um /saka̗ka̗/, um xamã
 extremamente poderoso e temido que concentra em si uma grande variedade
 de técnicas, saberes e recursos[^140]. Como ressalta Hugh-Jones,
 
-> *Um segundo tipo de distinção, envolvendo graus relativos de saber e
-> poder, pode ser usado para ranquear os xamãs em uma hierarquia formal
-> ou informal. Nesses casos, o aumento de poder geralmente caminha lado
-> a lado com o aumento de ambivalência – poderosos xamãs poderão ser
-> melhores na cura e também potencialmente mais perigosos que seus
-> semelhantes menos poderosos* (1996, p. 36).
+<!--estilo de citação-->
+ Um segundo tipo de distinção, envolvendo graus relativos de saber e
+ poder, pode ser usado para ranquear os xamãs em uma hierarquia formal
+ ou informal. Nesses casos, o aumento de poder geralmente caminha lado
+ a lado com o aumento de ambivalência – poderosos xamãs poderão ser
+ melhores na cura e também potencialmente mais perigosos que seus
+ semelhantes menos poderosos (1996, p. 36).
+<!--estilo de citação-->
 
 Se a sensibilidade auricular é um fator crucial para a diferenciação
 entre os praticantes do xamanismo, a roda de consumo de caarpi,
 coordenada pelo Tamanduá, diferencia os ancestrais hup de acordo com os
 bancos que ocupam. Os /sãy kä̖d/ são os bancos de poder dos
 xamãs-do-banco, enquanto os xamãs-sopradores têm na madeira de abiu e,
-portanto, no /wahna̗w kä̖d/, “banco de abiu”, uma substância fundamental
-para curas e ações protetoras. Já os /pud-dë̖h kä̖d/, “bancos de leite”,
+portanto, no /wahna̗w kä̖d/,  “banco de abiu”, uma substância fundamental
+para curas e ações protetoras. Já os /pud-dë̖h kä̖d/,  “bancos de leite”,
 constituem-se como assentos comuns a todos os xamãs. De um modo
 interessante, as categorias de praticantes do xamanismo hup e a relação
 diacrítica estabelecida através dos bancos, índices das habilidades de
@@ -15662,7 +15662,7 @@ Como visto, nos encontros noturnos os anciões sentam-se entre afins e
 dividem-se entre “donos” e “apanhadores”. As ações de preparo e
 oferecimento diferenciam os presentes entre os “donos da coca”, que são
 também os “donos da terra”. Já os “apanhadores” são sempre “gentes de
-outras terras”, afins que raramente possuem plantações de coca. Muits
+outras terras”, afins que raramente possuem plantações de coca. Muitas
 vezes, na falta de bancos, os apanhadores sentam-se no chão, mas os
 donos sempre terão seus assentos, ainda que estes sejam muito simples,
 como tocos de árvore ou tábuas de madeira. De modo sutil, os assentos
@@ -15674,12 +15674,12 @@ encontros noturnos, ao realizarem encantamentos, os bancos sobre os
 quais se sentam os senhores hup, artefatos corporais e assentos
 externos, surgem igualmente como bancos de leite, bancos de abiu e
 bancos /sãy/. Partilhando a coca e sentando-se cada qual em seu banco,
-os xamãs percebem-se a partir da complementaridae e hierarquia de seus
+os xamãs percebem-se a partir da complementaridade e hierarquia de seus
 poderes e habilidades múltiplas. Dessa forma, “apanhadores” podem ser
 grandes xamãs, como é o caso de Miguel, o que cria linhas transversais
 às hierarquias estabelecidas com base no clã e na origem. Não é por
 acaso que, ao contar uma narrativa mítica, o dono sempre interpela um
-“cunhado”, /yo̖h/, para confirmar e complementar suas palavras.
+“cunhado”, /yo̖h/,  para confirmar e complementar suas palavras.
 Movimentos e ações de determinados encantamentos, bem como curas e
 proteções podem igualmente ser feitas de modo complementar, com o
 beneficiário recebendo cigarros e/ou cuias com líquidos de xamãs afins.
@@ -15687,7 +15687,7 @@ beneficiário recebendo cigarros e/ou cuias com líquidos de xamãs afins.
 Se as vozes e os rabos diferenciam os animais e suas capacidades por
 meio de suas corporalidades, as roupas cósmicas, os ruídos e os bancos
 xamânicos são igualmente índices diacríticos dos poderes dos senhores
-hup. Retomando desenvolvimentos do Capítulo 6, é possível ver a
+hup. Retomando desenvolvimentos do capítulo 6, é possível ver a
 importância que os xamãs hup têm para a regeneração da vida dos animai
 e para a realização de seus constantes Dabucuri. Viajando para a
 Casa-dos-Animais, os pajés oferecem tabaco e Espíritos humanos em troca
@@ -15695,10 +15695,9 @@ de presas. Batendo na pedra acústica, os xamãs-do-banco causavam o
 estrondo que libertava as presas para a mata. Já o benzimento dos
 alimentos realizado por xamãs-sopradores e xamãs-do-banco destina os
 espíritos dos animais para suas casas primordiais, possibilitando que
-seus donos lhes restituam a vida, regenerando-os. Segundo Århem (1996),
-entre Animais e Humanos haveria um *pacto de reciprocidade* cujo
-desrespeito leva ao ataque predatório que causa doenças aos humanos
-(1996, p.196).
+seus donos lhes restituam a vida, regenerando-os. Segundo Århem,
+entre Animais e Humanos haveria um pacto de reciprocidade cujo
+desrespeito leva ao ataque predatório que causa doenças aos humanos.
 
 Desse modo, se a relação entre Humanos e Animais se constitui por meio
 do laço de afinidade e pelos Dabucuris, a atuação dos diferentes tipos
@@ -15725,7 +15724,7 @@ poderosas que possuem nomes de animais talvez corresponda paralelamente
 à não realização de caças pelas mulheres, formas de afastá-las da
 interação com as presas e com as potências dos animais.
 
-### Caminhos de emaranhar 
+##Caminhos de emaranhar 
 
 O caarpi e as flautas revelam-se modos de mover-se e interagir com
 antepassados no fluxo de uma energia de contínuo que faz crescer xamãs e
@@ -15759,15 +15758,14 @@ habilidade do ato de mover-se por sonhos e encantamentos faz crescer os
 xamãs, assim como o toque das flautas faz os jovens crescerem nos
 saberes e fortalecerem-se corporalmente. Pensando com Lima, posturas,
 gestos e substâncias tornam a pessoa suscetível à perspectiva de Outrem,
-permitindo que seja capaz de gerar um outro *para si* e *dentro de si*
-(2005, p. 340).
+permitindo que seja capaz de gerar um outro para si e dentro de si.
 
 Surpreendido em minha segunda estada em campo pela melodia soturna das
 flautas Jurupari, foi apenas após a partilha contínua da coca e dos
 passos com meus interlocutores que comecei a entender melhor como a
 interação dos rapazes com os velhos e ancestrais-Jurupari faz com que
 “cresçam nos saberes” através de suas próprias ações e percepções na
-partilha de experiências com seus preceptores e artefatos-pessoa ).
+partilha de experiências com seus preceptores e artefatos-pessoa.
 Trazidas para as aldeias e para as malocas no curso de viagens, as
 flautas possuem longas histórias de interação com os antepassados que,
 após a descida da Serra da Iniciação, separaram-se para estabelecer suas
@@ -15799,25 +15797,27 @@ que todos chegam apenas para trilhar novos caminhos que os façam sentar
 outras vezes em rodas e dançar novamente com as flautas em torno da
 paisagem em perpétua criação.
 
-[]{#Fig55_PoncianoCaminhos .anchor}Ponciano segue por um de seus
-caminhos (foto: Danilo P. Ramos, 2012)
+<!--Fig. 29-->
+Ponciano segue por um de seus caminhos (foto: Danilo P. Ramos, 2012)
 
-Viagens a São Gabriel
----------------------
+
+
+#Viagens a São Gabriel
+
 
 *Toda vez que eu dou um passo*
 
-> *O mundo sai do lugar*
->
-> *E o mundo por ser redondo*
->
-> *Tem por destino embolar*
->
-> (Siba)
+*O mundo sai do lugar*
 
-1.  ### Rio abaixo
+*E o mundo por ser redondo*
 
-    1.  #### O deslizar das canoas
+*Tem por destino embolar*
+
+(Siba)
+
+##Rio abaixo
+
+###O deslizar das canoas
 
 12 de abril de 2012.
 
@@ -15842,7 +15842,7 @@ para a roça e cuidaria da casa enquanto o marido estivesse longe. Os
 filhos de Américo fizeram desenhos para mim e quiseram ir com a mãe
 Isabel na canoa para despedirem-se de mim no Cunuri. Todos instalados na
 canoa, o capitão deu a partida na velha rabeta e zarpamos pelas águas
-escuras do /Ta̗t-Dëh/, zigue zagueando pelas curvas, bancos de areia e
+escuras do /Ta̗t-Dëh/, ziguezagueando pelas curvas, bancos de areia e
 troncos caídos.
 
 De repente, a canoa parou e ficamos de bubuia, sendo levados pela
@@ -15857,10 +15857,10 @@ funcionamento. Em torno das máquinas, formava-se o contexto ideal para o
 aprendizado da mecânica de navegação.
 
 Os Hupd’äh foram descritos pela literatura etnológica como um povo “sem
-canoas” e desprovido de conhecimento sobre os grandes rios (Athias,
-2011; Reid, 1979). Remando e aceitando ser conduzido pelas rabetas, fui
+canoas” e desprovido de conhecimento sobre os grandes rios. 
+Remando e aceitando ser conduzido pelas rabetas, fui
 percebendo a íntima relação que meus interlocutores têm com as canoas,
-com a pesca e com as águas. /Hoh-të̖g hup nɨ̖h päpäd-të̖g/, “as canoas são
+com a pesca e com as águas. /Hoh-të̖g hup nɨ̖h päpäd-të̖g/,  “as canoas são
 os automóveis dos Hupd’äh”, disse certa vez Samuel, rindo, numa festa de
 caxiri. Muitas das canoas feitas a partir dos troncos escavados de
 /hã̗’/, “louro”[^142], foram fabricadas por artesões tukano, de
@@ -15871,15 +15871,15 @@ embarcações para a pesca intensificou-se com a formação da aldeia de
 /Ta̗t-Dëh/ e com a permissão de pesca em partes do rio Tiquié, dada pelos
 moradores do Cunuri.
 
-[]{#Fig56_PauloReparaCanoa .anchor}**Figura 2.** Paulo repara a canoa
-com breu (foto: Danilo P. Ramos, 2012).
+<!--Fig. 30-->
+Paulo repara a canoa com breu (foto: Danilo P. Ramos, 2012).
 
 Entretanto, as viagens para São Gabriel exigem embarcações maiores,
 apropriadas para levar toda a família. Essas são compradas no comércio
 local com o dinheiro de aposentadorias, bolsa-família,
 auxílios-maternidade, salários de professores. As rabetas e a gasolina
 tornaram-se necessárias para os longos percursos pelos rios Tiquié,
-Uaupés e Negro, que duram dias. Lonas de PVC azúis são estendidas nas
+Uaupés e Negro, que duram dias. Lonas de PVC azuis são estendidas nas
 paradas para o repouso nos bancos de areia às margens dos rios quando
 todos comem os peixes pescados e os beijus trazidos de casa. Por vezes,
 alguma comunidade tukano pode se fazer de ancoradouro para o sono e para
@@ -15887,10 +15887,10 @@ a troca, mas é sempre preciso estar atento aos galões de combustível por
 causa dos furtos recorrentes durante as paradas.
 
 Quando chegamos à aldeia do Cunuri, Marcelino já nos esperava com a
-grande /ma̖yt hoh-të̖g/, “canoa de alumínio”, que, na região, recebe o
+grande /ma̖yt hoh-të̖g/,  “canoa de alumínio”, que, na região, recebe o
 nome de voadeira. /Quarentão pu̗b/, “motor quarenta é forte”, exclamava
 Samuel. Contou que o possante motor dos brancos é também o meio de
-transporte com que /Bisi̗w/ foge logo que se apodera do /hã̗wäg/ das
+transporte com que /Bisi̗w/  foge logo que se apodera do /hã̗wäg/ das
 pessoas. Ele escapa tão rápido que nenhum xamã consegue alcançá-lo com
 seus meios de transporte, roupas ou canoas movidas a remo e rabeta.
 Assim, as máquinas e suas velocidades são percebidas como signos de
@@ -15930,14 +15930,14 @@ respeito diante dos tukano, donos nesse universo que já não era mais
 aquele de sua morada e de suas terras. Em língua hup, meu companheiro
 contou-me que próximo às casas onde estávamos havia rochas espalhadas
 pelo morro que se erguia atrás da aldeia. (**M23**) Antes de ser morada
-de um ancestral tukano, o morro foi a /Pa̖ç-Moy/, “Casa-de-Pedra”, de um
+de um ancestral tukano, o morro foi a /Pa̖ç-Moy/,  “Casa-de-Pedra”, de um
 antepassado hup, /S’ä̗bä̗y Hup i͂h/, o “Lua”. Esse demiurgo possuía um
 /me̖t-bok/, “tambor-de-pele-de-cutia”. Quando tocava seu instrumento, as
 mulheres eram atraídas e vinham até ele para se casar. Encantadas pelo
 som da percussão queriam a todo custo deitar-se em sua rede.
 
 No dia seguinte, navegando as águas do rio Negro, Samuel avistou o morro
-onde /Wed B’ö̖’/ habitou antigamente. Cutucou-me e comentou que muitas
+onde /Wed B’ö̖’/  habitou antigamente. Cutucou-me e comentou que muitas
 das histórias que eu tinha ouvido tinham se passado naquele lugar. Lá o
 ancestral encontrou sua esposa, a Mulher Peixe. Lá ele provou a coca e o
 tabaco pela primeira vez. Seu pai dissera que a Casa-de-Pedra desse
@@ -15949,17 +15949,17 @@ próprias embarcações que nos transportavam a partir de uma outra
 perspectiva.
 
 Seguindo Sahlins, as viagens a São Gabriel fazem circular pessoas,
-idéias, objetos, coca, dinheiro nos deslocamentos entre pólos culturais
-estrangeiros e indígenas (1997, p.110). De acordo com o autor, ao mesmo
+ideias, objetos, coca, dinheiro nos deslocamentos entre polos culturais
+estrangeiros e indígenas. De acordo com o autor, ao mesmo
 tempo em que os viajantes hup adaptam-se aos campos relacionais urbanos,
-mantém compromissos com suas famílias e comunidades gerando assim,
-formas de socialidade trasculturais. Nas crônicas que seguem, procuro
+mantêm compromissos com suas famílias e comunidades gerando, assim,
+formas de socialidade transculturais. Nas crônicas que seguem, procuro
 refletir um pouco sobre como, através das viagens a São Gabriel, as
 pessoas hup movimentam-se pelos grandes rios, pelas ruas e pela escrita,
 transformando modos de percepção e ação a partir das posições que
 assumem em seus novos percursos orientados para a paisagem urbana.
 
-#### A coca de Marino
+###A coca de Marino
 
 15 de abril de 2012.
 
@@ -15987,20 +15987,20 @@ para Iauareté. As revistas estavam suspensas. Nossa carga valiosa estava
 segura e, possivelmente, conseguiríamos cumprir nossa tarefa.
 
 Ao encontrarmos Marino, deveríamos transmitir a ele também as “palavras
-do velho Firmiano”, /Firmiano nɨ̖h ɨ̗d/. Sempre que conversava com
+do velho Firmiano”, /Firmiano nɨ̖h ɨ̗d/.  Sempre que conversava com
 Américo, o preparador da coca dizia sentir falta de Marino nas rodas.
 Para ele, como Henrique, Marino era um dos poucos que sabia conversar
 bem nos encontros noturnos. Devido a alguns desentendimentos antigos,
 Firmiano pouco falava nas rodas. Logo que terminava a preparação,
 sentava-se de costas para todos, voltando-se para as cabeceiras. /Hãwäg
-hihu̗͂’u͂p tɨ̖h/, “ele tem tristeza”, dizia Américo para explicar a atitude
+hihu̗͂’u͂p tɨ̖h/,  “ele tem tristeza”, dizia Américo para explicar a atitude
 de Firmiano. Dada sua afeição por Marino, fora ele quem nos ajudara a
 preparar a grande quantidade de folhas de coca que colhemos nos dias
 anteriores à partida.
 
 Por cerca de três dias caminhamos para as roças de Marino todas as
 manhãs. Seus pés de coca estavam cheios de mato, o que tornou nosso
-trabalho mais difícil, pois foi preciso limpar a plantação. Colhiamos
+trabalho mais difícil, pois foi preciso limpar a plantação. Colhíamos
 com todo o cuidado e, com a ajuda de Samuel, logo enchemos um grande
 saco com punhados de coca. Utilizamos o forno da casa de Américo para
 ar as folhas e meu pilão para triturar bem a carne e os ossos do
@@ -16014,12 +16014,12 @@ preparar essa cutia!’ ”, contou. A piada ficava mais engraçada quando um
 participante pedia para ficar com o bucho, outro com o fígado, um
 terceiro com os pés.
 
-Essa /muhu̗’ ɨ̗d/, “fala engraçada”, era também uma forma de /yä̗d ɨ̗d/,
+Essa /muhu̗’ ɨ̗d/,  “fala engraçada”, era também uma forma de /yä̗d ɨ̗d/,
 “fala de ocultar”, pois, como caçavam muito, referir-se à coca como
 /pu͂’u̖͂k/ poderia causar diarreia aos comedores. Da mesma forma como o
 Tamanduá é o dono do caarpi, o Cutia é o dono da coca; por isso, ao
 comer esse alimento é preciso explicitar a posição de presa da
-cutia/coca sendo devorada pelos xamãs/caçadores hup (Fausto, 2002). À
+cutia/coca sendo devorada pelos xamãs/caçadores hup. À
 predação da carne e ossos do Velho Cobra sobrepõe-se esse outro modo de
 ação, que faz do encontro noturno um hilário consumo e distribuição da
 carne da cutia. O sal da coca, imbaúba, transforma-se no sal da carne e
@@ -16027,14 +16027,14 @@ o tabaco em pimenta, ambos para atenuar a presença de energia quente na
 presa abatida. Predando a carne dos donos, os antigos predavam também a
 posição de dono da coca, partilhando o alimento, o código culinário e
 distribuindo a magnificação de suas vítimas no curso da fabricação
-divertida de si enquanto “comedores de coca” (Fausto, 2002).
+divertida de si enquanto “comedores de coca”.
 
 “Quando sonha com coca, que tá segurando um punhado de coca é que vai
 caçar cutia. Pode pegar o terçado e o arco e flecha que vai matar”,
 ensinou-me Américo. Ele começava a se lembrar de como seu irmão Marino
 era um bom caçador de cutias. Marino e seu pai, Herique, costumavam sair
-logo cedo para a Serra da Cutiváia e, se tivessem sonhado, traziam
-empre uma cutia. Por conta de sua partida para São Gabriel, Marino
+logo cedo para a Serra da Cutivaia e, se tivessem sonhado, traziam
+sempre uma cutia. Por conta de sua partida para São Gabriel, Marino
 pediu que Samuel tomasse conta de seu cão de caça. Assando as folhas,
 Samuel lamentou que o cachorro tivesse sido devorado por uma onça pouco
 depois da mudança do dono para São Gabriel.
@@ -16042,7 +16042,7 @@ depois da mudança do dono para São Gabriel.
 Em seu trabalho sobre o sistema hup de interpretação dos sonhos, Reid
 afirma que a capacidade de traduzir símbolos oníricos pode ser vista
 como uma fonte de informação sobre si mesmo e/ou sobre eventos latentes
-no cosmos, imperceptíveis quando se está acordado (1978, p. 7). À luz de
+no cosmos, imperceptíveis quando se está acordado. À luz de
 seu comentário, no consumo da coca ou no sonho com cutia, a ação
 ritualizada e a ação onírica situam as pessoas hup na posição de
 predadores. De modo diferente, a viagem a São Gabriel faz Marino parar
@@ -16097,26 +16097,25 @@ Tão distantes de /Ta̗t-Dëh/, em meio ao cenário urbano de São Gabriel,
 posicionávamo-nos numa roda de coca. Nossas conversas traziam à vida a
 paisagem da criação cujas águas têm o poder tanto de degenerar quanto de
 rejuvenescer. Como queria Américo, com o gosto da coca na boca, Marino
-lembrava-se de seu mundo vivido e de sua própria história naquelasterras agora tão distantes. Entendo que “comer coca antes de ir à
+lembrava-se de seu mundo vivido e de sua própria história naquelas terras agora tão distantes. Entendo que “comer coca antes de ir à
 procura dos papéis” revele-se um *esquecimento do esquecimento*, um ato
 de memória capaz de regenerar o xamã como um predador hup dos encontros
 noturnos, que devora os donos da coca e partilha, com caçadores
 (parentes hup da aldeia), a matéria e o poder do inimigo-outro, no caso
-funcionários e patrões, brancos e Tukano (Deleuze; Guattari, 1995;
-Fausto, 2002). Penso haver uma reconstrução do sentido que permite a
+funcionários e patrões, brancos e Tukano. Penso haver uma reconstrução do sentido que permite a
 Marino e a Américo estabelecer relações íntimas através do reforço mútuo
 dos planos (aldeia, Serra Grande, São Gabriel) em que se exprimem seus
-*habitus* de pessoas hup em contínuo movimento ao longo do mundo
-(Carneiro da Cunha, 1998; Ingold, 2000).
+*habitus* de pessoas hup em contínuo movimento ao longo do mundo.
 
-1.  ### Política
 
-    1.  #### Carta para o prefeito indígena
+## Política
+
+###Carta para o prefeito indígena
 
 Eu havia acabado de retornar do trabalho de campo e escrevia os
 relatórios a serem enviados às instituições locais na sede da Associação
 Saúde Sem Limites (SSL) em São Gabriel da Cachoeira. Ricardo, um jovem
-professor hup da comunidade de /Yuyu̖-Dëh/, “Barreira Alta”, em sua nova
+professor hup da comunidade de /Yuyu̖-Dëh/,  “Barreira Alta”, em sua nova
 função de Assessor Pedagógico Indígena (API), estava na cidade para
 entregar as listas de alunos das escolas hup do rio Tiquié e um abaixo
 assinado à Câmara Municipal. Ele sentou-se à mesa com o papel e o lápis
@@ -16159,7 +16158,7 @@ indígenas SR. Pedro Garcia providenciou. Por esses motivo nós votamos o
 nosso prefeito indígenas para nos ajudarem a fazer.
 
 A carta de solicitação acompanharia o abaixo assinado colhido nas
-comunidades Hupd’äh de /Yuyu̖-Dëh/, /Ta̗t-Dëh/ e /Pɨ̖͂g-Dëh/ durante o
+comunidades Hupd’äh de /Yuyu̖-Dëh/,  /Ta̗t-Dëh/ e /Pɨ̖͂g-Dëh/ durante o
 período em que viajei, em maio de 2009, com uma equipe da SSL,
 realizando oficinas para projetos de alternativas econômicas. Os
 professores hup haviam entregado um abaixo assinado, na câmara, com suas
@@ -16190,13 +16189,13 @@ Hupd’äh” que solicitam a casa de apoio, havendo uma divisão entre
 “Hupd’äh do rio Japu e Papuri” e “Hupd’äh do rio Tiquié”, onde mora
 Ricardo. Essa divisão é retomada na distribuição dos quartos, um para o
 rio Tiquié, outro para o rio Japu e Papuri. Em seguida, o “nós”, “povos
-Hupd’äh”, ressurge oposto ao “vocês” que engloba todas as instituições
+hupd’äh”, ressurge oposto ao “vocês” que engloba todas as instituições
 detalhadas que ajudariam na construção. A intensificação da dificuldade
-vivida pelos “povos Hupd’äh” emerge através do relato das tentativas de
+vivida pelos “povos hupd’äh” emerge através do relato das tentativas de
 hospedagem dos professores hup em São Gabriel, quando são “ralhados”
 (agredidos verbalmente) pelos Tukano que “sovinam” o alojamento, não
 permitindo, assim, a pousada dos professores hup. A oposição entre o
-“nós”, povos Hupd’äh, e os “outros”, Tukano, revela as dificuldades
+“nós”, povos hupd’äh, e os “outros”, tukano, revela as dificuldades
 sentidas que justificariam a solicitação. Por fim, o “nós” mostra o
 apoio dado ao então prefeito, sr. Pedro Garcia, durante as eleições. Ao
 mesmo tempo em que é ressaltada uma oposição entre Hupd’äh e Tukano,
@@ -16204,16 +16203,16 @@ parece haver uma unidade com o “prefeito indígena”, um Tariano, na
 expectativa de que ele “ajude a fazer”, assim como “providenciou”
 durante a campanha. Por fim, Pedro Garcia soma-se ao “vocês” das
 instituições para ajudar a fazer a casa de apoio de que tanto necessitam
-os povos Hupd’äh.
+os povos hupd’äh.
 
-Nesse sentido, pensando com Carneiro da Cunha (2009), a elaboração do
+Nesse sentido, pensando com Carneiro da Cunha, a elaboração do
 documento situa-se tanto no plano do ato quanto do discurso político,
 constituindo sociedade, grupos e coletividades. O minucioso trabalho de
 fazer e desfazer oposições entre “nós” e “outros” presente no documento
 pode ser percebido como o processo de produção e discussão da autoridade
-para representar os “povos Hupd’äh”. Isso permitiria a constituição da
+para representar os “povos hupd’äh”. Isso permitiria a constituição da
 autoridade do documento para representar um grupo indígena e para
-realizar atos jurídicos em nome dessa autoridade (2009, p. 340).
+realizar atos jurídicos em nome dessa autoridade.
 
 Entre o rascunho e a finalização da carta, a leitura e aprovação de um
 não indígena, antropólogo, seriam gestos importantes na busca pela
@@ -16223,7 +16222,7 @@ simultaneamente, o ato de escrever fosse também nutrindo Ricardo com os
 atributos necessários para constituir-se enquanto representante
 legítimo. Ao mesmo tempo em que tece um elo entre as aldeias, o API
 preserva a autonomia das mesmas na figura dos “povos Hupd’äh”, e não do
-povo Hupd’äh como poderia ser esperado. Além disso, ele cria uma divisão
+povo hupd’äh como poderia ser esperado. Além disso, ele cria uma divisão
 arquitetônica entre os Hupd’äh do rio Tiquié e seu quarto, e os Hupd’äh
 dos rios Japu e Papuri, e seu quarto comum. Algo que faz lembrar as
 divisões presentes na grande maloca, onde os ancestrais hup tocaram as
@@ -16233,23 +16232,23 @@ celeste habitada pelo Trovão e seus cunhados, as Onças.
 Partindo da reflexão de Generre, o viajante-escritor hup busca, a um só
 tempo, exercer influência sobre o ambiente em que realiza seu ato
 linguístico, mobilizar e concentrar a autoridade acumulada em sua pessoa
-e exercer, assim, o poder da palavra (1991, p. 5). Seguindo Carneiro da
+e exercer, assim, o poder da palavra. Seguindo Carneiro da
 Cunha, percebe-se haver, nos sentidos atribuídos à escrita, a
 confluência de concepções de “cultura com aspas” ‒ enquanto categoria
 manejada em discursos para que reivindicações sejam atendidas ‒ e de
 “cultura sem aspas” ‒ enquanto “esquemas interiorizados que organizam a
 percepção das pessoas e que garantem certo grau de comunicação a grupos
-sociais” (2009, p. 313). Nesse sentido, a concentração silenciosa por
+sociais” <!--estilo de citação-->. Nesse sentido, a concentração silenciosa por
 horas, o corrente escrever e apagar, a elaboração do rascunho para
 submetê-lo à aprovação e o passar a limpo podem ser vistos como gestos
 de uma demonstração performática de uma “cultura com aspas” (Carneiro da
 Cunha, 2009, p. 313).
 
-Visualizo essa *performance da escrita* como um *evento de letramento*
+Visualizo essa *performance* da escrita como um “evento de letramento”
 (*literacy*), uma ocasião em que a escrita se integra à natureza das
-interações daquele que escreve e a seus processos de interpretação
-(Street, 2003, p. 78). Na elaboração escrita das reivindicações dos
-“povos Hupd’äh”, Ricardo elabora um discurso sobre a “cultura com aspas”
+interações daquele que escreve e a seus processos de interpretação. 
+Na elaboração escrita das reivindicações dos
+“povos hupd’äh”, Ricardo elabora um discurso sobre a “cultura com aspas”
 dos Hupd’äh, marcada pela falta, pela discriminação e pela necessidade
 de ajuda. Por um lado, os Tukano são aqueles que os discriminam e fazem
 com que não possuam um alojamento próprio, por outro, apela-se para o
@@ -16259,27 +16258,26 @@ contas, trata-se de uma forma de honrar uma relação de reciprocidade, um
 circuito de dádivas semelhante ao do Dabucuri, iniciado pelos Hupd’äh ao
 “darem seus votos”.
 
-#### A “política” da Cobra-Canoa
+###A “política” da Cobra-Canoa
 
-> []{#M19_Canoa .anchor}**M19.** [[]{#OLE_LINK43 .anchor}]{#OLE_LINK44
-> .anchor}**A política da Cobra-Canoa**
->
-> No magistério, muitos Tukano contaram da história da Cobra-Grande
-> dizendo que eles tinham saído primeiro. Política. Mas a verdade é que
-> os Hup tinham saído primeiro. Foi o Hupd’äh quem saiu primeiro da
-> Cobra-Grande. Os Tukano dizem que foram eles, mas não é verdade, não.
-> Porque esses Hupd’äh, Dâw, eles foram timoneiros.
->
-> Saíram lá do Lago de Leite no Rio de Janeiro e vieram dar aqui.
-> Primeiro foram ali pra Ipanoré. Depois foram indo lá pra o Papuri,
-> Iauareté, e deixando os povos. Os Hupd’äh ficavam ali no rio Turi e
-> daí foram descendo, porque todos os povos vieram como peixes dentro da
-> Cobra, mas quando chegaram nos seus lugares eles já saíam e
-> transformavam em gente.
->
-> Os Tukano falam muita coisa diferente do caminho da Cobra, por onde
-> ela foi primeiro, depois. É política, né. Falam que os Hupd’äh saíram
-> depois. Política. (Ricardo, 13/05/2009).
+ **M19. A política da Cobra-Canoa**
+
+ No magistério, muitos Tukano contaram da história da Cobra-Grande
+ dizendo que eles tinham saído primeiro. Política. Mas a verdade é que
+ os Hup tinham saído primeiro. Foi o Hupd’äh quem saiu primeiro da
+ Cobra-Grande. Os Tukano dizem que foram eles, mas não é verdade, não.
+ Porque esses Hupd’äh, Dâw, eles foram timoneiros.
+
+ Saíram lá do Lago de Leite no Rio de Janeiro e vieram dar aqui.
+ Primeiro foram ali pra Ipanoré. Depois foram indo lá pra o Papuri,
+ Iauareté, e deixando os povos. Os Hupd’äh ficavam ali no rio Turi e
+ daí foram descendo, porque todos os povos vieram como peixes dentro da
+ Cobra, mas quando chegaram nos seus lugares eles já saíam e
+ transformavam em gente.
+
+ Os Tukano falam muita coisa diferente do caminho da Cobra, por onde
+ ela foi primeiro, depois. É política, né. Falam que os Hupd’äh saíram
+ depois. Política. (Ricardo, 13/05/2009).
 
 Ricardo contou-me essa narrativa enquanto jantávamos. Ele comia uma
 quentinha que havia comprado por 5 reais. Para mim, comprou um espeto de
@@ -16309,29 +16307,31 @@ modo de relatar o percurso da cobra, pela condução da embarcação e pela
 saída anterior. Afinal, foram eles os timoneiros.
 
 Nessa narrativa, opõem-se modos de narrar que revelam a oposição entre
-Hupd’äh e Tukano em termos de *verdade* e *não verdade/política*. O
+Hupd’äh e Tukano em termos de verdade e não verdade/política. O
 magistério e a Cobra-Grande são totalidades que contêm a multiplicidade
 dos povos. No magistério, os Tukano contam de forma diferente sobre o
 percurso da Cobra. Dizem que saíram primeiro. Fora do magistério, o Hup
 Ricardo conta a dois não indígenas a história, revelando o caminho
 verdadeiro e a saída anterior dos Hupd’äh. Como aponta Hugh-Jones,
 
-> *A mito-história do alto rio Negro é uma história política em um duplo
-> sentido. Por um lado, fazendo referência a estrangeiros, as narrativas
-> de todos os grupos da região refletem uma longa história de
-> resistência à dominação externa e servem para legitimar reivindicações
-> indígenas pelo território. Por outro lado, histórias particulares
-> servem também para legitimar reivindicações pelo território, bem como
-> status de um grupo particular em face aos demais* (2012, p. 163).
+<!--estilo de citação-->
+ A mito-história do alto rio Negro é uma história política em um duplo
+ sentido. Por um lado, fazendo referência a estrangeiros, as narrativas
+ de todos os grupos da região refletem uma longa história de
+ resistência à dominação externa e servem para legitimar reivindicações
+ indígenas pelo território. Por outro lado, histórias particulares
+ servem também para legitimar reivindicações pelo território, bem como
+ status de um grupo particular em face aos demais (2012, p. 163).
+<!--estilo de citação--> 
 
 Creio que a “política” à qual se refere Ricardo tenha a ver com essa
 busca por legitimar territórios e *status* por meio da mito-história da
-região. Segundo Athias (1995), na visão de mundo dos Tukano, os Hupd’äh
+região. Segundo Athias, na visão de mundo dos Tukano, os Hupd’äh
 habitam as florestas, e não as margens dos rios, não possuem moradas
 fixas nem ornamentos, não praticam a exogamia linguística e não são
 horticultores. Contrastivamente, do ponto de vista tukano, os Hupd’äh
 são marcados por aspectos negativos e não humanos que os levam a
-comportamentos incestuosos, animalescos e selvagens (1995, p. 5). Já do
+comportamentos incestuosos, animalescos e selvagens. Já do
 ponto de vista Hupd’äh, como visto anteriormente, é preciso cuidado e
 atenção ao interagir com os Tukano, dada a presença excessiva de energia
 quente e agressividade em seus corpos. Atitudes arbitrárias, a altivez e
@@ -16347,7 +16347,7 @@ e migrar para São Gabriel[^147]. São, assim, vistos como pessoas fracas
 por não dominarem a agressividade que degenera no “autoritarismo” com
 que tratam os Hupd’äh.
 
-Na carta, o “ralhar” e “sovinar” dos Tukano, atitudes antisociais
+Na carta, o “ralhar” e “sovinar” dos Tukano, atitudes antissociais
 reprovadas pela socialidade hup, reforçam uma oposição entre nós, povos
 Hupd’äh, e outros, Tukano. Essas atitudes atestam a dificuldade para a
 hospedagem e justificam a unidade com o “prefeito indígena”, Tariano, e
@@ -16372,23 +16372,25 @@ Tukano, seriam superiores. Essa fala, tida pelo narrador como sinônimo
 de inverdade, transforma-se, na carta, na possibilidade de construção da
 casa de apoio. Como afirma Carneiro da Cunha,
 
-> Para atingir seus objetivos, porém, os povos indígenas precisam se
-> conformar às expectativas dominantes em vez de contestá-las. Precisam
-> operar com conhecimentos e com a cultura tais como são entendidos por
-> outros povos, e enfrentar as contradições que isso venha a gerar
-> (Carneiro da Cunha, 2009, p. 330).
+<!--estilo de citação-->
+ Para atingir seus objetivos, porém, os povos indígenas precisam se
+ conformar às expectativas dominantes em vez de contestá-las. Precisam
+ operar com conhecimentos e com a cultura tais como são entendidos por
+ outros povos, e enfrentar as contradições que isso venha a gerar
+ (Carneiro da Cunha, 2009, p. 330).
+<!--estilo de citação-->
 
-Como afirma Andrello ao analisar uma narrativa tukano, “no presente, não
+Como afirma Andrello ao analisar uma narrativa tukano, <!--citação-->“no presente, não
 se trata de se apropriar da perspectiva de outrem, mas de afirmar a sua
 própria” (2006, p. 421). Movimentando-se entre o oral e o escrito,
-Ricardo mescla de diferentes formas concepções de *“cultura”* e
-*cultura*. Parte de um campo de interações marcado pelas relações com os
+Ricardo mescla de diferentes formas concepções de “cultura” e
+cultura. Parte de um campo de interações marcado pelas relações com os
 Tukano em meio ao convívio dos afazeres em aldeias e roças ribeirinhas,
 às festas de Dabucuri e de caxiri interétnicas, à passagem pelas
 comunidades tukano durante as viagens à cidade, e à participação
-conjunta nos magistérios. Em sua carta, a *“cultura”* surge no discurso
+conjunta nos magistérios. Em sua carta, a “cultura” surge no discurso
 escrito pela caracterização dos Hupd’äh como inferiores. No discurso
-oral, a *cultura*, sem aspas, delineia os Hupd’äh como superiores pela
+oral, a cultura, sem aspas, delineia os Hupd’äh como superiores pela
 verdade, anterioridade e saber. Em diferentes situações, tenho observado
 a inversão que marca a diferença entre esses dois discursos. Quer no
 modo de manifestar-se diante da presença dos Tukano ou em sua ausência,
@@ -16397,12 +16399,12 @@ representantes da FUNAI ou lideranças, essa inversão, de acordo com o
 contexto relacional e a posição assumida, permite, a meu ver, que suas
 reivindicações sejam atendidas.
 
-### Livro de Encantamentos e círculos de cachaça
+##Livro de Encantamentos e círculos de cachaça
 
 Sentado ao meu lado numa roda de coca, Jovino lembrou-se de quando a
 polícia federal chegou às comunidades na década de 1980. Os policiais
 aproximavam-se, mandavam chamar aqueles que tivessem plantações de coca.
-Os anciões aproximávam-se e eram acompanhados até suas roças de coca.
+Os anciões aproximavam-se e eram acompanhados até suas roças de coca.
 Lá, furiosos, os brancos arrancavam os pés de coca. Xingavam e
 humilhavam os senhores, enquanto faziam montes com as plantas. Atônitos,
 os velhos viam suas plantações serem queimadas diante de seus olhos, sem
@@ -16436,7 +16438,7 @@ surpreendia os xamãs, sendo vista como um poder fundamental de interação
 com os brancos, o qual poderia ser utilizado para contribuir com o
 aprendizado. Pensando com Carneiro da Cunha, creio que essa articulação
 entre viagens cósmicas, atos de fala (encantamentos soprados) e palavras
-escritas revele o processo como uma tradução xamânica é “capaz de
+escritas revele o processo como uma tradução xamânica é <!--citação-->“capaz de
 apreender os pontos de ressonância, de fazer com que a *intentio* em uma
 língua reverbere em outra” (1998, p. 13).
 
@@ -16448,15 +16450,15 @@ registrados em meu gravador. Nessas audições, as versões eram comentadas
 e complementadas, pois os textos diziam respeito apenas a movimentos
 elementares do conjunto de ações que precisavam ser realizadas pelo
 benzedor[^148]. Os textos passaram a ser veículos de mediação para as
-conversas entre os mais jovens e os comedores de coca (Hugh-Jones,
-1995). Alguns, como Samuel, dedicaram-se durante longo tempo à leitura e
+conversas entre os mais jovens e os comedores de coca. 
+Alguns, como Samuel, dedicaram-se durante longo tempo à leitura e
 conversa com os mais velhos sobre encantamentos importantes, para
 proteger e curar suas famílias. A participação de Samuel na viagem à
 Serra Grande partiu desse interesse em caminhar pelos lugares aos quais
 seu pai se referia nas histórias e nos encantamentos que lhe ensinava.
-As linhas de nossa escrita buscavam não aquilo que Ingold (2007, p.
-133-51) denomina linearização, uma cadeia de ligações ponto a ponto que
-exlui a vida nas conexões do gesto, mas sim descrever os movimentos dos
+As linhas de nossa escrita buscavam não aquilo que Ingold 
+denomina linearização, uma cadeia de ligações ponto a ponto que
+exclui a vida nas conexões do gesto, mas sim descrever os movimentos dos
 viajantes ao longo do mundo para que as linhas da escrita se movessem
 como os próprios xamãs.
 
@@ -16464,7 +16466,7 @@ Desse modo, o processo de preparação do livro estabeleceu um campo mútuo
 de interação em torno de palavras e escrituras que foi aos poucos
 gerando transformações no modo de circulação de saberes e habilidades
 das rodas de coca e dos caminhos. Apesar de não haver mais a necessidade
-de /yä̗d/, “ocultar”, tantas palavras e tantos sentidos dos
+de /yä̗d/,  “ocultar”, tantas palavras e tantos sentidos dos
 encantamentos, os senhores hup decidiram que seria importante que o
 livro resultante de nosso trabalho fosse um exemplar único, que deveria
 ser mantido apenas nas mãos dos participantes das rodas, para que
@@ -16488,35 +16490,34 @@ sua incursão à cidade, a pessoa não se esqueceu dos parentes e de sua
 vida em /Ta̗t-Dëh/. À medida do efeito embriagante do álcool, a energia
 quente e agressiva dos brancos começa a tomar conta dos corpos e
 expressões dos bebedores. “Seu merda”, “filho da puta”, “vai tomar no
-cú”, “burro” são ofenças proferidas por alguns dos participantes das
+cu”, “burro” são ofensas proferidas por alguns dos participantes das
 rodas que começam a se desentender com parentes próximos. Nas rodas de
 coca, consumido algumas doses de cachaça, os anciões observam o
 comportamento e a violência que toma conta de alguns dos homens e
 rapazes.
 
 Como na situação da queima das roças de coca, os xingamentos são vistos
-como uma /tä̗w ɨ̗d/, uma “fala furiosa” que manifesta potências
+como uma /tä̗w ɨ̗d/,  uma “fala furiosa” que manifesta potências
 destrutivas e, ao mesmo tempo, a força dos brancos em si. Beber a
 cachaça e falar como os brancos revelam uma complexa mimese através da
 qual os bebedores situam-se num campo de interação com esses Outros, o
 que torna possível o alinhamento de suas atenções, gestos e falas a
 partir da observação do comportamento violento desses Outros. Se as
 roupas-cósmicas dotam os xamãs das habilidades das onças, mulher-fera e
-/Bisi̗w/, creio que as rodas de cachaça e os xingamentos em português
+/Bisi̗w/,  creio que as rodas de cachaça e os xingamentos em português
 deflagrem um processo reflexivo de apreensão de potências arbitrárias e
 violentas que marcam as viagens e as interações na cidade a partir de
-alinhamentos da atenção proporcinados pela cachaça. Num outro sentido, a
+alinhamentos da atenção proporcionados pela cachaça. Num outro sentido, a
 escrita parece ser um modo de ação que, articulado às rodas de coca,
 abre a possibilidade de atenuar efeitos negativos da interação com os
 brancos em suas escolas, igrejas e cidades. As “falas furiosas” e a
 escrita parecem ser modos de colocar-se em perspectiva e assumir o olhar
-e a agência de outrem (Viveiros de Castro, 1996; Carneiro da Cunha,
-1998).
+e a agência de outrem.
 
 Numa roda de coca de 2011, conversei com João sobre as casas cósmicas
-que são visitadas pelos xamãs durante suas incurssões ao universo
+que são visitadas pelos xamãs durante suas incursões ao universo
 celeste. O benzedor contou que uma das moradas fundamentais para a
-viagem do xamã vem a ser a /Sib’i̖-Moy/, a “Casa-da-Cachaça”. Suas
+viagem do xamã vem a ser a /Sib’i̖-Moy/,  a “Casa-da-Cachaça”. Suas
 paredes de tijolo, suas telhas de barro e suas janelas de vidro dão a
 ela a aparência de uma construção de alvenaria. Chegando à
 Casa-da-Cachaça, o benzedor precisa encontrar-se com os xamãs, /bi’i̖d
@@ -16528,8 +16529,7 @@ Essas moradas são, assim, englobadas pela grande Casa-da-Cachaça,
 espécie de campo transcultural a partir do qual os xamãs buscam se
 posicionar para observar de todos os ângulos e empreender suas
 tentativas de totalização dos pontos de vista singulares e irredutíveis
-que se encontram em contínua ressonância (Sahlins, 1997; Carneiro da
-Cunha, 1998). Partilhando os alimentos com os xamãs dessas moradas e
+que se encontram em contínua ressonância. Partilhando os alimentos com os xamãs dessas moradas e
 assumindo suas perspectivas, o viajante adquire habilidades e saberes
 que lhe permitem maior êxito nas ações protetivas ou agressivas.
 
@@ -16538,21 +16538,17 @@ moradas, revelando-se um sintético campo relacional branco que envolve
 outros planos de atuação e percepção proporcionados pelas demais
 substâncias. Enquanto as práticas eméticas pela ingestão de águas nas
 nascentes dos morros mostram-se formas de relacionar-se, como ocorre com
-as otências da morada do Trovão e das Onças que dominam as
+as potências da morada do Trovão e das Onças que dominam as
 armas-de-fogo e se enfurecem quando bebem cachaça, o consumo do
 destilado e a viagem à Casa-da-Cachaça parecem fazer o xamã assumir a
 perspectiva dos brancos alinhando sua atenção e ação para um modo de
 abdução da agressividade e força desses Outros num sentido próximo ao
-das rodas de cachaça na chegada dos viajantes. Algo que se aproxima do
-poder da faculdade mimética descrito por Taussig, “For this is where we
-must begin; with the magical power of replication, the image affecting
-what is an image of, wherein the representation shares in or takes power
-from the represented” (1993, p. 2).
+das rodas de cachaça na chegada dos viajantes. 
 
-[]{#Fig57_CasaCachaca .anchor}Casa-da-Cachaça (Desenho de Samuel Brasil
-Monteiro, /M’e̖h Sɨh/)
+<!--Fig. 31-->
+Casa-da-Cachaça (Desenho de Samuel Brasil Monteiro, /M’e̖h Sɨh/)
 
-Nos últimos anos, têm se tornado cada vez mais frequentes as incurssões
+Nos últimos anos, têm se tornado cada vez mais frequentes as incursões
 de senhores hup a São Gabriel. Deslocam-se conduzidos pelos filhos para
 o centro urbano em busca do acesso a seus direitos de aposentadoria.
 Devido à morosidade, burocracia e discriminação locais, são necessárias
@@ -16566,13 +16562,13 @@ cartório, banco, FUNAI, etc.
 
 As rodas de cachaça são comuns nesses períodos quando os viajantes bebem
 com parentes de outras comunidades e com pessoas de outras etnias em São
-Gabriel. A embriaguez que marca a experência da cidade é contada nos
+Gabriel. A embriaguez que marca a experiência da cidade é contada nos
 encontros noturnos da volta em meio às impressões sobre a música, a
 comida, a polícia, os automóveis e demais aspectos que tenham chamado a
 atenção dos anciões. Novamente em seus lugares nas rodas, os
 recém-chegados falam de suas bocas que choraram a falta da coca, dos
 roubos dos quais foram vítimas e de desentendimentos que seus filhos
-tiveram com pessoas de outras etnias, principalmete tukano. O sabor da
+tiveram com pessoas de outras etnias, principalmente tukano. O sabor da
 coca e a ardência da cachaça acompanham sorrisos e piadas que traduzem a
 sensação de terem vencido perigos e desafios nas aventuras pela cidade,
 uma imensa, fascinante e terrível Casa-da-Cachaça.
@@ -16580,7 +16576,7 @@ uma imensa, fascinante e terrível Casa-da-Cachaça.
 Conviver com os brancos, viajar para as cidades, estudar nas escolas
 enfraquecem o corpo para a aquisição de habilidades xamânicas, ao mesmo
 tempo em que a escrita em língua hup e a tradução para o português
-enfraquecem a força das palavras dos encantamentos. Reversamente, as
+enfraquecem a força das palavras dos encantamentos. Inversamente, as
 viagens à Casa-da-Cachaça, à cidade de São Gabriel, o consumo de cachaça
 e o aprendizado da escrita colocam-se como modos de ação que levam à
 abdução de poderes que fortalecem os xamãs, asseguram o aprendizado dos
@@ -16590,7 +16586,7 @@ lembrem-se de seus parentes e voltem para suas comunidades. No curso das
 viagens a São Gabriel, a ressonância de pontos de vista torna-se
 possível pelo consumo da cachaça e pela escrita, agências essas que
 revelam poderosas relações analógicas que tanto reestruturam fenômenos
-quanto conferem significado (Wagner, 2010, p. 69). A cachaça e a escrita
+quanto conferem significado. A cachaça e a escrita
 demonstram, na aldeia, aquilo que a *coca de Marino* e a *carta ao
 prefeito indígena* procuravam revelar na cidade, ou seja, a importância
 da percepção de si como Hupd’äh interagindo com brancos, Tukano, para
@@ -16599,7 +16595,7 @@ permitam se posicionar em campos de percepção e ação englobantes para
 apreender pontos de vista em ressonância e retornar, proteger e curar os
 seus.
 
-### Saudades de Henrique
+##Saudades de Henrique
 
 Em 2009, sem saber ainda a melhor forma de despedir-me para um longo
 período de afastamento, abracei o senhor Henrique. Sofrendo com uma
@@ -16613,53 +16609,53 @@ não estaria mais lá quando eu voltasse. Seu filho, Américo, explicou-me
 que além da doença, seu pai tivera um terrível pesadelo, presságio de um
 agravamento da doença.
 
-> **S5. Viagem ao mundo subterrâneo **
->
-> *Américo (A)*: O pessoal levou ele até no fundo. Esse dia ele ficou
-> triste quando contou. *Köd i͂h (K):* Por que trazer você pra cá? Você
-> aqui não importa à gente. \[...\] *Henrique (H):* Aqui é muito longe,
-> aqui nessa terra. \[...\] *K:* De onde tu vem? *H:* De cima da terra.
-> Não tem caminho pra chegar aqui nessa terra de vocês. *A:* Ficou
-> triste! Ele acordou.
->
-> *Danilo (D):* E como é o nome desse pessoal que levou ele?
->
-> *A:* /Köd’ Däh/. *H:* Acordei. *A:* /Nup tëg ham? Sug teg ham? Sug,
-> Sug-Meh/. *A:* Beija-flor. Essa canoa. Beija-flor e canoa. *K:* Vai,
-> vai com ele. *H:* Peguei com /Sug/ mesmo. Aí, acordei na hora. \[...\]
-> *A:* Quando às vezes sonha, ele viu assim. *K:* Essa canoa vai pra
-> chegar nessa sua terra \[...\]. *A:* Canoa ou escada ou caminho... Aí
-> ele pega. Quando ele pega aí, ele acorda logo. Ele dorme e acorda e
-> fica triste. \[...\] Beija-flor é caminho mesmo. Lá no fundo ele vive.
->
-> *H:* Rapaz. Não sei. Pra voltar, nem canoa nem nada aqui no fundo,
-> embaixo, no fundo. \[...\] Quando você chega no fundo da terra, se não
-> acordar, a essa hora já perde, você perdeu a vida. \[...\] Você não
-> volta não. Há essa hora você já morreu. Perdeu a vida. Chorando as
-> outras pessoas... \[...\] Ficou triste esse dia ele \[...\]. *K:* Esse
-> beija-flor vai pra chegar à sua terra... \[...\] *H:* Aqui tá muito
-> ruim, não dá pra ficar. Não tem não, acabou. K: É, vai direto até
-> chegar essa terra. \[...\]
->
-> *H:* Quando acordei, \[...\] rapaz eu cheguei lá no fundo. O pessoal
-> levaram pra mim. \[...\] Minha vida, meu coração! Meu coração tá
-> saindo! Aqui tá muito triste! Não dá pra mim, não!
->
-> *A:* Ele ficou triste, rapaz. Meu pai... A vida dele está lá ainda.
-> Embaixo da terra. Aí eu chamei. Professor Rosalino benzeu pra ele e
-> Ponciano também. Duas vezes. Agora não. Só gripe mesmo. Quase já deu
-> pneumonia pra ele.
+ **S5. Viagem ao mundo subterrâneo**
+
+ *Américo (A)*: O pessoal levou ele até no fundo. Esse dia ele ficou
+ triste quando contou. *Köd i͂h (K):* Por que trazer você pra cá? Você
+ aqui não importa à gente. \[...\] *Henrique (H):* Aqui é muito longe,
+ aqui nessa terra. \[...\] *K:* De onde tu vem? *H:* De cima da terra.
+ Não tem caminho pra chegar aqui nessa terra de vocês. *A:* Ficou
+ triste! Ele acordou.
+
+ *Danilo (D):* E como é o nome desse pessoal que levou ele?
+
+ *A:* /Köd’ Däh/. *H:* Acordei. *A:* /Nup tëg ham? Sug teg ham? Sug,
+ Sug-Meh/. *A:* Beija-flor. Essa canoa. Beija-flor e canoa. *K:* Vai,
+ vai com ele. *H:* Peguei com /Sug/ mesmo. Aí, acordei na hora. \[...\]
+ *A:* Quando às vezes sonha, ele viu assim. *K:* Essa canoa vai pra
+ chegar nessa sua terra \[...\]. *A:* Canoa ou escada ou caminho... Aí
+ ele pega. Quando ele pega aí, ele acorda logo. Ele dorme e acorda e
+ fica triste. \[...\] Beija-flor é caminho mesmo. Lá no fundo ele vive.
+
+ *H:* Rapaz. Não sei. Pra voltar, nem canoa nem nada aqui no fundo,
+ embaixo, no fundo. \[...\] Quando você chega no fundo da terra, se não
+ acordar, a essa hora já perde, você perdeu a vida. \[...\] Você não
+ volta não. Há essa hora você já morreu. Perdeu a vida. Chorando as
+ outras pessoas... \[...\] Ficou triste esse dia ele \[...\]. *K:* Esse
+ beija-flor vai pra chegar à sua terra... \[...\] *H:* Aqui tá muito
+ ruim, não dá pra ficar. Não tem não, acabou. K: É, vai direto até
+ chegar essa terra. \[...\]
+
+ *H:* Quando acordei, \[...\] rapaz eu cheguei lá no fundo. O pessoal
+ levaram pra mim. \[...\] Minha vida, meu coração! Meu coração tá
+ saindo! Aqui tá muito triste! Não dá pra mim, não!
+
+ *A:* Ele ficou triste, rapaz. Meu pai... A vida dele está lá ainda.
+ Embaixo da terra. Aí eu chamei. Professor Rosalino benzeu pra ele e
+ Ponciano também. Duas vezes. Agora não. Só gripe mesmo. Quase já deu
+ pneumonia pra ele.
 
 Na época, interessado em realizar um estudo sobre a relação entre os
 sonhos e as rodas de coca, pedi a Américo para registrar a narrativa com
 o gravador. Não voltei a ela durante todo o percurso da pesquisa e
 análise, pois esse texto passou a ser visto por mim como um presságio da
 morte desse meu amigo que eu não tive, à época, sensibilidade para
-comreender. Em sua fala, o narrador reproduz os diálogos entre seu pai
-e o interlocutor, uma pessoa /k’ö̗d/. Henrique parece ter tido seu
+compreender. Em sua fala, o narrador reproduz os diálogos entre seu pai
+e o interlocutor, uma pessoa /k’ö̗d/.  Henrique parece ter tido seu
 /hã̗wäg/ capturado por esses seres que, no entanto, manifestam seu
 desinteresse pelo velho hup. O caminho inexistente surge apenas quando o
-xamã hup assume a perspectiva /k’ö̗d/ e aceita viajar dentro de um
+xamã hup assume a perspectiva /k’ö̗d/  e aceita viajar dentro de um
 beija-flor/canoa para ascender novamente à sua terra. Desperto do
 pesadelo, Henrique narrou o sonho a seu filho que, preocupado, pediu que
 Rosalino, um xamã tukano, e Ponciano, um xamã hup, realizassem
@@ -16695,7 +16691,7 @@ indiferentes ao ancião, provocaram indiretamente seu acidente, fizeram
 seu /hã̗wäg/ deixar o corpo, e forneceram os meios de transporte para que
 esse velho hup voltasse para a sua terra? Novamente em /Ta̗t-Dëh/,
 Henrique iniciaria sua jornada para a Serra Grande após o sepultamento
-de seu corpo. Seu /b’atɨ̖b’/ continuaria sua rotina de colheita de folhas
+de seu corpo. Seu /b’atɨ̖b’/  continuaria sua rotina de colheita de folhas
 de coca, participação nos encontros noturnos e repouso na rede de dormir
 na morada do filho, por algum tempo, até que a casa fosse cercada por
 encantamentos e a saudade deixasse de habitar o peito de seus filhos e
@@ -16705,15 +16701,14 @@ Retomar a viagem onírica ao subterrâneo de Henrique me faz perceber que
 só agora posso *esquecer meu esquecimento* para perceber como busquei,
 ao longo das viagens para as serras e da participação contínua nas rodas
 de coca, reencontrar a vida que fez nascer esse primeiro laço de amizade
-estabelecido entre eu, o pesquisador branco, e Henrique, um ancião hup
-(Deleuze; Guattari, 1995)[^150]. De certo modo, vejo agora que a
+estabelecido entre eu, o pesquisador branco, e Henrique, um ancião hup[^150]. De certo modo, vejo agora que a
 experiência etnográfica e os movimentos de análise realizados
 constituíram-se como uma longa jornada em que procurei me situar com
 meus companheiros ao longo de múltiplas paisagens que me permitem ver
 agora a enunciação desse sonho como um aceno, um gesto sincero de alguém
 que está prestes a empreender uma grande viagem situada no intercurso
 entre a vida e a morte. Refletindo sobre um mito que ouviu de Artemio
-como uma história para ser recontada, Gow dirá que “Artemio me contou
+como uma história para ser recontada, Gow dirá que <!--citação-->“Artemio me contou
 esta história. Entendê-la, portanto, exige mais conhecimento sobre
 Artemio, sobre mim, sobre aquela conversa, e sobre aquela noite” (Gow,
 2001, p. 36).
@@ -16740,10 +16735,10 @@ imensa Serra Grande. De lá talvez se possa sentir confluir em si a
 ressonância de perspectivas e movimentos para gerar a vida pelos
 encontros dos círculos de coca e dos caminhos abertos pelo mundo.
 
-1.  Considerações finais
-    --------------------
+#Considerações finais
+ 
 
-    1.  ### Coca para os viajantes 
+### Coca para os viajantes 
 
 Sentado numa roda de coca, o etnógrafo alemão Theodor Koch-Grünberg
 observava de longe os “maku escravos” acocorados num canto escuro da
@@ -16751,8 +16746,7 @@ maloca tukano situada na margem direita do rio Tiquié. Naqueles meses de
 março e abril de 1904, o viajante rumava para Pari-Cachoeira com seu
 auxiliar, Schmidt, e sua equipe de remadores indígenas. A coca oferecida
 pelos anfitriões tukano era preparada pelos Maku que, quando não estavam
-pilando, reuniam-se para conversar entre si e beber cuias de caxiri
-(Koch-Grünberg, 1909/2005, p.286).
+pilando, reuniam-se para conversar entre si e beber cuias de caxiri.
 
 Aproximando-se do pilão, o pesquisador tomou nota detalhadamente do
 processamento e da mistura da coca com as cinzas de embaúba. O sabor e o
@@ -16760,34 +16754,35 @@ efeito estimulante da substância levaram-no a caracterizar a coca como
 boa para saciar a fome, para caminhar e para manter-se disposto durante
 as festas. Um paneiro, uma cuia, uma colher, uma cabaça e um saquinho
 são os utensílios que figuram nas fotos e desenhos em meio a seu relato
-científico (1909/2005, pp.284-5). Sentindo o gosto da coca em sua boca e
+científico. Sentindo o gosto da coca em sua boca e
 intrigado com esses “escravos Maku”, o viajante reuniu-os para uma foto
-e, depois, realizou com eles difíceis entrevistas linguísticas
-(1909/2005, p. 286).
+e, depois, realizou com eles difíceis entrevistas linguísticas.
 
 Como discutido, as impressões do pesquisador eram guiadas pela *mediação
 tukano* e levavam à apresentação de uma imagem negativa, depreciativa e
 preconceituosa desse povo, marcada por um modo de vida baseado na
 mobilidade (nomadismo),
 
-> *Os Tukano de Parý-Cachoeira, que eram senhores muito acomodados e,
-> como Schmidt afirmava maliciosamente, mal conheciam o caminho das suas
-> próprias roças, mantinham escravos Maku, os quais lhes deviam fazer
-> todos os trabalhos. Estes Maku, três homens cujo “iára” era o chefe,
-> viviam com suas mulheres e numerosas crianças em algumas choças
-> miseráveis na selva, perto do povoado. Quase cada dia vinham os homens
-> para a maloca, trazendo aos seus senhores caça, peixes e frutas da
-> mata ou se entregavam aos variados trabalhos caseiros. Os Tukano
-> tratavam-nos bem, como aos animais mansos. \[...\] Os Maku do Tiquié
-> que eu cheguei a ver, eram na média gente pequena, pouco mais de 1,50m
-> de altura, a cor da sua pele era clara. Eles tinham aspecto de mal
-> nutridos, o que bem poderia ser atribuído à sua vida selvagem na mata.
-> Especialmente caía na vista a compleição desproporcionada dos homens,
-> seus braços longos, mãos e pés grandes, e pernas curvas, em forma de
-> sabre. \[...\] O distintivo acentuado, porém, entre todos os Maku, é a
-> boca em forma de focinho que fica externamente muito sublinhada pela
-> dobra profunda da pele entre as ventas do nariz e os ângulos da boca*
-> (Koch-Grünberg, 1909/2005, p. 286-7, grifos meus).
+<!--estilo de citação-->
+ Os Tukano de Parý-Cachoeira, que eram senhores muito acomodados e,
+ como Schmidt afirmava maliciosamente, mal conheciam o caminho das suas
+ próprias roças, mantinham escravos Maku, os quais lhes deviam fazer
+ todos os trabalhos. Estes Maku, três homens cujo “iára” era o chefe,
+ viviam com suas mulheres e numerosas crianças em algumas choças
+ miseráveis na selva, perto do povoado. Quase cada dia vinham os homens
+ para a maloca, trazendo aos seus senhores caça, peixes e frutas da
+ mata ou se entregavam aos variados trabalhos caseiros. Os Tukano
+ tratavam-nos bem, como aos animais mansos. \[...\] Os Maku do Tiquié
+ que eu cheguei a ver, eram na média gente pequena, pouco mais de 1,50m
+ de altura, a cor da sua pele era clara. Eles tinham aspecto de mal
+ nutridos, o que bem poderia ser atribuído à sua vida selvagem na mata.
+ Especialmente caía na vista a compleição desproporcionada dos homens,
+ seus braços longos, mãos e pés grandes, e pernas curvas, em forma de
+ sabre. \[...\] O distintivo acentuado, porém, entre todos os Maku, é a
+ boca em forma de focinho que fica externamente muito sublinhada pela
+ dobra profunda da pele entre as ventas do nariz e os ângulos da boca
+ (Koch-Grünberg, 1909/2005, p. 286-7, grifos meus).
+<!--estilo de citação-->
 
 Entre a fisionomia e as tarefas realizadas para os Tukano, os
 apontamentos vão delineando uma imagem antropomorfa de homens com “boca
@@ -16797,13 +16792,13 @@ locais. Paradoxalmente, esses “mal nutridos” obtinham uma grande
 quantidade de carne, peixes e frutos para seus “senhores tukano”. Os
 “animais mansos” que viviam em “choças miseráveis na floresta” eram, no
 entanto, perigosos inimigos a quem os Tukano atribuíam as mortes de seus
-parentes por feitiços e venenos (1909/2005, p. 286).
+parentes por feitiços e venenos.
 
 À luz das rodas de coca e dos caminhos vividos descritos ao longo dessa
 tese, creio poder dizer que, à revelia do que pretendia o pesquisador
 alemão em seu relato, a imagem dos *homens com pernas como sabre* parece
 sintetizar a potência de andarilhos-guerreiros, mobilizando as potências
-de seus corpos artefactuais. Em sua adjetivação, o etnógrafo
+de seus corpos *artefactuais*. Em sua adjetivação, o etnógrafo
 possivelmente traduz a percepção tukano de uma alteridade que via
 temerosamente as “pernas laminares hup” como instrumentos-armas para
 abrir caminhos, aniquilar presas e, xamanicamente, assassinar seus
@@ -16829,12 +16824,12 @@ pesquisadores viverem na memória de alguns de meus interlocutores como
 aprender a caçar e a caminhar como os Hupd’äh e Kákwa.
 
 Entretanto, as rodas de coca presenciadas pelo /Häw/ surgem apenas em
-poucas notas de Howard Reid (1979) em meio a colocações sobre o fraco
+poucas notas de Howard Reid em meio a colocações sobre o fraco
 xamanismo, sobre o desprazer das atividades árduas do “mundo da aldeia”
 e sobre a submissão dos Hupd’äh aos Tukano no “mundo dos índios do rio”.
 O pesquisador cindia, assim, o mundo vivido dos Hupd’äh para valorizar a
 imagem dos caçadores especialistas e decodificar as analogias entre as
-formas de clasificação de animais, planos cósmicos, fases da vida,
+formas de classificação de animais, planos cósmicos, fases da vida,
 níveis florestais a partir da descrição indireta de ações rituais e
 xamânicas prototípicas. A mobilidade descrita por Reid revela-se marcada
 pelo caráter exploratório, técnico, utilitário e formal, distanciando-se
@@ -16860,8 +16855,8 @@ Preocupados com formas de minimizar as altas taxas de desnutrição e de
 mortalidade infantil, tentávamos propor soluções para problemas que
 levavam os Hupd’äh a serem subjugados por outros povos e se tornarem
 vítimas do inexorável avanço da sociedade envolvente. Distante do mundo
-vivido pelos Hupd’äh, valíamo-nos da *mediação tukano* e do *caçador
-especialista (homem econômico* ou *optimal)* para propor alternativas
+vivido pelos Hupd’äh, valíamo-nos da mediação tukano e do caçador
+especialista (homem econômico ou *optimal*) para propor alternativas
 produtivas e econômicas que os fizessem transitar novamente por suas
 terras, caçar e aprimorar seus arranjos produtivos agrícolas.
 
@@ -16878,7 +16873,7 @@ ignorávamos suas trajetórias, suas experiências e seus modos singulares
 e múltiplos de posicionarem-se e engajarem-se mutuamente em processos de
 transformação ao longo do mundo.
 
-### A coca dos viajantes
+##A coca dos viajantes
 
 Numa de minhas viagens de volta a São Gabriel, enquanto seguíamos
 rio-abaixo em nossa voadeira, cruzamos com uma canoa grande na qual
@@ -16932,7 +16927,7 @@ Dabucuris, a violência das brigas misturavam-se ao sabor da carne das
 presas, ao frescor e doçura das águas das serras, a embriaguez da
 cachaça nas lembranças de nossos mentores. Percebemos que, atualmente,
 muitos caminhos, Moradas Antigas, roças e Casas-de-Pedra estão sob o
-domínio de seres perigosos como as Onças, /Bisi̗w/ e /Döh Ã̗y/.
+domínio de seres perigosos como as Onças, /Bisi̗w/  e /Döh Ã̗y/.
 Situando-nos pelos movimentos dessas paisagens, foi possível ver os
 deslocamentos para as cabeceiras dos antepassados, não como fugas diante
 da “invasão” de índios tukano (ou Betoya) e de brancos; não como formas
@@ -16971,23 +16966,23 @@ pelas palavras, pelos passos e pelos sopros. Os deslocamentos do vagar,
 do soprar e do narrar permitiram estabelecer as relações entre os modos
 de ação associados às rodas em paisagens distantes como o topo da Serra
 Grande, ou na imanência de nossos próprios corpos. Numa roda de coca,
-surpreso, senti a coceira de meu próprio pé como a reverberação viceral
+surpreso, senti a coceira de meu próprio pé como a reverberação visceral
 dos gestos de rodas de coca de minúsculos e abomináveis bichos do pé.
 Admirei com encantamento a vista do topo da Serra Grande como a paisagem
 da criação onde /K’e̖g Tẽh/ chamou e a humanidade respondeu. Intuí o
 crescimento de minha filha no ventre de minha esposa diante de um
 belíssimo Lago de Leite materno.
 
-Tentando acompanhar a *organização da ação performática nela mesma*,
+Tentando acompanhar a organização da ação performática nela mesma,
 descrevi o modo de estruturação das *performances* na diferenciação dos
 participantes por suas posições, gestos e ações. Atento às articulações
 entre os modos de ação das rodas de coca, dos Dabucuris, dos encontros
 de caça e nascimentos, foi possível explicitar o contínuo dessa intensa
-vida ritual que atravessa as formas constantes de interação (Houseman;
-Severi, 2009). Analisando as analogias, trajetórias de vida e memórias
+vida ritual que atravessa as formas constantes de interação. 
+Analisando as analogias, trajetórias de vida e memórias
 rituais, abriu-se a possibilidade de justapor à descrição da
-*organização da ação performática nela mesma*, a reflexão sobre a
-*organização das ações performáficas para além delas mesmas*.
+organização da ação performática nela mesma, a reflexão sobre a
+organização das ações performáticas para além delas mesmas.
 
 A pesquisa de campo foi vagarosamente tornando-se uma travessia em meio
 à qual trilhávamos percursos de observação através das planícies
@@ -16999,11 +16994,11 @@ antepassados, para cercar, curar e manifestar a essência dos movimentos
 que fazem os seres pulsarem na partilha de um mesmo mundo vivido. Os
 movimentos dos viajantes e dos comedores de coca articulam múltiplos
 processos de educação da atenção para revelar sentidos no curso de
-engajamentos perceptuais totais (Ingold, 2000). Posicionando-se em
-campos relacionais a extenderem-se continuamente, os viajantes hup
+engajamentos perceptuais totais. Posicionando-se em
+campos relacionais a estenderem-se continuamente, os viajantes hup
 adquirem disposições e sensibilidades através das atividades práticas e
-situações concretas que os fazem voltar suas atenções para *condensações
-rituais* fundamentais à existência (Houseman; Severi, 2009).
+situações concretas que os fazem voltar suas atenções para condensações
+rituais fundamentais à existência.
 
 Enfocando as rodas de coca como *performances*, procurei mostrar como os
 encontros noturnos mobilizam modos de percepção e sensibilidades por
@@ -17024,12 +17019,12 @@ Levantando-se das rodas para as andanças como pessoas corporificadas ou
 perfazendo-se pessoas sopro para deslocar-se pelo cosmos, os viajantes
 indicavam as bases de um modo de agência constituído por distâncias que
 variam ao atravessar multiplicidades, por pessoas que, sentadas,
-deitadas ou a caminho, engajam-se diariariamente em processos de
+deitadas ou a caminho, engajam-se diariamente em processos de
 transformação ao longo do mundo. Seguindo o itinerário da fumaça dos
 cigarros, percorri as linhas de fuga dos encontros noturnos traçadas
 pelos movimentos dos xamãs que viajam como palavras sussurradas, como
 sopros a estender-se pelo universo. Percebi que agências de abdução e
-trasdução concentram os deslocamentos e interações do xamã nos cigarros
+transdução concentram os deslocamentos e interações do xamã nos cigarros
 fechados para, em seguida, como fumaça soprada, fazer ressoar no outro
 os movimentos do viajante e regenerar e/ou cercar a vida.
 
@@ -17037,14 +17032,14 @@ Outras linhas de fuga evidenciaram-se pelo exercício de abrir caminhos
 pela mata, pela sedução e combate das caças, e pelas ações ritualizadas
 no interior da Casa-dos-Animais. Andando envoltos pela pele da
 muçurana-canoa-caminho, os jovens acompanhavam os velhos senhores e
-aprendiam a situar-se em singularidades múltiplas, *máquinas de guerra
-nômades* poderosas, para afastar as jararacas, as onças, a terrível /Döh
-Ã̗y/ e os brancos (Deleuze; Guattari, 1997). Seguindo para as serras, os
+aprendiam a situar-se em singularidades múltiplas, máquinas de guerra
+nômades poderosas, para afastar as jararacas, as onças, a terrível /Döh
+Ã̗y/ e os brancos. Seguindo para as serras, os
 andarilhos faziam-se pescadores a transitar pelos igarapés
 experimentando os poços, as iscas e o sabor de diferentes tipos de
 peixe. Como caçadores, interagiam com animais lançando flechas,
 assobiando, analisando rastros atentamente e investindo contra jagarés,
-tamanduás, inambús. Desde pequenos, esses caminhantes aprendem que a
+tamanduás, inambus. Desde pequenos, esses caminhantes aprendem que a
 alimentação carnívora depende da regeneração da vida dos animais e
 peixes pela ação mútua dos xamãs hup. Os benzedores livram a carne das
 armas primordiais das presas, atenuam o calor e agressividade dos
@@ -17093,10 +17088,10 @@ abertos e porosos, a expandir-se e contrair-se para revelar paisagens e
 rituais como processos vitais que fazem as pessoas ao mesmo tempo em que
 são feitos por elas.
 
-Assumindo uma abordagem *movediça* procurei religar os movimentos aos
+Assumindo uma abordagem “movediça” procurei religar os movimentos aos
 chamados padrões de mobilidade para descrever e analisar as experiências
 vividas mutuamente com meus interlocutores. Na tentativa de reverter a
-*mediação tukano* e a *mediação do homem especialista* que levaram
+“mediação tukano” e a “mediação do homem especialista” que levaram
 pesquisadores e indigenistas a descreverem os Hupd’äh sob o signo da
 falta, como um povo sem rituais elaborados, de fraco xamanismo, com uma
 agricultura insignificante, sem canoas, vítimas do contato a perderem
@@ -17108,9 +17103,9 @@ corporificadas numa existência em permanente estado de transformação.
 
 A meu ver, em meio às águas negras do rio Tiquié, depois de tantos
 caminhos e rodas vivenciadas mutuamente, a oferta de coca de Ponciano
-não era mais um gesto para acalmar e proteger do branco, dando *coca
-para o viajante estrangeiro*, mas sim a partilha da *coca dos viajantes
-hup*,com a qual, desde os tempos de Semente de Tabaco, os Hupd’äh se
+não era mais um gesto para acalmar e proteger do branco, dando coca
+para o viajante estrangeiro, mas sim a partilha da coca dos viajantes
+hup,com a qual, desde os tempos de Semente de Tabaco, os Hupd’äh se
 nutrem com essa potência primordial para deslocar-se pelo mundo.
 Sentando-me nas rodas de coca, situei-me em centros nodais que emaranham
 caminhos apenas para lançar-nos a outras tantas direções, fazendo a vida
@@ -17459,7 +17454,7 @@ JACOPIN, Pierre-Yves. 2010. Structuralisme et ethnographie. Maguaré,
 Bogotá, Numero especial de homenaje a Claude Lévi-Strauss.
 
 JAGUAR CONSERVATION FUND. *A onça-pintada*. Disponível em:
-&lt;[*http://www.jaguar.org.br/pt/a-onca-pintada/index.html*](http://www.jaguar.org.br/pt/a-onca-pintada/index.html)&gt;.
+http://www.jaguar.org.br/pt/a-onca-pintada/index.html)&gt;.
 Acesso em: 18 mai. 2013.
 
 JOURNET, Nicolas. 1995. La paix des jardins. *Institut d’Ethnologie*,
@@ -17670,7 +17665,7 @@ Brasília: Ed. Universidade de Brasília.
 
 SOCIEDADES BÍBLICAS UNIDAS. 2013. *Provável rota do êxodo*. Disponível
 em:
-&lt;[*http://mapasbiblicos.blogspot.com.br/2011/03/exodo.html*](http://mapasbiblicos.blogspot.com.br/2011/03/exodo.html)&gt;.
+&lt;http://mapasbiblicos.blogspot.com.br/2011/03/exodo.html(http://mapasbiblicos.blogspot.com.br/2011/03/exodo.html)&gt;.
 Acesso em: 18 mai. 2013.
 
 STEELE, John. 2006. Perfumeros and the sacred use of fragrance in
