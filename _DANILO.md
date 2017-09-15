@@ -3023,20 +3023,20 @@ na̖m/ ou curare[^17] (*Menispermaceae*), veneno para matar animais. Um
 mês antes, Ponciano havia me mostrado o pote de cerâmica onde guardava
 seu curare e contou-me uma narrativa sobre o surgimento do curare.
 
- **M3. /K’e̖g Tẽh/ e o aparecimento do curare**
-
- Certa vez, /K’e̖g Tẽh/ pegou sua flecha e foi caçar. Foi caminhando
- pela mata, até que ouviu dois tucanos no alto de uma árvore. Ele
- parou, imitou o som que eles faziam, armou seu arco e atirou.
- Acertou-os no bico e ambos caíram mortos no chão.
-
- Como ele estava com muita fome, devorou-os logo. Mas a carne das aves
- fez-lhe mal e ele começou a vomitar. Seu vômito espalhou-se pelo mundo
- e foi cair em três serras. Uma delas é a /Paç-Tẽ̖h/, “Serra Pequena”.
-
- De seu vômito apareceu o /Na̖m tɨ̗t/, o cipó com o qual se prepara o
- veneno para matar animais. “Não dá pra plantar, não. Só nasce o curare
- nesses lugares onde ele vomitou, mesmo”.
+ > **M3. /K’e̖g Tẽh/ e o aparecimento do curare**
+> 
+ > Certa vez, /K’e̖g Tẽh/ pegou sua flecha e foi caçar. Foi caminhando
+ > pela mata, até que ouviu dois tucanos no alto de uma árvore. Ele
+ > parou, imitou o som que eles faziam, armou seu arco e atirou.
+ > Acertou-os no bico e ambos caíram mortos no chão.
+> 
+ > Como ele estava com muita fome, devorou-os logo. Mas a carne das aves
+ > fez-lhe mal e ele começou a vomitar. Seu vômito espalhou-se pelo mundo
+ > e foi cair em três serras. Uma delas é a /Paç-Tẽ̖h/, “Serra Pequena”.
+> 
+ > De seu vômito apareceu o /Na̖m tɨ̗t/, o cipó com o qual se prepara o
+ > veneno para matar animais. “Não dá pra plantar, não. Só nasce o curare
+ > nesses lugares onde ele vomitou, mesmo”.
 
 Estávamos sentados numa roda de coca e Ponciano apontava para o sul e
 para o norte com os braços, indicando os lugares onde /K’e̖g Tẽh/ havia
@@ -3121,22 +3121,22 @@ Samuel falava rindo que a /Dö̗h A̗͂y/ tem uma vagina muito grande. É
 preciso tomar cuidado, pois ela “vem pegar”. Lembrava-se da história
 contada por seu pai, Ponciano, dias atrás numa roda de coca.
 
-**M4. A /Dö̗h Ã̗y/ e seu marido**
-
- A /Dö̗h Ã̗y/ tinha um marido, um homem hup. Eles tinham dois filhos, um
- menino e uma menina. Só que ela tinha uma vagina muito grande. O pênis
- do marido era pequeno demais e não chegava. Ele sempre tinha muita dor
- no pênis e muita dor quando comia pimenta.
-
- Um dia, ele se escondeu na mata e ficou esperando a mulher sair para a
- roça com seu aturá pequeno. Quando ela chegou perto, ele a surpreendeu
- e a matou.
-
- Mas ela renasceu e, quando ele foi para o rio se banhar, ela vestiu
- sua roupa de /Dö̗h Ã̗y/, matou-o e comeu-o. Ela, então, encontrou um
- outro companheiro, o /Kuku̗i/, o Macaco-da-Noite. Ele tem um pênis
- grande e hoje em dia ela vive com ele, ela e seus filhos (Caderno de
- Campo 23/02/2012).
+> **M4. A /Dö̗h Ã̗y/ e seu marido**
+> 
+ > A /Dö̗h Ã̗y/ tinha um marido, um homem hup. Eles tinham dois filhos, um
+ > menino e uma menina. Só que ela tinha uma vagina muito grande. O pênis
+ > do marido era pequeno demais e não chegava. Ele sempre tinha muita dor
+ > no pênis e muita dor quando comia pimenta.
+> 
+ > Um dia, ele se escondeu na mata e ficou esperando a mulher sair para a
+ > roça com seu aturá pequeno. Quando ela chegou perto, ele a surpreendeu
+ > e a matou.
+> 
+ > Mas ela renasceu e, quando ele foi para o rio se banhar, ela vestiu
+ > sua roupa de /Dö̗h Ã̗y/, matou-o e comeu-o. Ela, então, encontrou um
+ > outro companheiro, o /Kuku̗i/, o Macaco-da-Noite. Ele tem um pênis
+ > grande e hoje em dia ela vive com ele, ela e seus filhos (Caderno de
+>  Campo 23/02/2012).
 
 Naquela noite, Ponciano e todos que ouviam essa história riam muito,
 principalmente quando ele mostrava com as mãos o tamanho do pênis dos
@@ -3248,27 +3248,27 @@ preparava as lenhas para cozinhar a mojeca, Samuel perguntou se eu já
 tinha ouvido a “história do besouro e do vaga-lume”. Ele então começou a
 contar-me essa triste história de dois companheiros de caminhada.
 
-**M5. **O Besouro e o Vaga-Lume**
-
- O Besouro estava tinguejando no igarapé. O Vaga-lume chegou e
- perguntou: “O que você está fazendo?” “Eu estou tinguejando no
- igarapé”, respondeu o outro. Ele havia conseguido pegar muitos dos
- peixes que morreram.
-
- Era por volta de umas 17h30 da tarde. Ainda havia sol no céu quando o
- Vaga-lume voltou e chamou o Besouro para ir mais adiante com ele.
- Ele disse que iria depois, e pediu-lhe para esperar um pouco. O
- Vaga-lume disse que ia iluminar o caminho. Os olhos dele são
- lanternas. Ele acendeu o corpo três vezes.
-
- Então o Besouro amarrou o peixe com cipó e concordou em ir mais acima
- com o companheiro. Eles foram juntos. Andaram muito e, de repente, a
- lanterna apagou-se. Anoitecera e o Besouro não via nada. “Eu não vejo
- o caminho”, ele disse.
-
- O Vaga-lume foi embora e deixou o companheiro no meio da mata,
- sozinho. O caminho não aparecia. Tudo era escuridão. Acabou a
- história.
+> **M5. O Besouro e o Vaga-Lume**
+> 
+ > O Besouro estava tinguejando no igarapé. O Vaga-lume chegou e
+ > perguntou: “O que você está fazendo?” “Eu estou tinguejando no
+ > igarapé”, respondeu o outro. Ele havia conseguido pegar muitos dos
+ > peixes que morreram.
+> 
+ > Era por volta de umas 17h30 da tarde. Ainda havia sol no céu quando o
+ > Vaga-lume voltou e chamou o Besouro para ir mais adiante com ele.
+ > Ele disse que iria depois, e pediu-lhe para esperar um pouco. O
+ > Vaga-lume disse que ia iluminar o caminho. Os olhos dele são
+ > lanternas. Ele acendeu o corpo três vezes.
+> 
+ > Então o Besouro amarrou o peixe com cipó e concordou em ir mais acima
+ > com o companheiro. Eles foram juntos. Andaram muito e, de repente, a
+ > lanterna apagou-se. Anoitecera e o Besouro não via nada. “Eu não vejo
+ > o caminho”, ele disse.
+> 
+ > O Vaga-lume foi embora e deixou o companheiro no meio da mata,
+ > sozinho. O caminho não aparecia. Tudo era escuridão. Acabou a
+>  história.
 
 Analisando as práticas de caça dos Hupd’äh, Reid diz que
 “conforme a luz diminui, os caçadores se encaminham para a trilha e,
@@ -3627,9 +3627,9 @@ com seu barco mercante trazendo mercadorias e aguardente. “Caro não,
 trocava bem, ele queria cipó”, explicou Samuca. Seu avô (FF) e tios
 (FFB) ficavam dias mata adentro colhendo grandes quantidades de cipó
 para trocar com o comerciante por panelas, roupas, terçados, sal,
-fósforos, bebidas, etc. <!-- Como mostra Garcia (2010, p. 58), “O território
+fósforos, bebidas, etc. Como mostra Garcia (2010, p. 58), “O território
 é marcado pela memória; e cada trilha tem seus *pontos de parada* para a
-caminhada quase que pré-definidos \[...\]”. inserir rodapé para a citação?-->
+caminhada quase que pré-definidos \[...\]”. 
 
 Samuel agora segurava o pedaço de ferro e dizia ser um “pedaço de
 forno”, um /b’ok ka̗b b’ah/. O tacho de ferro havia sido completamente
@@ -3655,10 +3655,10 @@ e o passo apressado para que não fossemos surpreendidos pelas feras em
 pleno trabalho agrícola. Como os caminhos dos antigos que se transformam
 em caminhos de onça, também as antigas comunidades e roças podem ser
 apropriadas pelos afazeres cotidianos dessa outra gente. Segundo
-Viveiros de Castro, <!-- “As aparências enganam por que nunca se pode estar certo sobre qual é
+Viveiros de Castro, “As aparências enganam por que nunca se pode estar certo sobre qual é
 o ponto de vista dominante, isto é, que mundo está em vigor quando se
 interage com outrem. Tudo é perigoso; sobretudo quando tudo é gente, e
-nós talvez não sejamos” (Viveiros de Castro, 2002, p. 397). Criar nota de rodapé com a citação? -->
+nós talvez não sejamos” (2002, p. 397). 
 
 Como o “acampamento” no pé da serra, que é ao mesmo tempo “local de caça
 das onças” e “lagoa de pesca de /b’atɨ̖b’/”, as transformações da “morada
@@ -3998,14 +3998,14 @@ Olhando para meu caderno de bolso, Samuel perguntou se eu ia escrever no
 livro as histórias da /Paç-Pö̗g/. Como respondi afirmativamente, ele
 começou a contar sobre o caminho dos mortos para a Serra Grande.
 
-**M6. O caminho dos mortos**
-
- Antigamente, quando alguém morria, o /hã̗wäg/ viajava para a /Paç-Pö̗g/.
- Quando enterra, coloca farinha e fósforo para a caminhada. A pessoa
- morria, o /hã̗wäg/ subia a /Paç-Pö̗g/ e depois subia para a /K’e̖g
- Tẽh-Mo̖y/, a “Casa de K’e̖g Tẽh”, no céu. /Hã̗wäg sakay/, o “hã̗wäg
- subia”. Hoje já não sobe mais, porque fomos batizados. O /hã̗wäg/ vai
- direto para o céu, para a casa de /K’e̖g Tẽh/.
+> **M6. O caminho dos mortos**
+> 
+ > Antigamente, quando alguém morria, o /hã̗wäg/ viajava para a /Paç-Pö̗g/.
+ > Quando enterra, coloca farinha e fósforo para a caminhada. A pessoa
+ > morria, o /hã̗wäg/ subia a /Paç-Pö̗g/ e depois subia para a /K’e̖g
+ > Tẽh-Mo̖y/, a “Casa de K’e̖g Tẽh”, no céu. /Hã̗wäg sakay/, o “hã̗wäg
+ > subia”. Hoje já não sobe mais, porque fomos batizados. O /hã̗wäg/ vai
+>  direto para o céu, para a casa de /K’e̖g Tẽh/.
 
 Em seu comentário sobre a transformação operada pelo batismo católico, a
 Serra Grande surge como o local para onde ia o /hã̗wäg/, “sopro vital”
@@ -4026,39 +4026,39 @@ Os narradores seguiram contando outra história sobre a Serra Grande, que
 falava da aproximação do /b’atɨ̖b’/ /Tõg Tẽg/ durante um acampamento de
 pesca dos antigos próximo à /Paç-Pö̗g/.
 
-**M7. História de /Tõg Tẽg/**
-
- Os antigos foram pescar no igarapé perto da /Paç Pö̗g/, /Pi̖j-Dëh/,
- “Cabari-Igarapé/. Era a segunda vez que iam pescar lá. Foi então que
- apareceu esse /Tõg Tẽg/. O pajé estava esperando esse /b’atɨ̖b’/, sem
- roupa. Mas o /Tõg Tẽg/ ficou olhando e viu as roupas que todos estavam
- usando. Viu tudo da cultura dos antigos. A única coisa que não viu
- foram os /Döhö̗ d’äh/ – os Jurupari – porque o pajé guardou as flautas.
-
- Foi se aproximando. O pajé hup estava deitado no chão de areia. O /Po
- nen/ cresceu e falou duas vezes: /Po Nen, Po Nen!/. Assustado,
- ele começou a procurar de onde saía aquele som. Olhava para um lado e
- para o outro, mas não via o homem deitado no chão de areia.
-
- O /Tõg Tẽg/ é o diabo, e esse que estava sem roupa era o pajé. /Hɨ̗d
- nɨ̖h ĩh sa̗p nu̗p no̗o̗y, ma̗h. Nu̗p ĩh baha̗d nɨ̗h/ – “Esse é o corpo do homem
- deles. Ele não aparece”, disse o /Tõg Tẽg/. O pajé tinha preparado seu
- corpo para esperar o /b’atɨ̖b’/. Ficou sem roupa e, ao vê-lo, o /Tõg
- Tẽg/ sentiu medo. O pajé começou a fazer o barulho novamente: /Po nen,
- Po nen!/.
-
- O /b’atɨ̖b’/ foi ficando cada vez com mais medo. /Nu̗p ĩh ã̗h kë̗y tu̗k
- d’äh, Kuri, Kuri, Kuri!/, “Esse homem eu não quero ver, não”, falou
- o /b’atɨ̖b’/ e gritou /Kuri, Kuri, Kuri!/. O /Po nen/ soou mais uma
- vez e começou a levantar-se. O /b’atɨ̖b’/ sentiu tanto medo que começou
- a fugir correndo. Atrás dele ia o homem hup soando: /Po nen, Po nen,
- Po nen!/.
-
- Quando o diabo chegou em casa, a esposa perguntou: “Como foi lá?”. Ele
- não falava. O coração dele estava rápido, /hẽ̗gẽ̗t/. Não conseguia
- falar. Até que disse: /ã̗h pon, pon ã̗h, pon ã̗h/. Esse /Bisi̗w/ ficou com
- medo do homem hup. /Ya̗’ap bay, yɨ̗t tɨ̗h toho̗/ – é isso, aqui termina a
- história.
+> **M7. História de /Tõg Tẽg/**
+> 
+ > Os antigos foram pescar no igarapé perto da /Paç Pö̗g/, /Pi̖j-Dëh/,
+ > “Cabari-Igarapé/. Era a segunda vez que iam pescar lá. Foi então que
+ > apareceu esse /Tõg Tẽg/. O pajé estava esperando esse /b’atɨ̖b’/, sem
+ > roupa. Mas o /Tõg Tẽg/ ficou olhando e viu as roupas que todos estavam
+ > usando. Viu tudo da cultura dos antigos. A única coisa que não viu
+ > foram os /Döhö̗ d’äh/ – os Jurupari – porque o pajé guardou as flautas.
+> 
+ > Foi se aproximando. O pajé hup estava deitado no chão de areia. O /Po
+ > nen/ cresceu e falou duas vezes: /Po Nen, Po Nen!/. Assustado,
+ > ele começou a procurar de onde saía aquele som. Olhava para um lado e
+ > para o outro, mas não via o homem deitado no chão de areia.
+> 
+ > O /Tõg Tẽg/ é o diabo, e esse que estava sem roupa era o pajé. /Hɨ̗d
+ > nɨ̖h ĩh sa̗p nu̗p no̗o̗y, ma̗h. Nu̗p ĩh baha̗d nɨ̗h/ – “Esse é o corpo do homem
+ > deles. Ele não aparece”, disse o /Tõg Tẽg/. O pajé tinha preparado seu
+ > corpo para esperar o /b’atɨ̖b’/. Ficou sem roupa e, ao vê-lo, o /Tõg
+ > Tẽg/ sentiu medo. O pajé começou a fazer o barulho novamente: /Po nen,
+ > Po nen!/.
+> 
+ > O /b’atɨ̖b’/ foi ficando cada vez com mais medo. /Nu̗p ĩh ã̗h kë̗y tu̗k
+ > d’äh, Kuri, Kuri, Kuri!/, “Esse homem eu não quero ver, não”, falou
+ > o /b’atɨ̖b’/ e gritou /Kuri, Kuri, Kuri!/. O /Po nen/ soou mais uma
+ > vez e começou a levantar-se. O /b’atɨ̖b’/ sentiu tanto medo que começou
+ > a fugir correndo. Atrás dele ia o homem hup soando: /Po nen, Po nen,
+ > Po nen!/.
+> 
+ > Quando o diabo chegou em casa, a esposa perguntou: “Como foi lá?”. Ele
+ > não falava. O coração dele estava rápido, /hẽ̗gẽ̗t/. Não conseguia
+ > falar. Até que disse: /ã̗h pon, pon ã̗h, pon ã̗h/. Esse /Bisi̗w/ ficou com
+ > medo do homem hup. /Ya̗’ap bay, yɨ̗t tɨ̗h toho̗/ – é isso, aqui termina a
+>  história.
 
 Enquanto contava, Samuel passava as mãos pelo corpo rápido e chacoalhava
 a cabeça rapidamente para mostrar que o pajé da narrativa estava sem
@@ -4083,42 +4083,42 @@ das opiniões e complementações, fui refazendo o texto escrito. Os
 narradores continuaram contando a história da Matumã, mulher que foi
 viver com o marido no interior da /Paç-Pö̗g/.
 
-**M8. A história de Matumã**
-
- A Matumã tinha um marido. Ele foi caçar no mato longe. Então, um homem
- apareceu. Ela estava preparando a semente de ucuqui e peneirando, mas
- estava menstruada. Antigamente não tinha comida. O beiju era feito da
- semente de ucuqui. A mulher estava fazendo a comida para sua família.
-
- Esse homem que chegou tocou /pĩ̖h/ e tirou o /hã̗wäg/ dela. O homem era
- jovem e filho do capitão, do /Sokw’ä̗t Noh K’öd Tẽ̖h ĩ̖h/, o dono da
- /Paç-Pö̗g/. Ele se aproximou e tocou na costela dela. Era novo e
- bonito, estava querendo ela. Por isso, pingou pussanga no olho dela.
- Na hora, apareceu para ela a cidade e a casa dele, /Paç-Pö̗g/. Ela viu.
- Ele era onça. A comunidade dele apareceu. Ele fez ela entrar dentro da
- casa dele.
-
- A mulher tinha dois filhos, um menino e uma menina. O marido dela foi
- caçar a segunda vez. Quando eram 18h30 da tarde ele voltou. No outro
- dia, ele foi caçar de novo. A Matumã deu comida para os filhos dela
- durante dois dias. Ela deu beiju, farinha, tapioca. Então, ela esperou
- o marido perto da árvore. Apareceu de novo duas vezes. O marido a viu
- e abraçou-a quando ela apareceu. E ela desapareceu. Foi para dentro da
- terra, para /Pe̖j-Dëh/.
-
- O beiju dela estragou. A farinha dela virou terra, /wewe̖g dö̗/, boa
- para plantar e fazer comida. O marido riu e ficou em pé perto da casa
- da floresta. O rapaz levou-a para sua casa, a /Paç-Pö̗g/.
-
- Depois de uma semana ela reapareceu para os filhos. E foi aí que ela
- levou a todos, os filhos e o marido, para dentro da /Paç-Pö̗g/.
- Primeiro o rapaz pegou a Matumã, mas depois devolveu e deu para o
- marido sua própria irmã. O marido caçador ficou com duas esposas, a
- Matumã e a irmã do rapaz, dentro da /Paç-Pö̗g/.
-
- /Tuhu̗p nu̗p/, “muito bonito isso”! Antigamente, era muito perigoso. Há
- muitas histórias sobre a /Paç-Pö̗g/. Mas hoje em dia cercou, os /kä̖d
- d’äh/, “xamãs do banco”, benzeram e cercaram.
+> **M8. A história de Matumã**
+> 
+ > A Matumã tinha um marido. Ele foi caçar no mato longe. Então, um homem
+ > apareceu. Ela estava preparando a semente de ucuqui e peneirando, mas
+ > estava menstruada. Antigamente não tinha comida. O beiju era feito da
+ > semente de ucuqui. A mulher estava fazendo a comida para sua família.
+> 
+ > Esse homem que chegou tocou /pĩ̖h/ e tirou o /hã̗wäg/ dela. O homem era
+ > jovem e filho do capitão, do /Sokw’ä̗t Noh K’öd Tẽ̖h ĩ̖h/, o dono da
+ > /Paç-Pö̗g/. Ele se aproximou e tocou na costela dela. Era novo e
+ > bonito, estava querendo ela. Por isso, pingou pussanga no olho dela.
+ > Na hora, apareceu para ela a cidade e a casa dele, /Paç-Pö̗g/. Ela viu.
+ > Ele era onça. A comunidade dele apareceu. Ele fez ela entrar dentro da
+ > casa dele.
+> 
+ > A mulher tinha dois filhos, um menino e uma menina. O marido dela foi
+ > caçar a segunda vez. Quando eram 18h30 da tarde ele voltou. No outro
+ > dia, ele foi caçar de novo. A Matumã deu comida para os filhos dela
+ > durante dois dias. Ela deu beiju, farinha, tapioca. Então, ela esperou
+ > o marido perto da árvore. Apareceu de novo duas vezes. O marido a viu
+ > e abraçou-a quando ela apareceu. E ela desapareceu. Foi para dentro da
+ > terra, para /Pe̖j-Dëh/.
+> 
+ > O beiju dela estragou. A farinha dela virou terra, /wewe̖g dö̗/, boa
+ > para plantar e fazer comida. O marido riu e ficou em pé perto da casa
+ > da floresta. O rapaz levou-a para sua casa, a /Paç-Pö̗g/.
+> 
+ > Depois de uma semana ela reapareceu para os filhos. E foi aí que ela
+ > levou a todos, os filhos e o marido, para dentro da /Paç-Pö̗g/.
+ > Primeiro o rapaz pegou a Matumã, mas depois devolveu e deu para o
+ > marido sua própria irmã. O marido caçador ficou com duas esposas, a
+ > Matumã e a irmã do rapaz, dentro da /Paç-Pö̗g/.
+> 
+ > /Tuhu̗p nu̗p/, “muito bonito isso”! Antigamente, era muito perigoso. Há
+ > muitas histórias sobre a /Paç-Pö̗g/. Mas hoje em dia cercou, os /kä̖d
+ > d’äh/, “xamãs do banco”, benzeram e cercaram.
 
 Quando Samuel e Demétrio começaram a contar essa história, já estávamos
 consumindo coca, caxiri e tabaco. As cuias iam sendo servidas
@@ -4308,9 +4308,9 @@ Société Suisse des Américanistes, os primos Mário e Michel Terribilini
 descrevem o modo de preparo da coca. Sua pequena nota atenta para a
 mastigação realizada noturnamente e ao redor do fogo. O consumo de coca
 ocorria também durante longas caminhadas e acalmava a fome durante
-períodos de escassez de alimentos. Em suas palavras, <!-- “A folha de coca, adicionada de uma pequena quantidade de outra planta,
+períodos de escassez de alimentos. Em suas palavras, “A folha de coca, adicionada de uma pequena quantidade de outra planta,
  é secada e pilada, para depois ser misturada com as cinzas vegetais
- (de grandes folhas secas) para formar um pó acinzentado” (1960, p. 5). Criar rodapé com referência da citação? -->
+ (de grandes folhas secas) para formar um pó acinzentado” (1960, p. 5). 
 
 Na pesquisa de Reid, o consumo noturno de coca surge em meio a um
 relato de como se dá o trabalho dos Hupd’äh junto aos Tukano. No final
@@ -4448,10 +4448,10 @@ extracotidianas por excelência, suponho que a constância na realização
 dos encontros noturnos tenha tornado invisível essa forma relacional,
 fazendo com que seja relegada a um campo pouco descrito das ações
 cotidianas. Analisando o Naven, ritual realizado pelos Iatmul da
-Papua-Nova-Guiné, Houseman e Severi dirão que “<!-- ela pode
+Papua-Nova-Guiné, Houseman e Severi dirão que “ela pode
 surgir através de uma forma institucionalizada de grande escala \[...\]
 ou, num outro extremo, como um evento que pode passar desapercebido na
-vida cotidiana \[...\]” inserir rodapé com referência da citação? (Houseman e Severi 2009, p. 199)-->. Inspirado pelas palavras dos autores, procuro
+vida cotidiana \[...\]” (2009, p. 199). Inspirado pelas palavras dos autores, procuro
 mostrar nesse capítulo como as rodas de coca situam, noite após noite,
 uma dinâmica constante de interações que aproximam modos de ação.
 
@@ -4541,7 +4541,7 @@ Firmiano é o “capitão coca”, o “cozinheiro”. Cunhado, /yo̖h/, de
 Ponciano, Firmiano é o dono do “primeiro banco” pelo qual devem passar
 todos aqueles que começam a comer coca.
 
-<!-- Fig. 9 -->
+Figura 9
 Instrumentos para preparo da coca (foto: Danilo P. Ramos, 2009)
 
 A riqueza gestual que compõe o preparo é impressionante. A coca é
@@ -4691,8 +4691,7 @@ Depois de assadas, as folhas de coca são colocadas no pilão da coca e
 socadas até ficarem totalmente trituradas, já constituindo em parte um fino pó verde. O preparador fica em pé, os olhos fixos no pilão. Mantém
 seu corpo erguido e realiza movimentos precisos com o socador.
 Arremessa-o para baixo contra o fundo e puxa-o para cima para um novo
-soco. <!-- A foto 6 (Onde está a foto? Não veio para esse arquivo) --> mostra Miguel[^32] pilando a coca e fumando um cigarro
-enquanto conversa com os demais presentes. Quando o pó já começa a sair
+soco. Quando o pó já começa a sair
 pela boca do pilão, e uma fumaça verde envolve o corpo do preparador, é
 sinal de que a coca pode ser derramada na cuia. O preparador retira o
 pau, traz a cuia para perto de seus pés, ergue e vira o tubo, deixando a
@@ -4751,7 +4750,7 @@ para guardar a coca e o tabaco e para oferecê-los aos participantes dos
 encontros. A partir do desenho desses potes antigos foi feito na areia
 por Angélico como ilustração numa outra roda.
 
-<!-- Fig. 10 -->
+Figura 10
 Antigo pote de coca e tabaco (Cad. Camp. 06/09/11)
 
 Um homem só começa a participar dos encontros noturnos quando já tem
@@ -4837,43 +4836,43 @@ B’ö̖’/”, contada pelo pai de Samuel num encontro noturno em agosto de
 2011, ainda não tinha percebido a analogia entre esses encontros e essa
 história de /Wed B’ö̖’/.
 
- **M9. História de /Wed B’ö̖’/**
-
- Tinha um homem, aquele /Wed B’ö̖’/. Perto de sua casa havia uma árvore
- que dava uma frutinha como miçanga. Duas moças, filhas do /M’e̖h hup/,
- o “Velho Cobra”, iam lá para tirar a fruta e comer. O homem foi lá e
- esperou-as com sua zarabatana, cujas setas estavam envenenadas.
- Acertou a moça, que caiu. Ele tentou benzê-la para que ela voltasse,
- mas não conseguiu.
-
- Então ele cavou um buraco e enterrou-a. Foram esses bichinhos que
- cavam buraco na terra, esses que aparecem agora em agosto, que a
- fizeram reviver. Ele a desenterrou e a levou para casa. Tentou dar-lhe
- vários tipos de comida, mas ela não comia.
-
- Depois, quando ela tecia uma pulseira de tucum para o marido usar na
- canela, uns passarinhos vieram e foram levando o fio de tucum. Eram as
- irmãs dela que queriam saber como ela estava. Ela disse para o marido
- que precisava ir para a casa do pai, mas o marido não queria deixar.
- Quando acabou de casar, o marido não deixa a esposa. Só quer ficar
- junto. A Mulher Peixe caiu na água e foi para a casa do pai.
-
- Lá ela começou a pegar beiju, farinha, moqueados, tudo. Foi e pegou um
- galho de coca, mas diz que a coca é o osso do /M’e̖h Hup/, o “Velho
- Cobra”. O pai sentiu aquela dor no dedo e pensou: “Será que minha
- filha está me roubando?”. Foi e olhou todo o corpo dela. Só não olhou
- a vagina, pois se diz que é ruim o pai da moça olhar a vagina dela. Lá
- ela tinha escondido o galho de coca.
-
- Quando chegou na data marcada, ela foi dando comidas para o marido.
- Mas ele desmaiava com cada alimento que punha na boca. Comeu moqueado
- e desmaiou, ao beber caxiri desmaiou também. É aí que começa o
- benzimento do caxiri. O marido dormiu e, quando acordou no dia
- seguinte, havia um pé de coca plantado. Não precisava tirar as folhas.
- Era só balançar o pé e colocar a cuia embaixo e já enchia de coca. O
- mesmo acontecia com o pé de tabaco que também estava plantado. Todos
- os tipos de coca surgiram aí, o /pũ’ũ̖k-s’a̖/, a “coca preta”, o
- /wahna̗w-pũ’ũ̖k/, “coca abiu”, e os diferentes tipos de tabaco.
+ > **M9. História de /Wed B’ö̖’/**
+> 
+ > Tinha um homem, aquele /Wed B’ö̖’/. Perto de sua casa havia uma árvore
+ > que dava uma frutinha como miçanga. Duas moças, filhas do /M’e̖h hup/,
+ > o “Velho Cobra”, iam lá para tirar a fruta e comer. O homem foi lá e
+ > esperou-as com sua zarabatana, cujas setas estavam envenenadas.
+ > Acertou a moça, que caiu. Ele tentou benzê-la para que ela voltasse,
+ > mas não conseguiu.
+> 
+ > Então ele cavou um buraco e enterrou-a. Foram esses bichinhos que
+ > cavam buraco na terra, esses que aparecem agora em agosto, que a
+ > fizeram reviver. Ele a desenterrou e a levou para casa. Tentou dar-lhe
+ > vários tipos de comida, mas ela não comia.
+> 
+ > Depois, quando ela tecia uma pulseira de tucum para o marido usar na
+ > canela, uns passarinhos vieram e foram levando o fio de tucum. Eram as
+ > irmãs dela que queriam saber como ela estava. Ela disse para o marido
+ > que precisava ir para a casa do pai, mas o marido não queria deixar.
+ > Quando acabou de casar, o marido não deixa a esposa. Só quer ficar
+ > junto. A Mulher Peixe caiu na água e foi para a casa do pai.
+> 
+ > Lá ela começou a pegar beiju, farinha, moqueados, tudo. Foi e pegou um
+ > galho de coca, mas diz que a coca é o osso do /M’e̖h Hup/, o “Velho
+ > Cobra”. O pai sentiu aquela dor no dedo e pensou: “Será que minha
+ > filha está me roubando?”. Foi e olhou todo o corpo dela. Só não olhou
+ > a vagina, pois se diz que é ruim o pai da moça olhar a vagina dela. Lá
+ > ela tinha escondido o galho de coca.
+> 
+ > Quando chegou na data marcada, ela foi dando comidas para o marido.
+ > Mas ele desmaiava com cada alimento que punha na boca. Comeu moqueado
+ > e desmaiou, ao beber caxiri desmaiou também. É aí que começa o
+ > benzimento do caxiri. O marido dormiu e, quando acordou no dia
+ > seguinte, havia um pé de coca plantado. Não precisava tirar as folhas.
+ > Era só balançar o pé e colocar a cuia embaixo e já enchia de coca. O
+ > mesmo acontecia com o pé de tabaco que também estava plantado. Todos
+ > os tipos de coca surgiram aí, o /pũ’ũ̖k-s’a̖/, a “coca preta”, o
+>  /wahna̗w-pũ’ũ̖k/, “coca abiu”, e os diferentes tipos de tabaco.
 
 Essa era a segunda vez que Ponciano contava a história de /Wed B’ö̖’/
 para mim. A primeira tinha sido quando comecei a fazer a gravação das
@@ -4944,93 +4943,93 @@ participantes.
 
 ###A essência ruim da coca
 
-**B1. /Pũ’ũ̖k bi’i̖d/ ‒ Benzimento da coca**
-
-1º mov. Eu vou contar para você, Danilo. Eu faço a casca de abiu, a
-casca de tururi transformarem-se na água-pura que há dentro (dessas
-árvores). Transformo a água-pura de dentro do ramo de coca de onde vem a
-/hã̗wag-dëh/, a “água do sopro vital”.
-
- *(Com.)* Menciono as águas-puras dali para extrair sua essência ruim,
- a “pasta da coca”, /pu͂’u̖͂k nu̖h/. Essa impureza pode causar doenças como
- o sono de dia.
-
- Nós mandamos sair. Mandamos para baixo para que saia ali. Para que
- desça vagarosamente e saia por baixo.
-
-2º mov. Banhamos o corpo com a água-pura da árvore de ingá do cerrado.
-
- *(Com.)* Essa água-pura é excelente para banharmos o nosso corpo ao
- benzer. Essa água foi trazida pela Mulher Peixe.
-
- Banhamos nosso corpo com a água-pura de imbaúba para retirar o que é
- ruim e restar apenas o que é benéfico. Fazemos isso para que nosso
- corpo fique como era antes. Tiramos todo o cheiro da coca. Mandamos
- sair.
-
- *(Com.)* Lavamos o resíduo que entra, senão ele suja o /hã̗wäg/,
- penetra o /hã̗wäg/. Lavamos com a água-pura e banhamos o corpo para
- refazê-lo.
-
-3º mov. Vocês brancos estão ouvindo?
-
- Quantos tipos de coca abiu há. Cada um deles: coca abiu, coca preta,
- nós lavamos sua pasta e mandamos sair. Limpamos com a água-pura.
-
- Extraímos com a água-pura da fruta /tũ-a̗g/. Refazemos o corpo para que
- não restem impurezas. Falamos para que a pasta seja expelida e o corpo
- pareça como antes.
-
- Diz-se: “água-pura do abiu pequeno” para fazer com que o corpo esteja
- como que dentro da casca de tururi.
-
- Como tudo que eu já falei, mencionamos todas as águas-puras das
- árvores da mata para que seu líquido refaça nosso corpo.
-
-4º mov. *(Com.)* Além disso, banha-se o corpo com água devido às
-lagartas que há na coca. Elas se embrulham na rede que têm na folha.
-Embrulham-se e ficam penduradas.
-
- Mando saírem da rede e cerco. Mando saírem da rede, da teia de aranha
- pequena delas, onde se embrulham. Das duas redes, folha e teia, eu
- mando saírem.
-
- *(Com.)* Dizem que para tirar aquela lagarta preta, a lagarta que se
- enrola na rede e fica pendurada, é preciso mandar sair todas as
- lagartas, pois, se a lagarta dá de beber do caarpi dela, ficamos
- doentes. Ela fica na rede dela, dentro da folha, dentro, na ponta da
- folha enrolada.
-
- Mando-a sair de sua teia, de sua rede. Vai se apagando o calor gostoso
- que dá na rede quando não queremos sair. Mando-a sair da sua rede, da
- sua teia.
-
- *(Com.)* Diz-se que, quando fica morno, queremos ficar pendurados em
- casa.
-
- Atenuo o calor com a água-pura e mando sair. Faço haver um calor
- apropriado no corpo com a água-pura para que não fiquemos em casa, em
- nosso lar. Transformo o corpo para que esquente menos.
-
-5º mov. Aqui parou, mas há ainda para falar.
-
- É preciso mencionar todos os tipos de coca que há. Menciono todos os
- tipos que comemos. Benzo tudo.
-
- Banho o corpo com água para que todos fiquem bem, para que não haja
- nada de ruim. Vejo e digo para que, depois de banhado com água, o
- corpo renasça.
-
- *(Com.)* Diz-se que depois (do benzimento) nosso corpo fica bom,
- continua bom.
-
-PISAR Lá, naquele lugar, falo e fumo o tabaco para que ali mesmo saia
-(do corpo).
-
- Ali, com casca de tabaco, mando sair para fazer o corpo estar dentro
- do tronco e para não estar pendurado.
-
- Está bom já, Danilo.
+> **B1. /Pũ’ũ̖k bi’i̖d/ ‒ Benzimento da coca**
+> 
+> 1º mov. Eu vou contar para você, Danilo. Eu faço a casca de abiu, a
+> casca de tururi transformarem-se na água-pura que há dentro (dessas
+> árvores). Transformo a água-pura de dentro do ramo de coca de onde vem a
+> /hã̗wag-dëh/, a “água do sopro vital”.
+> 
+ > *(Com.)* Menciono as águas-puras dali para extrair sua essência ruim,
+ > a “pasta da coca”, /pu͂’u̖͂k nu̖h/. Essa impureza pode causar doenças como
+ > o sono de dia.
+> 
+ > Nós mandamos sair. Mandamos para baixo para que saia ali. Para que
+ > desça vagarosamente e saia por baixo.
+> 
+> 2º mov. Banhamos o corpo com a água-pura da árvore de ingá do cerrado.
+> 
+ > *(Com.)* Essa água-pura é excelente para banharmos o nosso corpo ao
+ > benzer. Essa água foi trazida pela Mulher Peixe.
+> 
+ > Banhamos nosso corpo com a água-pura de imbaúba para retirar o que é
+ > ruim e restar apenas o que é benéfico. Fazemos isso para que nosso
+ > corpo fique como era antes. Tiramos todo o cheiro da coca. Mandamos
+ > sair.
+> 
+ > *(Com.)* Lavamos o resíduo que entra, senão ele suja o /hã̗wäg/,
+ > penetra o /hã̗wäg/. Lavamos com a água-pura e banhamos o corpo para
+ > refazê-lo.
+> 
+> 3º mov. Vocês brancos estão ouvindo?
+> 
+ > Quantos tipos de coca abiu há. Cada um deles: coca abiu, coca preta,
+ > nós lavamos sua pasta e mandamos sair. Limpamos com a água-pura.
+> 
+ > Extraímos com a água-pura da fruta /tũ-a̗g/. Refazemos o corpo para que
+ > não restem impurezas. Falamos para que a pasta seja expelida e o corpo
+ > pareça como antes.
+> 
+ > Diz-se: “água-pura do abiu pequeno” para fazer com que o corpo esteja
+ > como que dentro da casca de tururi.
+> 
+ > Como tudo que eu já falei, mencionamos todas as águas-puras das
+ > árvores da mata para que seu líquido refaça nosso corpo.
+> 
+> 4º mov. *(Com.)* Além disso, banha-se o corpo com água devido às
+> lagartas que há na coca. Elas se embrulham na rede que têm na folha.
+> Embrulham-se e ficam penduradas.
+> 
+ > Mando saírem da rede e cerco. Mando saírem da rede, da teia de aranha
+ > pequena delas, onde se embrulham. Das duas redes, folha e teia, eu
+ > mando saírem.
+> 
+ > *(Com.)* Dizem que para tirar aquela lagarta preta, a lagarta que se
+ > enrola na rede e fica pendurada, é preciso mandar sair todas as
+ > lagartas, pois, se a lagarta dá de beber do caarpi dela, ficamos
+ > doentes. Ela fica na rede dela, dentro da folha, dentro, na ponta da
+ > folha enrolada.
+> 
+ > Mando-a sair de sua teia, de sua rede. Vai se apagando o calor gostoso
+ > que dá na rede quando não queremos sair. Mando-a sair da sua rede, da
+ > sua teia.
+> 
+ > *(Com.)* Diz-se que, quando fica morno, queremos ficar pendurados em
+ > casa.
+> 
+ > Atenuo o calor com a água-pura e mando sair. Faço haver um calor
+ > apropriado no corpo com a água-pura para que não fiquemos em casa, em
+ > nosso lar. Transformo o corpo para que esquente menos.
+> 
+> 5º mov. Aqui parou, mas há ainda para falar.
+> 
+ > É preciso mencionar todos os tipos de coca que há. Menciono todos os
+ > tipos que comemos. Benzo tudo.
+> 
+ > Banho o corpo com água para que todos fiquem bem, para que não haja
+ > nada de ruim. Vejo e digo para que, depois de banhado com água, o
+ > corpo renasça.
+> 
+ > *(Com.)* Diz-se que depois (do benzimento) nosso corpo fica bom,
+ > continua bom.
+> 
+> PISAR Lá, naquele lugar, falo e fumo o tabaco para que ali mesmo saia
+> (do corpo).
+> 
+ > Ali, com casca de tabaco, mando sair para fazer o corpo estar dentro
+ > do tronco e para não estar pendurado.
+> 
+ > Está bom já, Danilo.
 
 Pela manhã bem cedo, Paulino veio à casa de apoio[^35] contar o /pũ’ũ̖k
 bi’i̖d/, o “benzimento da coca”. Estava ainda com os cabelos molhados do
@@ -5202,7 +5201,7 @@ seres. O “benzimento da coca” (**B1**), a passagem pelo “primeiro banco”
 “história de /Wed B’ö̖’/ (**M9**) apresentam, assim, sequências de ações que
 associam modos de relação num processo de torna-se um /pũ’ũ̖k we̗d ĩh/,
 um “comedor de coca”. Mito, benzimento e preparo promovem condensações
-rituais que combinam relações entre as diversas perspectivas. Se, como mostra Severi <!-- manter ou criar rodapé?(2009, p. 469) -->, um dos traços
+rituais que combinam relações entre as diversas perspectivas. Se, como mostra Severi (2009, p. 469), um dos traços
 importantes para a comunicação ritual vem a ser o modo como é gerada uma
 “nova identidade dos participantes, própria do contexto ritual, através
 do estabelecimento de uma forma particular de interação linguística”,
@@ -5246,10 +5245,10 @@ contar suas /pɨnɨ̖g/, “histórias/mitos” e falar sobre benzimentos. Na
 e os “xamãs do sopro”, /bi’i̖d hup ĩh d’äh/, preparam a coca e sentam-se
 em roda para comer, fumar e conversar entre parentes ou, como me
 disseram, entre “cunhados” (afins), /yo̖h däh/, e “irmãos” (agnatos),
-/ba̗b’ d’äh/. Tomando as palavras de Fausto (<!-- manter assim ou criar rodapé? 2008, p. 341), “nesse mundo
+/ba̗b’ d’äh/. Tomando as palavras de Fausto (2008, p. 341), “nesse mundo
 atravessado por relações de domínio”, em meu dedo do pé, assim como nos
 dedos de muitos da aldeia, os bichos do pé se instalam, preparam sua
-coca, sentam-se, comem e conversam entre parentes”. -->
+coca, sentam-se, comem e conversam entre parentes”. 
 
 Por várias noites, sentado próximo à casa de Genésio, comi coca e fumei
 com seu pai, Vicente, seu sogro, Miguel, seus tios (FB) e cunhados
@@ -5308,9 +5307,9 @@ coca. Com o tempo, ele se dirige ao /hã̖wäg/ da vítima para devorá-lo.
 Se as roupas permitem transformações em termos de perspectivas, creio
 poder dizer que a postura corporal, a gestualidade, as interações e o
 alimento comum a esses seres se apresentam também como índices de uma
-condição humana universalmente partilhada, <!-- “a essência antropomorfa de
+condição humana universalmente partilhada, “a essência antropomorfa de
 tipo espiritual, comum aos seres animados” (Viveiros de Castro, 2002, p.
-351) manter assim ou criar rodapé?-->. As ações do bicho-de-pé e da lagarta são humanas e visam à criação
+351). As ações do bicho-de-pé e da lagarta são humanas e visam à criação
 de relações com os participantes hup das rodas. Esses seres coabitam as
 rodas e manifestam suas presenças de modos diferentes.
 
@@ -5332,7 +5331,7 @@ que “A comensalidade é um vetor de identificação que não se aplica apenas 
 relações sociologicamente visíveis entre parentes humanos. Ela é um
 dispositivo geral que serve para pensar a passagem de uma condição de
 parentesco à outra e, portanto, aquilo que chamei de familiarização”
-<!-- (Fausto, 2002, p. 15). criar rodapé??? -->
+(Fausto, 2002, p. 15).
 
 Tudo leva a crer que, bebendo o caarpi, a pessoa aceite lagartas e
 bichos do pé como interlocutores humanos, e assuma suas perspectivas.
@@ -5371,7 +5370,7 @@ bichos do pé podiam tranquilamente sentar-se com suas roupas, comer coca
 e conversar sobre suas histórias e benzimentos, enquanto nós começávamos
 a preparar a coca para realizar o encontro noturno.
 
-<!-- INSERIR QUADRO - FIG. 17 da tese, p. 153 arquivo pdf -->
+FIGURA 17 DA TESE: TABELA DE AÇÕES RELACIONADAS P. 153 PDF USP
 
 Tabela de ações relacionadas
 
@@ -5656,7 +5655,7 @@ Todo o processo de preparação transforma a coca em alimento para que ela
 seja derramada no pote pequeno dos donos, únicos possuidores desses
 potes. A preparação da coca é assim dividida de acordo com critérios de
 *status* e por um princípio de anterioridade, onde a ordem de
-nascimentos, como observa Fausto <!-- manter assim ou criar rodapé?(2008, p. 349) --> para o alto rio Negro,
+nascimentos, como observa Fausto (2008, p. 349) para o alto rio Negro,
 “serve como régua sociocósmica para marcar diferenças entre segmentos”.
 
 Os “donos da coca” devem fornecer os meios para que os “apanhadores”
@@ -5702,7 +5701,8 @@ domínio.
 
 dono da coca : apanhador da coca
 
-  <!-- INSERIR QUADRO 2 p. 163 do arquivo pdf -->
+FIGURA 18 QUADRO 2 DA TESE P. 163
+
 
 Tabela de relações entre donos e apanhadores.
 
@@ -5717,7 +5717,7 @@ mesmo grupo local. A constância nessa dinâmica de interação permite ver
 que os participantes se organizam em função da sequência de ações entre
 “donos de coca” e “apanhadores”.
 
-<!-- Fig. 11 -->
+Figura 11
 Esquema de relações posicionais numa roda de coca.
 
 Conversando entre “irmãos”, /yawa̗m/, ou entre “afins”, /yo̖h/, os
@@ -5820,12 +5820,12 @@ mais velha, torna-se um /wähä̗d/, um Velho Cobra. Tomando as palavras de
 Fausto (2008, p. 349),
 
 <!-- estilo de citação -->
- A relação sogro-genro encontra-se no pólo oposto ao da germanidade,
- pois se compõe de diferenças e assimetrias sobrepostas: sobre uma base
- de afinidade, erguem-se duas outras assimetrias, aquela entre
- tomador-doador de mulheres e aquela entre gerações. A relação é
- potente demais, logo deslizando para figuras de poder e para a
- voracidade canibal.
+ > A relação sogro-genro encontra-se no pólo oposto ao da germanidade,
+ > pois se compõe de diferenças e assimetrias sobrepostas: sobre uma base
+ > de afinidade, erguem-se duas outras assimetrias, aquela entre
+ > tomador-doador de mulheres e aquela entre gerações. A relação é
+ > potente demais, logo deslizando para figuras de poder e para a
+>  voracidade canibal.
  <!-- estilo de citação -->
 
 A sequência de ações do mito pode ser vista como a transmissão de
@@ -5844,7 +5844,7 @@ alimentos e a aquisição de benzimentos revelam seus perigos no vômito e
 desmaio, no surgimento de doenças e na essência ruim da coca, “cera da
 vagina de Mulher Peixe”, que deve ser extraída para o consumo. A
 sobreposição de assimetrias desliza para “figuras de poder e para a
-voracidade canibal” <!-- (Fausto, 2008) manter assim ou criar rodapé? -->.
+voracidade canibal” (Fausto, 2008). 
 
 Nas narrativas, talvez esses eventos que fazem surgir malefícios e ao
 mesmo tempo encantamentos possam ser tomados, por um lado, como
@@ -6004,7 +6004,7 @@ encontrados os restos das panelas de /Hu̖͂t Wäg/. “Agora não tem mais,
 porque todo mundo vinha, pegava para contar a história e levava para
 casa. Acabou-se, mas tem ainda nas outras casas onde ele morou”, disse.
 
-<!-- Fig. 12 -->
+Figura 12
 Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P. Ramos, 2012)
 
 Continuamos a caminhada um pouco mais para cima até chegarmos à outra
@@ -6048,7 +6048,7 @@ ouvir um barulho alto que vinha do morro. Passávamos pelas roças, quando
 Américo parou, voltou-se para a serra e disse: “Isso que tá zoando, esse
 barulho é o grito do meu pai, do /b’atɨ̖b’/ dele”.
 
-<!-- Fig. 13 -->
+Figura 13
 Caminhada à Serra da Cutivaia
 
 ##/Hũ̖t/ ‒ “tabaco”
@@ -6086,83 +6086,83 @@ fumaça, os cigarros iluminavam as faces esverdeadas, a cuia de coca
 passava de mão em mão e a polifonia das vozes murmuradas tecia a
 narrativa na trama dos múltiplos diálogos.
 
-**M13. A dádiva da coca e do tabaco**
-
- /Hib’a̗h tẽ̖h/ viu o que aconteceu. (...) Nas origens ele estava
- saindo. Passou como se fosse através do pensamento dele. (...)
- /Hib’a̗h tẽ̖h/ pensou para poder deixar essa história para surgir agora
- para a humanidade. Foi ele que disse, porque viu o que aconteceu no
- começo. Ninguém de nós aqui no mundo indígena parece que não viu. Só o
- Deus, o /K’e̖g Tẽh/ que deu esse pensamento, o que aconteceu, o mundo
- de nada.
-
- Aí, o homem descobriu o que aconteceu naquele tempo. Descobriu que a
- história veio contando das origens. Por que ele deu tabaco. Deu essa
- comida, coca. Com essa coca e tabaco ele teve como se fosse um
- espírito iluminando na cabeça para poder fazer aparecer nesse mundo
- para os /hib’a̗h tẽ̖h d’äh/. Ele deu para cada grupo um cigarro, coca, e
- tudo para eles.
-
- Esse cigarro ele fuma na origem. Esse /hib’a̗h tẽ̖h/, /Hũ̖t Wäg/, é como
- se fosse um deus também. (...) Por isso, o pessoal diz: “O nosso
- chefe, (...) na origem, entrou naquele morro. Veio primeiro na
- origem”. Ele, como um deus, entrou em forma de pessoa no morro.
- (...)
-
- Você passa aqui no mato, encontra, por exemplo, aqui onde o Américo
- está trabalhando a roça dele. Tem o Morro da Cutiváia, /Ka̗j-Paç/. Lá
- deu caverna. Dentro você encontra um pedacinho de /b’a̖’/. /B’a̖’/,
- “beiju”, quebrado! Eles falam: “Foram as nossas origens!” Tavam
- vivendo em caverna. (...) No morro do Arara. Diz que é a origem do
- Miriti-Tapuia, lá entrou a origem deles. (...) Quando saíram da canoa,
- na origem deles, ele acompanhou. Foi acompanhando e daí entrou.
-
- Ele deixou o outro, o segundo dele, o segundo irmão dele. Ele disse:
- “Acompanha você agora, eu já acompanhei vocês lá”. Ele entrou. O
- /hib’a̗h tẽ̖h/ também entrou lá. Primeiro, ele acompanhou, entrou lá. O
- do Miriti-Tapuia também entrou lá. Diz que para eles também é como se
- fosse deus. Querendo entrar, porta pra ele, daí entrou. (...)
- Caverna, /Pa̖ç-Mo̖y/. Entrou. O resto, como se fosse o filho deles,
- continua, a nossa origem. (...) Foi ele que fez. Esse que já deixou
- tudo para eles o que vai usar nesse mundo. Acompanhou, (...) deu
- nome para eles. Disse: “Pronto, eu já acompanhei, já. Então pronto”.
-
- Por isso, na origem, foram eles que pegaram primeiro o tabaco, esses
- que entraram, foram eles que pegaram o cigarro. (...) O deus viu
- onde o pessoal estava saindo. Foi ele que acompanhou a saída deles. Um
- grupo saiu, outro grupo veio, outro grupo... Quando saiu todo mundo,
- aí ele deu esse poder para eles. Para cada grupo, só para a cabeça,
- para o primeiro. Deu tudo, porque eles tinham saído da água, do rio,
- da cobra (...).
-
- Então, eles pensaram como foi, como era o mundo antes de nós. Aí, para
- eles apareceu (...) o que era no mundo antes deles. Ele deu. Era
- como se fosse um espírito iluminando na cabeça deles. Descobriram tudo
- e passaram para os segundos que vieram para a segunda geração, e esses
- foram passando até chegar hoje. Porque ninguém viu. Antes da saída
- ninguém de nós viu.
-
- A primeira vez, quando eles contavam assim, eu pensava: “Quem é que
- viu para contar essa história? Quem é que são esses homens?” Eu
- costumava pensar assim. O velho, ele nem sabia dizer. Eu pensava
- assim. Na quarta vez que eu perguntava, aí ele explicava para mim, daí
- eu peço isso. Acho que, para contar essa história, surgiu com essas
- pessoas. Porque ninguém viu. Muita história que antes deles, muitas
- histórias são com os /hib’a̗h tẽ̖h d’äh/, “ancestrais” (...).
- Aconteceram com eles já (...).
-
- Quando ele comeu, irmão maior e irmão menor, os dois foram procurando.
- “Como é que a gente vai viver no mundo?” Eles procuraram. “Como é
- que a gente vai levar, como é que eles vão continuar a viver?” Para
- ele apareceu na visão dele. Ele estava pensando. Os dois discutiram.
- Isso aconteceu assim. Esse pensamento deu para todo mundo através
- daquele cigarro.
-
- Ele deu uns saberes, uma coisa para eles saberem entender as coisas.
- Mas ninguém escreveu. (...) Na cabeça é que ele descobriu. Algumas
- coisas... Terminou a coca. Diz que vão descansar. Tá bom já.
-
- (Jovino traduzindo seu pai Ponciano, gravação sonora, 07/01/2010).
+> **M13. A dádiva da coca e do tabaco**
+> 
+ > /Hib’a̗h tẽ̖h/ viu o que aconteceu. (...) Nas origens ele estava
+ > saindo. Passou como se fosse através do pensamento dele. (...)
+ > /Hib’a̗h tẽ̖h/ pensou para poder deixar essa história para surgir agora
+ > para a humanidade. Foi ele que disse, porque viu o que aconteceu no
+ > começo. Ninguém de nós aqui no mundo indígena parece que não viu. Só o
+ > Deus, o /K’e̖g Tẽh/ que deu esse pensamento, o que aconteceu, o mundo
+ > de nada.
+> 
+ > Aí, o homem descobriu o que aconteceu naquele tempo. Descobriu que a
+ > história veio contando das origens. Por que ele deu tabaco. Deu essa
+ > comida, coca. Com essa coca e tabaco ele teve como se fosse um
+ > espírito iluminando na cabeça para poder fazer aparecer nesse mundo
+ > para os /hib’a̗h tẽ̖h d’äh/. Ele deu para cada grupo um cigarro, coca, e
+ > tudo para eles.
+> 
+ > Esse cigarro ele fuma na origem. Esse /hib’a̗h tẽ̖h/, /Hũ̖t Wäg/, é como
+ > se fosse um deus também. (...) Por isso, o pessoal diz: “O nosso
+ > chefe, (...) na origem, entrou naquele morro. Veio primeiro na
+ > origem”. Ele, como um deus, entrou em forma de pessoa no morro.
+ > (...)
+> 
+ > Você passa aqui no mato, encontra, por exemplo, aqui onde o Américo
+ > está trabalhando a roça dele. Tem o Morro da Cutiváia, /Ka̗j-Paç/. Lá
+ > deu caverna. Dentro você encontra um pedacinho de /b’a̖’/. /B’a̖’/,
+ > “beiju”, quebrado! Eles falam: “Foram as nossas origens!” Tavam
+ > vivendo em caverna. (...) No morro do Arara. Diz que é a origem do
+ > Miriti-Tapuia, lá entrou a origem deles. (...) Quando saíram da canoa,
+ > na origem deles, ele acompanhou. Foi acompanhando e daí entrou.
+> 
+ > Ele deixou o outro, o segundo dele, o segundo irmão dele. Ele disse:
+ > “Acompanha você agora, eu já acompanhei vocês lá”. Ele entrou. O
+ > /hib’a̗h tẽ̖h/ também entrou lá. Primeiro, ele acompanhou, entrou lá. O
+ > do Miriti-Tapuia também entrou lá. Diz que para eles também é como se
+ > fosse deus. Querendo entrar, porta pra ele, daí entrou. (...)
+ > Caverna, /Pa̖ç-Mo̖y/. Entrou. O resto, como se fosse o filho deles,
+ > continua, a nossa origem. (...) Foi ele que fez. Esse que já deixou
+ > tudo para eles o que vai usar nesse mundo. Acompanhou, (...) deu
+ > nome para eles. Disse: “Pronto, eu já acompanhei, já. Então pronto”.
+> 
+ > Por isso, na origem, foram eles que pegaram primeiro o tabaco, esses
+ > que entraram, foram eles que pegaram o cigarro. (...) O deus viu
+ > onde o pessoal estava saindo. Foi ele que acompanhou a saída deles. Um
+ > grupo saiu, outro grupo veio, outro grupo... Quando saiu todo mundo,
+ > aí ele deu esse poder para eles. Para cada grupo, só para a cabeça,
+ > para o primeiro. Deu tudo, porque eles tinham saído da água, do rio,
+ > da cobra (...).
+> 
+ > Então, eles pensaram como foi, como era o mundo antes de nós. Aí, para
+ > eles apareceu (...) o que era no mundo antes deles. Ele deu. Era
+ > como se fosse um espírito iluminando na cabeça deles. Descobriram tudo
+ > e passaram para os segundos que vieram para a segunda geração, e esses
+ > foram passando até chegar hoje. Porque ninguém viu. Antes da saída
+ > ninguém de nós viu.
+> 
+ > A primeira vez, quando eles contavam assim, eu pensava: “Quem é que
+ > viu para contar essa história? Quem é que são esses homens?” Eu
+ > costumava pensar assim. O velho, ele nem sabia dizer. Eu pensava
+ > assim. Na quarta vez que eu perguntava, aí ele explicava para mim, daí
+ > eu peço isso. Acho que, para contar essa história, surgiu com essas
+ > pessoas. Porque ninguém viu. Muita história que antes deles, muitas
+ > histórias são com os /hib’a̗h tẽ̖h d’äh/, “ancestrais” (...).
+ > Aconteceram com eles já (...).
+> 
+ > Quando ele comeu, irmão maior e irmão menor, os dois foram procurando.
+ > “Como é que a gente vai viver no mundo?” Eles procuraram. “Como é
+ > que a gente vai levar, como é que eles vão continuar a viver?” Para
+ > ele apareceu na visão dele. Ele estava pensando. Os dois discutiram.
+ > Isso aconteceu assim. Esse pensamento deu para todo mundo através
+ > daquele cigarro.
+> 
+ > Ele deu uns saberes, uma coisa para eles saberem entender as coisas.
+ > Mas ninguém escreveu. (...) Na cabeça é que ele descobriu. Algumas
+ > coisas... Terminou a coca. Diz que vão descansar. Tá bom já.
+> 
+ > (Jovino traduzindo seu pai Ponciano, gravação sonora, 07/01/2010).
 
 Enquanto narrava, Jovino deixava escapar a fumaça de sua boca. Num
 momento, estendeu as mãos como se fossem uma cuia oferecida pelo deus.
@@ -6258,7 +6258,7 @@ terra, não sendo preciso enterrá-las. Outra forma é lançá-las com a mão
 para que elas se espalhem pelo solo. Antigamente, em dias de vento era
 possível apenas abrir a mão e esperar que o vento as semeasse.
 
-<!-- Quadro 3. alguns tipos de tabaco. p. 179 do pdf -->
+Figura Quadro 3. alguns tipos de tabaco. p. 179 do pdf 
   -------------------- ---------------------
   **Tipo de tabaco**   **Tradução**
   /B’äb’äg-hu̖͂t/        Tabaco-cubiu
@@ -6469,31 +6469,31 @@ Cobra-Canoa. O narrador advertiu para os malefícios da gordura do tabaco
 e da pasta da coca que causam doenças a quem os consome sem ter sido
 benzido.
 
-**M14. Sobre a dádiva do tabaco**
-
- Antigamente, tinha uma folha de tabaco afiada, pontuda, que era o
- cabelo da Mulher da Caatinga. Os antigos fumavam esse tabaco com uma
- folha de sororoca da mata. Essa folha é também o cabelo da filha da
- Mulher da Mata. O cigarro era preparado no formato de um pênis, com a
- cabeça pequena e o corpo grande, como deve ser para penetrar a vagina
- das mulheres.
-
- Foi /M’e̖h Hup/ quem ofereceu comida e caxiri a seu genro, / We̖d B’ö̖’/.
- Esse, um homem hup, comeu moqueado, beiju, bebeu caxiri e vomitou. De
- seu vômito surgiu o tabaco. O tabaco tem a ver com os peixes
- moqueados. Os diferentes tipos de tabaco têm os nomes dos diferentes
- tipos de peixes. Só dois tem nome de árvores de fruta.
-
- É preciso ser benzido para comer coca e fumar tabaco. A coca, o tabaco
- e o breu têm essências ruins que ficam no testículo e a pessoa pode
- ficar doente. O benzimento faz com que essas essências ruins saiam
- pelos pés da pessoa. A coca tem em sua pasta a parte ruim. Já o tabaco
- tem em sua gordura a parte ruim.
-
- No Lago de Leite havia a casa dos ancestrais e o ancestral de cada
- grupo tinha sua casa, seu banco, sua coca e seu tabaco. /K’e̖g Tẽh/ deu
- a eles a cuia de coca, o banco e o tabaco. Quando voltou, todos tinham
- escondido atrás de si esses poderes (Caderno de campo. 12/06/2011).
+> **M14. Sobre a dádiva do tabaco**
+> 
+ > Antigamente, tinha uma folha de tabaco afiada, pontuda, que era o
+ > cabelo da Mulher da Caatinga. Os antigos fumavam esse tabaco com uma
+ > folha de sororoca da mata. Essa folha é também o cabelo da filha da
+ > Mulher da Mata. O cigarro era preparado no formato de um pênis, com a
+ > cabeça pequena e o corpo grande, como deve ser para penetrar a vagina
+ > das mulheres.
+> 
+ > Foi /M’e̖h Hup/ quem ofereceu comida e caxiri a seu genro, / We̖d B’ö̖’/.
+ > Esse, um homem hup, comeu moqueado, beiju, bebeu caxiri e vomitou. De
+ > seu vômito surgiu o tabaco. O tabaco tem a ver com os peixes
+ > moqueados. Os diferentes tipos de tabaco têm os nomes dos diferentes
+ > tipos de peixes. Só dois tem nome de árvores de fruta.
+> 
+ > É preciso ser benzido para comer coca e fumar tabaco. A coca, o tabaco
+ > e o breu têm essências ruins que ficam no testículo e a pessoa pode
+ > ficar doente. O benzimento faz com que essas essências ruins saiam
+ > pelos pés da pessoa. A coca tem em sua pasta a parte ruim. Já o tabaco
+ > tem em sua gordura a parte ruim.
+> 
+ > No Lago de Leite havia a casa dos ancestrais e o ancestral de cada
+ > grupo tinha sua casa, seu banco, sua coca e seu tabaco. /K’e̖g Tẽh/ deu
+ > a eles a cuia de coca, o banco e o tabaco. Quando voltou, todos tinham
+ > escondido atrás de si esses poderes (Caderno de campo. 12/06/2011).
 
 Atualmente, para preparar cigarros, cada pessoa conserva um estoque de
 folhas de caderno pautado, mantidas sempre próximas ao fogo de cozinha
@@ -6638,16 +6638,16 @@ se dar de modo apropriado entre afins, consumando a “boa aliança”. A
 penetração correta gera a vida, proporciona a sucessão clânica, a
 transmissão das histórias e, paralelamente, a troca de mulheres entre os
 grupos[^63], de mulheres que serão mães numa geração (0) e filhas na
-subsequente (-1). Tomando as palavras de Lévi-Strauss<!--  (2004, p. 213), “o
+subsequente (-1). Tomando as palavras de Lévi-Strauss (2004, p. 213), “o
 consumo é entendido ora no sentido próprio (alimentar), ora no sentido
-figurado (sexual) e, em algumas vezes, em ambos os sentidos \[...\]”. criar rodapé com referência ou manter assim?-->
+figurado (sexual) e, em algumas vezes, em ambos os sentidos \[...\]”. 
 Entretanto, o caráter laminar do objeto parece também explicitar os
 limites e interdições para a troca em termos da inabilidade para o
 preparo do cigarro, do uso incorreto da palavra, do canto e da
 incompreensão do gesto de oferecimento e devolução. Como o /Aije/
-bororo, entendo que no ato de “segurar o cigarro” haja a <!-- “regulamentação
+bororo, entendo que no ato de “segurar o cigarro” haja a “regulamentação
 da sexualidade, assim como a representação da vida humana e social”
-(Caiuby Novaes, 1994, p. 184). criar rodapé ou manter assim? -->
+(Caiuby Novaes, 1994, p. 184). 
 
 Essa dimensão fálica do cigarro faz lembrar algumas passagens de
 narrativas de “más alianças” ou de “incestos” que apontam para os
@@ -6682,15 +6682,15 @@ aspectos muito próximos à reflexão de Viveiros de Castro sobre a tensão
 característica da afinidade, em suas palavras,
 
 <!-- Estilo de citação -->
- Essa combinação de uma diferença e de uma semelhança igualmente
- necessárias cristaliza-se, frequentemente, na identificação dos
- inimigos a afins: os cunhados-inimigos tupinambá são apenas o exemplo
- mais célebre de uma configuração ameríndia muito geral, em que a
- tensão característica da afinidade – relação que tem a semelhança como
- base e a diferença como princípio – é utilizada para pensar a
- categoria do inimigo e reciprocamente, isto é, onde os valores da
- exterioridade predatória formam o subtexto da aliança matrimonial
- (2002, p. 289).
+ > Essa combinação de uma diferença e de uma semelhança igualmente
+ > necessárias cristaliza-se, frequentemente, na identificação dos
+ > inimigos a afins: os cunhados-inimigos tupinambá são apenas o exemplo
+ > mais célebre de uma configuração ameríndia muito geral, em que a
+ > tensão característica da afinidade – relação que tem a semelhança como
+ > base e a diferença como princípio – é utilizada para pensar a
+ > categoria do inimigo e reciprocamente, isto é, onde os valores da
+ > exterioridade predatória formam o subtexto da aliança matrimonial
+ > (2002, p. 289).
  <!-- estilo de citação -->
 
 Além dos perigos da “má aliança”, o caráter laminar do cigarro e da
@@ -6712,11 +6712,11 @@ mal. Reichel-Dolmatoff escreve algumas notas sobre o poder agressivo de
 um “feitiço do tabaco” realizado pelos Desana,
 
 <!-- estilo de citação -->
- O tabaco também pode ser um meio de agressões mágicas. Pronuncia-se
- em encantamento sobre um grande cigarro e este é logo enterrado perto
- da maloca ou do porto de um inimigo. Após uns dois ou três dias, esse
- malefício causa uma série de enfermidades às pessoas que vivem na
- maloca (1986, p. 184).
+ > O tabaco também pode ser um meio de agressões mágicas. Pronuncia-se
+ > em encantamento sobre um grande cigarro e este é logo enterrado perto
+ > da maloca ou do porto de um inimigo. Após uns dois ou três dias, esse
+ > malefício causa uma série de enfermidades às pessoas que vivem na
+ > maloca (1986, p. 184).
  <!-- estilo de citação -->
 
 O mesmo ato de mencionar as folhas para celebrar os laços de afinidade
@@ -6759,91 +6759,91 @@ zonzo, precisei deitar na rede e dormir um pouco. À noite, durante a
 roda, os participantes disseram que agora poderiam se despreocupar com
 meu consumo de coca e tabaco.
 
-**B2./Hũ̖t bi’i̖d/  ‒ Benzimento do tabaco**
-
-1º mov. (*Com.*) Eu dou o cigarro para melhorar a vida, para não morrer.
-Você vai entender! Um dia você vai ouvir: “Primeiro, quem fez isso foi o
-/K’e̖g Tẽh/”. Aqui, a vida termina para os jovens crescerem. Nossa vida
-termina para os jovens crescerem. Nosso corpo não aguenta mais agora,
-está velho. /K’e̖g Tẽh/ falou: “Vocês vão ter o corpo bom!” Por isso,
-hoje em dia, se não fazemos tabaco, os jovens não crescem. Fazemos o
-tabaco para os nossos jovens ficarem fortes e crescerem. Nós morremos
-quando não tem tabaco. Nós não temos vida se não há esse tabaco. As
-pessoas fazem o tabaco quando ficam velhas. Se os velhos morrem, acaba o
-benzimento. Se acaba o tabaco que a gente faz, os jovens ficam sempre
-pequenos e a doença vai acabar com eles. Se a gente não faz esse cigarro
-benzido a doença encontra a gente nessa terra.
-
- Eu tiro o tabaco da /Nute̖ne̖y-Mo̖y/, nossa casa de origem. Acompanho e
- tiro das casas /Dëh-Sa̗k-Sö̗’ö̗y-Mo̖y/, /Hak-Te̖ne̖y-Mo̖y/,
- /Dëh-K’et-Sö̗’ö̗y-Mo̖y/. Eu vou tirando o nosso /hã̗wäg/. Sento-me em meu
- banco da vida, nosso banco do Lago de Leite.
-
- Troco o cigarro, sentado no banco da vida, no banco do Lago de Leite.
- Troco o cigarro com meu ser sentado no banco. Troco o bastão e sigo
- trocando (continuamente). Tiro e vou reunindo. Meu /hã̗wäg/ todo, eu
- tiro e vou levando. Falo e vou tirando a vida dos /Sokw’ä̗t Noh K’öd
- Tẽ̖h däh/ e minha própria vida (dessa morada).
-
- Eu falo e menciono para nossos ancestrais, para os /Sokw’ä̗t i͂han/, os
- /B’ö̖’ Te̖͂h i͂han/, /Su̗g Yom’o̖y Tẽ̖h ĩh/, /So̗ Tẽ̖h ĩhan/, /Yë̖w Tẽ̖h ĩhan/,
- /S’ẽ̖h (Sẽk?) Tẽh i͂han/, /Hõ̖p Tẽ̖h ĩhan/, /Poho̗t Tẽ̖h ĩhan/. (Menciono) o
- cigarro, o banco da vida, o chapéu, o bastão deles. Com isso eu pego o
- bastão. (Reúno esses poderes) para lá, no Lago de Leite, lá no fundo,
- no final, no Rio de Janeiro.
-
-2º mov. Vou para dentro da casa com a roupa do aracu pequeno. Entro e
-fico em pé com o /hã̗wäg/, o espelho, a espinha, o cigarro (do aracu
-pequeno). Entro e fico em pé com seu cigarro. Sopro a fumaça do tabaco.
-
- *(Com.)* A fumaça do tabaco é pari dentro da gente. Vou benzendo com o
- breu. A fumaça do breu é pari para dentro do corpo. Faz com que as
- Cobras não vejam.
-
- Entro com meu sopro vital. Fico em pé. A doença passa com o cigarro.
- Falo para esse aracu pequeno, para aquela gente de trás do lago, para
- aquela gente de acima do lago (k’ë̗t), para a Cobra do outro lado do
- lago (hak). Para aquela gente, eu menciono os aracus pequenos.
-
- Fico em pé e sopro com os cigarros dos aracus para que essas gentes
- não apareçam com seus cigarros e para que as doenças delas passem com
- o cigarro. Essa fumaça do cigarro é pari para dentro. Eu faço o
- /hã̗wäg/ entrar e ficar em pé na casa dele (corpo).
-
- *(Com.)* Fazendo isso, dizem que essas cobras não aparecem. \[...\]
- Outro dia nós vemos essa gente. \[...\]
-
-3º mov. Retorno e falo para os aracus pequenos do Igarapé-Grande onde há
-essa gente do Igarapé-branco (...). Entro e fico em pé com meu cigarro
-para que eles entrem em sua casa com seu cigarro, com seu sopro vital.
-
- *(Com.)* Essa fumaça do tabaco é pari dentro do corpo para esconder o
- sopro vital. \[...\] Com esse cigarro, a doença passa, não aparece.
-
- Falo para nossas crianças, para nossas mulheres, para nossas filhas.
- Menciono tudo para (proteger) essas pessoas. Eu menciono e tiro para
- os nossos parentes que acompanham.
-
-4º mov. Falo para as Cobras. Vou chegando para cá. Menciono a cuia de
-mel da origem. Digo e faço vir a cuia de mel da origem. Menciono todas
-as Gentes - Cobra do lago. (Falo para) a cuia de mel da origem, para o
-sopro vital da cuia de mel da origem, (para) o corpo da cobra da origem
-(em sua) asa (?). Com essa asa, com a base da asa (dirijo-me) para
-dentro dessa morada. Faço o /hã̗wäg/ entrar e ficar em pé. Prossigo
-falando.
-
- *(Com.)* Com esse cigarro, com essa fumaça do cigarro o sopro vital
- regenerado entra e fica em pé no corpo. Com essa fumaça, o /hã̗wäg/ de
- nossas crianças, de nossas meninas, de nossos filhos entra e fica em
- pé. Com esse cigarro, a doença passa, não aparece. (Desloco-me) na
- rede. (É preciso) entrar na rede e ficar enrolado. (Ajo com) o nosso
- banco para entrar, sentar e ver.
-
- Menciono o pote de mel. Profiro as palavras com a abelha. Falo para o
- sopro vital da abelha /tat/. (Dirijo-me) para dentro de sua morada.
- Profiro as palavras com essa abelha. Profiro as palavras com o
- mel-da-cotia. Entro com o mel-da-cotia e ergo-me. \[...\] (Ponciano,
- gravação sonora de Patience Epps, 2011)
+> **B2./Hũ̖t bi’i̖d/  ‒ Benzimento do tabaco**
+> 
+> 1º mov. (*Com.*) Eu dou o cigarro para melhorar a vida, para não morrer.
+> Você vai entender! Um dia você vai ouvir: “Primeiro, quem fez isso foi o
+> /K’e̖g Tẽh/”. Aqui, a vida termina para os jovens crescerem. Nossa vida
+> termina para os jovens crescerem. Nosso corpo não aguenta mais agora,
+> está velho. /K’e̖g Tẽh/ falou: “Vocês vão ter o corpo bom!” Por isso,
+> hoje em dia, se não fazemos tabaco, os jovens não crescem. Fazemos o
+> tabaco para os nossos jovens ficarem fortes e crescerem. Nós morremos
+> quando não tem tabaco. Nós não temos vida se não há esse tabaco. As
+> pessoas fazem o tabaco quando ficam velhas. Se os velhos morrem, acaba o
+> benzimento. Se acaba o tabaco que a gente faz, os jovens ficam sempre
+> pequenos e a doença vai acabar com eles. Se a gente não faz esse cigarro
+> benzido a doença encontra a gente nessa terra.
+> 
+ > Eu tiro o tabaco da /Nute̖ne̖y-Mo̖y/, nossa casa de origem. Acompanho e
+ > tiro das casas /Dëh-Sa̗k-Sö̗’ö̗y-Mo̖y/, /Hak-Te̖ne̖y-Mo̖y/,
+ > /Dëh-K’et-Sö̗’ö̗y-Mo̖y/. Eu vou tirando o nosso /hã̗wäg/. Sento-me em meu
+ > banco da vida, nosso banco do Lago de Leite.
+> 
+ > Troco o cigarro, sentado no banco da vida, no banco do Lago de Leite.
+ > Troco o cigarro com meu ser sentado no banco. Troco o bastão e sigo
+ > trocando (continuamente). Tiro e vou reunindo. Meu /hã̗wäg/ todo, eu
+ > tiro e vou levando. Falo e vou tirando a vida dos /Sokw’ä̗t Noh K’öd
+ > Tẽ̖h däh/ e minha própria vida (dessa morada).
+> 
+ > Eu falo e menciono para nossos ancestrais, para os /Sokw’ä̗t i͂han/, os
+ > /B’ö̖’ Te̖͂h i͂han/, /Su̗g Yom’o̖y Tẽ̖h ĩh/, /So̗ Tẽ̖h ĩhan/, /Yë̖w Tẽ̖h ĩhan/,
+ > /S’ẽ̖h (Sẽk?) Tẽh i͂han/, /Hõ̖p Tẽ̖h ĩhan/, /Poho̗t Tẽ̖h ĩhan/. (Menciono) o
+ > cigarro, o banco da vida, o chapéu, o bastão deles. Com isso eu pego o
+ > bastão. (Reúno esses poderes) para lá, no Lago de Leite, lá no fundo,
+ > no final, no Rio de Janeiro.
+> 
+> 2º mov. Vou para dentro da casa com a roupa do aracu pequeno. Entro e
+> fico em pé com o /hã̗wäg/, o espelho, a espinha, o cigarro (do aracu
+> pequeno). Entro e fico em pé com seu cigarro. Sopro a fumaça do tabaco.
+> 
+ > *(Com.)* A fumaça do tabaco é pari dentro da gente. Vou benzendo com o
+ > breu. A fumaça do breu é pari para dentro do corpo. Faz com que as
+ > Cobras não vejam.
+> 
+ > Entro com meu sopro vital. Fico em pé. A doença passa com o cigarro.
+ > Falo para esse aracu pequeno, para aquela gente de trás do lago, para
+ > aquela gente de acima do lago (k’ë̗t), para a Cobra do outro lado do
+ > lago (hak). Para aquela gente, eu menciono os aracus pequenos.
+> 
+ > Fico em pé e sopro com os cigarros dos aracus para que essas gentes
+ > não apareçam com seus cigarros e para que as doenças delas passem com
+ > o cigarro. Essa fumaça do cigarro é pari para dentro. Eu faço o
+ > /hã̗wäg/ entrar e ficar em pé na casa dele (corpo).
+> 
+ > *(Com.)* Fazendo isso, dizem que essas cobras não aparecem. \[...\]
+ > Outro dia nós vemos essa gente. \[...\]
+> 
+> 3º mov. Retorno e falo para os aracus pequenos do Igarapé-Grande onde há
+> essa gente do Igarapé-branco (...). Entro e fico em pé com meu cigarro
+> para que eles entrem em sua casa com seu cigarro, com seu sopro vital.
+> 
+ > *(Com.)* Essa fumaça do tabaco é pari dentro do corpo para esconder o
+ > sopro vital. \[...\] Com esse cigarro, a doença passa, não aparece.
+> 
+ > Falo para nossas crianças, para nossas mulheres, para nossas filhas.
+ > Menciono tudo para (proteger) essas pessoas. Eu menciono e tiro para
+ > os nossos parentes que acompanham.
+> 
+> 4º mov. Falo para as Cobras. Vou chegando para cá. Menciono a cuia de
+> mel da origem. Digo e faço vir a cuia de mel da origem. Menciono todas
+> as Gentes - Cobra do lago. (Falo para) a cuia de mel da origem, para o
+> sopro vital da cuia de mel da origem, (para) o corpo da cobra da origem
+> (em sua) asa (?). Com essa asa, com a base da asa (dirijo-me) para
+> dentro dessa morada. Faço o /hã̗wäg/ entrar e ficar em pé. Prossigo
+> falando.
+> 
+ > *(Com.)* Com esse cigarro, com essa fumaça do cigarro o sopro vital
+ > regenerado entra e fica em pé no corpo. Com essa fumaça, o /hã̗wäg/ de
+ > nossas crianças, de nossas meninas, de nossos filhos entra e fica em
+ > pé. Com esse cigarro, a doença passa, não aparece. (Desloco-me) na
+ > rede. (É preciso) entrar na rede e ficar enrolado. (Ajo com) o nosso
+ > banco para entrar, sentar e ver.
+> 
+ > Menciono o pote de mel. Profiro as palavras com a abelha. Falo para o
+ > sopro vital da abelha /tat/. (Dirijo-me) para dentro de sua morada.
+ > Profiro as palavras com essa abelha. Profiro as palavras com o
+ > mel-da-cotia. Entro com o mel-da-cotia e ergo-me. \[...\] (Ponciano,
+ > gravação sonora de Patience Epps, 2011)
 
 O encantamento acima foi contado por Ponciano à linguista Patience Epps,
 durante uma viagem de campo que fizemos juntos em 2011. Sentado, olhando
@@ -7143,39 +7143,39 @@ sua viagem a São Paulo, de seu passeio pelo centro da cidade, do namoro
 com uma mulher xavante, das cachaças, dos cigarros e do aprendizado das
 práticas xamânicas com seu pai.
 
- **S1. O pai conta em sonho**
-
- (Você começou a comer a coca com quantos anos?) Vinte, vinte e cinco.
- (Você comia com seu pai?) Não, daqui mesmo. (Depois que casou?) Sim,
- depois que casei, já tinha minha filha.
-
- (Mas benzimentos, você começou a aprender antes com seu pai?) É
- \[...\] Ele contava, depois dessa hora. Depois de dormir, ir para a
- rede, ele contava. Ele velho. Não dorme não. Ele dorme quase três
- horas. Dorme três horas, acorda são cinco horas. Só dorme uma hora.
- Toma o banho. \[...\] \[Ele comia coca?\] É, ele come. E meu tio
- também come. (Teu tio também comia.) Eles morreram tudo. (...) Só
- tenho a minha sobrinha daqui de Samaúma que está morando. São três.
- \[...\] Outro dia nós vamos visitar. Chegar, uma semana, estar
- pescando, e voltar. Ficar lá visitando eles.
-
- (Mas daí você aprendeu benzimento em sonho?) Está benzendo ainda, com
- cigarro. É a primeira coisa que benze. Tem, ele contava. (Em sonho ele
- contava?). Benzendo. Ele tava benzendo com tabaco, cigarro. Ele fuma e
- depois conta. É que sonha, ele mesmo tá contava. Ele mesmo, quando
- você sonha, ele contava, daí não dorme mais. Quando você dorme, se
- dorme você esquece.
-
- (Ele aparecia, contava e você acordava). Rapaz, trabalho. É trabalho,
- Danilo. Como médico. Nós que comemos dessa coca, comer, deitar na
- nossa rede. Querer deitar. Nós botávamos assim, sentava perto do fogo,
- sentava mais ainda.
-
- Quando a gente dorme da criança, tá gritava. Outro dia tava lua
- clarera. \[...\] Quando a gente, a menina tá dormindo, depois dorme,
- quando acaba, fica silêncio. Nós deitávamos na nossa rede. Dormia
- quase três horas. Acordei, já era sete horas. (Mandu, gravação sonora,
- 02/02/2010).
+ > **S1. O pai conta em sonho**
+> 
+ > (Você começou a comer a coca com quantos anos?) Vinte, vinte e cinco.
+ > (Você comia com seu pai?) Não, daqui mesmo. (Depois que casou?) Sim,
+ > depois que casei, já tinha minha filha.
+> 
+ > (Mas benzimentos, você começou a aprender antes com seu pai?) É
+ > \[...\] Ele contava, depois dessa hora. Depois de dormir, ir para a
+ > rede, ele contava. Ele velho. Não dorme não. Ele dorme quase três
+ > horas. Dorme três horas, acorda são cinco horas. Só dorme uma hora.
+ > Toma o banho. \[...\] \[Ele comia coca?\] É, ele come. E meu tio
+ > também come. (Teu tio também comia.) Eles morreram tudo. (...) Só
+ > tenho a minha sobrinha daqui de Samaúma que está morando. São três.
+ > \[...\] Outro dia nós vamos visitar. Chegar, uma semana, estar
+ > pescando, e voltar. Ficar lá visitando eles.
+> 
+ > (Mas daí você aprendeu benzimento em sonho?) Está benzendo ainda, com
+ > cigarro. É a primeira coisa que benze. Tem, ele contava. (Em sonho ele
+ > contava?). Benzendo. Ele tava benzendo com tabaco, cigarro. Ele fuma e
+ > depois conta. É que sonha, ele mesmo tá contava. Ele mesmo, quando
+ > você sonha, ele contava, daí não dorme mais. Quando você dorme, se
+ > dorme você esquece.
+> 
+ > (Ele aparecia, contava e você acordava). Rapaz, trabalho. É trabalho,
+ > Danilo. Como médico. Nós que comemos dessa coca, comer, deitar na
+ > nossa rede. Querer deitar. Nós botávamos assim, sentava perto do fogo,
+ > sentava mais ainda.
+> 
+ > Quando a gente dorme da criança, tá gritava. Outro dia tava lua
+ > clarera. \[...\] Quando a gente, a menina tá dormindo, depois dorme,
+ > quando acaba, fica silêncio. Nós deitávamos na nossa rede. Dormia
+ > quase três horas. Acordei, já era sete horas. (Mandu, gravação sonora,
+ > 02/02/2010).
 
 Manuel Barbosa, o Mandu, é considerado um grande benzedor para mordidas
 de cobra, especificamente de jararaca, /tɨ̃hɨ̗̃y/ (cobras da família dos
@@ -7350,11 +7350,11 @@ habilidades xamânicas parecem aproximar a concepção de morte dos hup
 daquela que Århem descreve para a *ecosofia* makuna. Em suas palavras,
 
 <!-- estilo de citação -->
- \[...\] Os Makuna percebem a morte como transferência da alma de uma
- forma de vida (ou forma de mundo) para outra \[...\] a morte é um
- movimento entre a morte espiritual e as várias formas de mundo do
- cosmos material visível; é um movimento entre dimensões do cosmos
- (1993, p.19).
+ > \[...\] Os Makuna percebem a morte como transferência da alma de uma
+ > forma de vida (ou forma de mundo) para outra \[...\] a morte é um
+ > movimento entre a morte espiritual e as várias formas de mundo do
+ > cosmos material visível; é um movimento entre dimensões do cosmos
+ > (1993, p.19).
 
 A fragmentação e reconfiguração da pessoa separam /hã̗wäg/ e /b’atɨ̖b’/ e
 fazem com que duas viagens, dois movimentos de afastamento com relação
@@ -7386,15 +7386,15 @@ então que Samuel me contou sobre os Lagos de Leite que se formam quando
 os senhores estão sentados conversando ou benzendo:
 
 <!-- estilo de citação -->
- No centro da roda forma-se um /Pud-Dë̖h Mo̗h/, um “Lago de Leite”
- quando os velhos estão sentados conversando ou benzendo. Também no
- centro da /Ä̗g-Mo̖y/, “Maloca”, forma-se um Lago de Leite quando todos
- estão bebendo caxiri, cantando e dançando. As flautas jurupari
- circulam em volta do Lago de Leite que se forma na Maloca quando são
- tocadas. Uma das portas da Maloca é aberta para a /Dëh K’et-Yoh Mo̖y/,
- “Casa da Cabeceira”, e a outra para /Dëh Sa̗ka̗n Mo̖y/, “Casa do Sol
- Nascente”. Os troncos que sustentam o telhado da Maloca são como as
- serras e o telhado é como o céu (Caderno de campo, 10/04/2012).
+ > No centro da roda forma-se um /Pud-Dë̖h Mo̗h/, um “Lago de Leite”
+ > quando os velhos estão sentados conversando ou benzendo. Também no
+ > centro da /Ä̗g-Mo̖y/, “Maloca”, forma-se um Lago de Leite quando todos
+ > estão bebendo caxiri, cantando e dançando. As flautas jurupari
+ > circulam em volta do Lago de Leite que se forma na Maloca quando são
+ > tocadas. Uma das portas da Maloca é aberta para a /Dëh K’et-Yoh Mo̖y/,
+ > “Casa da Cabeceira”, e a outra para /Dëh Sa̗ka̗n Mo̖y/, “Casa do Sol
+ > Nascente”. Os troncos que sustentam o telhado da Maloca são como as
+ > serras e o telhado é como o céu (Caderno de campo, 10/04/2012).
  <!-- estilo de citação -->
 
 Benzer e conversar em roda são atos que fazem surgir um Lago de Leite.
@@ -7499,13 +7499,13 @@ Desana, essa relação entre o tabaco e o ato de cercar é descrita por
 Reichel-Dolmatoff da seguinte maneira:
 
 <!-- estilo de citação -->
- Soprando fumo ao redor de um lugar ou objeto, esse forma uma “cerca”
- mágica que protege contra perigos. \[...\] Em um sentido horizontal, o
- cigarro atua então de duas maneiras: ao soprar seu fumo sobre algo ou
- em direção a algo, estabelece uma barreira circular que aumenta ao
- passo que o fumo vai diminuindo; o fumo “abre os olhos” dos agentes do
- Mal que, em seu lugar, vêem uma cerca; cria-se, pois, um limite no
- espaço (1986, p. 184).
+ > Soprando fumo ao redor de um lugar ou objeto, esse forma uma “cerca”
+ > mágica que protege contra perigos. \[...\] Em um sentido horizontal, o
+ > cigarro atua então de duas maneiras: ao soprar seu fumo sobre algo ou
+ > em direção a algo, estabelece uma barreira circular que aumenta ao
+ > passo que o fumo vai diminuindo; o fumo “abre os olhos” dos agentes do
+ > Mal que, em seu lugar, vêem uma cerca; cria-se, pois, um limite no
+ > espaço (1986, p. 184).
  <!-- estilo de citação -->
 
 Os lagos, os paris, a fumaça dos cigarros, as cascas e as escamas ajudam
@@ -7541,10 +7541,10 @@ sendo aprendidos e cercados. Como os ancestrais no Lago de Leite, os
 xamãs-sopradores recebem os poderes e cercam-nos, escondendo-os atrás de
 si (**M14**).
 
-<!-- Fig. 13 -->
+Figura 13
 Ponciano mostra o cercar (foto: Danilo P. Ramos, 2012)
 
-<!-- Fig. 14 -->
+Figura 14
 Grafismo do ato de cercar
 
 Num encontro noturno, pedi a Ponciano e Samuel para me explicarem como
@@ -7568,7 +7568,7 @@ ocultando o xamã-soprador das vistas da Gente-Cobra para que faça uma
 viagem segura durante o trajeto. Enquanto traduzíamos o **B2**, Samuel deu
 essa explicação sobre a locomoção do benzedor e fez um desenho.
 
-<!-- Fig. 14 -->
+Figura 15
 Rede de leite e pedaço de tabaco
 
 O leite torna-se a substância comum com a qual são feitos o banco, a
@@ -7650,7 +7650,7 @@ morada do sopro vital, e depois nos braços. No alto do morro, Lucas
 gritou como se estivesse chamando a humanidade (**M2**) e deixou um cigarro
 para os ancestrais no lago.
 
-<!-- Fig. 15 -->
+Figura 16
 Cigarro no lago (foto: Danilo P. Ramos, 2012)
 
 Como já foi assinalado, no alto da serra, um processo de condensações
@@ -7711,7 +7711,7 @@ posteriormente, preparar os pedaços de breu para as ações xamânicas. O
 breu pode ser usado também no reparo das canoas, na pintura de objetos
 cuias, adornos), e na fabricação de instrumentos musicais.
 
-<!-- Fig. 16 -->
+Figura 17
 Aldeia cercada (foto: Danilo P. Ramos, 2012)
 
 Como o gesto de “segurar o cigarro”, central para a aliança e para a
@@ -7840,14 +7840,14 @@ diferencia duas formas de viagem que ocorrem durante o processo de
 iniciação dos xamãs yagua,
 
 <!-- estilo de citação -->
- O xamã é por definição aquele que cruza os limites. Embora a viagem
- possa apresentar poucos atrativos ao viajante simples, ela se revela
- fonte de inspiração e de aprendizado para o xamã. De meu ponto de
- vista, é necessário considerar a imagem do xamã fora do meio familiar,
- e mesmo fora do meio tradicional, como uma transposição, sobre o plano
- material, da “viagem da alma”: ambos experimentam, em níveis
- diferentes, a mesma vontade de ultrapassar os limites categoriais e
- mesmo os limites de si mesmo (1983, p. 102).
+ > O xamã é por definição aquele que cruza os limites. Embora a viagem
+ > possa apresentar poucos atrativos ao viajante simples, ela se revela
+ > fonte de inspiração e de aprendizado para o xamã. De meu ponto de
+ > vista, é necessário considerar a imagem do xamã fora do meio familiar,
+ > e mesmo fora do meio tradicional, como uma transposição, sobre o plano
+ > material, da “viagem da alma”: ambos experimentam, em níveis
+ > diferentes, a mesma vontade de ultrapassar os limites categoriais e
+ > mesmo os limites de si mesmo (1983, p. 102).
  <!-- estilo de citação -->
 
 Essa oposição entre mobilidade espiritual e material também é utilizada
@@ -7919,14 +7919,14 @@ envolvendo, e curar, regenerando. Assim, o modo de percepção nas rodas
 se estabelece muito próximo à reflexão do filósofo quando mostra que:
 
 <!-- estilo de citação -->
- Perceber não é experimentar um sem-número de impressões que trariam
- consigo recordações capazes de completá-las, é ver jorrar de uma
- constelação de dados um sentido imanente sem o qual nenhum apelo às
- recordações seria possível. Recordar-se não é trazer ao olhar da
- consciência um quadro do passado subsistente em si, é enveredar no
- horizonte do passado e pouco a pouco desenvolver suas perspectivas
- encaixadas, até que as experiências que ele resume como que vividas
- novamente em seu lugar temporal (2011, p. 48).
+ > Perceber não é experimentar um sem-número de impressões que trariam
+ > consigo recordações capazes de completá-las, é ver jorrar de uma
+ > constelação de dados um sentido imanente sem o qual nenhum apelo às
+ > recordações seria possível. Recordar-se não é trazer ao olhar da
+ > consciência um quadro do passado subsistente em si, é enveredar no
+ > horizonte do passado e pouco a pouco desenvolver suas perspectivas
+ > encaixadas, até que as experiências que ele resume como que vividas
+ > novamente em seu lugar temporal (2011, p. 48).
 <!-- estilo de citação -->
 
 O *lago diante de si* e o *lago de destino* envolvem cada participante
@@ -8004,25 +8004,25 @@ despejem suas águas, raios e trovões sobre a aldeia. Sentados em
 círculo, comíamos coca, fumávamos e conversávamos num grupo de nove
 pessoas.
 
-**B3. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/o inverno**
+> **B3. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/o inverno**
+> 
+ > Você fala o nome de /Mu’se’/, aquele da bíblia. Você se levanta e abre
+ > os braços como ele fez para abrir o Mar Vermelho. Como ele, você
+ > afasta as águas para as cabeceiras.
 
- Você fala o nome de /Mu’se’/, aquele da bíblia. Você se levanta e abre
- os braços como ele fez para abrir o Mar Vermelho. Como ele, você
- afasta as águas para as cabeceiras.
-
-**B4. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/inverno**
-
-1º mov. Lê-se a tartaruga vermelha e sua canoa. A tartaruga preta e sua
-canoa. Fala-se para ela colocar todas as suas coisas em sua casa, dentro
-de sua canoa, e ir nadando até a cabeceira.
-
-*(Com.)* Seu nado, o movimento de suas nadadeiras vai separando a água.
-Como Moisés quando separou as águas. Isso vai cercando a água também.
-
-2º mov. Fala-se para suas /dëh hup hẽ̖h/, para suas “coisas/armas da
-água”. Fala-se para seu /he̖͂y’-b’ah/, “remo”, e para sua /he̖y’ b’ah/, sua
-“tesoura da origem”. Então, conforme ela vai nadando ela afasta a água
-da chuva e cerca.
+> **B4. /Sõ̖h ta̗’ bi’i̖d/ ‒ Benzimento de cercar a chuva/inverno**
+> 
+> 1º mov. Lê-se a tartaruga vermelha e sua canoa. A tartaruga preta e sua
+> canoa. Fala-se para ela colocar todas as suas coisas em sua casa, dentro
+> de sua canoa, e ir nadando até a cabeceira.
+> 
+> *(Com.)* Seu nado, o movimento de suas nadadeiras vai separando a água.
+> Como Moisés quando separou as águas. Isso vai cercando a água também.
+> 
+> 2º mov. Fala-se para suas /dëh hup hẽ̖h/, para suas “coisas/armas da
+> água”. Fala-se para seu /he̖͂y’-b’ah/, “remo”, e para sua /he̖y’ b’ah/, sua
+> “tesoura da origem”. Então, conforme ela vai nadando ela afasta a água
+> da chuva e cerca.
 
 O fato de Ponciano, /yo’o̗m ĩh/, “dono”, de /Ta̗t-Dëh/ ter se levantado no
 momento em que as nuvens se aproximavam ameaçadoramente ressalta seu
@@ -8040,11 +8040,11 @@ fizeram com que a fumaça que saía de sua boca fosse lançada em direção
 tabaco no xamanismo desana, Reichel-Dolmatoff diz que,
 
 <!-- estilo de citação -->
- Há uma reação entre o fumo e a chuva, sendo esta última naturalmente
- um elemento fertilizador. Assim como a chuva apaga o fogo, o fumo de
- tabaco é uma imitação das nuvens, pode dispersá-las ou também
- aglutiná-las. Por outro lado, o fumo torna invisível e é, por
- conseguinte, um elemento de defesa (1986, p. 183).
+ > Há uma reação entre o fumo e a chuva, sendo esta última naturalmente
+ > um elemento fertilizador. Assim como a chuva apaga o fogo, o fumo de
+ > tabaco é uma imitação das nuvens, pode dispersá-las ou também
+ > aglutiná-las. Por outro lado, o fumo torna invisível e é, por
+ > conseguinte, um elemento de defesa (1986, p. 183).
  <!-- estilo de citação -->
 
 Como visto no capítulo anterior, os senhores hup fumam para conversar,
@@ -8071,10 +8071,10 @@ xamã alterou o rumo das nuvens da tempestade para a cabeceira, fazendo
 com que os caminhos alagados secassem. Creio que essas múltiplas
 interações com as nuvens, de humanos e quelônios, sejam possíveis a
 partir da observação e da imitação, possibilitadas por processos de
-educação da atenção desses atores em seus ambientes, tal como <!-- Ingold
+educação da atenção desses atores em seus ambientes, tal como Ingold
 propõe (2000, p. 37): “observar é ter atenção aos movimentos dos outros;
 imitar é alinhar essa atenção aos seus próprios movimentos práticos
-orientados para o ambiente”. citação -->
+orientados para o ambiente”. 
 
 Nesse sentido, o xamã observa os corpos celestes, as tartarugas e o
 profeta. Suas palavras, movimentos corporais e fumaça são gestos que
@@ -8104,7 +8104,7 @@ fumaça faz com que as nuvens mudem seus rumos e dirijam-se à cabeceira.
 A comunidade é cercada através desse procedimento que, ao afastar a
 chuva, impede que a fúria do Trovão atinja a aldeia.
 
- <!-- QUADRO COMPARATIVO DE AÇÕES P. 231 do pdf -->
+ Figura QUADRO COMPARATIVO DE AÇÕES P. 231 do pdf 
   Quadro comparativo de ações
 
 As ações do benzedor, do profeta e da tartaruga geram mudanças num dado
@@ -8124,20 +8124,20 @@ cabeceiras, das /Paç-Mo̖y/, “Casas-de-Pedra”, próximas às quais seus
 ancestrais procuraram sempre constituir suas moradas. Como aponta Reid,
 
 <!-- estilo de citação -->
- A partir desses dados fica claro que, antes de 1890 e até 1950,
- virtualmente todos os Hupdʉ viviam nas cabeceiras dos igarapés
- tributários aos que ocupam atualmente. Alguns Hupdʉ afirmam que
- Salesianos ordenaram que migrassem rio abaixo, ao mesmo tempo em que
- os Índios do rio foram ordenados a fazer o mesmo (1930-40).
- Entretanto, fica evidente que os Hupdʉ não fizeram isso até o início
- dos anos de 1940, sendo que a maior parte mudou-se apenas nos anos de
- 1950. Os novos assentamentos estabeleceram-se entre uma e quatro horas
- de caminhada com relação aos grandes rios. Em alguns anos, esses
- assentamentos mudavam-se para áreas das imediações, ao longo do
- igarapé onde já estavam situados ou para igarapés próximos.
- Atualmente, os Hupdʉ estão vivendo principalmente nas partes rio
- abaixo dos igarapés tributários aos que ocupavam previamente (1979,
- p. 28).
+ > A partir desses dados fica claro que, antes de 1890 e até 1950,
+ > virtualmente todos os Hupdʉ viviam nas cabeceiras dos igarapés
+ > tributários aos que ocupam atualmente. Alguns Hupdʉ afirmam que
+ > Salesianos ordenaram que migrassem rio abaixo, ao mesmo tempo em que
+ > os Índios do rio foram ordenados a fazer o mesmo (1930-40).
+ > Entretanto, fica evidente que os Hupdʉ não fizeram isso até o início
+ > dos anos de 1940, sendo que a maior parte mudou-se apenas nos anos de
+ > 1950. Os novos assentamentos estabeleceram-se entre uma e quatro horas
+ > de caminhada com relação aos grandes rios. Em alguns anos, esses
+ > assentamentos mudavam-se para áreas das imediações, ao longo do
+ > igarapé onde já estavam situados ou para igarapés próximos.
+ > Atualmente, os Hupdʉ estão vivendo principalmente nas partes rio
+ > abaixo dos igarapés tributários aos que ocupavam previamente (1979,
+ > p. 28).
 <!-- estilo de citação -->
 
 De acordo com o antropólogo, antes de 1890 e até 1950 os Hupd’äh viviam
@@ -8240,7 +8240,7 @@ Para que estivéssemos bem protegidos durante a viagem, além do
 /ti̖wi̖t hamap bi’i̖d ta̗’/, “benzimento dos caminhos”, para cercar os
 viajantes das ações maléficas dos seres que pudéssemos encontrar.
 
-<!-- Fig. 17 -->
+Figura 17
 Viagem às serras: Caminhos (/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas
 (/Mo̖y-Höd/)
 
@@ -8281,138 +8281,138 @@ mão até que todos tivessem soprado a fumaça em seus corpos. O cigarro
 tinha sido preparado dias antes com o “benzimento dos caminhos” para que
 todos estivessem protegidos ao longo do percurso.
 
-**B5. /Ti̖wi̖t hamap bi’i̖d ta’/ ‒ Benzimento dos caminhos**
-
-1º mov. História de benzimento para cercar, para ajudar nos caminhos.
-
- Faço (o corpo) estar dentro da canoa da cobra uirapixuna. (...) Nessa
- canoa você manda ficar até o final do caminho.
-
- (Menciono a) canoa da cobra-uirapixuna, canoa de pau amarelo, canoa de
- folha longa de louro, canoa de louro-sapo, canoa de árvore /s’i̗d tëg/,
- canoa da cobra uirapixuna. Eu faço existir uma canoa para que o corpo
- esteja dentro da pele da cobra ancestral e se possa fazer a viagem.
-
- *(Com.)* Diz-se que, fazendo dessa forma a cobra /daha/ não aparece
- para nós.
-
- Faço com que haja uma casca de tururi em torno de nossa perna para
- seguirmos.
-
- PISAR Eu *piso* essa canoa de banco.
-
-2º mov. Vou até /Sõ̖hahan/. Vou para lá e começo a cercar a vida (da
-pessoa) com pari. Seguro o pari contra o chão para proteger das
-jararacas ao longo do caminho. Eu coloco a vida da pessoa dentro do pari
-para cercá-la das jararacas e dou comida para elas.
-
- (Ofereço) coca, dou a cuia da seiva da coca. (Ofereço) a cuia da coca
- seiva de sorva, a cuia de coca seiva de /mo̗t/.
-
- (Eu vou mencionando) as jararacas, e mando as jararacas /b’a̗w/ para
- suas casas. Mando as cobras /dëh-ha̖t/ para a casa subterrânea. (Mando
- entrar) as cobras que ficam no oco das árvores. Falo para essas
- cobras. Mando para sua casa subterrânea as cobras /dëh-pu̖pan/. Falo
- para as surucucus irem para dentro de suas casas de terra (argila),
- para sua casa preta. (...)
-
- Dou de comer a essas cobras e faço-as sentar com a cuia de coca da
- seiva de sorva, com a cuia de coca da seiva de /mo̗t/. Faço-as entrar
- em suas casas e depois eu entro e me sento. Eu faço haver tristeza em
- seus corpos. Dou o cigarro e a cuia de coca para elas comerem e faço
- com que se sintam tristes. Eu dou essa comida, coca, para elas
- comerem. Ofereço cigarro para elas fumarem e permanecerem sentadas. Eu
- faço o queixo delas grudar para que depois não nos mordam (...).
-
-3º mov. Falo para cercar a cuia de beber e as armas das abelhas /na̖’/ e
-das abelhas pretas /bɨ̗g/.
-
- *(Com.)* Se estivermos no caminho, as abelhas pretas /bɨ̗g/ podem nos
- oferecer (caarpi) da cuia delas.
-
- Faço com que coloquem suas armas sobre o jirau. Menciono o caniço e a
- faca delas. (Falo) para as abelhas /bä̗g/, para as cabas /wɨwɨ̗h/. Cerco
- a cuia de caarpi e as armas (facas) da jararaca /b’a̗w/, da
- cobra-de-duas-cabeças. Assim, eu vou fazendo para todos esses (seres),
- para que não ofereçam da cuia de caarpi deles.
-
- *(Com.)* Com isso não ficamos “bêbados” no caminho, não escorregamos e
- não caímos no chão, no pau, disse já.
-
-4º mov. Falo para as Gentes-Árvore. Faço-as ir para suas casas, para a
-Casa-da-Caatinga, para a Casa-da-Mata, para a Casa-de-Lama, para a
-Casa-de-Pedra.
-
- Faço-as juntarem suas armas (facas) e estarem dentro de suas casas
- para que eu entre e fique em pé. Faço-as juntarem e largarem o pedaço
- de pau de tabaco delas, as suas armas. É ai que nós entramos e ficamos
- em pé. (Mando-as) para a Casa-da-Caatinga, para a Casa-de-Lama.
- Faço-as juntarem todas (as suas armas) no chão, entro e fico em pé.
-
-5º mov. Faço as cobras para quem ofereci a coca e fiz entristecerem-se
-entrarem e sentarem dentro da Casa-da-Cachoeira. Por isso elas não saem.
-Se eu dou a coca, elas não saem para observar-nos, permanecem sentadas.
-
- Falo e cerco o bastão das cobras, o bastão das Gentes-Árvore, o bastão
- dos /b’atɨ̖b’/.
-
- *(Com.)* Caso eles nos batam com seu bastão (/kötö̖w-tëg/) ou com seu
- caniço, quando estivermos no caminho, diz-se que temos /kɨ̃kɨ̃nɨ̃’ih/
- (dor de carne).
-
- (Para que não nos) batam com o bastão de imbaúba /sãy/, com o bastão
- de imbaúba /wag/, eu cerco-os todos. Faço com que larguem seus bastões
- dentro de suas casas e faço com que as cobras entrem e fiquem em pé.
-
- Vou dizendo e dirigindo-me até chegar a outra comunidade. Chego e
- saio.
-
-6º mov. Falo para as lagartas do tabaco. Falo para as lagartas pequenas
-no caminho delas. Digo para as lagartas pequenas e entro no caminho
-delas. Eu entro na aldeia delas e saio. Eu entro no caminho da lagarta
-pequena, a coumidade dos filhos, eu entro em cima do banco da vida.
-Faço o meu /hã̗wäg/ entrar e ficar em pé, disse já. Chego e entro com o
-tabaco, com o banco e fico em pé.
-
- (Vou transformando meu corpo) no corpo do muçum pequeno, no corpo do
- calango, faço-os sair e ficar em pé. No corpo dos calangos. No corpo
- dos calangos pequenos, no corpo do curió pequeno, faço o corpo dos hup
- ser como o corpo deles, sair e estar em pé. Eu faço (esses seres)
- saírem e ficarem em pé. Faço os muçuns saírem e descerem para a beira.
-
- Faço o corpo dos hup entrar e ficar em pé dentro da casa dos muçuns
- para que tenhamos seu corpo, seu pedaço de tabaco, suas armas (faca).
- Falo, entro no corpo do muçum e faço o corpo dos hup assemelhar-se ao
- deles. Entro, fico em pé e saio para fora.
-
-7º mov. Vou para a mata e entro na casa do pedaço de tabaco do esquilo
-pequeno. Entro e fico em pé. Eu falo para o esquilo pequeno, para o
-esquilo marrom. Falo para o esquilo marrom, para seu pedaço de tabaco
-para fazer com que dentro da casa dos Hupd’äh (seja como) dentro da casa
-do esquilo. Eu entro e fico em pé.
-
- *(Com.)* Dizem que, se vamos passear em outra comunidade, é perigoso,
- pois a doença pode pegar a gente, disse já.
-
- Faço muitos desses esquilos marrons saírem, ficarem em pé e passo para
- que nessa comunidade (os seres malfazejos) não saibam da gente.
-
- Vou para a mata e entro no corpo das onças pequenas, da onça /dɨ̗d/,
- disse já. Para dentro dessa onça eu me dirijo, para dentro dos
- esquilos marrons, para dentro das onças.
-
-8º mov. Menciono a água-pura do maracujá pequeno. Com a água-pura do
-maracujá eu (banho) a pessoa. Faço-a entrar e deitar em sua rede. Faço
-com que a rede da pessoa esteja dentro das flores do maracujá. Faço o
-sopro vital entrar e deitar. Faço o sopro vital entrar e deitar na rede
-como se fosse a flor /pu̗͂p s’o̗/.
-
-PISAR O benzedor não aparece por estar dentro do pedaço de tabaco e,
-dentro da rede, ele entra e deita.
-
- Então, a pessoa vai pelo caminho passear. E aqui termina. Nós vamos
- pelo caminho e esse é o nosso benzimento. Esse é o nosso benzimento
- para irmos para outra comunidade. Aqui termina.
+> **B5. /Ti̖wi̖t hamap bi’i̖d ta’/ ‒ Benzimento dos caminhos**
+> 
+> 1º mov. História de benzimento para cercar, para ajudar nos caminhos.
+> 
+ > Faço (o corpo) estar dentro da canoa da cobra uirapixuna. (...) Nessa
+ > canoa você manda ficar até o final do caminho.
+> 
+ > (Menciono a) canoa da cobra-uirapixuna, canoa de pau amarelo, canoa de
+ > folha longa de louro, canoa de louro-sapo, canoa de árvore /s’i̗d tëg/,
+ > canoa da cobra uirapixuna. Eu faço existir uma canoa para que o corpo
+ > esteja dentro da pele da cobra ancestral e se possa fazer a viagem.
+> 
+ > *(Com.)* Diz-se que, fazendo dessa forma a cobra /daha/ não aparece
+ > para nós.
+> 
+ > Faço com que haja uma casca de tururi em torno de nossa perna para
+ > seguirmos.
+> 
+ > PISAR Eu *piso* essa canoa de banco.
+> 
+> 2º mov. Vou até /Sõ̖hahan/. Vou para lá e começo a cercar a vida (da
+> pessoa) com pari. Seguro o pari contra o chão para proteger das
+> jararacas ao longo do caminho. Eu coloco a vida da pessoa dentro do pari
+> para cercá-la das jararacas e dou comida para elas.
+> 
+ > (Ofereço) coca, dou a cuia da seiva da coca. (Ofereço) a cuia da coca
+ > seiva de sorva, a cuia de coca seiva de /mo̗t/.
+> 
+ > (Eu vou mencionando) as jararacas, e mando as jararacas /b’a̗w/ para
+ > suas casas. Mando as cobras /dëh-ha̖t/ para a casa subterrânea. (Mando
+ > entrar) as cobras que ficam no oco das árvores. Falo para essas
+ > cobras. Mando para sua casa subterrânea as cobras /dëh-pu̖pan/. Falo
+ > para as surucucus irem para dentro de suas casas de terra (argila),
+ > para sua casa preta. (...)
+> 
+ > Dou de comer a essas cobras e faço-as sentar com a cuia de coca da
+ > seiva de sorva, com a cuia de coca da seiva de /mo̗t/. Faço-as entrar
+ > em suas casas e depois eu entro e me sento. Eu faço haver tristeza em
+ > seus corpos. Dou o cigarro e a cuia de coca para elas comerem e faço
+ > com que se sintam tristes. Eu dou essa comida, coca, para elas
+ > comerem. Ofereço cigarro para elas fumarem e permanecerem sentadas. Eu
+ > faço o queixo delas grudar para que depois não nos mordam (...).
+> 
+> 3º mov. Falo para cercar a cuia de beber e as armas das abelhas /na̖’/ e
+> das abelhas pretas /bɨ̗g/.
+> 
+ > *(Com.)* Se estivermos no caminho, as abelhas pretas /bɨ̗g/ podem nos
+ > oferecer (caarpi) da cuia delas.
+> 
+ > Faço com que coloquem suas armas sobre o jirau. Menciono o caniço e a
+ > faca delas. (Falo) para as abelhas /bä̗g/, para as cabas /wɨwɨ̗h/. Cerco
+ > a cuia de caarpi e as armas (facas) da jararaca /b’a̗w/, da
+ > cobra-de-duas-cabeças. Assim, eu vou fazendo para todos esses (seres),
+ > para que não ofereçam da cuia de caarpi deles.
+> 
+ > *(Com.)* Com isso não ficamos “bêbados” no caminho, não escorregamos e
+ > não caímos no chão, no pau, disse já.
+> 
+> 4º mov. Falo para as Gentes-Árvore. Faço-as ir para suas casas, para a
+> Casa-da-Caatinga, para a Casa-da-Mata, para a Casa-de-Lama, para a
+> Casa-de-Pedra.
+> 
+ > Faço-as juntarem suas armas (facas) e estarem dentro de suas casas
+ > para que eu entre e fique em pé. Faço-as juntarem e largarem o pedaço
+ > de pau de tabaco delas, as suas armas. É ai que nós entramos e ficamos
+ > em pé. (Mando-as) para a Casa-da-Caatinga, para a Casa-de-Lama.
+ > Faço-as juntarem todas (as suas armas) no chão, entro e fico em pé.
+> 
+> 5º mov. Faço as cobras para quem ofereci a coca e fiz entristecerem-se
+> entrarem e sentarem dentro da Casa-da-Cachoeira. Por isso elas não saem.
+> Se eu dou a coca, elas não saem para observar-nos, permanecem sentadas.
+> 
+ > Falo e cerco o bastão das cobras, o bastão das Gentes-Árvore, o bastão
+ > dos /b’atɨ̖b’/.
+> 
+ > *(Com.)* Caso eles nos batam com seu bastão (/kötö̖w-tëg/) ou com seu
+ > caniço, quando estivermos no caminho, diz-se que temos /kɨ̃kɨ̃nɨ̃’ih/
+ > (dor de carne).
+> 
+ > (Para que não nos) batam com o bastão de imbaúba /sãy/, com o bastão
+ > de imbaúba /wag/, eu cerco-os todos. Faço com que larguem seus bastões
+ > dentro de suas casas e faço com que as cobras entrem e fiquem em pé.
+> 
+ > Vou dizendo e dirigindo-me até chegar a outra comunidade. Chego e
+ > saio.
+> 
+> 6º mov. Falo para as lagartas do tabaco. Falo para as lagartas pequenas
+> no caminho delas. Digo para as lagartas pequenas e entro no caminho
+> delas. Eu entro na aldeia delas e saio. Eu entro no caminho da lagarta
+> pequena, a coumidade dos filhos, eu entro em cima do banco da vida.
+> Faço o meu /hã̗wäg/ entrar e ficar em pé, disse já. Chego e entro com o
+> tabaco, com o banco e fico em pé.
+> 
+ > (Vou transformando meu corpo) no corpo do muçum pequeno, no corpo do
+ > calango, faço-os sair e ficar em pé. No corpo dos calangos. No corpo
+ > dos calangos pequenos, no corpo do curió pequeno, faço o corpo dos hup
+ > ser como o corpo deles, sair e estar em pé. Eu faço (esses seres)
+ > saírem e ficarem em pé. Faço os muçuns saírem e descerem para a beira.
+> 
+ > Faço o corpo dos hup entrar e ficar em pé dentro da casa dos muçuns
+ > para que tenhamos seu corpo, seu pedaço de tabaco, suas armas (faca).
+ > Falo, entro no corpo do muçum e faço o corpo dos hup assemelhar-se ao
+ > deles. Entro, fico em pé e saio para fora.
+> 
+> 7º mov. Vou para a mata e entro na casa do pedaço de tabaco do esquilo
+> pequeno. Entro e fico em pé. Eu falo para o esquilo pequeno, para o
+> esquilo marrom. Falo para o esquilo marrom, para seu pedaço de tabaco
+> para fazer com que dentro da casa dos Hupd’äh (seja como) dentro da casa
+> do esquilo. Eu entro e fico em pé.
+> 
+ > *(Com.)* Dizem que, se vamos passear em outra comunidade, é perigoso,
+ > pois a doença pode pegar a gente, disse já.
+> 
+ > Faço muitos desses esquilos marrons saírem, ficarem em pé e passo para
+ > que nessa comunidade (os seres malfazejos) não saibam da gente.
+> 
+ > Vou para a mata e entro no corpo das onças pequenas, da onça /dɨ̗d/,
+ > disse já. Para dentro dessa onça eu me dirijo, para dentro dos
+ > esquilos marrons, para dentro das onças.
+> 
+> 8º mov. Menciono a água-pura do maracujá pequeno. Com a água-pura do
+> maracujá eu (banho) a pessoa. Faço-a entrar e deitar em sua rede. Faço
+> com que a rede da pessoa esteja dentro das flores do maracujá. Faço o
+> sopro vital entrar e deitar. Faço o sopro vital entrar e deitar na rede
+> como se fosse a flor /pu̗͂p s’o̗/.
+> 
+> PISAR O benzedor não aparece por estar dentro do pedaço de tabaco e,
+> dentro da rede, ele entra e deita.
+> 
+ > Então, a pessoa vai pelo caminho passear. E aqui termina. Nós vamos
+ > pelo caminho e esse é o nosso benzimento. Esse é o nosso benzimento
+>  para irmos para outra comunidade. Aqui termina.
 
 Banhando a pessoa hup com a água-pura do maracujá e fazendo-a estar
 deitada em sua rede dentro da flor do maracujá é que o benzedor protege
@@ -8475,8 +8475,8 @@ fazem o foco da ação do xamã mudar de um ser a outro, de uma morada a
 outra. As expressões tornam-se evocativas do deslocamento que faz o xamã
 sair da casa das cobras e viajar até a casa das abelhas procurando
 cercar a cuia de caarpi, arma comum aos insetos e às serpentes. Seguindo
-De Certeau, nessa retórica ambulatória <!-- “haveria uma homologia
-entre as figuras verbais e as figuras ambulatórias” (De Certeau, 2011, p. 167-68). rodapé?-->, sendo que a
+De Certeau, nessa retórica ambulatória “haveria uma homologia
+entre as figuras verbais e as figuras ambulatórias” (De Certeau, 2011, p. 167-68), sendo que a
 expressão pode ser tomada como um assíndeto, já que suprime a descrição
 do percurso entre as casas, como a figura de linguagem que omite os
 termos de ligação, as conjunções e os verbos. Nesse mesmo sentido, as
@@ -8520,19 +8520,19 @@ k’ranyeári/ (/peri/, “ouvir”, “entender”; /k’rapíri/, “pisar”;
 “agarrar”):
 
 <!-- estilo de citação -->
- Mentalmente, esta expressão está acompanhada por uma imagem fixa: um
- homem em pé, firmemente plantado sobre a terra como um eixo cósmico,
- pisando seguro. O mero entendimento, /pesí turágë/ \[...\] é muito
- distinto, pois somente se refere à agilidade intelectual, à boa
- memória e à eloquência, mas “entender-pisar-agarrar” abarca uma
- dimensão mais profunda, já que dá sabedoria e não mero conhecimento.
- Chegar a esse estado de reflexão, de “estabilização” e equilíbrio, é o
- ideal do homem desana, porque somente a partir daí alcança a segurança
- pela compreensão da religião e pela função da mesma na vida social.
- Entretanto, para alcançá-lo, é importante saber ouvir o eco das
- coisas; em outras palavras, é preciso conhecer as ramificações do
- sistema simbólico e poder reduzi-las a suas bases elementares
- (Reichel-Dolmatoff, 1986, p. 118).
+ > Mentalmente, esta expressão está acompanhada por uma imagem fixa: um
+ > homem em pé, firmemente plantado sobre a terra como um eixo cósmico,
+ > pisando seguro. O mero entendimento, /pesí turágë/ \[...\] é muito
+ > distinto, pois somente se refere à agilidade intelectual, à boa
+ > memória e à eloquência, mas “entender-pisar-agarrar” abarca uma
+ > dimensão mais profunda, já que dá sabedoria e não mero conhecimento.
+ > Chegar a esse estado de reflexão, de “estabilização” e equilíbrio, é o
+ > ideal do homem desana, porque somente a partir daí alcança a segurança
+ > pela compreensão da religião e pela função da mesma na vida social.
+ > Entretanto, para alcançá-lo, é importante saber ouvir o eco das
+ > coisas; em outras palavras, é preciso conhecer as ramificações do
+ > sistema simbólico e poder reduzi-las a suas bases elementares
+ > (Reichel-Dolmatoff, 1986, p. 118).
 <!-- estilo de citação -->
 
 Viajando como pessoa-sopro, o benzedor hup chega, entra na casa/corpo de
@@ -8547,11 +8547,11 @@ para a caça. Dentro de suas tocas ou próximos a elas, os animais podem
 ser mais facilmente atraídos, capturados ou mortos. Como afirma Reid,
 
 <!-- estilo de citação -->
- \[...\] a floresta e seus habitantes fornecem muitos modelos a partir
- dos quais os Hupdʉ estabelecem sua compreensão dos mundos social e
- espiritual \[...\]. Os Hupdʉ podem ler os “sinais” da floresta tão bem
- quanto um europeu pode ler um livro, e estão em contínua comunicação
- com esta (1979, p. 72-73).
+ > \[...\] a floresta e seus habitantes fornecem muitos modelos a partir
+ > dos quais os Hupdʉ estabelecem sua compreensão dos mundos social e
+ > espiritual \[...\]. Os Hupdʉ podem ler os “sinais” da floresta tão bem
+ > quanto um europeu pode ler um livro, e estão em contínua comunicação
+> com esta (1979, p. 72-73).
 <!-- estilo de citação -->
 
 No caminho, Ari parou para analisar um tronco de árvore. Disse que um
@@ -8774,13 +8774,13 @@ os percursos realizados por jovens com mentores experientes chamando a
 atenção para pontos semelhantes aos observados em nossa viagem,
 
 <!-- estilo de citação -->
- Quando essas viagens são realizadas por jovens e homens maduros, os
- jovens percorrem longas distâncias com eles, deslocam-se por marcos
- familiares, tipos de vegetação, pela direção do fluxo dos igarapés
- conhecidos, e possivelmente pela orientação do sol enquanto é visível.
- Durante o percurso, eles aprendem detalhes da topografia da floresta
- local, e sobre onde é possível encontrar os recursos de fauna e flora
- (1979, p. 150).
+ > Quando essas viagens são realizadas por jovens e homens maduros, os
+ > jovens percorrem longas distâncias com eles, deslocam-se por marcos
+ > familiares, tipos de vegetação, pela direção do fluxo dos igarapés
+ > conhecidos, e possivelmente pela orientação do sol enquanto é visível.
+ > Durante o percurso, eles aprendem detalhes da topografia da floresta
+ > local, e sobre onde é possível encontrar os recursos de fauna e flora
+ > (1979, p. 150).
 <!-- estilo de citação -->
 
 Desse modo, o interesse dos rapazes em conhecer as Moradas Antigas e as
@@ -9051,26 +9051,26 @@ Ponciano fez todos os presentes rirem quando contou dos padres e freiras
 que chegaram primeiro às aldeias hup.
 
 <!-- estilo de citação -->
- Os padres João e Chiqué foram os primeiros a chegar. Foram longe para
- encontrar os Hupd’äh. O pe. Afonso foi até onde hoje é o sítio do
- Armando. Lá é uma Morada Antiga. Depois veio o pe. Numberto. A
- comunidade era do outro lado do igarapé, onde hoje é o /Mo̖y-Höd/. Foi
- ele quem quis que a comunidade mudasse para a “caatinga”, /mu̖n/, na
- areia. Construiu uma escola de lata, zinco, e uma igreja. As duas já
- caíram, se acabaram. Na escola várias irmãs ajudaram. Primeiro veio a
- irmã Terezinha. Depois foi o Antônio, pai de Rosalino, que veio dar
- aula. Era um Tukano do Cunuri. Uma desana, Maria da Graça, veio
- ajudá-lo, mas quando o pe. Afonso descobriu que ela tinha marido
- colocou-o para correr e tirou-a daqui. Ele era bravo, o pe. Afonso. O
- pe. Numberto, não. Então foi a vez da irmã Sandra. Ela trouxe fogão e
- muitas coisas. Foi ela quem trouxe o armário que está hoje na casa de
- Jovino. Fez sua casa no final da comunidade. Depois a casa caiu e
- acabou-se. Ela sempre queria trocar as coisas, zarabatana, aturá,
- balaio. Dava fósforo, roupas, terçado, sal, tabaco. Ela morreu em
- Manaus. A irmã Josefina, que também veio dar aula aqui, está em
- Taracuá. Houve também a irmã Olga, mas depois foram todas embora. Os
- Hupd’äh roubaram muito as coisas delas. Desistiram. (Caderno de campo,
- 25/02/2012)
+ > Os padres João e Chiqué foram os primeiros a chegar. Foram longe para
+ > encontrar os Hupd’äh. O pe. Afonso foi até onde hoje é o sítio do
+ > Armando. Lá é uma Morada Antiga. Depois veio o pe. Numberto. A
+ > comunidade era do outro lado do igarapé, onde hoje é o /Mo̖y-Höd/. Foi
+ > ele quem quis que a comunidade mudasse para a “caatinga”, /mu̖n/, na
+ > areia. Construiu uma escola de lata, zinco, e uma igreja. As duas já
+ > caíram, se acabaram. Na escola várias irmãs ajudaram. Primeiro veio a
+ > irmã Terezinha. Depois foi o Antônio, pai de Rosalino, que veio dar
+ > aula. Era um Tukano do Cunuri. Uma desana, Maria da Graça, veio
+ > ajudá-lo, mas quando o pe. Afonso descobriu que ela tinha marido
+ > colocou-o para correr e tirou-a daqui. Ele era bravo, o pe. Afonso. O
+ > pe. Numberto, não. Então foi a vez da irmã Sandra. Ela trouxe fogão e
+ > muitas coisas. Foi ela quem trouxe o armário que está hoje na casa de
+ > Jovino. Fez sua casa no final da comunidade. Depois a casa caiu e
+ > acabou-se. Ela sempre queria trocar as coisas, zarabatana, aturá,
+ > balaio. Dava fósforo, roupas, terçado, sal, tabaco. Ela morreu em
+ > Manaus. A irmã Josefina, que também veio dar aula aqui, está em
+ > Taracuá. Houve também a irmã Olga, mas depois foram todas embora. Os
+ > Hupd’äh roubaram muito as coisas delas. Desistiram. (Caderno de campo,
+ > 25/02/2012)
  <!-- estilo de citação -->
 
 É como “chegadas” que os movimentos de aproximação dos padres são
@@ -9090,15 +9090,15 @@ que teriam levado os Hupd’äh a suportar essa situação. Nas palavras de
 Reid,
 
 <!-- estilo de citação -->
- \[…\] o medo que os Hupdʉ têm dos padres e o modo como os veem
- enquanto super-patrões e, consequentemente, como patrões diretos foram
- fatores importantes para a formação e manutenção das missões. Os Hupdʉ
- foram preparados para tolerar um alto grau de comportamento
- ininteligível e irracional dos missionários, em vez de ofenderem-nos e
- manifestarem contra eles a sua “raiva”, o que poderia incitar a
- feitiçaria de vingança por parte dos padres. O comportamento submisso
- é constantemente utilizado pelos Hupdʉ na relação com os Índios do
- rio, e estendido para interações com não indígenas. (1979, p. 314)
+ > \[…\] o medo que os Hupdʉ têm dos padres e o modo como os veem
+ > enquanto super-patrões e, consequentemente, como patrões diretos foram
+ > fatores importantes para a formação e manutenção das missões. Os Hupdʉ
+ > foram preparados para tolerar um alto grau de comportamento
+ > ininteligível e irracional dos missionários, em vez de ofenderem-nos e
+ > manifestarem contra eles a sua “raiva”, o que poderia incitar a
+ > feitiçaria de vingança por parte dos padres. O comportamento submisso
+ > é constantemente utilizado pelos Hupdʉ na relação com os Índios do
+ > rio, e estendido para interações com não indígenas. (1979, p. 314)
  <!-- estilo de citação -->
 
 Ponciano conta que os missionários moravam perto da escola de lata e
@@ -9248,15 +9248,15 @@ percurso. Sobre o distanciamento que passa a existir em relação à região
 das cabeceiras, Reid coloca a seguinte hipótese,
 
 <!-- estilo de citação -->
- Nas décadas de 1920 e 1930, os Hupdʉ viviam em áreas rio acima e
- faziam seus acampamentos de caça rio abaixo. Por volta da década de
- 1950, esse padrão se reverteu, com a mudança dos Hupdʉ para porções
- rio abaixo do território, o que os fez caçarem rio acima. Ainda não é
- claro se esses movimentos se deram puramente em resposta a pressões
- externas colocadas sobre eles pelos Índios do rio e, mais
- recentemente, pelos não indígenas, ou se foram parte do ciclo de
- utilização dos recursos do qual apenas uma parte foi registrada.
- (1979, p. 32)
+ > Nas décadas de 1920 e 1930, os Hupdʉ viviam em áreas rio acima e
+ > faziam seus acampamentos de caça rio abaixo. Por volta da década de
+ > 1950, esse padrão se reverteu, com a mudança dos Hupdʉ para porções
+ > rio abaixo do território, o que os fez caçarem rio acima. Ainda não é
+ > claro se esses movimentos se deram puramente em resposta a pressões
+ > externas colocadas sobre eles pelos Índios do rio e, mais
+ > recentemente, pelos não indígenas, ou se foram parte do ciclo de
+ > utilização dos recursos do qual apenas uma parte foi registrada.
+ > (1979, p. 32)
 <!-- estilo de citação -->
 
 À sua hipótese, gostaria apenas de acrescentar mais um ponto que me
@@ -9293,18 +9293,18 @@ denominados /Ho̗n-Hö̖d/,  “Lugares-de-Vomitar” ou “Lugares-de-Sonhar”
 Sobre a percepção desana dos morros e cavernas, Reichel-Dolmatoff
 destaca que:
 
- Nas florestas do Uaupés, encontram-se formações rochosas dispersas que
- sobressaem como grandes relevos obscuros no horizonte. Com suas
- paredes abruptas e, geralmente, aplanadas em sua parte alta, essas
- serras isoladas são repletas de cavernas e grutas. Determinados
- lugares são moradas de /Waí-maxsë/ \[...\] onde, cercado de seus
- animais, domina a floresta. Por outro lado, as corredeiras dos rios
- onde as correntes passam por entre as rochas gigantescas ou formam
- profundos rodamoinhos, são as habitações de /Waí-maxsë/ como protetor
- dos peixes. Ambas habitações são imaginadas como grandes malocas,
- tanto nos morros quanto nas águas, onde vivem todos os animais e de
- onde saem para a selva ou para os rios. Essas “casas dos morros” ou
- “casas das águas” são lugares sagrados e perigosos *(1986, p. 105).*
+ > Nas florestas do Uaupés, encontram-se formações rochosas dispersas que
+ > sobressaem como grandes relevos obscuros no horizonte. Com suas
+ > paredes abruptas e, geralmente, aplanadas em sua parte alta, essas
+ > serras isoladas são repletas de cavernas e grutas. Determinados
+ > lugares são moradas de /Waí-maxsë/ \[...\] onde, cercado de seus
+ > animais, domina a floresta. Por outro lado, as corredeiras dos rios
+ > onde as correntes passam por entre as rochas gigantescas ou formam
+ > profundos rodamoinhos, são as habitações de /Waí-maxsë/ como protetor
+ > dos peixes. Ambas habitações são imaginadas como grandes malocas,
+ > tanto nos morros quanto nas águas, onde vivem todos os animais e de
+ > onde saem para a selva ou para os rios. Essas “casas dos morros” ou
+ > “casas das águas” são lugares sagrados e perigosos *(1986, p. 105).
 
 Como para os Desana, a percepção hup dos morros volta a atenção para as
 cavernas, lugares sagrados que foram as moradas de ancestrais, e para as
@@ -9346,7 +9346,7 @@ os viajantes pediram que eu tirasse uma foto para que eles pudessem
 mostrar os restos dos utensílios culinários do ancestral a seus
 parentes.
 
-<!-- Fig. 18 -->
+Figura 18
 Viajantes exibem as lascas de cerâmica (foto: Danilo P. Ramos, 2012)
 
 Assustado, olhando fixamente para ao chão, Ari chamou Ponciano:
@@ -9454,7 +9454,7 @@ janela menores voltadas para o pôr do sol. É considerada a cozinha e,
 por isso, recebe o nome de /Po̗ho̗y-Mo̖y/, “Casa-da-Fermentação”, algo que
 alude ao preparo do caxiri feito pelas Mulheres-Onça e Mulheres-Trovão.
 
-<!-- Fig 19 -->
+Figura 19
 Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel Brasil Monteiro, 2012)
 
 Assim, a arquitetura celeste da Casa-do-Trovão torna-se especialmente
@@ -9476,16 +9476,16 @@ cerimônias em que as flautas Jurupari são tocadas. No xamanismo desana,
 o poder de entrar é descrito por Reichel-Dolmatoff da seguinte maneira,
 
 <!-- estilo de citação -->
- O poder de “penetrar” possui várias interpretações. Por um lado,
- possui um sentido visual, de ver o que está oculto para os demais. Por
- outro lado, possui uma interpretação sexual, pois o pajé \[...\]
- representa um conceito fálico de procriação. Outro aspecto do poder de
- “penetrar” é a capacidade do êxtase e do voo mágico que permite ao
- pajé sair da biosfera e “penetrar” outro plano existencial. Um pajé é,
- no fundo, o especialista em realizar essa ruptura de nível, tanto num
- sentido extático espacial, quanto no sentido de passar de uma unidade
- conceitual de tempo à outra, já que o êxtase equivale à morte e é,
- assim, um processo de aceleração do tempo. (1986, p. 156)
+ > O poder de “penetrar” possui várias interpretações. Por um lado,
+ > possui um sentido visual, de ver o que está oculto para os demais. Por
+ > outro lado, possui uma interpretação sexual, pois o pajé \[...\]
+ > representa um conceito fálico de procriação. Outro aspecto do poder de
+ > “penetrar” é a capacidade do êxtase e do voo mágico que permite ao
+ > pajé sair da biosfera e “penetrar” outro plano existencial. Um pajé é,
+ > no fundo, o especialista em realizar essa ruptura de nível, tanto num
+ > sentido extático espacial, quanto no sentido de passar de uma unidade
+ > conceitual de tempo à outra, já que o êxtase equivale à morte e é,
+ > assim, um processo de aceleração do tempo. (1986, p. 156)
 <!-- estilo de citação -->
 
 Dessa forma, entrar na caverna é penetrar a Morada-de-Semente de Tabaco.
@@ -9523,13 +9523,13 @@ Analisando o processo de ingestão de yagé e caxiri dos Barasana, C.
 Hugh-Jones ressalta que:
 
 <!-- estilo de citação -->
- O vômito, induzido pela ingestão de yagé e caxiri durante o canto,
- também ocorre no lugar masculino no fundo da maloca. Beber yagé e
- vomitar, ouvir discursos e respondê-los, inspirar e expirar são todos
- processos de dois sentidos envolvendo entrada e saída pela boca (ou
- orelhas). Esses processos são também associados às idas e vindas
- através da porta dos homens e a processos rituais de regeneração
- patrilinear. (C. Hugh-Jones, 1976, p. 199)
+ > O vômito, induzido pela ingestão de yagé e caxiri durante o canto,
+ > também ocorre no lugar masculino no fundo da maloca. Beber yagé e
+ > vomitar, ouvir discursos e respondê-los, inspirar e expirar são todos
+ > processos de dois sentidos envolvendo entrada e saída pela boca (ou
+ > orelhas). Esses processos são também associados às idas e vindas
+ > através da porta dos homens e a processos rituais de regeneração
+ > patrilinear. (C. Hugh-Jones, 1976, p. 199)
 <!-- estilo de citação -->
 
 Nos /ho̗n-hö̖d/, a água entra pela boca e por ela saem as impurezas
@@ -9665,12 +9665,12 @@ caminhos para acompanhar-nos. Sua jornada dava-se a um só tempo
 corporificada”. Sobre o xamanismo Desana, Reicheil-Dolmatoff afirma que:
 
 <!-- estilo de citação -->
- A transformação em jaguar poder ter dois objetivos: ou o pajé se
- converte em jaguar para proteger uma maloca ou a um caçador solitário
- contra os perigos, caso no qual o jaguar se mantem invisível para os
- seres humanos e é percebido apenas pelos seres sobrenaturais; ou se
- converte visivelmente em jaguar \[...\] e ataca um inimigo. (1986, p.
- 163)
+ > A transformação em jaguar poder ter dois objetivos: ou o pajé se
+ > converte em jaguar para proteger uma maloca ou a um caçador solitário
+ > contra os perigos, caso no qual o jaguar se mantem invisível para os
+ > seres humanos e é percebido apenas pelos seres sobrenaturais; ou se
+ > converte visivelmente em jaguar \[...\] e ataca um inimigo. (1986, p.
+ > 163)
 <!-- estilo de citação -->
 
 De forma semelhante, a transformação do pajé hup em jaguar tem o
@@ -9692,20 +9692,20 @@ outros seres a partir de suas roupas cósmicas. Analisando as roupas
 cósmicas wauja, Barcelos Neto salienta que:
 
 <!-- estilo de citação -->
- A “roupa” é um dispositivo de atributos instrumentais e anatômicos –
- asas, no caso dos seres alados, garras e/ou presas, no caso dos
- predadores, etc. – que enseja capacidades físico – locomotoras
- específicas: voar, nadar, saltar, correr velozmente etc. Os humanos
- são naturalmente os sem-“roupa”, com exceção dos feiticeiros, que
- podem fazer uso de “roupas” especiais (chamadas /iyeyá/) para entrar
- nas casas de outras pessoas ou viajar a grandes distâncias em
- curtíssimo tempo. Uma “roupa” sempre envolve consequências práticas
- imediatas, pois ela é uma forma funcional: dentes e garras afiadas,
- nadadeiras, bicos alongados etc., coisas que servem para realizar
- tarefas específicas, as quais os humanos fazem com o auxílio de uma
- série de artefatos, muitos deles originalmente criados pelos
- /yerupoho/ \[...\] e posteriormente transferidos para o mundo dos
- humanos via doenças, xamanismo e ritual (2008, p. 69).
+ > A “roupa” é um dispositivo de atributos instrumentais e anatômicos –
+ > asas, no caso dos seres alados, garras e/ou presas, no caso dos
+ > predadores, etc. – que enseja capacidades físico – locomotoras
+ > específicas: voar, nadar, saltar, correr velozmente etc. Os humanos
+ > são naturalmente os sem-“roupa”, com exceção dos feiticeiros, que
+ > podem fazer uso de “roupas” especiais (chamadas /iyeyá/) para entrar
+ > nas casas de outras pessoas ou viajar a grandes distâncias em
+ > curtíssimo tempo. Uma “roupa” sempre envolve consequências práticas
+ > imediatas, pois ela é uma forma funcional: dentes e garras afiadas,
+ > nadadeiras, bicos alongados etc., coisas que servem para realizar
+ > tarefas específicas, as quais os humanos fazem com o auxílio de uma
+ > série de artefatos, muitos deles originalmente criados pelos
+ > /yerupoho/ \[...\] e posteriormente transferidos para o mundo dos
+>  humanos via doenças, xamanismo e ritual (2008, p. 69).
 <!-- estilo de citação -->
 
 No caso da roupa de onça, o grau de poder varia de acordo com o tamanho
@@ -9718,12 +9718,12 @@ poder de Armando e sua capacidade de proteger-nos durante a viagem. Como
 no xamanismo wauja, além dos dentes e garras afiadas, ao vestir-se com a
 roupa de onça, o xamã leva consigo o arco e flecha, a lança e a faca
 felinas, armas que fazem dele um poderoso caçador-guerreiro. Segundo
-<!-- Reid (1979, p. 264), “No pensamento Hupdʉ, os jaguares também são
+ Reid (1979, p. 264), “No pensamento Hupdʉ, os jaguares também são
 associados muito intimamente aos xamãs, que, embora sejam reconhecidos
 como humanos, ocupam a mais ambígua e marginal das posições na sociedade
-humana”. citação -->
+humana”. 
 
-<!-- Fig. 19 -->
+Figura 19
 Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)
 
 Em **B5**, penetrando a onça pequena, Ponciano mostra-se igualmente como um
@@ -9799,11 +9799,11 @@ essências humanas uma a uma, e evidenciando a fraqueza do homem hup.
 Como mostra Viveiros de Castro,
 
 <!-- estilo de citação -->
- O homem ritualmente vestido de animal é a contrapartida do animal
- sobrenaturalmente nu: o primeiro, transformado em animal, revela para
- si mesmo a distintividade “natural” do seu corpo; o segundo, despido
- de sua forma exterior e se revelando como humano, mostra a semelhança
- “sobrenatural” dos espíritos. (2002, p. 389)
+ > O homem ritualmente vestido de animal é a contrapartida do animal
+ > sobrenaturalmente nu: o primeiro, transformado em animal, revela para
+ > si mesmo a distintividade “natural” do seu corpo; o segundo, despido
+ > de sua forma exterior e se revelando como humano, mostra a semelhança
+ > “sobrenatural” dos espíritos. (2002, p. 389)
 <!-- estilo de citação -->
 
 Novamente, voltando à viagem à Serra Grande, para que não corrêssemos o
@@ -9832,11 +9832,11 @@ da Cutivaia, Américo enfatizava que, após fugir da Anta, a Cutivaia
 entrou naquela serra, transformou-se em onça e fez das rochas o local
 para onde retorna todas as noites para dormir (**M12**). A forma de onça
 garante à Anta o domínio do morro e da Casa-de-Pedra. Descrevendo alguns
-hábitos das onças, Emmons (1990, p. 153) ressalta que “<!-- Elas gostam de
+hábitos das onças, Emmons (1990, p. 153) ressalta que “las gostam de
 caminhar à noite nas trilhas abertas pelos humanos (assim como outros
 felinos). As onças frequentemente fazem uso de *habitats* úmidos ou à
 beira d’água, onde caçam capivaras, tartarugas, jacarés e peixes.
-Pegadas de grandes felinos nas praias dos rios costumam ser de onças”. citação -->
+Pegadas de grandes felinos nas praias dos rios costumam ser de onças”. 
 
 Assim, ao vestirem suas roupas de onça e rumarem para as serras, os
 xamãs hup assemelham-se às onças não apenas para interagirem com os
@@ -10034,12 +10034,12 @@ permite ver como a interação dos viajantes hup com os animais se
 aproxima das observações de Reichel-Dolmatoff para os Desana,
 
 <!--estilo de citação-->
- A relação entre o homem caçador e sua presa tem, então, um componente
- marcadamente erótico. De fato, a caça é praticamente uma sedução, um ato sexual, um
- evento que deve ocorrer com grande cuidado e obedecer a normas
- estritas. \[...\] A ideia manifesta vem a ser a de incitar sexualmente
- os animais para que se aproximem e se deixem matar, o que é em si,
- novamente, um ato sexual de domínio. (1986, p. 255)
+ > A relação entre o homem caçador e sua presa tem, então, um componente
+ > marcadamente erótico. De fato, a caça é praticamente uma sedução, um ato sexual, um
+ > evento que deve ocorrer com grande cuidado e obedecer a normas
+ > estritas. \[...\] A ideia manifesta vem a ser a de incitar sexualmente
+ > os animais para que se aproximem e se deixem matar, o que é em si,
+ > novamente, um ato sexual de domínio. (1986, p. 255)
 <!--estilo de citação-->
 
 Em **M4**, /Dö̗h Ã̗y/ surge como uma mulher hup. Ela é assassinada pelo marido
@@ -10067,7 +10067,7 @@ voar de morro em morro e perseguir seus inimigos com grande agilidade.
 /Wayrö̖’-Tëg/ é também a palavra em língua hup para avião, o admirável
 veículo de voo considerado como um grande poder dos brancos.
 	
-<!--Fig. 20-->
+Figura 20
 Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Monteiro)
 
 A roupa cósmica dessa caçadora de gente hup torna-se especialmente
@@ -10083,21 +10083,21 @@ brancos como seres dotados de “forte raiva” como os espíritos da
 floresta e como os Tukano. Em suas palavras,
 
 <!--estilo de citação-->
- Todos eles organizam seus assentamentos a partir de padrões elaborados
- e possuem hábitos peculiares como as restrições e os desvios sexuais e
- alimentares. \[...\] Todos eles partilham uma característica que é
- particularmente não humana do ponto de vista dos Hupdʉ: possuem /Toew
- Pubm/ – forte raiva. \[...\] A associação que eles fazem entre raiva e
- poderes sobrenaturais leva os Hupdʉ a concluirem que os Não Indígenas
- possuem considerável poder xamânico. No pensamento dos Hupdʉ esse
- ponto é confirmado através da superioridade tecnológica dos Não
- Indígenas. Certamente, na região do Uaupés, a superioridade
- tecnológica levou primeiramente à dominação política dos Índios do rio
- e, posteriormente, dos não Indígenas. A analogia vai mais além, por
- equacionar a relação entre poder tecnológico e poder espiritual.
- \[...\] Como essas qualidades são exageradas, os não Indígenas são
- vistos mais como espíritos da floresta e como os índios Maku distantes
- \[…\] (Reid, 1979, p. 212-3).
+ > Todos eles organizam seus assentamentos a partir de padrões elaborados
+ > e possuem hábitos peculiares como as restrições e os desvios sexuais e
+ > alimentares. \[...\] Todos eles partilham uma característica que é
+ > particularmente não humana do ponto de vista dos Hupdʉ: possuem /Toew
+ > Pubm/ – forte raiva. \[...\] A associação que eles fazem entre raiva e
+ > poderes sobrenaturais leva os Hupdʉ a concluirem que os Não Indígenas
+ > possuem considerável poder xamânico. No pensamento dos Hupdʉ esse
+ > ponto é confirmado através da superioridade tecnológica dos Não
+ > Indígenas. Certamente, na região do Uaupés, a superioridade
+ > tecnológica levou primeiramente à dominação política dos Índios do rio
+ > e, posteriormente, dos não Indígenas. A analogia vai mais além, por
+ > equacionar a relação entre poder tecnológico e poder espiritual.
+ > \[...\] Como essas qualidades são exageradas, os não Indígenas são
+ > vistos mais como espíritos da floresta e como os índios Maku distantes
+ > \[…\] (Reid, 1979, p. 212-3).
  <!--estilo de citação-->
 
 A tecnologia, os hábitos sexuais e alimentares combinam-se à raiva e
@@ -10370,17 +10370,17 @@ pelos ancestrais, presas, feras, brancos, etc. Tomando as palavras de
 Deleuze e Guattari,
 
 <!--estilo de citação-->
- De um lado, as multiplicidades extensivas, divisíveis e molares;
- unificáveis, totalizáveis, organizáveis; conscientes e pré-conscientes
- – e, de outro, as multiplicidades libidinais inconscientes,
- moleculares, intensivas, constituídas de partículas que não se dividem
- sem mudar de natureza, distâncias que não variam sem entrar em outra
- multiplicidade, que não param de fazer-se e desfazer-se, comunicando,
- passando umas nas outras no interior de um limiar, ou além ou aquém.
- Os elementos destas últimas multiplicidades são partículas; suas
- correlações são distâncias; seus movimentos são brownoides; sua
- quantidade são intensidades, são diferenças de intensidade. (1995, p.
- 60)
+ > De um lado, as multiplicidades extensivas, divisíveis e molares;
+ > unificáveis, totalizáveis, organizáveis; conscientes e pré-conscientes
+ > – e, de outro, as multiplicidades libidinais inconscientes,
+ > moleculares, intensivas, constituídas de partículas que não se dividem
+ > sem mudar de natureza, distâncias que não variam sem entrar em outra
+ > multiplicidade, que não param de fazer-se e desfazer-se, comunicando,
+ > passando umas nas outras no interior de um limiar, ou além ou aquém.
+ > Os elementos destas últimas multiplicidades são partículas; suas
+ > correlações são distâncias; seus movimentos são brownoides; sua
+ > quantidade são intensidades, são diferenças de intensidade. (1995, p.
+ > 60)
  <!--estilo de citação--> 
 
 Descrevendo a estrutura das rodas de coca, foi possível entender como a
@@ -10453,25 +10453,25 @@ diplomaticamente, procura fazê-lo liberar presas para circularem pelas
 matas. Como descreve Reid,
 
 <!--estilo de citação--> 
- Pensa-se que essas “casas” são subterrâneas, com acesso ao chão da
- floresta através de buracos e cavernas. Diz-se que cada uma dessas
- casas é muito semelhante a este Mundo superior, têm suas próprias
- malocas, plantações, igarapés e florestas, etc. Cada um deles é
- controlado por um Nyo’om I \[…\] um “mestre”. Alguns desses mestres
- espirituais possuem uma existência solitária, como é o caso de Dohai
- \[…\]. Outros são mestres das “casas dos animais”, \[...\] e possuem
- um papel importante no controle de todas as espécias de caça e dos
- animais em geral. Além desses mestres dos animais generalizados, há
- casas florestais controladas por mestres espirituais de cada espécie
- de animal em particular. Embora os Hupdʉ sejam cientes de que os
- animas se reproduzem nessa Terra, eles também acreditam que alguns
- mestres de espécies criam-nos em suas casas subterrâneas. \[...\] De
- tempos em tempo, quando a caça se torna escassa, os xamãs podem entrar
- em contato com esses mestres espirituais e pedir-lhes que liberem mais
- animais para a floresta. Alguns Hupdʉ afirmaram que essas transações
- envolvem o pagamento da liberação de caça com almas humanas, enquanto
- outros disseram que os xamãs oferecem dádivas de fumaça de tabaco
- apenas aos mestres espirituais. (Reid, 1979, p. 261)
+ > Pensa-se que essas “casas” são subterrâneas, com acesso ao chão da
+ > floresta através de buracos e cavernas. Diz-se que cada uma dessas
+ > casas é muito semelhante a este Mundo superior, têm suas próprias
+ > malocas, plantações, igarapés e florestas, etc. Cada um deles é
+ > controlado por um Nyo’om I \[…\] um “mestre”. Alguns desses mestres
+ > espirituais possuem uma existência solitária, como é o caso de Dohai
+ > \[…\]. Outros são mestres das “casas dos animais”, \[...\] e possuem
+ > um papel importante no controle de todas as espécias de caça e dos
+ > animais em geral. Além desses mestres dos animais generalizados, há
+ > casas florestais controladas por mestres espirituais de cada espécie
+ > de animal em particular. Embora os Hupdʉ sejam cientes de que os
+ > animas se reproduzem nessa Terra, eles também acreditam que alguns
+ > mestres de espécies criam-nos em suas casas subterrâneas. \[...\] De
+ > tempos em tempo, quando a caça se torna escassa, os xamãs podem entrar
+ > em contato com esses mestres espirituais e pedir-lhes que liberem mais
+ > animais para a floresta. Alguns Hupdʉ afirmaram que essas transações
+ > envolvem o pagamento da liberação de caça com almas humanas, enquanto
+ > outros disseram que os xamãs oferecem dádivas de fumaça de tabaco
+>  apenas aos mestres espirituais. (Reid, 1979, p. 261)
  <!--estilo de citação-->
 
 Desse modo, a caverna dá acesso a um mundo subterrâneo pleno de malocas,
@@ -10509,13 +10509,13 @@ daqui têm muitos peixes”, disse Ponciano. Partindo desse grande lago, os
 peixes descem os igarapés e chegam ao curso dos rios. Ao descrever a
 importância dos morros para os Desana, Reichel-Dolmatoff diz que:
 
- As grandes serras rochosas que se elevam isoladamente na floresta são
- úteros onde vivem os animais silvestres e os poços profundos nas
- corredeiras são úteros subaquáticos onde moram os peixes. Os ninhos
- suspensos de certas aves como o papa-figo e o gaio (ambos *Icteridae*),
- se comparam com o útero, sendo o mesmo para os ninhos de colibris e
- periquitos (*Psittacidae*) que se aninham nas árvores ocas.
- (Reichel-Domatoff, 1986, p. 8-88)
+ > As grandes serras rochosas que se elevam isoladamente na floresta são
+ > úteros onde vivem os animais silvestres e os poços profundos nas
+ > corredeiras são úteros subaquáticos onde moram os peixes. Os ninhos
+ > suspensos de certas aves como o papa-figo e o gaio (ambos *Icteridae*),
+ > se comparam com o útero, sendo o mesmo para os ninhos de colibris e
+ > periquitos (*Psittacidae*) que se aninham nas árvores ocas.
+>  (Reichel-Domatoff, 1986, p. 8-88)
 
 /Hu̗͂-Mo̖y k’ö̗d dä̗b pä̗’ ni̗i̗!/, “Dentro da Casa-dos-Animais há muito
 Dabucuri!”, foi o modo como Ponciano descreveu a vida plena de festas e
@@ -10560,7 +10560,7 @@ cada detalhe daquele universo que se constituía, pouco a pouco, como uma
 vasta região trazida à vida pela confluência dos percursos dos
 movimentos de humanos, animais e espíritos.
 
-<!--Fig. 21--> 
+Figura 21
 Vista externa da Casa-dos-Animais (foto: Danilo P. Ramos, 2012)
 
 Na volta, quando já estávamos cruzando as roças da comunidade, Ponciano
@@ -10586,93 +10586,93 @@ encontros noturnos em 2011 são correntemente narradas pelos avós a seus
 netos. Acredito que as versões abaixo permitam entender melhor esse mal
 estar com que os menores ouvem sobre esse dono dos animais.
 
-**M15. /Bisi̗w/, o devorador de rapazes**
+> **M15. /Bisi̗w/, o devorador de rapazes**
+> 
+ > O /Bisi̗w/ deu as flautas. Primeiro ele era igual a uma pessoa. O som
+ > dele zoava o som do Jurupari, da /tã’ã̗y/,  “fêmea”, e do /tiyi̖’/,
+ > “macho”. O /Bisi̗w/ transformou-se num toco onde os meninos entraram.
+ > Eles estavam imitando o som dele. Ele mostrou-lhes o corpo e seu som
+ > zoando. Falou para os rapazes fazerem uma festa para ele.
+> 
+ > Cada povo conta o seu. A outra história começa assim, outra história
+ > ele vem na origem. Cada grupo vinha com a sua história. Para nós, o
+ > /Bisi̗w/ era forma de pessoa. Ele e /We̗d B’ö̖’/ são gêmeos e /Bisi̗w/ é
+ > /pu̗y’/, “irmão menor”. Primeiro, ele tinha forma de gente, o corpo
+ > zoava.
+> 
+ > Os meninos estavam imitando, ele mostrou como zoava o corpo. Pediu
+ > para as crianças fazerem Dabucuri. O /Bisi̗w/ subiu na árvore de uacu e
+ > pediu para os rapazes não saírem debaixo do pé. As crianças assaram o
+ > caroço de uacu e a fumaça chegou para ele. Ele desmaiou. Depois,
+ > disse: “Vocês também vão sentir como eu senti”. Aí, ele fez uma chuva.
+ > Transformou-se em toco e os rapazes entraram dentro dele. (Entraram
+ > pelo seu ânus). Ele comeu todos os meninos. Um escapou, comeu uacu e
+ > foi avisar os pais. Os pais estavam querendo matá-lo, e não
+ > conseguiram. Ele foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
+> 
+ > O pai do rapaz mandou preparar bebidas e falou para o pássaro /weyt/,
+ > “periquito”, para avisar o /Bisi̗w/. O pássaro foi e começou a dizer a
+ > ele quais os tipos de bebida os homens tinham preparado. O /Bisi̗w/ não
+ > queria aceitar, mas aceitou ir beber uma /sawi̗h dëh/[^100], “caxiri da
+ > fruta de pau amarelo”. Então, ele foi até a casa dos pais para beber.
+ > Deixaram uma panela de caxiri para oferecer a ele. A panela era de
+ > barro como faziam antes, uma /b’ok-tä̗w/. Deixaram essa panela para
+ > oferecer só para ele, pois o caxiri estava benzido para que ele logo
+ > se embriagasse. /Bisi̗w/ falou: “Vocês querem vingança!” Eles foram
+ > pegar lenha e fogo. Empurraram-no. Ele queimou. Antes tinha dito:
+ > “Vocês vão cortar lenha, vão me queimar e vão sentir o que eu senti.
+ > Vocês vão brigar, vão matar, vão envenenar”. Foi aí que começou o
+ > corpo dele desse jeito. Com esse fogo que queimaram o corpo dele é que
+ > apareceram as flautas.
+> 
+ > Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para cada grupo no
+ > Lago de Leite. Do corpo queimado dele surgiram as flautas, muitas.
+ > Outros grupos podem contar mais, saber mais, mas a gente conta assim.
+ > /K’e̖g Te͂h/ encontrou o /Bisi̗w/ queimado e levou as flautas para o
+ > Lago de Leite para dar à humanidade. As flautas eram os ossos de
+ > /Bisi̗w/. Do Lago de Leite a humanidade veio embaixo d’água na
+ > /M’e̖h-Hoh-Të̖g/, a “Cobra-Canoa”, até “Ipanoré”, /Hib’a̗h-Höd/. Então,
+ > desceram de novo até o Lago de Leite e subiram de novo, invisíveis.
+ > Foi aí que /K’e̖g Te͂h/ entregou para cada grupo as flautas. Aí, a
+ > humanidade teve cada um a sua flauta. Já subiram com a flauta na
+ > canoa. Essa transformação da canoa foi em Ipanoré. Subiram todos os
+ > rios: Uaupés, Papuri, Tiquié. Subiram de canoa e vieram todos se
+ > encontrar nessa “Serra da Menstruação/Iniciação/Pedaço”,
+ > /Te͂h-S’ɨ̗g-Mo̖y-Paç/. Saíram de canoa em Ipanoré e, andando,
+ > atravessaram em São Tomé, perto de Boca da Estrada. Lá tem a pedra
+ > onde eles atravessaram. Foram se encontrar nessa Serra da Iniciação e
+ > daí mostraram o que receberam.
+> 
+ > Nessa “morada”, /Mo̖y/, havia três casas. A primeira só tinha banco
+ > para sentar. A segunda era a casa dos homens com as flautas. A
+ > terceira, eles cercaram com pari para as mulheres ficarem dentro e não
+ > verem as flautas. Na segunda casa é que mostraram, entre os cunhados,
+ > o que receberam. Como agora que se faz a coca entre cunhados. Aí
+ > mostraram cada flauta. Todos os grupos foram mostrando e tocando até o
+ > final. Foi então que cada grupo se espalhou. Estavam lá os Tukano, os
+ > Desano. (Jovino, gravação sonora, 24/08/2011)
 
- O /Bisi̗w/ deu as flautas. Primeiro ele era igual a uma pessoa. O som
- dele zoava o som do Jurupari, da /tã’ã̗y/,  “fêmea”, e do /tiyi̖’/,
- “macho”. O /Bisi̗w/ transformou-se num toco onde os meninos entraram.
- Eles estavam imitando o som dele. Ele mostrou-lhes o corpo e seu som
- zoando. Falou para os rapazes fazerem uma festa para ele.
 
- Cada povo conta o seu. A outra história começa assim, outra história
- ele vem na origem. Cada grupo vinha com a sua história. Para nós, o
- /Bisi̗w/ era forma de pessoa. Ele e /We̗d B’ö̖’/ são gêmeos e /Bisi̗w/ é
- /pu̗y’/, “irmão menor”. Primeiro, ele tinha forma de gente, o corpo
- zoava.
-
- Os meninos estavam imitando, ele mostrou como zoava o corpo. Pediu
- para as crianças fazerem Dabucuri. O /Bisi̗w/ subiu na árvore de uacu e
- pediu para os rapazes não saírem debaixo do pé. As crianças assaram o
- caroço de uacu e a fumaça chegou para ele. Ele desmaiou. Depois,
- disse: “Vocês também vão sentir como eu senti”. Aí, ele fez uma chuva.
- Transformou-se em toco e os rapazes entraram dentro dele. (Entraram
- pelo seu ânus). Ele comeu todos os meninos. Um escapou, comeu uacu e
- foi avisar os pais. Os pais estavam querendo matá-lo, e não
- conseguiram. Ele foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
-
- O pai do rapaz mandou preparar bebidas e falou para o pássaro /weyt/,
- “periquito”, para avisar o /Bisi̗w/. O pássaro foi e começou a dizer a
- ele quais os tipos de bebida os homens tinham preparado. O /Bisi̗w/ não
- queria aceitar, mas aceitou ir beber uma /sawi̗h dëh/[^100], “caxiri da
- fruta de pau amarelo”. Então, ele foi até a casa dos pais para beber.
- Deixaram uma panela de caxiri para oferecer a ele. A panela era de
- barro como faziam antes, uma /b’ok-tä̗w/. Deixaram essa panela para
- oferecer só para ele, pois o caxiri estava benzido para que ele logo
- se embriagasse. /Bisi̗w/ falou: “Vocês querem vingança!” Eles foram
- pegar lenha e fogo. Empurraram-no. Ele queimou. Antes tinha dito:
- “Vocês vão cortar lenha, vão me queimar e vão sentir o que eu senti.
- Vocês vão brigar, vão matar, vão envenenar”. Foi aí que começou o
- corpo dele desse jeito. Com esse fogo que queimaram o corpo dele é que
- apareceram as flautas.
-
- Foi /K’e̖g Te͂h/ quem pegou as flautas e entregou para cada grupo no
- Lago de Leite. Do corpo queimado dele surgiram as flautas, muitas.
- Outros grupos podem contar mais, saber mais, mas a gente conta assim.
- /K’e̖g Te͂h/ encontrou o /Bisi̗w/ queimado e levou as flautas para o
- Lago de Leite para dar à humanidade. As flautas eram os ossos de
- /Bisi̗w/. Do Lago de Leite a humanidade veio embaixo d’água na
- /M’e̖h-Hoh-Të̖g/, a “Cobra-Canoa”, até “Ipanoré”, /Hib’a̗h-Höd/. Então,
- desceram de novo até o Lago de Leite e subiram de novo, invisíveis.
- Foi aí que /K’e̖g Te͂h/ entregou para cada grupo as flautas. Aí, a
- humanidade teve cada um a sua flauta. Já subiram com a flauta na
- canoa. Essa transformação da canoa foi em Ipanoré. Subiram todos os
- rios: Uaupés, Papuri, Tiquié. Subiram de canoa e vieram todos se
- encontrar nessa “Serra da Menstruação/Iniciação/Pedaço”,
- /Te͂h-S’ɨ̗g-Mo̖y-Paç/. Saíram de canoa em Ipanoré e, andando,
- atravessaram em São Tomé, perto de Boca da Estrada. Lá tem a pedra
- onde eles atravessaram. Foram se encontrar nessa Serra da Iniciação e
- daí mostraram o que receberam.
-
- Nessa “morada”, /Mo̖y/, havia três casas. A primeira só tinha banco
- para sentar. A segunda era a casa dos homens com as flautas. A
- terceira, eles cercaram com pari para as mulheres ficarem dentro e não
- verem as flautas. Na segunda casa é que mostraram, entre os cunhados,
- o que receberam. Como agora que se faz a coca entre cunhados. Aí
- mostraram cada flauta. Todos os grupos foram mostrando e tocando até o
- final. Foi então que cada grupo se espalhou. Estavam lá os Tukano, os
- Desano. (Jovino, gravação sonora, 24/08/2011)
-
-
- **M16. A gestante tapada**
-
- Primeiro, nasceram os dois filhos. O /Bisi̗w/ nasceu e o outro menino.
- Eram dois dentro da barriga, dizem. Já estava na hora de receber, de
- saírem os filhos, mas ela não tinha ânus (nem vagina). A mãe não tinha
- ânus e já estava na hora de receber e saírem (os filhos). Foi um
- ancestral que fez o ânus para ela.
-
- Ele acompanhou e benzeu na hora de nascer o /Bisi̗w/ e o /Wed B’ö̖’/.
- Fez o ânus para ela e depois se diz que a mãe não sabia. Ela esqueceu
- (que antes não tinha nem ânus nem vagina).
-
- Naquele lugar, ela teve o /Bisi̗w/ e o /Wed B’ö̖’/. (O pai tirou os dois
- filhos, mas deu só /W’ed B’ö̖’/.)  Tirou os dois, mas escondeu um
- (/Bisi̗w/).  Entregou somente /Wed B’ö̖’/ para a mãe. Então, ele cresceu
- (ficou rapaz) sem mãe.
-
- Dizem que morava só /We̖d B’ö̖’/ e a mãe. Aquele que não teve mãe ficava
- sozinho (sem mulher), diz-se. (Ponciano, gravação sonora e tradução,
- 04/07/2011)
+ > **M16. A gestante tapada**
+> 
+ > Primeiro, nasceram os dois filhos. O /Bisi̗w/ nasceu e o outro menino.
+ > Eram dois dentro da barriga, dizem. Já estava na hora de receber, de
+ > saírem os filhos, mas ela não tinha ânus (nem vagina). A mãe não tinha
+ > ânus e já estava na hora de receber e saírem (os filhos). Foi um
+ > ancestral que fez o ânus para ela.
+> 
+ > Ele acompanhou e benzeu na hora de nascer o /Bisi̗w/ e o /Wed B’ö̖’/.
+ > Fez o ânus para ela e depois se diz que a mãe não sabia. Ela esqueceu
+ > (que antes não tinha nem ânus nem vagina).
+> 
+ > Naquele lugar, ela teve o /Bisi̗w/ e o /Wed B’ö̖’/. (O pai tirou os dois
+ > filhos, mas deu só /W’ed B’ö̖’/.)  Tirou os dois, mas escondeu um
+ > (/Bisi̗w/).  Entregou somente /Wed B’ö̖’/ para a mãe. Então, ele cresceu
+ > (ficou rapaz) sem mãe.
+> 
+ > Dizem que morava só /We̖d B’ö̖’/ e a mãe. Aquele que não teve mãe ficava
+ > sozinho (sem mulher), diz-se. (Ponciano, gravação sonora e tradução,
+ > 04/07/2011)
 
 Essas duas passagens da história dos gêmeos /Wed B’ö̖’/ e /Bisi̗w/  foram
 contadas por Jovino (**M15**) e seu pai, Ponciano (**M16**). Na noite de 4 de
@@ -10731,15 +10731,15 @@ sofreu. A briga, a morte e o envenenamento surgem simultaneamente ao
 aparecimento das flautas, com a queima do corpo. Como ressalta Reid,
 
 <!--estilo de citação-->
- Muitos dos poderes dos Baktupdʉ são atribuídos aos mestres dessas
- casas. Eles são imateriais e imortais e, assim, potencialmente
- perigosos aos humanos por poderem causar doenças, morte e azar. Caso
- alguém mate algum membro das espécies protegidas por eles, os mestres
- podem ficar extremamente bravos, a ponto de expressarem sua raiva
- agitando a água dos rios, fazendo ventos fortes, trovões e relâmpagos.
- São seres solitários que ocasionalmente vagam pela floresta desta
- Terra durante a noite, caçam outros animais e almas humanas,
- especialmente as das crianças. (1979, p. 263)
+ > Muitos dos poderes dos Baktupdʉ são atribuídos aos mestres dessas
+ > casas. Eles são imateriais e imortais e, assim, potencialmente
+ > perigosos aos humanos por poderem causar doenças, morte e azar. Caso
+ > alguém mate algum membro das espécies protegidas por eles, os mestres
+ > podem ficar extremamente bravos, a ponto de expressarem sua raiva
+ > agitando a água dos rios, fazendo ventos fortes, trovões e relâmpagos.
+ > São seres solitários que ocasionalmente vagam pela floresta desta
+ > Terra durante a noite, caçam outros animais e almas humanas,
+ > especialmente as das crianças. (1979, p. 263)
 <!--estilo de citação-->
 
 Dono dos animais, /Bisi̗w/  cerca-os em sua morada, assegura a reprodução
@@ -10764,13 +10764,13 @@ Descrevendo as relações entre humanos, espíritos, animais e plantas que
 se dão em torno da caça e da comensalidade para os Makuna, Århem afirma
 que:
 
- Para os Makuna da Amazônia colombiana, todos os seres – espíritos,
- humanos, animais e plantas  participam de um campo de interação
- social definido em termos de predação e troca. O aspecto central de
- sua ecocosmologia vem a ser a elaboração da predação humana como uma
- troca revitalizante com a natureza. Essa troca é modelada pela regra
- da reciprocidade entre afins e pelas trocas entre homens e deuses
- mediadas xamanicamente. (1996, p. 186)
+ > Para os Makuna da Amazônia colombiana, todos os seres – espíritos,
+ > humanos, animais e plantas  participam de um campo de interação
+ > social definido em termos de predação e troca. O aspecto central de
+ > sua ecocosmologia vem a ser a elaboração da predação humana como uma
+ > troca revitalizante com a natureza. Essa troca é modelada pela regra
+ > da reciprocidade entre afins e pelas trocas entre homens e deuses
+ > mediadas xamanicamente. (1996, p. 186)
 
 O deslocamento onírico do xamã e o toque do tambor de pedra parecem ser
 formas constantes de interação com o dono e com os animais baseadas
@@ -10787,7 +10787,7 @@ sofrimentos na existência humana. Esse percurso dará também mais
 elementos para a descrição do papel dos “comedores de coca” na geração
 da vida e da cura.
 
-<!--Fig. 22-->
+Figura 22
 Caminhada à Casa-dos-Animais
 
 ## Nascimentos
@@ -10845,17 +10845,18 @@ substância vital que tem um efeito patogênico sobre ela.
 Para entender melhor esse processo de adoecimento vivido
 pela bebê, creio que seja importante adotar o ponto de vista de McCallum,
 tentando mostrar como o corpo é:
+
 <!--estilo de citação-->
- \[...\] definido por fatores externos a ele, que os processos sociais
- e sobrenaturais se misturam, sendo feitos por outros indivíduos em um
- fluxo contínuo que envolve a alimentação, restrições alimentares,
- aplicação de remédios, pintura corporal, batismos rituais e
- treinamento formal. Os Kaxinawá veem esse fluxo como parte das
- relações de parentesco e afinidade (consanguinidade), e o crescimento
- saudável de uma criança depende dos laços com seus parentes próximos,
- até que ela atinja uma idade a partir da qual poderá contribuir para o
- desenvolvimento de outra pessoa, especialmente o próprio cônjuge ou
- filhos. (1998, p. 221)
+ > \[...\] definido por fatores externos a ele, que os processos sociais
+ > e sobrenaturais se misturam, sendo feitos por outros indivíduos em um
+ > fluxo contínuo que envolve a alimentação, restrições alimentares,
+ > aplicação de remédios, pintura corporal, batismos rituais e
+ > treinamento formal. Os Kaxinawá veem esse fluxo como parte das
+ > relações de parentesco e afinidade (consanguinidade), e o crescimento
+ > saudável de uma criança depende dos laços com seus parentes próximos,
+ > até que ela atinja uma idade a partir da qual poderá contribuir para o
+ > desenvolvimento de outra pessoa, especialmente o próprio cônjuge ou
+ > filhos. (1998, p. 221)
 <!--estilo de citação-->
 
 A jornada pelo Rio de Leite para trazer o sopro vital da mãe e do bebê
@@ -10883,241 +10884,241 @@ gravá-lo e logo transcrevê-lo para o Livro de Benzimentos que estávamos
 escrevendo.
 
 
-**B6. /Te͂h Bi’i̖d/  ‒ Benzimento do filho**
-
-1º mov. Primeiro, fazemos as mulheres sentarem para ter filhos. Falo
-para todos os animais grandes. Fiz e disse já.
-
- Da floresta, (eu menciono) as pacas (*agouti paca*), os caititus
- (*tayassu tajacu Linnaeus*), os porcos (*tayassu pecari Link*), as
- antas (*tapirus terrestris*). \[...\] Vou falando para os filhos de
- animais pequenos.
-
- Menciono os ossos grandes do quadril. Menciono o fêmur das pacas
- fêmeas para fazer as mulheres sentarem. \[...\] Menciono a abertura
- das pernas da paca e começo a fazer a mulher sentar. Falo para o porco
- quando as mulheres terão o primeiro filho. Menciono o fêmur e a
- abertura das pernas das porcas para que a mulher sente. Vou falando
- para as porcas e fazendo-as abrir suas pernas. \[...\] Vou fazendo a
- mulher sentar-se de pernas abertas.
-
- Refiro-me, então, à égua. Faço-a abrir suas pernas para que a mulher
- hup se sente. Falo para a égua, para a anta fêmea e para seus ossos do
- fêmur. Faço as fêmeas sentarem-se para a mulher sentar-se de pernas
- abertas.
-
- *(Com.)* Quando as mulheres vão dar à luz, elas gemem e seguram a
- cabeça. Por isso, eu sopro para fazer a mulher hup dar à luz ao gemer.
- Dizem que os animais não gemem quando vão ter filho. Eles ordenam e
- dão à luz. \[...\] Quando a mulher vai dar à luz, seu gemido, saindo,
- pode causar doença para a criança.
-
-2º mov. Faço sair o banco para que a criança nasça e saia pela abertura
-da mãe. Quando a criança vai nascer, ela está sentada em seu banco com
-seus pertences primordiais: faca, punhal, bastão e pedra-semente. Falo
-para ela ir saindo pela abertura. Falo para que o banco, assento da
-criança, saia também. Diz-se que o menino já tem as suas coisas.
-
-(Sopro também) para os pertences da mulher. Faço a mulher sentar no
-seu banco como faço a samambaia de pintar sentar-se em seu banco.
-
-*(Com.)* Assim, a mulher saberá sentar para ter o filho vagarosamente
-como a samambaia. A criança sentada sovina seus pertences, seus
-bancos. Quer permanecer sentada. (No momento de seu) nascimento, a
-criança está sentada em seu banco.
-Faço as coisas e a criança saírem juntas pela abertura.
-
-3º mov. Então, sopro a placenta. Do contrário, a criança pode morrer.
-Falo para transformar a água (do banho) em água-pura \[...\]. Menciono o
-sumo de maracujá, o sumo /k’ö̖g/ da fruta /tat/ pequena e o sumo da fruta
-/tat/ grande. Vou transformando essas águas-puras e banhando a mãe para
-fazer com que a criança saia pela abertura.
-
-Transformo (a água do rio) em água-pura de sumo de cucura, em
-água-pura de sumo de cucura-/k’ö̖g kini̖m/. Para banhar a criança e
-fazê-la nascer rápido pela abertura, menciono o sumo de cucura /pe̖̖j
-pɨ͂g/, a água-pura da cucura grande, o sumo de abiu.
-
-*(Com.)* Se não for feito assim, a criança pode ficar doente. Por
-isso, vou fazendo e dizendo o encantamento da placenta para as
-crianças.
-
-4º mov. Naquele lugar, eu profiro o benzimento de modo breve para ver se
-pega. Espero a criança sair e, com o breu, sopro o lugar onde a mulher
-está. \[...\] Benzo com breu para cercar a cuia de beber caarpi dos
-bichos-de-pé.
-Falo para os bichos-de-pé /k’ö̖b/,  para os bichos-de-pé /na̗w/, para as
-abelhas mamangaba, e cerco seus potes de beber caarpi. Menciono as
-minhocas. Cerco seus potes de beber caarpi. Falando dessa forma para
-esses seres, eles não farão mal para a criança. Menciono as minhocas
-grandes, as cobras-de-duas-cabeças. Cerco suas cuias de beber caarpi.
-Quantos desses seres houver, é preciso cercar todos os potes de beber
-caarpi.
-
-*(Com.)* Do contrário, podem oferecê-los à criança e fazê-la sofrer de
-/o̗t mi̗͂gi̗͂h/,  “choro enlouquecedor”.
-Cerco a cuia de beber das mamangabas, dos calangos, das minhocas, das
-cobras-de-duas-cabeças. Cerco tudo.
-
-5º mov. Sopro com breu, defumo, solto e firmo o pari-breu no chão para o
-nascimento da criança. \[...\] Solto e coloco no chão o
-pari-lâmina-de-patauá, o pari-lâmina-de-bacaba, o pari-lâmina-de-inajá,
-o pari-lâmina-de-bacaba-/si̗wi̗h wöh/, o pari-de-bacaba-cotia. Menciono e
-sopro os paris e, com o breu, solo e dobro o pari em torno da mãe e da
-criança.
-
-PISAR 		Piso forte o chão.
-
-Dentro da casa, eu coloco o menino que nasceu no pari. Vou fazendo-os
-(mãe e filho) entrar na casa e sentar. Começo a soltar os paris sobre
-o chão. Menciono a Gente-Na̗h, a Gente-Sã̗y. Falo para as facas da
-Gente-Sã̗y. Faço-os juntar (as armas), entrar em suas casas e ficar em
-pé. Faço com que as Gentes-Sã̗y, o /So̗ Hup ĩh/, as Cobras, os
-/B’atɨ̖b’/,  as Gentes-Árvore entrem e fiquem em pé. Faço-os largar e
-juntar suas facas. Faço o mesmo para a Gente-Mariposa e para a
-Gente-Borboleta. Cerco todas as suas cuias de beber caarpi.
-
-*(Com.)* Se acaso suas cuias de beber não forem cercadas, essas gentes
-podem dar de beber à criança e ela sofre de “choro enlouquecedor”.
-
-6º mov. Vou para cima e cerco a faca primordial de /Wero Hup Te͂h i͂h/.
-Quando ele acende (sua lenha corporal) para a criança (ela adoece). Faço
-/Wero Hup Te͂h i͂h/ subir ao céu com sua lenha incandescente, entrar em
-sua casa e voltar-se (com a cabeça) para cima. Cerco. \[...\]
-
-Sopro a cuia e o mingau da mulher para quando ela entrar. Falo para o
-mingau, \[...\] menciono todos os tipos de beiju de tapioca. Lavo o
-óleo do beiju-de-tapioca-/wöwö̖w/, do beiju-de-tapioca cunuri, do
-beiju-de-tapioca-/ko̗k ko̗h ti̗g/, do
-beiju-de-tapioca-de-maniva-vermelha. Cerco as lagartas, suas tesouras
-e suas cuias de caarpi. Sopro a cuia de beber mingau (da mulher).
-
-*(Com.)* (A mulher) deve ficar um dia inteiro parada.
-
-7º mov. No dia em que a mulher fica parada, faço-a sentar (e sopro) a
-mãe e a criança com a folha /bu̗y k’e̖t/. \[...\] Vou até a beira do
-Lago de Leite, tiro a folha /bu̗y k’e̖t/  e trago-a para cá. Lá, à beira
-do Lago de Leite, faço a mulher sair, sentar-se e banho seu corpo com
-a folha /bu̗y k’e̖t/.
-
-Vou juntando o /hã̗wäg/ da mulher. Menciono as plumas e o
-banco-de-plumas do pato d’água, o banco-de-plumas do pato /pu̗u̗p/
-d’água, o banco-de-plumas do /wãwãw/ (pássaro), chamo o sopro vital e
-faço-o sentar-se no banco. Falo e faço a mulher sentar para que
-engorde. Para ela, eu vou chamando o /hã̗wäg/ e fazendo-o sair (das
-casas) e sentar-se. Defumo com a /bu̗y k’et/ e trago (o /hã̗wäg/).
-
-Quando a mulher vai ter filho, menciono o banco-de-plumas e a
-faço sentar. Menciono todos os bancos-de-plumas e faço o osso do fêmur
-dela ficar como o osso do (pato) macho. Transformo o ombro da mulher e
-seu /täy tëg/ no enxó de plumas (do pato). Somente dessa forma a
-criança engordará.
-
-Falo e faço sair o /hã̗wäg/ defumando com a folha /bu̗y k’et/. Junto o
-/hã̗wäg/ e desloco-me com ele para dentro de nossa
-“Casa-de-Nascimento”, /Dëh-Säk-Mo̖y/, na boca do rio.
-
-Vou para o meio do rio, para a cabeceira e reúno o /hã̗wäg/. É preciso
-juntar o /hã̗wäg/ da criança, pois ele está completamente espalhado.
-Pego, reúno e faço-o entrar e ficar em pé.
-
-8º mov. No momento do nascimento, faço os peixes, as minhocas grandes,
-as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
-/hã̗wäg/ (da criança), faço-o sair e dou banco. Faço-o sentar-se no
-banco-de-plumas do pato /pup/ d’água, no nco-de-plumas do pato d’água.
-Então, (o hã̗wäg) vem.
-
-Trago a folha /bu̗y k’e̖t/  da beira do Lago de Leite, a folha pequena e
-a folha grande, para defumar a mulher e (banhar) seu corpo com água.
-Tiro o /hã̗wäg/ da mulher (e da criança), faço-os sair e sentar.
-Desloco-me para o outro lado do Lago de Leite, para o final. Lá eu
-tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo da mãe.
-
-Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu /hã̗wäg/
-sair e sentar. Naquele lugar, falo para afastar as formigas pretas, as
-formigas de fogo, as formigas taracuá. Cerco todas essas (formigas),
-pois pode haver essas formigas na árvore /sarah-s’o̖m/.\[...\]
-
-9º mov. Tiro o /hã̗wäg/ e venho trazendo. \[...\] Eu venho trazendo
-direto e passo pelas diversas Casas-do-Rio. Entro dentro da Casa-do-Rio
-e continuo subindo. Entro na /Hup-Mo̖y/, “Casa-Hup”.
-
-As mulheres ancestrais sobem junto (conosco). Desço um pouco. As
-mulheres ancestrais vêm subindo junto e, naquela casa, (sopro) para
-que o corpo da mãe não arrebente. Arrebento o carajuru.
-
-(O /hã̗wäg/) está em pé. Faço-o sentar no banco. Continuo subindo e vou
-colocando (o /hã̗wäg/) dentro da pessoa. Desço novamente. Sigo para
-outra casa, outra Casa-do-Rio e falo. Subo desde onde estão os
-ancestrais (moradores) daquela casa. Falo e rumo para outra casa.
-Falo, subo e fico em pé.
-
-Sigo direto para Iauareté. Afasto-me para o local de onde as mulheres
-ancestrais voltaram. \[...\] Fico em pé dentro daquela Casa (Hup).
-Continuo soprando e fico em pé dentro das casas.
-
-Faço (a mãe e a criança) sentarem-se em seus bancos primordiais. Venho
-trazendo seus bancos (para que se sentem). Faço (a mulher) sentar e
-segurar seu punhal. Prossigo subindo (o rio). Faço-os (a mãe e o
-filho) portarem seus punhais e sentarem-se.
-
-Atenuo as cores daquela casa para que a criança não fique louca, não
-sofra com o “choro enlouquecedor”.
-
-Continuo subindo e ficando em pé naquelas casas.
-
-10º mov. Então, eu me afasto de Iauareté, continuo subindo e ficando em
-pé (dentro das casas) por onde os ancestrais passaram. Vou até
-Caruru-Cachoeira. Fico em pé e desço até o rio Negro. Subo, fico em pé,
-tiro (o /hã̗wäg/) continuamente. Retorno e desço até o rio Tiquié para ir
-até a Casa-dos-Ancestrais, lá onde eles foram e ficaram em pé. \[...\]
-Subo e fico em pé. Eu entro. Continuo subindo e ficando em pé. Desço
-novamente. Volto a subir e a ficar em pé sempre que passo pelos locais
-de chegada dos ancestrais em Caruru-Cachoeira. Rumo para a região acima
-de Pari Cachoeira. Fico em pé.
-
-Lá há um banco primordial. Desço novamente e começo a voltar até o rio
-Japú, lá onde (a Cobra-Canoa) parou, na boca (para sair cada grupo e
-espalhar). Naquele lugar, nós subimos, pois foi lá onde a Cobra-Canoa
-nos deixou. Venho trazendo (o /hã̗wäg/) até aqui.
-
-Novamente, falo para os /B’atɨ̖b’/.
-
-11º mov. Para a mulher sair para sua roça, eu menciono os tocos da roça,
-as abelhas, os calangos, as Gentes-Árvore, os /B’atɨ̖b’/ e cerco suas
-cuias (de caarpi) e suas facas. Cerco todas as (suas armas).
-
-Para quando (a mulher) voltar (da roça) e entrar em casa, eu falo para
-a água-pura dela (leite), essa água que ela tem. Faço-a sentar-se em
-seu banco de leite, deitar-se em sua rede-de-leite.
-
-(Para que possamos) chegar até aqui, para sair, (sopro com) a /bu̗y
-k’ë̗t/, eu vou retornando e parando. Com a /bu̗y k’ë̗t/  eu falo para
-(todos os pertences da mulher). Cerco para que a criança possa descer
-para o porto. Falo e defumo (a mãe) com a /bu̗y k’ë̗t/.  Com o cheiro (da
-folha), eu cerco (a mãe) (da ameaça) do /E̗d Hup ĩh/, (para que) ele
-não fique bravo com o odor dela. Dessa maneira, eu cerco (a mãe) da
-Gente-Sãy, das Cobras-de-duas-cabeças. Menciono e tiro as
-Gentes-toco-de-pau. Cerco-os para que a criança possa descer à beira
-para o banho.
-
-12º mov. (Faço com que a criança e a mãe) estejam dentro da canoa dos
-cabeçudos pequenos, das canoas do pato d’água e do inambu d’água.
-
- Faço borbulhar e, quando a mãe e a criança vão para a beira, faço-os
- estar dentro da canoa (para protegê-los) dos seres malfazejos. Para
- que, quando estiverem banhando-se, esses seres não causem doenças
- \[...\].
-
- Cerco os filhos d’água, os seres d’água e suas roupas. Faço com que (a
- mãe e a criança) desçam (para a beira). (Os seres que estão) abaixo
- (eu vou fazendo) virarem suas caras para baixo, faço-os entrar (em
- suas casas), sentar, viro suas caras para baixo (oeste), faço-os
- entrar e sentar. Viro (a cara) para outro lado \[...\]. Faço-os entrar
- (na casa), subir e ficar em pé olhando para outro lado (leste).
-
-PISAR 		Então, (faço) a mulher subir, ficar em pé. Para nós já está bom.
-Nós fizemos tudo e ela já pode sair.
+> **B6. /Te͂h Bi’i̖d/  ‒ Benzimento do filho**
+> 
+> 1º mov. Primeiro, fazemos as mulheres sentarem para ter filhos. Falo
+> para todos os animais grandes. Fiz e disse já.
+> 
+ > Da floresta, (eu menciono) as pacas (*agouti paca*), os caititus
+ > (*tayassu tajacu Linnaeus*), os porcos (*tayassu pecari Link*), as
+ > antas (*tapirus terrestris*). \[...\] Vou falando para os filhos de
+ > animais pequenos.
+> 
+ > Menciono os ossos grandes do quadril. Menciono o fêmur das pacas
+ > fêmeas para fazer as mulheres sentarem. \[...\] Menciono a abertura
+ > das pernas da paca e começo a fazer a mulher sentar. Falo para o porco
+ > quando as mulheres terão o primeiro filho. Menciono o fêmur e a
+ > abertura das pernas das porcas para que a mulher sente. Vou falando
+ > para as porcas e fazendo-as abrir suas pernas. \[...\] Vou fazendo a
+ > mulher sentar-se de pernas abertas.
+> 
+ > Refiro-me, então, à égua. Faço-a abrir suas pernas para que a mulher
+ > hup se sente. Falo para a égua, para a anta fêmea e para seus ossos do
+ > fêmur. Faço as fêmeas sentarem-se para a mulher sentar-se de pernas
+ > abertas.
+> 
+ > *(Com.)* Quando as mulheres vão dar à luz, elas gemem e seguram a
+ > cabeça. Por isso, eu sopro para fazer a mulher hup dar à luz ao gemer.
+ > Dizem que os animais não gemem quando vão ter filho. Eles ordenam e
+ > dão à luz. \[...\] Quando a mulher vai dar à luz, seu gemido, saindo,
+ > pode causar doença para a criança.
+> 
+> 2º mov. Faço sair o banco para que a criança nasça e saia pela abertura
+> da mãe. Quando a criança vai nascer, ela está sentada em seu banco com
+> seus pertences primordiais: faca, punhal, bastão e pedra-semente. Falo
+> para ela ir saindo pela abertura. Falo para que o banco, assento da
+> criança, saia também. Diz-se que o menino já tem as suas coisas.
+> 
+> (Sopro também) para os pertences da mulher. Faço a mulher sentar no
+> seu banco como faço a samambaia de pintar sentar-se em seu banco.
+> 
+> *(Com.)* Assim, a mulher saberá sentar para ter o filho vagarosamente
+> como a samambaia. A criança sentada sovina seus pertences, seus
+> bancos. Quer permanecer sentada. (No momento de seu) nascimento, a
+> criança está sentada em seu banco.
+> Faço as coisas e a criança saírem juntas pela abertura.
+> 
+> 3º mov. Então, sopro a placenta. Do contrário, a criança pode morrer.
+> Falo para transformar a água (do banho) em água-pura \[...\]. Menciono o
+> sumo de maracujá, o sumo /k’ö̖g/ da fruta /tat/ pequena e o sumo da fruta
+> /tat/ grande. Vou transformando essas águas-puras e banhando a mãe para
+> fazer com que a criança saia pela abertura.
+> 
+> Transformo (a água do rio) em água-pura de sumo de cucura, em
+> água-pura de sumo de cucura-/k’ö̖g kini̖m/. Para banhar a criança e
+> fazê-la nascer rápido pela abertura, menciono o sumo de cucura /pe̖̖j
+> pɨ͂g/, a água-pura da cucura grande, o sumo de abiu.
+> 
+> *(Com.)* Se não for feito assim, a criança pode ficar doente. Por
+> isso, vou fazendo e dizendo o encantamento da placenta para as
+> crianças.
+> 
+> 4º mov. Naquele lugar, eu profiro o benzimento de modo breve para ver se
+> pega. Espero a criança sair e, com o breu, sopro o lugar onde a mulher
+> está. \[...\] Benzo com breu para cercar a cuia de beber caarpi dos
+> bichos-de-pé.
+> Falo para os bichos-de-pé /k’ö̖b/,  para os bichos-de-pé /na̗w/, para as
+> abelhas mamangaba, e cerco seus potes de beber caarpi. Menciono as
+> minhocas. Cerco seus potes de beber caarpi. Falando dessa forma para
+> esses seres, eles não farão mal para a criança. Menciono as minhocas
+> grandes, as cobras-de-duas-cabeças. Cerco suas cuias de beber caarpi.
+> Quantos desses seres houver, é preciso cercar todos os potes de beber
+> caarpi.
+> 
+> *(Com.)* Do contrário, podem oferecê-los à criança e fazê-la sofrer de
+> /o̗t mi̗͂gi̗͂h/,  “choro enlouquecedor”.
+> Cerco a cuia de beber das mamangabas, dos calangos, das minhocas, das
+> cobras-de-duas-cabeças. Cerco tudo.
+> 
+> 5º mov. Sopro com breu, defumo, solto e firmo o pari-breu no chão para o
+> nascimento da criança. \[...\] Solto e coloco no chão o
+> pari-lâmina-de-patauá, o pari-lâmina-de-bacaba, o pari-lâmina-de-inajá,
+> o pari-lâmina-de-bacaba-/si̗wi̗h wöh/, o pari-de-bacaba-cotia. Menciono e
+> sopro os paris e, com o breu, solo e dobro o pari em torno da mãe e da
+> criança.
+> 
+> PISAR 		Piso forte o chão.
+> 
+> Dentro da casa, eu coloco o menino que nasceu no pari. Vou fazendo-os
+> (mãe e filho) entrar na casa e sentar. Começo a soltar os paris sobre
+> o chão. Menciono a Gente-Na̗h, a Gente-Sã̗y. Falo para as facas da
+> Gente-Sã̗y. Faço-os juntar (as armas), entrar em suas casas e ficar em
+> pé. Faço com que as Gentes-Sã̗y, o /So̗ Hup ĩh/, as Cobras, os
+> /B’atɨ̖b’/,  as Gentes-Árvore entrem e fiquem em pé. Faço-os largar e
+> juntar suas facas. Faço o mesmo para a Gente-Mariposa e para a
+> Gente-Borboleta. Cerco todas as suas cuias de beber caarpi.
+> 
+> *(Com.)* Se acaso suas cuias de beber não forem cercadas, essas gentes
+> podem dar de beber à criança e ela sofre de “choro enlouquecedor”.
+> 
+> 6º mov. Vou para cima e cerco a faca primordial de /Wero Hup Te͂h i͂h/.
+> Quando ele acende (sua lenha corporal) para a criança (ela adoece). Faço
+> /Wero Hup Te͂h i͂h/ subir ao céu com sua lenha incandescente, entrar em
+> sua casa e voltar-se (com a cabeça) para cima. Cerco. \[...\]
+> 
+> Sopro a cuia e o mingau da mulher para quando ela entrar. Falo para o
+> mingau, \[...\] menciono todos os tipos de beiju de tapioca. Lavo o
+> óleo do beiju-de-tapioca-/wöwö̖w/, do beiju-de-tapioca cunuri, do
+> beiju-de-tapioca-/ko̗k ko̗h ti̗g/, do
+> beiju-de-tapioca-de-maniva-vermelha. Cerco as lagartas, suas tesouras
+> e suas cuias de caarpi. Sopro a cuia de beber mingau (da mulher).
+> 
+> *(Com.)* (A mulher) deve ficar um dia inteiro parada.
+> 
+> 7º mov. No dia em que a mulher fica parada, faço-a sentar (e sopro) a
+> mãe e a criança com a folha /bu̗y k’e̖t/. \[...\] Vou até a beira do
+> Lago de Leite, tiro a folha /bu̗y k’e̖t/  e trago-a para cá. Lá, à beira
+> do Lago de Leite, faço a mulher sair, sentar-se e banho seu corpo com
+> a folha /bu̗y k’e̖t/.
+> 
+> Vou juntando o /hã̗wäg/ da mulher. Menciono as plumas e o
+> banco-de-plumas do pato d’água, o banco-de-plumas do pato /pu̗u̗p/
+> d’água, o banco-de-plumas do /wãwãw/ (pássaro), chamo o sopro vital e
+> faço-o sentar-se no banco. Falo e faço a mulher sentar para que
+> engorde. Para ela, eu vou chamando o /hã̗wäg/ e fazendo-o sair (das
+> casas) e sentar-se. Defumo com a /bu̗y k’et/ e trago (o /hã̗wäg/).
+> 
+> Quando a mulher vai ter filho, menciono o banco-de-plumas e a
+> faço sentar. Menciono todos os bancos-de-plumas e faço o osso do fêmur
+> dela ficar como o osso do (pato) macho. Transformo o ombro da mulher e
+> seu /täy tëg/ no enxó de plumas (do pato). Somente dessa forma a
+> criança engordará.
+> 
+> Falo e faço sair o /hã̗wäg/ defumando com a folha /bu̗y k’et/. Junto o
+> /hã̗wäg/ e desloco-me com ele para dentro de nossa
+> “Casa-de-Nascimento”, /Dëh-Säk-Mo̖y/, na boca do rio.
+> 
+> Vou para o meio do rio, para a cabeceira e reúno o /hã̗wäg/. É preciso
+> juntar o /hã̗wäg/ da criança, pois ele está completamente espalhado.
+> Pego, reúno e faço-o entrar e ficar em pé.
+> 
+> 8º mov. No momento do nascimento, faço os peixes, as minhocas grandes,
+> as cobras-de-duas-cabeças entrarem em suas casas. \[...\]. Chamo todo o
+> /hã̗wäg/ (da criança), faço-o sair e dou banco. Faço-o sentar-se no
+> banco-de-plumas do pato /pup/ d’água, no nco-de-plumas do pato d’água.
+> Então, (o hã̗wäg) vem.
+> 
+> Trago a folha /bu̗y k’e̖t/  da beira do Lago de Leite, a folha pequena e
+> a folha grande, para defumar a mulher e (banhar) seu corpo com água.
+> Tiro o /hã̗wäg/ da mulher (e da criança), faço-os sair e sentar.
+> Desloco-me para o outro lado do Lago de Leite, para o final. Lá eu
+> tiro a folha-da-mulher-da-mata \[...\] para banhar o corpo da mãe.
+> 
+> Banho o corpo e o /hãwäg/ da mãe com sabão. Sigo fazendo seu /hã̗wäg/
+> sair e sentar. Naquele lugar, falo para afastar as formigas pretas, as
+> formigas de fogo, as formigas taracuá. Cerco todas essas (formigas),
+> pois pode haver essas formigas na árvore /sarah-s’o̖m/.\[...\]
+> 
+> 9º mov. Tiro o /hã̗wäg/ e venho trazendo. \[...\] Eu venho trazendo
+> direto e passo pelas diversas Casas-do-Rio. Entro dentro da Casa-do-Rio
+> e continuo subindo. Entro na /Hup-Mo̖y/, “Casa-Hup”.
+> 
+> As mulheres ancestrais sobem junto (conosco). Desço um pouco. As
+> mulheres ancestrais vêm subindo junto e, naquela casa, (sopro) para
+> que o corpo da mãe não arrebente. Arrebento o carajuru.
+> 
+> (O /hã̗wäg/) está em pé. Faço-o sentar no banco. Continuo subindo e vou
+> colocando (o /hã̗wäg/) dentro da pessoa. Desço novamente. Sigo para
+> outra casa, outra Casa-do-Rio e falo. Subo desde onde estão os
+> ancestrais (moradores) daquela casa. Falo e rumo para outra casa.
+> Falo, subo e fico em pé.
+> 
+> Sigo direto para Iauareté. Afasto-me para o local de onde as mulheres
+> ancestrais voltaram. \[...\] Fico em pé dentro daquela Casa (Hup).
+> Continuo soprando e fico em pé dentro das casas.
+> 
+> Faço (a mãe e a criança) sentarem-se em seus bancos primordiais. Venho
+> trazendo seus bancos (para que se sentem). Faço (a mulher) sentar e
+> segurar seu punhal. Prossigo subindo (o rio). Faço-os (a mãe e o
+> filho) portarem seus punhais e sentarem-se.
+> 
+> Atenuo as cores daquela casa para que a criança não fique louca, não
+> sofra com o “choro enlouquecedor”.
+> 
+> Continuo subindo e ficando em pé naquelas casas.
+> 
+> 10º mov. Então, eu me afasto de Iauareté, continuo subindo e ficando em
+> pé (dentro das casas) por onde os ancestrais passaram. Vou até
+> Caruru-Cachoeira. Fico em pé e desço até o rio Negro. Subo, fico em pé,
+> tiro (o /hã̗wäg/) continuamente. Retorno e desço até o rio Tiquié para ir
+> até a Casa-dos-Ancestrais, lá onde eles foram e ficaram em pé. \[...\]
+> Subo e fico em pé. Eu entro. Continuo subindo e ficando em pé. Desço
+> novamente. Volto a subir e a ficar em pé sempre que passo pelos locais
+> de chegada dos ancestrais em Caruru-Cachoeira. Rumo para a região acima
+> de Pari Cachoeira. Fico em pé.
+> 
+> Lá há um banco primordial. Desço novamente e começo a voltar até o rio
+> Japú, lá onde (a Cobra-Canoa) parou, na boca (para sair cada grupo e
+> espalhar). Naquele lugar, nós subimos, pois foi lá onde a Cobra-Canoa
+> nos deixou. Venho trazendo (o /hã̗wäg/) até aqui.
+> 
+> Novamente, falo para os /B’atɨ̖b’/.
+> 
+> 11º mov. Para a mulher sair para sua roça, eu menciono os tocos da roça,
+> as abelhas, os calangos, as Gentes-Árvore, os /B’atɨ̖b’/ e cerco suas
+> cuias (de caarpi) e suas facas. Cerco todas as (suas armas).
+> 
+> Para quando (a mulher) voltar (da roça) e entrar em casa, eu falo para
+> a água-pura dela (leite), essa água que ela tem. Faço-a sentar-se em
+> seu banco de leite, deitar-se em sua rede-de-leite.
+> 
+> (Para que possamos) chegar até aqui, para sair, (sopro com) a /bu̗y
+> k’ë̗t/, eu vou retornando e parando. Com a /bu̗y k’ë̗t/  eu falo para
+> (todos os pertences da mulher). Cerco para que a criança possa descer
+> para o porto. Falo e defumo (a mãe) com a /bu̗y k’ë̗t/.  Com o cheiro (da
+> folha), eu cerco (a mãe) (da ameaça) do /E̗d Hup ĩh/, (para que) ele
+> não fique bravo com o odor dela. Dessa maneira, eu cerco (a mãe) da
+> Gente-Sãy, das Cobras-de-duas-cabeças. Menciono e tiro as
+> Gentes-toco-de-pau. Cerco-os para que a criança possa descer à beira
+> para o banho.
+> 
+> 12º mov. (Faço com que a criança e a mãe) estejam dentro da canoa dos
+> cabeçudos pequenos, das canoas do pato d’água e do inambu d’água.
+> 
+ > Faço borbulhar e, quando a mãe e a criança vão para a beira, faço-os
+ > estar dentro da canoa (para protegê-los) dos seres malfazejos. Para
+ > que, quando estiverem banhando-se, esses seres não causem doenças
+ > \[...\].
+> 
+ > Cerco os filhos d’água, os seres d’água e suas roupas. Faço com que (a
+ > mãe e a criança) desçam (para a beira). (Os seres que estão) abaixo
+ > (eu vou fazendo) virarem suas caras para baixo, faço-os entrar (em
+ > suas casas), sentar, viro suas caras para baixo (oeste), faço-os
+ > entrar e sentar. Viro (a cara) para outro lado \[...\]. Faço-os entrar
+ > (na casa), subir e ficar em pé olhando para outro lado (leste).
+> 
+> PISAR 		Então, (faço) a mulher subir, ficar em pé. Para nós já está bom.
+> Nós fizemos tudo e ela já pode sair.
 
 O encantamento revela-se uma longa jornada ao Lago de Leite. Ele envolve
 a interação com diversos seres, a passagem por muitas casas ancestrais e
@@ -11159,9 +11160,9 @@ corporais. É possível dizer que no curso de seus movimentos diários a
 mãe transforma seu corpo para sentar. A mobilidade materna gera um
 feto sentado. Apenas o preparo físico da mãe e a ação xamânica
 desalojam o bebê e despertam os seus movimentos próprios, conduzindo-o
-ao nascimento (2º mov.). Se, como aponta Viveiros de Castro, <!--citação-->“o corpo
+ao nascimento (2º mov.). Se, como aponta Viveiros de Castro, “o corpo
 humano precisa ser, periodicamente, submetido a processos intencionais
-de construção”,<!--citação--> no caso hup, essa construção se dá em movimento (1979,
+de construção”, no caso hup, essa construção se dá em movimento (1979,
 p. 31).
 
 Depois de benzer o caminho e a roça com breu, a mãe já pode começar a
@@ -11227,7 +11228,7 @@ para baixo, o que aponta para uma semelhança entre a postura suscitada
 aos entes aquáticos e o momento de expulsão. Apenas depois de realizar
 todas essas ações acompanhadas do resguardo e do jejum é que a mãe e o
 bebê poderão sair de casa em segurança. É possível dizer, com McCallum
-(1998, p. 217), que se percebe o <!--estilo de citação-->“corpo como sendo afetado e construído
+(1998, p. 217), que se percebe o “corpo como sendo afetado e construído
 por diferentes processos materiais que ocorrem perto ou dentro de seus
 corpos, como no *couvade* e nas ‘relações de substância’ de forma mais
 geral”
@@ -11265,7 +11266,7 @@ constantes relações sexuais durante a gravidez, “tem que transar mais de
 trinta vezes até a barriga crescer e o bebê nascer”, contou a sra.
 Edvirges da aldeia de /Pɨ̖͂g-Dëh/,  “Nova Fundação”, à equipe da SSL
 durante uma oficina de saúde sexual e reprodutiva.
-Nas palavras de Lolli (2010, p. 83), <!--citação--> “as ações de procurar, reunir e
+Nas palavras de Lolli (2010, p. 83), “as ações de procurar, reunir e
 colocar os componentes das pessoas fazem que essa pessoa distribuída
 volte a se concentrar no corpo da pessoa”.
 
@@ -11293,15 +11294,15 @@ interagir nesses espaços sem que seja afetado pela agência desses seres,
 algo próximo ao que McCallum descreve para os Kaxinawá,
 
 <!--estilo de citação-->
- O relacionamento correto entre o corpo e o ambiente é determinado
- acima de tudo por estados de consciência. O mundo consciente, da
- vigília, dos parentes vivos, é o lugar onde atua um corpo social
- saudável. O invisível mundo dos sonhos está presente na floresta ou em
- cidades distantes, porém é invisível para a pessoa em estado de
- vigília. É o lugar onde atuam espíritos desencarnados que já perderam
- o poder da ação física. Ainda assim, ambos os mundo são “conhecidos”
- por uma pessoa \[...\] e este conhecimento é vital para os assuntos
- vivos. (1998, p. 233)
+ > O relacionamento correto entre o corpo e o ambiente é determinado
+ > acima de tudo por estados de consciência. O mundo consciente, da
+ > vigília, dos parentes vivos, é o lugar onde atua um corpo social
+ > saudável. O invisível mundo dos sonhos está presente na floresta ou em
+ > cidades distantes, porém é invisível para a pessoa em estado de
+ > vigília. É o lugar onde atuam espíritos desencarnados que já perderam
+ > o poder da ação física. Ainda assim, ambos os mundo são “conhecidos”
+ > por uma pessoa \[...\] e este conhecimento é vital para os assuntos
+>  vivos. (1998, p. 233)
 <!--estilo de citação-->
 
 A complexidade da sequência de ações exigidas nessa viagem /hãwägät/ faz
@@ -11371,12 +11372,12 @@ algo que gera o risco da identificação com sua perspectiva pela partilha
 de substâncias. Como menciona Steele,
 
 <!--estilo de citação-->
- Seja através do incenso, do perfume ou da comida, a sincronização
- olfativa acompanha as transições vitais nos ritos de passagem que vão
- do nascimento à morte, estando presentes também nas observâncias
- religiosas. Há ampla evidência dessa hipótese nas culturas amazônicas.
- A fragrância facilita as transformações na religião, na magia e nos
- rituais de cura. (Steele, 2006, p. 233)
+ > Seja através do incenso, do perfume ou da comida, a sincronização
+ > olfativa acompanha as transições vitais nos ritos de passagem que vão
+ > do nascimento à morte, estando presentes também nas observâncias
+ > religiosas. Há ampla evidência dessa hipótese nas culturas amazônicas.
+ > A fragrância facilita as transformações na religião, na magia e nos
+ > rituais de cura. (Steele, 2006, p. 233)
 
 Nos termos do autor, a exposição da recém-nascida à fuligem da morada
 das Gentes-Cobra promove uma “sincronização olfativa” que talvez levaria
@@ -11543,14 +11544,14 @@ sementes. Descrevendo a relação entre os avós e seus netos para os Piro,
 Gow dirá que:
 
 <!--estilo de citação-->
- Os mitos são *tsrunnini ginkakle*, “histórias dos antigos”. Essas
- histórias são contadas pelos anciões aos jovens num ambiente de
- intimidade e de descanso. \[…\] É porque seus netos estão interessados
- que os anciões contam-nos essas histórias. Pelo que pude perceber, é
- simplesmente o fato de estarem interessados que motiva a contação de
- histórias: o contador quer contá-las e os ouvintes querem escutá-las.
- O estímulo para que se conte essas histórias parte das próprias
- crianças. (2001, p. 79)
+ > Os mitos são *tsrunnini ginkakle*, “histórias dos antigos”. Essas
+ > histórias são contadas pelos anciões aos jovens num ambiente de
+ > intimidade e de descanso. \[…\] É porque seus netos estão interessados
+ > que os anciões contam-nos essas histórias. Pelo que pude perceber, é
+ > simplesmente o fato de estarem interessados que motiva a contação de
+ > histórias: o contador quer contá-las e os ouvintes querem escutá-las.
+ > O estímulo para que se conte essas histórias parte das próprias
+ > crianças. (2001, p. 79)
 <!--estilo de citação-->
 
 Como no evento narrativo de **M15**, o interesse dos netos em ouvir as
@@ -11609,13 +11610,13 @@ começa a esquecer para partir, no outro, aquele que começa a aprender e
 a reconhecer para chegar. Como descreve Gow,
 
 <!--estilo de citação-->
- Os avós e netos piro encontram-se através do ciclo de vida nesse mundo
- vivido: aqueles próximos ao final do processo de *nshinikanchi* e
- estes no início. À medida que se aproximam da morte, os anciões vão
- ficando “cansados de viver” e prontos para tornar-se algo diferente,
- pessoas mortas. Seus próprios entes queridos, com os quais eles
- passaram suas vidas, são agora pessoas mortas e *tsrunni*, “pessoas
- antigas”, para seus parentes jovens. (2001, p. 89)
+ > Os avós e netos piro encontram-se através do ciclo de vida nesse mundo
+ > vivido: aqueles próximos ao final do processo de *nshinikanchi* e
+ > estes no início. À medida que se aproximam da morte, os anciões vão
+ > ficando “cansados de viver” e prontos para tornar-se algo diferente,
+ > pessoas mortas. Seus próprios entes queridos, com os quais eles
+ > passaram suas vidas, são agora pessoas mortas e *tsrunni*, “pessoas
+ > antigas”, para seus parentes jovens. (2001, p. 89)
 <!--estilo de citação-->
 
 Com a perda da dentição e a dificuldade na locomoção, a coca passa a ser
@@ -11673,19 +11674,19 @@ da nominação, o ancestral regenera-se pela nova vida concebida com o
 sopro xamânico. Segundo Athias,
 
 <!--estilo de citação-->
- \[...\] o nome de um ancestral é trocado e colocado em um
- recém-nascido. Cada clã tem em geral um conjunto de cinco a sete nomes
- próprios para sexo feminino e para sexo masculino. Esses nomes se
- repetem e são dados de acordo com a ordem de nascimento dos
- ancestrais. Na realidade, o recém-nascido é trocado por um ancestral.
- E ele se tornará efetivamente membro do clã quando esta troca se
- efetivar. O filho primogênito recebe o nome de seu avô. Este, por sua
- vez, o recebeu do seu próprio avô. Os filhos que se seguem podem
- receber qualquer um dos nomes dos irmãos mais novos do avô ancestral.
- \[...\] Aí lhe é dado o fôlego, o sopro da vida, o sopro do ancestral
- comum e fundador do clã. Essa cerimônia é feita com a criança perto do
- homem mais velho de referência para o clã ou pelo avô paterno, caso
- esteja vivo (2006, p. 15, grifos meus).
+ > \[...\] o nome de um ancestral é trocado e colocado em um
+ > recém-nascido. Cada clã tem em geral um conjunto de cinco a sete nomes
+ > próprios para sexo feminino e para sexo masculino. Esses nomes se
+ > repetem e são dados de acordo com a ordem de nascimento dos
+ > ancestrais. Na realidade, o recém-nascido é trocado por um ancestral.
+ > E ele se tornará efetivamente membro do clã quando esta troca se
+ > efetivar. O filho primogênito recebe o nome de seu avô. Este, por sua
+ > vez, o recebeu do seu próprio avô. Os filhos que se seguem podem
+ > receber qualquer um dos nomes dos irmãos mais novos do avô ancestral.
+ > \[...\] Aí lhe é dado o fôlego, o sopro da vida, o sopro do ancestral
+ > comum e fundador do clã. Essa cerimônia é feita com a criança perto do
+ > homem mais velho de referência para o clã ou pelo avô paterno, caso
+ > esteja vivo (2006, p. 15, grifos meus).
 <!--estilo de citação-->
 
 Nesse jogo de identificações, o feto sentado surge como os ancestrais
@@ -11798,134 +11799,134 @@ coca, era comum que os senhores hup julgassem que a dificuldade de
 conceber de algumas mulheres como Tereza fosse atribuída à má realização
 do /b’a’ bi’id/, o “benzimento do beiju”.
 
-**B7. /B’a’ Bi’i̖d/  ‒ Benzimento do Beiju**
-
-1º mov. Eu vou contar para você, Danilo, o benzimento do beiju.
-Primeiro, quando as mulheres têm filhos, eu faço-as entrar, sentar (no
-chão) e dou o beiju-de-tapioca-tanajura a elas.
-
-Lavo para (tirar) o óleo do beiju dos diversos tipos de tapioca. Eu
-lavo o óleo da tapioca da maniva-lâmina-de-cunuri, \[...\] o óleo da
-tapioca da maniva-mamangaba, o óleo da tapioca da maniva- tanajura, o
-óleo do beiju de tapioca da maniva-de-inajá. Eu lavo o óleo do beiju
-da tapioca da maniva-lagarta, \[...\] o óleo do beiju da tapioca da
-maniva-cuia.
-
-Começo a cercar o caarpi das lagartas que dão nas manivas. \[...\] Eu
-menciono todas as manivas com as quais elas fazem o beiju para lavar o
-cheiro do óleo. Menciono todos os beijus.
-
-Fico em pé para que fique bom, para que as mulheres não encontrem
-filho rápido. Eu piso e cerco bem. Fazendo isso, já lavei todo o óleo
-do beiju.
-
-2º mov. Então, eu menciono, para as mulheres, todas as plumas/pelos dos
-animais. Para fechar o útero das mulheres, eu me refiro à
-panela-de-pelos da preguiça pequena (tipo de). Falo e vou fechando.
-
-Assim, diz-se que (o esperma) passa rápido, não acha. Falo o
-encantameno com o beiju delas e piso para cercar bem. Faço o sopro
-para cercar e piso.
-
-Menciono a panela-de-pelos do tamanduaí, a panela-e-pelos do jacuaçú,
-a panela-de-plumas do urumutum, a panela-de-pelos do macaco-guariba, a
-panela-de-plumas do mutum, a panela-de-plumas do
-mutum-de-bunda-marrom.
-
-Eu vou falando e fazendo fechar essa /u̗k b’o̖’/,  a cuia do nascimento
-da criança. Para essa eu falo e vou cercando, fechando e tirando para
-cada cuia coberta primordial, para dentro de todas, de cada
-panela-de-plumas da origem.
-
-3º mov. Caba. Com a caba fecho embaixo, falo para a caba (preta) do
-igapó da floresta que vive no rio grande. Conta-se que os xamãs extraem
-a casca do pé de turi com essa caba.
-
-Faço as mulheres assemelharem-se à caba para que não engravidem
-rápido. Vou cercando embaixo.
-
-4º mov. Eu coloco também aquele beiju de tapioca-marajá, a tapioca-açaí,
-a tapioca-buriti. Falo para esses (beijus), faço entrar, ficar apertado
-e em pé. (Para que as mulheres) não achem filho rápido, eu benzo para
-cercar e piso \[...\].
-
-Falo para os curiangos. Menciono o curiango pequeno, o curiango /bo̖j’/
-para que elas se assemelhem a eles.
-
-Conta-se que todo o nosso esperma (dëh) cai como uma chuva sobre as
-aves. Ao cair, elas o espalham e o mandam para baixo, espalhando
-\[...\].
-
-Faço as mulheres assemelharem-se à libélula, pois ela joga água para
-cima. (Benzo para) os /dëy d’äh/, o /k’a/ pequeno, o /bɨ’ɨp/ pequeno.
-Faço-os soltar a faca pequena que têm nas mãos, colocarem-nas para
-baixo.
-
-O esperma é, então, jogado. Espalha-se sendo mandado para fora.
-Mencionei todas as /pã̗t b’o̖k/ das quais nós falamos.
-
-5º mov. **Ko̗w  –** Começo a lavar a pimenta. Lavo todo o óleo da pimenta
-amarela, da pimenta agulha, da pimenta /pupu̗’/.
-
-Eu lavo todas as pimentas e cerco o caarpi das lagartas da pimenta
-para que não tenhamos feridas de leishmaniose. Paro nesse lugar e fico
-em pé.
-
-6º mov. **/Hõp/ ‒** Falo para os peixes. Lavo para tirar o óleo dos
-peixes do igarapé que nós comemos. Lavo os /k’a̗p/  machos, os
-acarapurus e os sarapós pequenos, os acarás, os mandis pequenos, as
-piabas, as piabas arredondadas, as piabas prateadas. \[...\] Cerco a
-tesoura/remo deles.
-
-O óleo (dos peixes) é preciso lavar e a tesoura deles você vai
-cercando.
-
-\[...\] Falo para os peixes do rio grande: os aracus, os pacus, os
-/hõ̖po̖y/. Lavo e tiro o óleo deles e \[...\] o piolho que têm na
-brânquia. Cerco as tesouras dos piolhos (e dos peixes). Cerco todos os
-peixes: os aracus, os peixes do igarapé vermelho (caatinga), dos
-igarapés brancos. Falo para o peixe cabaré. Menciono todos os peixes
-que nós comemos, cada um deles. Lavo todo o óleo dos peixes que nós
-comemos, cabaris, mandis, jandiás. Refiro-me a todos os peixes que nós
-conhecemos. \[...\] Lavo e faço sair todo o óleo, Danilo.
-
-Cerco a tesoura (dos peixes) e do piolho dos peixes. Cerco e mando-os
-colocá-las sobre o jirau. Do contrário, as mulheres terão
-leishmaniose. Fico em pé (e termino) todo o benzimento dos peixes.
-
-7º mov. **/Hu͂’/  ‒** Falo para os esquilos. Falo para os esquilos
-pequenos cinzentos e seus pertences. Mando-os colocar suas tesouras
-(sobre o jirau). Lavo o óleo e cerco o piolho deles. Se não cercamos a
-faca de seus piolhos, diz-se que as crianças terão /hupse̗t/ e nós
-teremos leishmaniose.
-
-Lavo o óleo e cerco a tesoura e os piolhos de todos os animais (aves)
-que voam: os jacundás, os urumutuns, os mutuns. (Sopro) todas as aves
-que voam. \[...\]
-
-É preciso lavar o óleo e cercar a tesoura e os piolhos (de todos os
-animais que comem da) fruta “ucuuba” (tipo de), /su̗g/:  as cutiuaias,
-as cotias. (Faço-os colocar suas tesouras) para baixo.
-
-Prossigo falando para todos os animais que ficam em cima da árvore
-(/pöhöy hũ̗ n’a̖n/)  e para todos os animais do chão (/tú hũ n’a̖n/), os
-porcos, os veados, os tamanduás, as antas. Menciono todos (os animais)
-que nós comemos ou experimentamos. Cerco para não haver /hup-sët/.
-
-Cerco o canto /piha̗/  deles. Se não cercarmos essa canção (com
-benzimento), ao comer (suas carnes), a criança terá /o̗t mi̗͂gi̗͂h/,  “choro
-enlouquecedor”. Cerco suas tesouras, seus piolhos (com suas tesouras).
-
-Cerco a comida dos tatus. Cerco os tatus /hõ/ que comem areia. Cerco a
-minhoca que é seu alimento. Sem esse benzimento, as crianças têm dor
-de barriga quando comem o tatu.
-
-Falo para os tatus /hõ̖’/,  os tatus grandes, os inambus \[...\]. Cerco
-a arma dos inambús que nos causa /hup-sët/. \[...\] Falo para os tatus
-machos da caatinga, da terra firme, onde quer que eles busquem sua
-comida. É preciso cercar sua minhoca da areia.
-
-PISAR 		Nesse lugar, eu chego e fico em pé, Danilo.
+> **B7. /B’a’ Bi’i̖d/  ‒ Benzimento do Beiju**
+> 
+> 1º mov. Eu vou contar para você, Danilo, o benzimento do beiju.
+> Primeiro, quando as mulheres têm filhos, eu faço-as entrar, sentar (no
+> chão) e dou o beiju-de-tapioca-tanajura a elas.
+> 
+> Lavo para (tirar) o óleo do beiju dos diversos tipos de tapioca. Eu
+> lavo o óleo da tapioca da maniva-lâmina-de-cunuri, \[...\] o óleo da
+> tapioca da maniva-mamangaba, o óleo da tapioca da maniva- tanajura, o
+> óleo do beiju de tapioca da maniva-de-inajá. Eu lavo o óleo do beiju
+> da tapioca da maniva-lagarta, \[...\] o óleo do beiju da tapioca da
+> maniva-cuia.
+> 
+> Começo a cercar o caarpi das lagartas que dão nas manivas. \[...\] Eu
+> menciono todas as manivas com as quais elas fazem o beiju para lavar o
+> cheiro do óleo. Menciono todos os beijus.
+> 
+> Fico em pé para que fique bom, para que as mulheres não encontrem
+> filho rápido. Eu piso e cerco bem. Fazendo isso, já lavei todo o óleo
+> do beiju.
+> 
+> 2º mov. Então, eu menciono, para as mulheres, todas as plumas/pelos dos
+> animais. Para fechar o útero das mulheres, eu me refiro à
+> panela-de-pelos da preguiça pequena (tipo de). Falo e vou fechando.
+> 
+> Assim, diz-se que (o esperma) passa rápido, não acha. Falo o
+> encantameno com o beiju delas e piso para cercar bem. Faço o sopro
+> para cercar e piso.
+> 
+> Menciono a panela-de-pelos do tamanduaí, a panela-e-pelos do jacuaçú,
+> a panela-de-plumas do urumutum, a panela-de-pelos do macaco-guariba, a
+> panela-de-plumas do mutum, a panela-de-plumas do
+> mutum-de-bunda-marrom.
+> 
+> Eu vou falando e fazendo fechar essa /u̗k b’o̖’/,  a cuia do nascimento
+> da criança. Para essa eu falo e vou cercando, fechando e tirando para
+> cada cuia coberta primordial, para dentro de todas, de cada
+> panela-de-plumas da origem.
+> 
+> 3º mov. Caba. Com a caba fecho embaixo, falo para a caba (preta) do
+> igapó da floresta que vive no rio grande. Conta-se que os xamãs extraem
+> a casca do pé de turi com essa caba.
+> 
+> Faço as mulheres assemelharem-se à caba para que não engravidem
+> rápido. Vou cercando embaixo.
+> 
+> 4º mov. Eu coloco também aquele beiju de tapioca-marajá, a tapioca-açaí,
+> a tapioca-buriti. Falo para esses (beijus), faço entrar, ficar apertado
+> e em pé. (Para que as mulheres) não achem filho rápido, eu benzo para
+> cercar e piso \[...\].
+> 
+> Falo para os curiangos. Menciono o curiango pequeno, o curiango /bo̖j’/
+> para que elas se assemelhem a eles.
+> 
+> Conta-se que todo o nosso esperma (dëh) cai como uma chuva sobre as
+> aves. Ao cair, elas o espalham e o mandam para baixo, espalhando
+> \[...\].
+> 
+> Faço as mulheres assemelharem-se à libélula, pois ela joga água para
+> cima. (Benzo para) os /dëy d’äh/, o /k’a/ pequeno, o /bɨ’ɨp/ pequeno.
+> Faço-os soltar a faca pequena que têm nas mãos, colocarem-nas para
+> baixo.
+> 
+> O esperma é, então, jogado. Espalha-se sendo mandado para fora.
+> Mencionei todas as /pã̗t b’o̖k/ das quais nós falamos.
+> 
+> 5º mov. **Ko̗w  –** Começo a lavar a pimenta. Lavo todo o óleo da pimenta
+> amarela, da pimenta agulha, da pimenta /pupu̗’/.
+> 
+> Eu lavo todas as pimentas e cerco o caarpi das lagartas da pimenta
+> para que não tenhamos feridas de leishmaniose. Paro nesse lugar e fico
+> em pé.
+> 
+> 6º mov. **/Hõp/ ‒** Falo para os peixes. Lavo para tirar o óleo dos
+> peixes do igarapé que nós comemos. Lavo os /k’a̗p/  machos, os
+> acarapurus e os sarapós pequenos, os acarás, os mandis pequenos, as
+> piabas, as piabas arredondadas, as piabas prateadas. \[...\] Cerco a
+> tesoura/remo deles.
+> 
+> O óleo (dos peixes) é preciso lavar e a tesoura deles você vai
+> cercando.
+> 
+> \[...\] Falo para os peixes do rio grande: os aracus, os pacus, os
+> /hõ̖po̖y/. Lavo e tiro o óleo deles e \[...\] o piolho que têm na
+> brânquia. Cerco as tesouras dos piolhos (e dos peixes). Cerco todos os
+> peixes: os aracus, os peixes do igarapé vermelho (caatinga), dos
+> igarapés brancos. Falo para o peixe cabaré. Menciono todos os peixes
+> que nós comemos, cada um deles. Lavo todo o óleo dos peixes que nós
+> comemos, cabaris, mandis, jandiás. Refiro-me a todos os peixes que nós
+> conhecemos. \[...\] Lavo e faço sair todo o óleo, Danilo.
+> 
+> Cerco a tesoura (dos peixes) e do piolho dos peixes. Cerco e mando-os
+> colocá-las sobre o jirau. Do contrário, as mulheres terão
+> leishmaniose. Fico em pé (e termino) todo o benzimento dos peixes.
+> 
+> 7º mov. **/Hu͂’/  ‒** Falo para os esquilos. Falo para os esquilos
+> pequenos cinzentos e seus pertences. Mando-os colocar suas tesouras
+> (sobre o jirau). Lavo o óleo e cerco o piolho deles. Se não cercamos a
+> faca de seus piolhos, diz-se que as crianças terão /hupse̗t/ e nós
+> teremos leishmaniose.
+> 
+> Lavo o óleo e cerco a tesoura e os piolhos de todos os animais (aves)
+> que voam: os jacundás, os urumutuns, os mutuns. (Sopro) todas as aves
+> que voam. \[...\]
+> 
+> É preciso lavar o óleo e cercar a tesoura e os piolhos (de todos os
+> animais que comem da) fruta “ucuuba” (tipo de), /su̗g/:  as cutiuaias,
+> as cotias. (Faço-os colocar suas tesouras) para baixo.
+> 
+> Prossigo falando para todos os animais que ficam em cima da árvore
+> (/pöhöy hũ̗ n’a̖n/)  e para todos os animais do chão (/tú hũ n’a̖n/), os
+> porcos, os veados, os tamanduás, as antas. Menciono todos (os animais)
+> que nós comemos ou experimentamos. Cerco para não haver /hup-sët/.
+> 
+> Cerco o canto /piha̗/  deles. Se não cercarmos essa canção (com
+> benzimento), ao comer (suas carnes), a criança terá /o̗t mi̗͂gi̗͂h/,  “choro
+> enlouquecedor”. Cerco suas tesouras, seus piolhos (com suas tesouras).
+> 
+> Cerco a comida dos tatus. Cerco os tatus /hõ/ que comem areia. Cerco a
+> minhoca que é seu alimento. Sem esse benzimento, as crianças têm dor
+> de barriga quando comem o tatu.
+> 
+> Falo para os tatus /hõ̖’/,  os tatus grandes, os inambus \[...\]. Cerco
+> a arma dos inambús que nos causa /hup-sët/. \[...\] Falo para os tatus
+> machos da caatinga, da terra firme, onde quer que eles busquem sua
+> comida. É preciso cercar sua minhoca da areia.
+> 
+> PISAR 		Nesse lugar, eu chego e fico em pé, Danilo.
 
 /Tök ni̗/, “ter barriga”, é como se designa, em língua hup, a gravidez. O
 termo diferencia-se de /tök k’ö̗d te͂h/, “ter filho dentro” ou “estar
@@ -11985,12 +11986,12 @@ evolução da gravidez[^106]. Esse
 processo parece muito próximo ao que McCallum descreve para os Kaxinawá,
 
 <!--estilo de citação-->
- O corpo da mulher é também um instrumento de transformação das
- substâncias necessárias para a construção do corpo da criança. O útero
- é comparado a uma panela que transforma o alimento cru em “cozido” –
- ba (cozido, criado, formado). O processo de gerar uma criança também é
- chamado de ba – e o útero parece aquecer a criança assim crescendo ou
- “cozinhando” até que ela esteja pronta para nascer. (1998, p. 222)
+ > O corpo da mulher é também um instrumento de transformação das
+ > substâncias necessárias para a construção do corpo da criança. O útero
+ > é comparado a uma panela que transforma o alimento cru em “cozido” –
+ > ba (cozido, criado, formado). O processo de gerar uma criança também é
+ > chamado de ba – e o útero parece aquecer a criança assim crescendo ou
+ > “cozinhando” até que ela esteja pronta para nascer. (1998, p. 222)
 <!--estilo de citação-->
 
 Pleno de sangue, o ventre materno é uma região quente que abriga uma
@@ -12041,7 +12042,8 @@ que benzem o parto são considerados frios e quase inodoros. Não é raro
 acenderem fogueiras pequenas, próximas a suas redes durante a noite ou
 acomodarem-se próximos ao fogo de cozinha da casa mesmo durante o dia.
 
-<!--ver fig. 4 p. 327 do arquivo pdf-->
+ver Figura 4 p. 327 do arquivo pdf
+
 **/Hã̗wäg/ (sopro vital) : /B’atɨ̖b’/ (sombra) **
 
 **/Tu̗t/ (frio) : /K’ɨ̗/ (calor)**
@@ -12067,21 +12069,21 @@ presença excessiva do “calor” nos corpos no pós-parto são bem
 contextualizados por Reid,
 
 <!--estilo de citação-->
- Para além dos limites das atividades culinárias, o sistema de energia
- estende-se também para a esfera ritual. Em períodos de crise, quando
- uma pessoa está doente ou quando uma mulher dá a luz, aquele que está
- em sofrimento deve apenas consumir comidas frias para conter as
- grandes quantidades de Ku͂ Ponah que dominam o corpo. Quando executa
- benzimentos de cura para pessoas doentes, o xamã deve alimentar-se
- apenas de alimentos “frios” e evitar o contato com a luz do sol
- intensa ou com o fogo. De modo inverso, um homem deve consumir
- alimentos “quentes” quando prepara o veneno de caça para fazer o
- veneno pegar. Aquele que pretende praticar feitiços contra outra
- pessoa também come alimentos quentes e evoca agentes “quentes” para
- atacarem a vítima. Acredita-se que os Índios do Rio possuam mais Mair
- Ponah que os Hupdʉ, o que faz com que tenham “raiva” e perigosos
- feitiços. De modo semelhante, é a presença de Ku͂ Ponah nos espíritos
- da floresta o que faz deles canibais e malévolos. (1979, p. 253)
+ > Para além dos limites das atividades culinárias, o sistema de energia
+ > estende-se também para a esfera ritual. Em períodos de crise, quando
+ > uma pessoa está doente ou quando uma mulher dá a luz, aquele que está
+ > em sofrimento deve apenas consumir comidas frias para conter as
+ > grandes quantidades de Ku͂ Ponah que dominam o corpo. Quando executa
+ > benzimentos de cura para pessoas doentes, o xamã deve alimentar-se
+ > apenas de alimentos “frios” e evitar o contato com a luz do sol
+ > intensa ou com o fogo. De modo inverso, um homem deve consumir
+ > alimentos “quentes” quando prepara o veneno de caça para fazer o
+ > veneno pegar. Aquele que pretende praticar feitiços contra outra
+ > pessoa também come alimentos quentes e evoca agentes “quentes” para
+ > atacarem a vítima. Acredita-se que os Índios do Rio possuam mais Mair
+ > Ponah que os Hupdʉ, o que faz com que tenham “raiva” e perigosos
+ > feitiços. De modo semelhante, é a presença de Ku͂ Ponah nos espíritos
+ > da floresta o que faz deles canibais e malévolos. (1979, p. 253)
  <!--estilo de citação-->
 
 Como os corpos dos seres humanos, todos os alimentos possuem equilíbrios
@@ -12100,11 +12102,11 @@ desodorização e à pacificação dos corpos. Como mostra Århem para os
 Makuna,
 
 <!--estilo de citação-->
- Benzendo os alimentos, os seres humanos transformam as pessoas-animais
- em alimentos humanos e, assim, afirmam sua humanidade. A capacidade
- xamânica permite aos humanos superar os perigos inerentes à “natureza”
- e, ao mesmo tempo, incorporar a força vital que ela contém (1996, p.
- 194).
+ > Benzendo os alimentos, os seres humanos transformam as pessoas-animais
+ > em alimentos humanos e, assim, afirmam sua humanidade. A capacidade
+ > xamânica permite aos humanos superar os perigos inerentes à “natureza”
+ > e, ao mesmo tempo, incorporar a força vital que ela contém (1996, p.
+ > 194).
 <!--estilo de citação-->
 
 O leite materno pode ser visto como um alimento composto essencialmente
@@ -12217,12 +12219,12 @@ cozimento que amolece, apodrece o bebê, tendo como resultado o aborto.
 Como mostra Lévi-Strauss,
 
 <!--estilo de citação-->
- É patente o paralelismo com o cozimento por ebulição, cujos meios
- culturais (recipientes) são preservados, mas o cozimento, este que é,
- ele próprio, assimilado a um processo de autoaniquilação, uma vez que
- seu resultado definitivo equivale, pelo menos verbalmente, a esta
- putrefação que o cozimento deveria prevenir ou retardar. (1968, p.
- 32)
+ > É patente o paralelismo com o cozimento por ebulição, cujos meios
+ > culturais (recipientes) são preservados, mas o cozimento, este que é,
+ > ele próprio, assimilado a um processo de autoaniquilação, uma vez que
+ > seu resultado definitivo equivale, pelo menos verbalmente, a esta
+ > putrefação que o cozimento deveria prevenir ou retardar. (1968, p.
+ > 32)
  <!--estilo de citação-->
 
 Tão logo nasça a criança, o xamã sopra uma cuia de mingau mencionando as
@@ -12240,15 +12242,15 @@ corpo da mãe, impedindo o resfriamento, a desodorização e o
 endurecimento do bebê. Como mostra Hugh-Jones para os Tukano,
 
 <!--estilo de citação-->
- No nascimento, na nominação, na puberdade e na iniciação, o kumu
- controla as transições corporais e as transformações através da
- manipulação de artefatos identificados com as partes do corpo.
- Enunciados pelas divindades, os primeiros benzimentos afirmam essa
- identidade, mas o processo se dá numa direção oposta – longe dos
- corpos concretos e próximo a artefatos mais abstratos que servem como
- sinais para os componentes “espirituais” desses corpos. Isso é o que
- permite a socialização de pensamentos e de comportamentos \[…\]
- (2009, p. 47).
+ > No nascimento, na nominação, na puberdade e na iniciação, o kumu
+ > controla as transições corporais e as transformações através da
+ > manipulação de artefatos identificados com as partes do corpo.
+ > Enunciados pelas divindades, os primeiros benzimentos afirmam essa
+ > identidade, mas o processo se dá numa direção oposta – longe dos
+ > corpos concretos e próximo a artefatos mais abstratos que servem como
+ > sinais para os componentes “espirituais” desses corpos. Isso é o que
+ > permite a socialização de pensamentos e de comportamentos \[…\]
+ > (2009, p. 47).
  <!--estilo de citação-->
 
 A *inversão da panela* pode ser vista como uma manipulação xamânica
@@ -12498,12 +12500,12 @@ com um ser malfazejo. Um último aspecto comum às fêmeas mencionadas em
 **B6** vem a ser sua mobilidade, que, como no caso da paca, contribui para
 que todas tenham membros pélvicos musculosos, como observa Descola,
 
- Essas restrições geram dois tipos de consequências para as populações
- de herbívoros terrestres (pacas, antas, roedores e veados): de um
- lado, uma frágil densidade geral engendrada pela dispersão do material
- vegetal comestível e, por outro lado, uma tendência à mobilidade,
- principalmente para as espécies gregárias que precisam forragear por
- vastas áreas de nomadismo. (1986, p. 77)
+ > Essas restrições geram dois tipos de consequências para as populações
+ > de herbívoros terrestres (pacas, antas, roedores e veados): de um
+ > lado, uma frágil densidade geral engendrada pela dispersão do material
+ > vegetal comestível e, por outro lado, uma tendência à mobilidade,
+ > principalmente para as espécies gregárias que precisam forragear por
+ > vastas áreas de nomadismo. (1986, p. 77)
 
 A vida gregária e a mobilidade para a procura de frutos e grãos
 dispersos em vastas regiões são aspectos relevantes para a fabricação da
@@ -12817,7 +12819,7 @@ servir-se delas, como se a potência e a cultura do afecto fossem o
 verdadeiro objetivo do agenciamento, a arma sendo apenas um meio
 provisório” (Deleuze; Guattari, 1997, p. 85).
 
-<!--Fig. 23-->
+Figura 23
 Isabel terminando um aturá (foto: Danilo Paiva Ramos, 2012)
 
 Com o crescimento corporal, os aturás e os arcos e flechas aumentam de
@@ -12930,12 +12932,12 @@ seguem os cipós e as madeiras no fluxo de suas matérias, em suas
 itinerâncias conforme fazem crescer seus artefatos,
 
 <!--estilo de citação-->
- De qualquer modo, trata-se de seguir a madeira, e de seguir na
- madeira, conectando operações e uma materialidade, em vez de impor uma
- forma a uma matéria: mais que a uma matéria submetida a leis, vai-se
- na direção de uma materialidade que possui um nomos. Mais que a uma
- forma capaz de impor propriedades à matéria, vai-se na direção de
- traços materiais de expressão que constituem *afectos*. (1980, p. 96)
+ > De qualquer modo, trata-se de seguir a madeira, e de seguir na
+ > madeira, conectando operações e uma materialidade, em vez de impor uma
+ > forma a uma matéria: mais que a uma matéria submetida a leis, vai-se
+ > na direção de uma materialidade que possui um nomos. Mais que a uma
+ > forma capaz de impor propriedades à matéria, vai-se na direção de
+ > traços materiais de expressão que constituem *afectos*. (1980, p. 96)
 <!--estilo de citação-->
 
 Isabel alerta que a mãe que pega em aturá deixa os olhos da criança
@@ -13015,13 +13017,13 @@ a doença causada pelo toque do aturá é um modo de feitiço
 indireto causado pela ação maléfica do sol. Nas palavras da antropóloga:
 
 <!--estilo de citação-->
- A segunda forma de feitiçaria consiste em alterar um objeto que
- pertence a, ou que é utilizado pela pessoa que se pretende agredir,
- recitando um encantamento sobre esse objeto: o mal é assim transferido
- ao indivíduo. Como em numerosos grupos indígenas, os Desana postulam
- uma ligação entre um indivíduo e seus pertences (vestes, utensílios,
- etc.) como continuidades de si em efeitos pessoais ou nos objetos que
- ele utiliza. (Buchillet, 1983, p. 137)
+ > A segunda forma de feitiçaria consiste em alterar um objeto que
+ > pertence a, ou que é utilizado pela pessoa que se pretende agredir,
+ > recitando um encantamento sobre esse objeto: o mal é assim transferido
+ > ao indivíduo. Como em numerosos grupos indígenas, os Desana postulam
+ > uma ligação entre um indivíduo e seus pertences (vestes, utensílios,
+ > etc.) como continuidades de si em efeitos pessoais ou nos objetos que
+ > ele utiliza. (Buchillet, 1983, p. 137)
 <!--estilo de citação-->
 
 Da mesma forma como o sopro das palavras faz com que as ações /hã̗wägät/
@@ -13145,26 +13147,26 @@ Hupd’äh não puderam ser observados por Reid, que escreveu as
 seguintes notas sobre o ritual:
 
 <!--estilo de citação-->
- Durante os rituais formais, as crianças, meninos e meninas, são
- obrigados a deixar a maloca e a manterem-se afastados quando os
- trompetes Jurupari entram na maloca. Entretanto, com aproximadamente 9
- anos, os jovens são expostos aos trompetes pela primeira vez.
- Disseram-me que esse é o evento que marca formalmente a transição da
- infância à idade adulta. \[…\] As cerimônias rituais de troca
- praticadas pelos Hupdʉ são denominadas Pwu!, que significa derramar.
- \[…\] Essas cerimônias geralmente envolvem o uso dos trompetes
- sagrados, que possuem diversos nomes em Hupdʉ. Desse modo, em rituais
- formais, os jovens não somente performam e aprendem como tocar os
- trompetes sagrados, mas também a dançar corretamente. Além disso,
- recebem orientações dos anciões em mitologia e cantos. \[...\] Muitos
- dias antes da realização dos rituais, os homens Hupdʉ vão à floresta
- para caçar ou coletar frutas silvestres demandadas, enquanto os Índios
- do Rio preparam o caxiri, o tabaco e a coca. \[…\] Na alvorada, após
- algumas horas de descanso em seus cantos, os Hupdʉ começam a
- apresentação das frutas aos anfitriões, vestindo suas melhores roupas
- e tendo o rosto pintado. Eles dançam em linha até a maloca, e após
- sequências de dança e consumo de bebida, depositam suas dádivas no
- centro da maloca.(Reid, 1979, p. 151-2; 181-2).
+ > Durante os rituais formais, as crianças, meninos e meninas, são
+ > obrigados a deixar a maloca e a manterem-se afastados quando os
+ > trompetes Jurupari entram na maloca. Entretanto, com aproximadamente 9
+ > anos, os jovens são expostos aos trompetes pela primeira vez.
+ > Disseram-me que esse é o evento que marca formalmente a transição da
+ > infância à idade adulta. \[…\] As cerimônias rituais de troca
+ > praticadas pelos Hupdʉ são denominadas Pwu!, que significa derramar.
+ > \[…\] Essas cerimônias geralmente envolvem o uso dos trompetes
+ > sagrados, que possuem diversos nomes em Hupdʉ. Desse modo, em rituais
+ > formais, os jovens não somente performam e aprendem como tocar os
+ > trompetes sagrados, mas também a dançar corretamente. Além disso,
+ > recebem orientações dos anciões em mitologia e cantos. \[...\] Muitos
+ > dias antes da realização dos rituais, os homens Hupdʉ vão à floresta
+ > para caçar ou coletar frutas silvestres demandadas, enquanto os Índios
+ > do Rio preparam o caxiri, o tabaco e a coca. \[…\] Na alvorada, após
+ > algumas horas de descanso em seus cantos, os Hupdʉ começam a
+ > apresentação das frutas aos anfitriões, vestindo suas melhores roupas
+ > e tendo o rosto pintado. Eles dançam em linha até a maloca, e após
+ > sequências de dança e consumo de bebida, depositam suas dádivas no
+ > centro da maloca.(Reid, 1979, p. 151-2; 181-2).
 <!--estilo de citação-->
 
 Para descrever os pertences dos seres intrauterinos, Ponciano remetia-se
@@ -13280,11 +13282,11 @@ para que as presas não se vinguem daquele que preda seus corpos.
 Seguindo Århem,
 
 <!--estilo de citação-->
- Conforme o benzedor dos alimentos remove a “armas” da comida e
- manda-as de volta a sua origem, ele performa um ato essencialmente
- regenerativo: faz retornar a “alma” do animal morto e cozido (ou da
- planta comestível) para sua casa de nascimento e, por meio disso,
- permite seu subsequente renascimento .(Århem, 1996, p.197)
+ > Conforme o benzedor dos alimentos remove a “armas” da comida e
+ > manda-as de volta a sua origem, ele performa um ato essencialmente
+ > regenerativo: faz retornar a “alma” do animal morto e cozido (ou da
+ > planta comestível) para sua casa de nascimento e, por meio disso,
+ > permite seu subsequente renascimento .(Århem, 1996, p.197)
 <!--estilo de citação-->
 
 A morte do animal é, como para os humanos, uma fragmentação de seus
@@ -13527,7 +13529,7 @@ matrimonial.[^117] Mas as flautas possuem também laços fraternos, pois o
 como o do par /Soho̗/,  “Caranguejo”, e /Mo̗t/[^118], em que os dois
 termos são considerados irmãos e cônjuges simultaneamente.
 
-<!--Fig. 24-->
+Figura 24
 Relações matrimoniais e fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/
 
 Os nomes dos trompetes são todos nomes de animais como /Moho̖y/, “Veado”,
@@ -13557,17 +13559,17 @@ ser ocupada de forma a aludir a relações endogâmicas ou exogâmicas.
 Segundo Piedade que analisou a Música de Jurupari dos Tukano,
 
 <!--estilo de citação-->
- Como na Música de Cariçu e de Japurutu, emprega-se aqui uma técnica
- de alternância em cada par de instrumentos, no entanto os papéis e as
- regras são bastante diferentes. Novamente os papéis de chefe e
- respondedor são associados a um instrumento macho e uma fêmea. Mas
- além disso, os instrumentos miriá representam seres musicais da
- natureza, com nomes de animais, cada um dotado de uma força espiritual
- específica. O representante macho destes seres é o trompete, feito de
- paxiúba, enquanto a fêmea é uma flauta, feita de jupatí. De fato, no
- simbolismo Jurupari a questão do gênero (*gender*) é uma temática
- central que perpassa todos seus elementos. Os miriá-põ’ra e a Música
- de Jurupari são segredos dos homens. (1997, p. 115)
+ > Como na Música de Cariçu e de Japurutu, emprega-se aqui uma técnica
+ > de alternância em cada par de instrumentos, no entanto os papéis e as
+ > regras são bastante diferentes. Novamente os papéis de chefe e
+ > respondedor são associados a um instrumento macho e uma fêmea. Mas
+ > além disso, os instrumentos miriá representam seres musicais da
+ > natureza, com nomes de animais, cada um dotado de uma força espiritual
+ > específica. O representante macho destes seres é o trompete, feito de
+ > paxiúba, enquanto a fêmea é uma flauta, feita de jupatí. De fato, no
+ > simbolismo Jurupari a questão do gênero (*gender*) é uma temática
+ > central que perpassa todos seus elementos. Os miriá-põ’ra e a Música
+ > de Jurupari são segredos dos homens. (1997, p. 115)
 <!--estilo de citação-->
 
 De forma semelhante, no evento de Jurupari presenciado por mim, as
@@ -13598,7 +13600,7 @@ indivíduo move-se através de três gerações assumindo o lugar de filho,
 de pai e de avô, de forma semelhante à diferenciação entre as flautas
 Jurupari (1979, p. 117).
 
-<!--inserir quadro p.365 do arquivo pdf-->
+Figura inserir quadro p.365 do arquivo pdf
 
 Grupos exogâmicos presentes em /Ta̗t-Dëh/ divididos em /bab’däh/,
 “irmãos”, e /yo̖h däh/, “cunhados”, segundo a perspectiva do clã
@@ -13669,15 +13671,15 @@ realizados atualmente entre parceiros Tukano e Tariano na região de
 Iauareté, Andrello afirma que:
 
 <!--estilo de citação-->
- O dabucuri estabelece, portanto, uma espiral de prestações e
- contraprestações, pois para cancelar o débito criado é preciso um
- outro dabucuri, no qual as posições irão se inverter. Apesar da
- plasticidade que envolve o ritual – atestada pelas novas situações que
- passam a ocorrer hoje em dia ‒, sua estrutura básica refere-se essa
- justaposição de identidades, cuja epítome é a relação entre dois
- grupos que trocam mulheres, isto é, a relação entre cunhados. Tal
- relação é, precisamente, a que se verifica entre os Tariano e Tukano.
- (2011, p. 18)
+ > O dabucuri estabelece, portanto, uma espiral de prestações e
+ > contraprestações, pois para cancelar o débito criado é preciso um
+ > outro dabucuri, no qual as posições irão se inverter. Apesar da
+ > plasticidade que envolve o ritual – atestada pelas novas situações que
+ > passam a ocorrer hoje em dia ‒, sua estrutura básica refere-se essa
+ > justaposição de identidades, cuja epítome é a relação entre dois
+ > grupos que trocam mulheres, isto é, a relação entre cunhados. Tal
+ > relação é, precisamente, a que se verifica entre os Tariano e Tukano.
+ > (2011, p. 18)
 <!--estilo de citação-->
 
 No caso, as prestações e contraprestações no evento descrito colocam-se
@@ -13692,12 +13694,12 @@ do mato” como: ucuqui, buriti, açaí, /mo̗t/ (tipo de cunuri), ingá
 /po̗-min/,  cucura do mato /pɨ̖͂g/.  Em suas palavras,
 
 <!--estilo de citação-->
- Quando cai ucuqui, vai ver no mato. Depois conversa com o pessoal:
- “Eu queria fazer Dabucuri para vocês”. O outro pergunta “quantos dias
- dá pra tirar?”. O que tá oferecendo diz “se em três, quatro ou cinco”.
- “Já! Eu quero”, responde o Joaquim, “bora tirar”. Vão em grupo. O
- outro fala: “Vamos arrancar maniva pra fazer caxiri!”. (Caderno de
- Campo, Abr. de 2012)
+ > Quando cai ucuqui, vai ver no mato. Depois conversa com o pessoal:
+ > “Eu queria fazer Dabucuri para vocês”. O outro pergunta “quantos dias
+ > dá pra tirar?”. O que tá oferecendo diz “se em três, quatro ou cinco”.
+ > “Já! Eu quero”, responde o Joaquim, “bora tirar”. Vão em grupo. O
+ > outro fala: “Vamos arrancar maniva pra fazer caxiri!”. (Caderno de
+ > Campo, Abr. de 2012)
 <!--estilo de citação-->
 
 Uma grande caça, a obtenção de muitos peixes ao tinguejar um igarapé ou
@@ -13742,15 +13744,15 @@ instrumentos, as panelas de caxiri começam a “ferver” intensamente. Nas
 palavras de Américo:
 
 <!--estilo de citação-->
- O caxiri vai fervendo conforme vai chegando o Jurupari. O chefe do
- caxiri está chamando. Ele fala: “Já chega, vocês sofreram muito no
- mato, muito perigo. Agora vocês vão viver bem. Ele oferece duas cuias
- do caxiri benzido. Todos bebem e ficam bêbados rápido. O dono fala:
- /Hu̖͂t döh tu̗u̗y. Hup he̖me̖y s’u̖gu̖t, tɨ͂hɨ̗͂y ni̗i̗, Bisi̗w ni̗i̗, Döh Ã̗y ni̗i̗.
- Hu̗ptök ne̗ne̗n. K’o̗po̗p/, “Vocês querem tabaco. Vocês sofreram na mata
- onde há muita jararaca. Passaram pelos perigosos domínios do /Bisi̗w/,
- da /Döh Ã̗y/. O caxiri já vem. Eu ofereço para que vocês se
- satisfaçam”. (Caderno de campo, Abril de. 2012)
+ > O caxiri vai fervendo conforme vai chegando o Jurupari. O chefe do
+ > caxiri está chamando. Ele fala: “Já chega, vocês sofreram muito no
+ > mato, muito perigo. Agora vocês vão viver bem. Ele oferece duas cuias
+ > do caxiri benzido. Todos bebem e ficam bêbados rápido. O dono fala:
+ > /Hu̖͂t döh tu̗u̗y. Hup he̖me̖y s’u̖gu̖t, tɨ͂hɨ̗͂y ni̗i̗, Bisi̗w ni̗i̗, Döh Ã̗y ni̗i̗.
+ > Hu̗ptök ne̗ne̗n. K’o̗po̗p/, “Vocês querem tabaco. Vocês sofreram na mata
+ > onde há muita jararaca. Passaram pelos perigosos domínios do /Bisi̗w/,
+ > da /Döh Ã̗y/. O caxiri já vem. Eu ofereço para que vocês se
+ > satisfaçam”. (Caderno de campo, Abril de. 2012)
 <!--estilo de citação-->
 
 Novamente, o dono “chama” seus seguidores através do caxiri fervente.
@@ -13827,7 +13829,7 @@ reciprocidade de gêneros recolocava a dádiva entre afins. Num próximo
 encontro de Dabucuri seriam os donos /Sokw’ä̗t/  que deveriam retribuir as
 ofertas, quer às mulheres, quer a seus cunhados.
 
-<!--Fig. 25-->
+Figura 25
 Papéis rituais: clã /Sokw’ä̗t Noh K’öd Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/
 
 Tomando como referência a posição ocupada pelos neófitos, é possível
@@ -13938,50 +13940,50 @@ instrumentos pertencem aos donos locais, senhores como Ponciano e
 Firmino, a quem são atribuídos territórios, agrupamentos residenciais e
 rodas de coca.
 
-**M17. Viagem com as flautas**
-
- Os “Ancestrais”, /Hib’a̗h te̖͂h d’äh/, apareceram em Ipanoré. Daí, foram
- dentro da Cobra-Canoa para o Lago de Leite para receber suas coisas.
- Receberam coca, tabaco, as histórias, a zarabatana, o arco e a flecha,
- o pilão de coca, tudo. Todas as etnias receberam e depois vieram na
- Cobra-Canoa. Foram para o Papuri primeiro. Lá há o /hib’a̗h kä̗d/,
- “banco-de-nascimento”. Em seguida, foram para /Dëh Pohot/,
- “Caruru-Cachoeira”. Dali, foram para /S’ɨ̗g-Mo̖y-Paç/,
- “Serra da Iniciação”. Foi lá que /K’e̖g-Te͂h/  deu as flautas sagradas.
-
- Foram então para /To̗͂h-Paç/, “Serra dos Porcos”. Lá em /Tõ̗h/  há um
- cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra da Iniciação” é na
- cabeceira do /K’a̗j-Dëh/,  “Igarapé-Cutivaia”. Fui lá com meu pai. Há um
- caminho, mas está muito ruim. Em /Su̗g-Dëh/, “Igarapé-Beija-Flor”, há
- os ancestrais dos /Paç Ya’a̗m Te̖͂h/. Já os ancestrais dos /Dög M’e̖h Te̖͂h/
- ficam na cabeceira de /Ta̗t-Dëh/. As flautas sagradas foram dadas aos
- homens na “Serra da Iniciação”.
-
- As flautas vieram do corpo queimado do /Bisi̗w/.  Ele comeu as crianças
- pelo ânus e depois foi queimado pelos pais. De seu corpo fizeram-se as
- flautas. Seu /hã̗wäg/ saiu e foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
-
- Houve um tempo em que eram as mulheres que tinham as flautas. Os
- homens não sabiam fazer roça. Elas não sabiam tocar os /Döhö däh/,
- “Jurupari”. Não tinham vagina nem menstruavam. Por causa da posse das
- flautas Jurupari elas ficaram doentes e morreram, todas elas.
-
- Tocar as flautas lava as frutas e a carne. /Bisi̗w/  não aparece, mas
- fica ouvindo. As mulheres, quando roubaram as flautas, ficaram sem
- saber ter filhos. Acabaram morrendo. Hoje, as mulheres têm muito medo.
- As flautas ficam no igarapé para as mulheres não verem. A cerimônia
- faz os jovens transformarem-se em guerreiros. Se as mulheres virem,
- morrem todas (Ponciano, 26/02/2012).
-
-Em **M17**, a navegação pelo Rio de Leite na Cobra-Canoa permite aos
-ancestrais receber os alimentos primordiais, coca e tabaco, as armas de
-caça, arco e flecha e zarabatana, o pilão para o preparo da coca e as
-histórias[^120]. No retorno à planície do Uaupés, os ancestrais
-sentam-se para conversar nos “bancos de nascimento” às margens do rio
-Papuri, para comer coca, fumar e “saber como iriam habitar aquelas
-terras” (**M13**). Após essa roda de coca primordial, os viajantes seguem
-caminhando até a Serra da Iniciação, onde recebem as flautas Jurupari
-como uma segunda dádiva de /K’e̖g-Te͂h/.
+> **M17. Viagem com as flautas**
+> 
+ > Os “Ancestrais”, /Hib’a̗h te̖͂h d’äh/, apareceram em Ipanoré. Daí, foram
+ > dentro da Cobra-Canoa para o Lago de Leite para receber suas coisas.
+ > Receberam coca, tabaco, as histórias, a zarabatana, o arco e a flecha,
+ > o pilão de coca, tudo. Todas as etnias receberam e depois vieram na
+ > Cobra-Canoa. Foram para o Papuri primeiro. Lá há o /hib’a̗h kä̗d/,
+ > “banco-de-nascimento”. Em seguida, foram para /Dëh Pohot/,
+ > “Caruru-Cachoeira”. Dali, foram para /S’ɨ̗g-Mo̖y-Paç/,
+ > “Serra da Iniciação”. Foi lá que /K’e̖g-Te͂h/  deu as flautas sagradas.
+> 
+ > Foram então para /To̗͂h-Paç/, “Serra dos Porcos”. Lá em /Tõ̗h/  há um
+ > cemitério dos /Sokw’a̗t Noh K’öd Te̖͂h/. Essa “Serra da Iniciação” é na
+ > cabeceira do /K’a̗j-Dëh/,  “Igarapé-Cutivaia”. Fui lá com meu pai. Há um
+ > caminho, mas está muito ruim. Em /Su̗g-Dëh/, “Igarapé-Beija-Flor”, há
+ > os ancestrais dos /Paç Ya’a̗m Te̖͂h/. Já os ancestrais dos /Dög M’e̖h Te̖͂h/
+ > ficam na cabeceira de /Ta̗t-Dëh/. As flautas sagradas foram dadas aos
+ > homens na “Serra da Iniciação”.
+> 
+ > As flautas vieram do corpo queimado do /Bisi̗w/.  Ele comeu as crianças
+ > pelo ânus e depois foi queimado pelos pais. De seu corpo fizeram-se as
+ > flautas. Seu /hã̗wäg/ saiu e foi para a /Paç-Mo̖y/, “Casa-de-Pedra”.
+> 
+ > Houve um tempo em que eram as mulheres que tinham as flautas. Os
+ > homens não sabiam fazer roça. Elas não sabiam tocar os /Döhö däh/,
+ > “Jurupari”. Não tinham vagina nem menstruavam. Por causa da posse das
+ > flautas Jurupari elas ficaram doentes e morreram, todas elas.
+> 
+ > Tocar as flautas lava as frutas e a carne. /Bisi̗w/  não aparece, mas
+ > fica ouvindo. As mulheres, quando roubaram as flautas, ficaram sem
+ > saber ter filhos. Acabaram morrendo. Hoje, as mulheres têm muito medo.
+ > As flautas ficam no igarapé para as mulheres não verem. A cerimônia
+ > faz os jovens transformarem-se em guerreiros. Se as mulheres virem,
+ > morrem todas (Ponciano, 26/02/2012).
+> 
+> Em **M17**, a navegação pelo Rio de Leite na Cobra-Canoa permite aos
+> ancestrais receber os alimentos primordiais, coca e tabaco, as armas de
+> caça, arco e flecha e zarabatana, o pilão para o preparo da coca e as
+> histórias[^120]. No retorno à planície do Uaupés, os ancestrais
+> sentam-se para conversar nos “bancos de nascimento” às margens do rio
+> Papuri, para comer coca, fumar e “saber como iriam habitar aquelas
+> terras” (**M13**). Após essa roda de coca primordial, os viajantes seguem
+> caminhando até a Serra da Iniciação, onde recebem as flautas Jurupari
+> como uma segunda dádiva de /K’e̖g-Te͂h/.
 
 Ocorre, então, uma separação dos ancestrais que levam suas flautas e
 passam a habitar regiões distintas. Ponciano menciona um cemitério do
@@ -14000,14 +14002,14 @@ delimitada, no interior da qual perambulam e desenvolvem atividades
 produtivas.
 
 <!--estilo de citação-->
- Para os Hupd’äh, nîh s’ah representa o espaço, o lugar, o território
- que eles podem perambular, andar, caçar, neste caso, no interior da
- floresta, os fazem parte deste mundo, mas habitado, com donos. A ideia
- de fronteira existe, é como se eles estivessem ligados a esta terra
- podendo usufruir de todo espaço necessário na floresta, no interior, o
- que tenho chamado de área interfluvial. Cada clã hupd’äh utiliza uma
- área comum e neste espaço encontram-se os locais onde K’ég-teh esteve
- durante a criação do mundo. (2010, p. 61)
+ > Para os Hupd’äh, nîh s’ah representa o espaço, o lugar, o território
+ > que eles podem perambular, andar, caçar, neste caso, no interior da
+ > floresta, os fazem parte deste mundo, mas habitado, com donos. A ideia
+ > de fronteira existe, é como se eles estivessem ligados a esta terra
+ > podendo usufruir de todo espaço necessário na floresta, no interior, o
+ > que tenho chamado de área interfluvial. Cada clã hupd’äh utiliza uma
+ > área comum e neste espaço encontram-se os locais onde K’ég-teh esteve
+ > durante a criação do mundo. (2010, p. 61)
 <!--estilo de citação-->
 
 De modo interessante, os eventos narrados por Ponciano em **M17** iluminam
@@ -14070,11 +14072,11 @@ Reid descreve a tendência de composição de base agnática dos grupos
 locais hup com a agregação de famílias afins da seguinte maneira:
 
 <!--estilo de citação-->
- Embora os Hupdʉ também empreguem esse princípio de aglutinação
- através dos *siblings* por gênero, o uso da aglutinação através dos
- *siblings* masculinos ocorre com maior frequência entre eles.
- Consequentemente, a composição dos grupos locais Hupdʉ tende a ser
- menos de base agnática do que entre os Bara-Maku (1979, p. 127).
+ > Embora os Hupdʉ também empreguem esse princípio de aglutinação
+ > através dos *siblings* por gênero, o uso da aglutinação através dos
+ > *siblings* masculinos ocorre com maior frequência entre eles.
+ > Consequentemente, a composição dos grupos locais Hupdʉ tende a ser
+ > menos de base agnática do que entre os Bara-Maku (1979, p. 127).
 <!--estilo de citação-->
 
 Desse modo, a formação do povoado-missão de /Ta̗t-Dëh/, na década de
@@ -14116,7 +14118,7 @@ de Henrique, o caminho que se abre de /Ta̗t-Dëh/ e leva até /B’ö̖’-Paç
 irmãos e filhos abrem suas roças, pescam e caçam (ver diagrama anexo ‒
 Anexo 2).
 
-<!--Fig. 26-->
+Figura 26
 Distribuição das casas de /Ta̗t-Dëh/
 
 Por ocasião da fundação de /Ta̗t-Dëh/, a reunião de muitos membros do
@@ -14205,10 +14207,10 @@ frequentar a escola. Distante dos /kopot/ centrais, o primogênito do
 ancestral Joanico construiu uma casa onde habita com a esposa e a sogra,
 e uma segunda, para seu filho e sua nora.
 
-<!--Fig. 27-->
+Figura 27
 Laços de afinidade e filiação do /kopot/ centrado em Firmino (ego)
 
-<!--Fig. 28-->
+Figura 28
 /Kopot/ centrado em Ponciano (ego) por laços de afinidade e filiação
 
 Os esquemas de parentesco permitem ver com clareza de que modo as casas
@@ -14373,17 +14375,17 @@ instrumentos que permanecem enterrados no rio para, durante os rituais,
 serem montados e trazidos para a maloca:
 
 <!--estilo de citação-->
- Os próprios instrumentos são feitos de partes do tronco da palmeira
- de paxiúba, assim como todos os instrumentos de Yurupary. De acordo
- com os mitos do Yurupary, essa palmeira cresceu a partir das cinzas do
- corpo queimado de Yurupary. A alma de Yurupary \[...\] penetrou a
- palmeira durante seu crescimento e a partir dela ascendeu ao céu.
- \[...\] Os instrumentos He também estabelecem mediação entre a terra e
- a água, devido ao fato de serem mantidos submersos nos rios, sendo
- trazidos para a terra seca para o uso. A passagem da água para a
- terra, e da floresta, onde são mantidos, para a maloca, onde são
- utilizados, sinaliza também a passagem da morte, estado inerte, para a
- vida, enquanto um estado ativo.
+ > Os próprios instrumentos são feitos de partes do tronco da palmeira
+ > de paxiúba, assim como todos os instrumentos de Yurupary. De acordo
+ > com os mitos do Yurupary, essa palmeira cresceu a partir das cinzas do
+ > corpo queimado de Yurupary. A alma de Yurupary \[...\] penetrou a
+ > palmeira durante seu crescimento e a partir dela ascendeu ao céu.
+ > \[...\] Os instrumentos He também estabelecem mediação entre a terra e
+ > a água, devido ao fato de serem mantidos submersos nos rios, sendo
+ > trazidos para a terra seca para o uso. A passagem da água para a
+ > terra, e da floresta, onde são mantidos, para a maloca, onde são
+ > utilizados, sinaliza também a passagem da morte, estado inerte, para a
+ > vida, enquanto um estado ativo.
 <!--estilo de citação-->
 
 A versão mítica barasana mostra-se como uma transformação de **M17** com as
@@ -14525,14 +14527,14 @@ boca, pele, osso, etc., o que explicita a analogia entre as flautas e o
 corpo humano,
 
 <!--estilo de citação-->
- Um pouco antes do início do ritual, os convidados pegam suas cargas de
- frutas da floresta e lá eles constroem os trompetes Jurupari a partir
- da casca e do tronco de várias árvores. As palavras utilizadas para
- descreveras várias partes do trompete são pele, osso, boca etc., o que
- aponta que essas entidades representam corpos. Uma vez construídos
- esses corpos, eles são penetrados pelas sombras ou fantasmas das
- gentes do nascimento (ancestrais), e nesse estado são perigosos, pois
- estão repletos de essência quente. (Reid, 1979, p. 280).
+ > Um pouco antes do início do ritual, os convidados pegam suas cargas de
+ > frutas da floresta e lá eles constroem os trompetes Jurupari a partir
+ > da casca e do tronco de várias árvores. As palavras utilizadas para
+ > descreveras várias partes do trompete são pele, osso, boca etc., o que
+ > aponta que essas entidades representam corpos. Uma vez construídos
+ > esses corpos, eles são penetrados pelas sombras ou fantasmas das
+ > gentes do nascimento (ancestrais), e nesse estado são perigosos, pois
+ > estão repletos de essência quente. (Reid, 1979, p. 280).
 <!--estilo de citação-->
 
 Segundo o pesquisador, esses corpos construídos e formados pela boca,
@@ -14562,16 +14564,16 @@ pimenta” para enfraquecer o calor de seus corpos. Durante uma roda de
 coca, Jovino alertou-me sobre alguns gestos que não devem ser feitos
 durante o Dabucuri:
 
- Durante o Dabucuri, não pode coçar a cabeça, senão pega piolho. Coça
- apenas com um pauzinho. Não pode cruzar os braços, senão vira /o/, um
- peixinho pequeno. Antes de chegarem as mulheres, pode pegar o cariçu
- para fazer limpeza, porque elas não podem pisar na saliva do Jurupari.
- Pode dar ferida na perna da mulher e do homem. Pode dar infecção. Toca
- o cariçu e limpa. Na hora da festa, só velho pode comer peixe assado
- que pesca no mato. \[...\] Dá /Sub/, “ferida”, quando come carne
- assada sem benzer durante a festa. Não pode assobiar nem gritar, senão
- dá cárie. Não pode encostar na mulher, porque ela pode sentir o cheiro
- da flauta. (Jovino, 24/ 08/ 2011)
+ > Durante o Dabucuri, não pode coçar a cabeça, senão pega piolho. Coça
+ > apenas com um pauzinho. Não pode cruzar os braços, senão vira /o/, um
+ > peixinho pequeno. Antes de chegarem as mulheres, pode pegar o cariçu
+ > para fazer limpeza, porque elas não podem pisar na saliva do Jurupari.
+ > Pode dar ferida na perna da mulher e do homem. Pode dar infecção. Toca
+ > o cariçu e limpa. Na hora da festa, só velho pode comer peixe assado
+ > que pesca no mato. \[...\] Dá /Sub/, “ferida”, quando come carne
+ > assada sem benzer durante a festa. Não pode assobiar nem gritar, senão
+ > dá cárie. Não pode encostar na mulher, porque ela pode sentir o cheiro
+ > da flauta. (Jovino, 24/ 08/ 2011)
 
 É preciso limpar a maloca soprando as flautas cariçu para neutralizar a
 afecção patogênica da saliva do Jurupari. O contato dos dedos com a
@@ -14695,17 +14697,17 @@ Comentando sobre o trabalho feminino, Reid enfatiza o caráter árduo da
 lida com as manivas e a pouca especialização entre as agricultoras,
 
 <!--estilo de citação-->
- As mulheres geralmente colhem, capinam e replantam pedaços de
- aproximadamente 4x4 metros em algumas horas. Depois disso, retornam ao
- porto próximo à casa. Todas as mulheres se reúnem nesse local,
- banham-se, banham seus bebês e lavam os tubérculos de mandioca.
- \[...\] Na maior parte dos dias, o cultivo e processamento de mandioca
- leva entre seis e nove horas, sendo o restante do tempo preenchido
- pelas atividades domésticas. Do modo como pude observar, há pouca
- especialização individual entre as mulheres, embora as mulheres mais
- velhas possam preparar a farinha de mandioca e, especialmente, tramar
- cestos de carga muito mais rápido que as mulheres jovens (Reid, 1979,
- p. 39).
+ > As mulheres geralmente colhem, capinam e replantam pedaços de
+ > aproximadamente 4x4 metros em algumas horas. Depois disso, retornam ao
+ > porto próximo à casa. Todas as mulheres se reúnem nesse local,
+ > banham-se, banham seus bebês e lavam os tubérculos de mandioca.
+ > \[...\] Na maior parte dos dias, o cultivo e processamento de mandioca
+ > leva entre seis e nove horas, sendo o restante do tempo preenchido
+ > pelas atividades domésticas. Do modo como pude observar, há pouca
+ > especialização individual entre as mulheres, embora as mulheres mais
+ > velhas possam preparar a farinha de mandioca e, especialmente, tramar
+ > cestos de carga muito mais rápido que as mulheres jovens (Reid, 1979,
+ > p. 39).
 <!--estilo de citação-->
 
 De certo modo, enfatizando não a especialização das agricultoras segundo
@@ -14921,13 +14923,13 @@ após a vingança dos pais dos rapazes devorados. Como descreve
 Reichel-Dolmatoff (1986, p. 188) para os Desana:
 
 <!--estilo de citação-->
- O fato de que o mesmo sentimento de segurança pessoal também exige,
- por vezes, atitudes negativas, é apenas natural. Agressões mágicas
- para causar uma desgraça ao próximo, doença ou até a morte são
- frequentes entre os Desana e as causas para essas inimizades podem ser
- múltiplas: a invasão de um território de caça ou de pesca; um roubo
- cometido em uma roça ou, talvez, algum desgosto ocorrido durante uma
- festa.
+ > O fato de que o mesmo sentimento de segurança pessoal também exige,
+ > por vezes, atitudes negativas, é apenas natural. Agressões mágicas
+ > para causar uma desgraça ao próximo, doença ou até a morte são
+ > frequentes entre os Desana e as causas para essas inimizades podem ser
+ > múltiplas: a invasão de um território de caça ou de pesca; um roubo
+ > cometido em uma roça ou, talvez, algum desgosto ocorrido durante uma
+ > festa.
 <!--estilo de citação-->
 
 A palavra /döhöy/ traduzida pelos Hupd’äh como “estrago” ou “feitiço”
@@ -14949,16 +14951,16 @@ palavras apenas causarão malefícios aos outros. Para Buchillet (1983, p.
 encantamentos semelhantes aos benzimentos de cura e proteção:
 
 <!--estilo de citação-->
- Por outro lado, os textos foram concebidos para cuidar (encantamentos
- terapêuticos) ou para provocar (encantamentos maléficos) esses
- malefícios. Esses textos são elaborados a partir de episódios míticos
- relativos às situações de criação das doenças. \[..\] A cura e o meio
- de produzir as doenças são transmitidas aos ku͂bu͂ pelas gerações. Os
- Desana insistem sempre sobre o fato de que não há “bons ku͂bu͂” ou “ku͂bu͂
- malfeitores”, toda cura é ensinada e aprendida ao mesmo tempo que seu
- contrário, encantamentos terapêuticos e agressões fazem parte de um
- arsenal terapêutico de todo ku͂bu͂, encantamentos terapêuticos e de
- agressões são, portanto, complementares.
+ > Por outro lado, os textos foram concebidos para cuidar (encantamentos
+ > terapêuticos) ou para provocar (encantamentos maléficos) esses
+ > malefícios. Esses textos são elaborados a partir de episódios míticos
+ > relativos às situações de criação das doenças. \[..\] A cura e o meio
+ > de produzir as doenças são transmitidas aos ku͂bu͂ pelas gerações. Os
+ > Desana insistem sempre sobre o fato de que não há “bons ku͂bu͂” ou “ku͂bu͂
+ > malfeitores”, toda cura é ensinada e aprendida ao mesmo tempo que seu
+ > contrário, encantamentos terapêuticos e agressões fazem parte de um
+ > arsenal terapêutico de todo ku͂bu͂, encantamentos terapêuticos e de
+ > agressões são, portanto, complementares.
 <!--estilo de citação-->
 
 Na explicação dada por meus interlocutores, a “fala poderosa” pode ser
@@ -14970,10 +14972,10 @@ sofrimento. Refletindo sobre a cerimônia de rupari, Reid (1979, p.
 quente e extremamente perigoso. Em suas palavras,
 
 <!--estilo de citação-->
- Desse modo, os Hupdʉ induzem neles mesmos um estado muito quente e
- perigoso que leva ao clímax do dia seguinte, quando as mulheres e as
- crianças correm da casa e os trompetes Jurupari e as frutas são
- trazidas para dentro.
+ > Desse modo, os Hupdʉ induzem neles mesmos um estado muito quente e
+ > perigoso que leva ao clímax do dia seguinte, quando as mulheres e as
+ > crianças correm da casa e os trompetes Jurupari e as frutas são
+ > trazidas para dentro.
 <!--estilo de citação-->
 
 Retomando **M15**, é possível perceber que os males que acometem /Bisi̗w/
@@ -15042,17 +15044,17 @@ contexto de expressão das tensões, frustrações e ódios entre pessoas e
 grupos. Nas palavras do autor:
 
 <!--estilo de citação-->
- Os Hupdʉ são calmos, quietos e autocontrolados no dia a dia, mas à
- medida que a festa se inicia, a casa torna-se cada vez mais barulhenta
- \[...\] Nos momentos finais da festa ocorrem brigas sérias que
- irrompem entre coabitantes, ou entre anfitriões e convidado,
- terminando quase sempre em mortes ou em injúrias sérias. \[...\]
- Exceto pelos desentendimentos ocasionais entre maridos e esposas, as
- brigas ocorrem somente durante as festas de caxiri ou rituais. \[...\]
- Desejos, frustrações, ciúmes, afetos ou desafetos pessoais e outras
- tensões propensas a ocorrer entre grupos pequenos de pessoas vivendo
- em intensa intimidade encontram expressão durante as festas de caxiri,
- ao passo que são completamente reprimidas no dia-a-dia.
+ > Os Hupdʉ são calmos, quietos e autocontrolados no dia a dia, mas à
+ > medida que a festa se inicia, a casa torna-se cada vez mais barulhenta
+ > \[...\] Nos momentos finais da festa ocorrem brigas sérias que
+ > irrompem entre coabitantes, ou entre anfitriões e convidado,
+ > terminando quase sempre em mortes ou em injúrias sérias. \[...\]
+ > Exceto pelos desentendimentos ocasionais entre maridos e esposas, as
+ > brigas ocorrem somente durante as festas de caxiri ou rituais. \[...\]
+ > Desejos, frustrações, ciúmes, afetos ou desafetos pessoais e outras
+ > tensões propensas a ocorrer entre grupos pequenos de pessoas vivendo
+ > em intensa intimidade encontram expressão durante as festas de caxiri,
+ > ao passo que são completamente reprimidas no dia-a-dia.
 <!--estilo de citação-->
 
 Nos dias de festa de caxiri, depois de beber na maloca, é comum haver
@@ -15106,13 +15108,13 @@ entre agnatos como um dos fatores que leva à fissão dos grupos locais e
 de unidades sociais:
 
 <!--estilo de citação-->
- Mas em muitos casos \[...\] as fissões resultam efetivamente de más
- relações entre irmãos ou primos paralelos próximos. A competição por
- mulheres e as acusações mútuas de feitiçaria podem não somente levar à
- fissão do grupo, mas também à segmentação do clã em clãs menores.
- \[...\] a dispersão e a agregação são processos complementares: quando
- um assentamento se fissiona, é muito provável que outro receba os
- novos habitantes.
+ > Mas em muitos casos \[...\] as fissões resultam efetivamente de más
+ > relações entre irmãos ou primos paralelos próximos. A competição por
+ > mulheres e as acusações mútuas de feitiçaria podem não somente levar à
+ > fissão do grupo, mas também à segmentação do clã em clãs menores.
+ > \[...\] a dispersão e a agregação são processos complementares: quando
+ > um assentamento se fissiona, é muito provável que outro receba os
+ > novos habitantes.
 <!--estilo de citação-->
 
 Tendo observado inúmeras brigas entre mulheres afins e nenhuma entre
@@ -15215,16 +15217,16 @@ poderiam ser oferecidas nos Dabucuris e quais substâncias deveriam ser
 utilizadas para a cura e proteção. Continuando, Samuel contou que:
 
 <!--estilo de citação-->
- No alto do morro havia duas casas. Numa delas ficaram as mulheres com
- suas crianças. Essa casa foi toda cercada com pari para ocultar os
- instrumentos sagrados. A outra era uma casa grande, uns 100 metros ela
- tinha. Os homens tiraram as flautas e começaram a tocá-las. Foram
- caminhando até entrarem na maloca onde seus cunhados os esperavam.
- Dançaram. Mostraram as flautas pros cunhados que eram todos animais:
- /me̖t/, “cotia”, /k’a̗j/, “cutivaia”, /ta̖h/, “anta”, /pɨ̖͂g/, “preguiça”,
- /e̖ç/, “uacari”, /tõ̗h/, “porco”, /töhö̗t/, “caititu”, /bɨ̗g/, “tamanduá”.
- O /kɨhsä̗t/, “primeiro” ancestral, era /Döhö Pu̗b i͂h/, que é o /soho̗/,
- “caranguejo” (Cad. Camp. fev./2012).
+ > No alto do morro havia duas casas. Numa delas ficaram as mulheres com
+ > suas crianças. Essa casa foi toda cercada com pari para ocultar os
+ > instrumentos sagrados. A outra era uma casa grande, uns 100 metros ela
+ > tinha. Os homens tiraram as flautas e começaram a tocá-las. Foram
+ > caminhando até entrarem na maloca onde seus cunhados os esperavam.
+ > Dançaram. Mostraram as flautas pros cunhados que eram todos animais:
+ > /me̖t/, “cotia”, /k’a̗j/, “cutivaia”, /ta̖h/, “anta”, /pɨ̖͂g/, “preguiça”,
+ > /e̖ç/, “uacari”, /tõ̗h/, “porco”, /töhö̗t/, “caititu”, /bɨ̗g/, “tamanduá”.
+ > O /kɨhsä̗t/, “primeiro” ancestral, era /Döhö Pu̗b i͂h/, que é o /soho̗/,
+ > “caranguejo” (Cad. Camp. fev./2012).
 <!--estilo de citação-->
 
 Chegando ao topo do morro, os ancestrais depararam-se com duas casas,
@@ -15245,18 +15247,18 @@ e crianças escutam continuamente a melodia das flautas. Nas palavras do
 pesquisador:
 
 <!--estilo de citação-->
- Como se sabe, a simbologia que envolve os ritos Jurupari (e portanto
- também sua musicalidade) está vinculada a um idioma da masculinidade,
- que perpassa rito e música, e envolve também os *miriá-põ’ra*,
- formando um complexo cultural interdito às mulheres. Quero sugerir que
- esta proibição parece ser principalmente visual: reclusas fora da
- maloca, elas podem ouvir o som do Jurupari. É significativo que os
- sons musicais Jurupari sejam assim um código de acesso permitido a
- elas, uma via aberta que as leva a este complexo simbólico. Os homens
- sabem disso, e portanto pode-se levantar a hipótese de que proibição
- visual e permissão sonora façam parte das regras de comunicabilidade
- entre masculinidade e feminilidade, e não da dominação masculina que
- caracteriza a visão do antagonismo sexual no ARN (Piedade, 1997, p.
+ > Como se sabe, a simbologia que envolve os ritos Jurupari (e portanto
+ > também sua musicalidade) está vinculada a um idioma da masculinidade,
+ > que perpassa rito e música, e envolve também os *miriá-põ’ra*,
+ > formando um complexo cultural interdito às mulheres. Quero sugerir que
+ > esta proibição parece ser principalmente visual: reclusas fora da
+ > maloca, elas podem ouvir o som do Jurupari. É significativo que os
+ > sons musicais Jurupari sejam assim um código de acesso permitido a
+ > elas, uma via aberta que as leva a este complexo simbólico. Os homens
+ > sabem disso, e portanto pode-se levantar a hipótese de que proibição
+ > visual e permissão sonora façam parte das regras de comunicabilidade
+ > entre masculinidade e feminilidade, e não da dominação masculina que
+ > caracteriza a visão do antagonismo sexual no ARN (Piedade, 1997, p.
  116).
 <!--estilo de citação-->
 
@@ -15333,11 +15335,11 @@ flautas. Como mostra Hugh-Jones (1979, p. 248), ao analisar as
 cerimônias de Jurupari entre os Barasana,
 
 <!--estilo de citação-->
- Na Casa He, categorias que são normalmente mantidas separadas são
- fundidas e confundidas: a casa torna-se o universo, o passado e o
- presente fundem-se a tal ponto que os mortos vivem e os vivos morrem,
- o tempo presente torna-se o tempo mítico, um tempo quando os seres
- humanos, animais, e ancestrais eram ainda indiferenciados.
+ > Na Casa He, categorias que são normalmente mantidas separadas são
+ > fundidas e confundidas: a casa torna-se o universo, o passado e o
+ > presente fundem-se a tal ponto que os mortos vivem e os vivos morrem,
+ > o tempo presente torna-se o tempo mítico, um tempo quando os seres
+ > humanos, animais, e ancestrais eram ainda indiferenciados.
 <!--estilo de citação-->
 
 No alto da Serra da Iniciação, a reciprocidade se estabelece entre os
@@ -15360,7 +15362,7 @@ mulheres do outro. Senhoras e moças circulam com as panelas de caxiri
 oferecendo cuias a todos. No centro, casais formam-se, e as danças não
 param até o cair da noite.
 
-<!--Fig. 29-->
+Figura 29
 Vista externa da maloca de /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011).
 
 Comparada às malocas de outras aldeias, a /Ä̗g-Mo̖y/ de /Ta̗t-Dëh/ pode ser
@@ -15438,30 +15440,30 @@ roda e beber o caarpi oferecido pelo Tamanduá para revelar suas
 habilidades xamânicas. Seguindo nossa conversa, Samuel contou a seguinte
 narrativa:
 
- **M18. O caarpi do Tamanduá**
-
- O Tamanduá é o dono do caarpi. /Bɨ̗g we̗d no̗’o̗p, kapi̖’, hu̖͂t/. Ele deu
- comida a todos os animais, caarpi, tabaco. Primeiro, deu para a Arara,
- para o Papagaio e para o Periquito. Eles beberam e comeram a língua
- (parte da). Não sabiam beber caarpi. É por isso que falam hoje em dia.
-
- A merda do tamanduá fede muito porque ele é o dono do caarpi. Disse
- que todos tinham bebido caarpi. Daí, o /Yawa̖ç/, “Macaco-Prego”,
- escondeu o rabo dele no banco e falou para os outros comerem o rabo.
- Disse que ele já tinha comido. A Cotia, a Paca, a Cutivaia, a Anta, a
- Preguiça também. O Uacari, o Porco, o Caititu, todos comeram o próprio
- rabo. Só o macaco não comeu. Ele tinha escondido o dele. Tava
- enganando. Aí, o cunhado perguntou onde estava o rabo deles. E eles já
- tinham comido. Ficaram sem rabo.
-
- Isso tudo aconteceu lá na Serra da Menstruação. Depois que tocaram, os
- ancestrais hup sentaram nos bancos. Havia três tipos de banco: os
- /pud-dë̖h käd/, “bancos de leite”, os /sãy käd/, “bancos sãy”, e os
- /wahna̗w käd/, “bancos de abiu”. Estavam usando cocar de penas de
- mutum, arara e papagaio. Na cintura tinham pussangas: /yo̗ k’e̖t/ e /hõ̗
- pë̖’ k’e̖t/. Tavam bebendo as cuias de caarpi oferecidas pelo Tamanduá.
- Eles ficavam alegres e cantavam /kapiwaia/ (Caderno de Campo,
- 27/03/2012) [^136].
+ > **M18. O caarpi do Tamanduá**
+> 
+ > O Tamanduá é o dono do caarpi. /Bɨ̗g we̗d no̗’o̗p, kapi̖’, hu̖͂t/. Ele deu
+ > comida a todos os animais, caarpi, tabaco. Primeiro, deu para a Arara,
+ > para o Papagaio e para o Periquito. Eles beberam e comeram a língua
+ > (parte da). Não sabiam beber caarpi. É por isso que falam hoje em dia.
+> 
+ > A merda do tamanduá fede muito porque ele é o dono do caarpi. Disse
+ > que todos tinham bebido caarpi. Daí, o /Yawa̖ç/, “Macaco-Prego”,
+ > escondeu o rabo dele no banco e falou para os outros comerem o rabo.
+ > Disse que ele já tinha comido. A Cotia, a Paca, a Cutivaia, a Anta, a
+ > Preguiça também. O Uacari, o Porco, o Caititu, todos comeram o próprio
+ > rabo. Só o macaco não comeu. Ele tinha escondido o dele. Tava
+ > enganando. Aí, o cunhado perguntou onde estava o rabo deles. E eles já
+ > tinham comido. Ficaram sem rabo.
+> 
+ > Isso tudo aconteceu lá na Serra da Menstruação. Depois que tocaram, os
+ > ancestrais hup sentaram nos bancos. Havia três tipos de banco: os
+ > /pud-dë̖h käd/, “bancos de leite”, os /sãy käd/, “bancos sãy”, e os
+ > /wahna̗w käd/, “bancos de abiu”. Estavam usando cocar de penas de
+ > mutum, arara e papagaio. Na cintura tinham pussangas: /yo̗ k’e̖t/ e /hõ̗
+ > pë̖’ k’e̖t/. Tavam bebendo as cuias de caarpi oferecidas pelo Tamanduá.
+ > Eles ficavam alegres e cantavam /kapiwaia/ (Caderno de Campo,
+ > 27/03/2012) [^136].
 
 Entre um gole e outro de caxiri oferecido pelas mulheres, Samuel
 contou-me **M18** para explicitar o poder do Tamanduá como aquele que dá o
@@ -15636,12 +15638,12 @@ extremamente poderoso e temido que concentra em si uma grande variedade
 de técnicas, saberes e recursos[^140]. Como ressalta Hugh-Jones,
 
 <!--estilo de citação-->
- Um segundo tipo de distinção, envolvendo graus relativos de saber e
- poder, pode ser usado para ranquear os xamãs em uma hierarquia formal
- ou informal. Nesses casos, o aumento de poder geralmente caminha lado
- a lado com o aumento de ambivalência – poderosos xamãs poderão ser
- melhores na cura e também potencialmente mais perigosos que seus
- semelhantes menos poderosos (1996, p. 36).
+ > Um segundo tipo de distinção, envolvendo graus relativos de saber e
+ > poder, pode ser usado para ranquear os xamãs em uma hierarquia formal
+ > ou informal. Nesses casos, o aumento de poder geralmente caminha lado
+ > a lado com o aumento de ambivalência – poderosos xamãs poderão ser
+ > melhores na cura e também potencialmente mais perigosos que seus
+ > semelhantes menos poderosos (1996, p. 36).
 <!--estilo de citação-->
 
 Se a sensibilidade auricular é um fator crucial para a diferenciação
@@ -15797,7 +15799,7 @@ que todos chegam apenas para trilhar novos caminhos que os façam sentar
 outras vezes em rodas e dançar novamente com as flautas em torno da
 paisagem em perpétua criação.
 
-<!--Fig. 29-->
+Figura 29
 Ponciano segue por um de seus caminhos (foto: Danilo P. Ramos, 2012)
 
 
@@ -15871,7 +15873,7 @@ embarcações para a pesca intensificou-se com a formação da aldeia de
 /Ta̗t-Dëh/ e com a permissão de pesca em partes do rio Tiquié, dada pelos
 moradores do Cunuri.
 
-<!--Fig. 30-->
+Figura 30
 Paulo repara a canoa com breu (foto: Danilo P. Ramos, 2012).
 
 Entretanto, as viagens para São Gabriel exigem embarcações maiores,
@@ -16138,24 +16140,24 @@ ombros soltaram-se. Estava pronta a solicitação de casa de apoio que ele
 apresentaria na manhã seguinte ao presidente da câmara (Caderno de
 campo, 2009). Abaixo, transcrevo a carta redigida por Ricardo.
 
-São Gabriel da Cachoeira, 15 de maio de 2009.
-
-*Solicitação de casa de apoio para o povo Hupd’äh, das comunidades dos
-rios Tiquié, Japu e Papuri.*
-
-Nós povos hupd’äh na região do rio Japu e papuri tanto do rio Tiquié.
-Solicitamos um casa de apoio, enquanto nós chegamos na cidade é difícil
-hospedar. Portanto nós queríamos essa casa poderia ser bem equipado tem
-banheiro masculino e feminino. Tem sala de cozinha, essa casa poderia
-ser duas quarto. Um quarto pode ser do rio Japu e Papuri, e outro quarto
-vai seria do Rio Tiquié. Nós queremos com mais ajuda a vocês com todas
-as instituições como: FUNAI, Foirn, SEMEC, e PREFEITURA Municipal. Como
-nós tambem professores indígenas, hupd’äh não tem como ficar no
-alojamento dos Tukano esses necessidades que nós tivemos na cidade. As
-vezes os Tukano que nos ralhava e sovina o alojamento, assim nós temos
-maior dificuldades que sentimos. Na hora da campanha o nosso prefeito
-indígenas SR. Pedro Garcia providenciou. Por esses motivo nós votamos o
-nosso prefeito indígenas para nos ajudarem a fazer.
+> São Gabriel da Cachoeira, 15 de maio de 2009.
+> 
+> *Solicitação de casa de apoio para o povo Hupd’äh, das comunidades dos
+> rios Tiquié, Japu e Papuri.*
+> 
+> Nós povos hupd’äh na região do rio Japu e papuri tanto do rio Tiquié.
+> Solicitamos um casa de apoio, enquanto nós chegamos na cidade é difícil
+> hospedar. Portanto nós queríamos essa casa poderia ser bem equipado tem
+> banheiro masculino e feminino. Tem sala de cozinha, essa casa poderia
+> ser duas quarto. Um quarto pode ser do rio Japu e Papuri, e outro quarto
+> vai seria do Rio Tiquié. Nós queremos com mais ajuda a vocês com todas
+> as instituições como: FUNAI, Foirn, SEMEC, e PREFEITURA Municipal. Como
+> nós tambem professores indígenas, hupd’äh não tem como ficar no
+> alojamento dos Tukano esses necessidades que nós tivemos na cidade. As
+> vezes os Tukano que nos ralhava e sovina o alojamento, assim nós temos
+> maior dificuldades que sentimos. Na hora da campanha o nosso prefeito
+> indígenas SR. Pedro Garcia providenciou. Por esses motivo nós votamos o
+> nosso prefeito indígenas para nos ajudarem a fazer.
 
 A carta de solicitação acompanharia o abaixo assinado colhido nas
 comunidades Hupd’äh de /Yuyu̖-Dëh/,  /Ta̗t-Dëh/ e /Pɨ̖͂g-Dëh/ durante o
@@ -16260,36 +16262,36 @@ circuito de dádivas semelhante ao do Dabucuri, iniciado pelos Hupd’äh ao
 
 ###A “política” da Cobra-Canoa
 
- **M19. A política da Cobra-Canoa**
-
- No magistério, muitos Tukano contaram da história da Cobra-Grande
- dizendo que eles tinham saído primeiro. Política. Mas a verdade é que
- os Hup tinham saído primeiro. Foi o Hupd’äh quem saiu primeiro da
- Cobra-Grande. Os Tukano dizem que foram eles, mas não é verdade, não.
- Porque esses Hupd’äh, Dâw, eles foram timoneiros.
-
- Saíram lá do Lago de Leite no Rio de Janeiro e vieram dar aqui.
- Primeiro foram ali pra Ipanoré. Depois foram indo lá pra o Papuri,
- Iauareté, e deixando os povos. Os Hupd’äh ficavam ali no rio Turi e
- daí foram descendo, porque todos os povos vieram como peixes dentro da
- Cobra, mas quando chegaram nos seus lugares eles já saíam e
- transformavam em gente.
-
- Os Tukano falam muita coisa diferente do caminho da Cobra, por onde
- ela foi primeiro, depois. É política, né. Falam que os Hupd’äh saíram
- depois. Política. (Ricardo, 13/05/2009).
-
-Ricardo contou-me essa narrativa enquanto jantávamos. Ele comia uma
-quentinha que havia comprado por 5 reais. Para mim, comprou um espeto de
-churrasco, que eu comia com gosto. O agrônomo Bruno Guimarães, professor
-do IFAM[^145], que nos acompanhava, apenas bebia suco. Conversávamos
-sobre o magistério indígena[^146] e os Tukano. De repente, Ricardo
-calou-se, olhou para baixo. Ficou alguns segundos em silêncio e começou
-a contar essa história. Da comida, seus olhos fixaram-se em nós. Os
-movimentos da Cobra-Grande eram sinalizados por suas mãos que zigue
-zagueavam pelo ar. A saída de cada povo era demonstrada por uma breve
-pausa na narrativa e um leve movimento de erguer-se e sentar-se na
-cadeira (Caderno de campo, 2009).
+ > **M19. A política da Cobra-Canoa**
+> 
+ > No magistério, muitos Tukano contaram da história da Cobra-Grande
+ > dizendo que eles tinham saído primeiro. Política. Mas a verdade é que
+ > os Hup tinham saído primeiro. Foi o Hupd’äh quem saiu primeiro da
+ > Cobra-Grande. Os Tukano dizem que foram eles, mas não é verdade, não.
+ > Porque esses Hupd’äh, Dâw, eles foram timoneiros.
+> 
+ > Saíram lá do Lago de Leite no Rio de Janeiro e vieram dar aqui.
+ > Primeiro foram ali pra Ipanoré. Depois foram indo lá pra o Papuri,
+ > Iauareté, e deixando os povos. Os Hupd’äh ficavam ali no rio Turi e
+ > daí foram descendo, porque todos os povos vieram como peixes dentro da
+ > Cobra, mas quando chegaram nos seus lugares eles já saíam e
+ > transformavam em gente.
+> 
+ > Os Tukano falam muita coisa diferente do caminho da Cobra, por onde
+ > ela foi primeiro, depois. É política, né. Falam que os Hupd’äh saíram
+ > depois. Política. (Ricardo, 13/05/2009).
+> 
+> Ricardo contou-me essa narrativa enquanto jantávamos. Ele comia uma
+> quentinha que havia comprado por 5 reais. Para mim, comprou um espeto de
+> churrasco, que eu comia com gosto. O agrônomo Bruno Guimarães, professor
+> do IFAM[^145], que nos acompanhava, apenas bebia suco. Conversávamos
+> sobre o magistério indígena[^146] e os Tukano. De repente, Ricardo
+> calou-se, olhou para baixo. Ficou alguns segundos em silêncio e começou
+> a contar essa história. Da comida, seus olhos fixaram-se em nós. Os
+> movimentos da Cobra-Grande eram sinalizados por suas mãos que zigue
+> zagueavam pelo ar. A saída de cada povo era demonstrada por uma breve
+> pausa na narrativa e um leve movimento de erguer-se e sentar-se na
+> cadeira (Caderno de campo, 2009).
 
 Contada dias antes do evento em que Ricardo redigiu a carta de
 solicitação, a história surge em meio a uma conversa sobre o magistério
@@ -16315,13 +16317,13 @@ Ricardo conta a dois não indígenas a história, revelando o caminho
 verdadeiro e a saída anterior dos Hupd’äh. Como aponta Hugh-Jones,
 
 <!--estilo de citação-->
- A mito-história do alto rio Negro é uma história política em um duplo
- sentido. Por um lado, fazendo referência a estrangeiros, as narrativas
- de todos os grupos da região refletem uma longa história de
- resistência à dominação externa e servem para legitimar reivindicações
- indígenas pelo território. Por outro lado, histórias particulares
- servem também para legitimar reivindicações pelo território, bem como
- status de um grupo particular em face aos demais (2012, p. 163).
+ > A mito-história do alto rio Negro é uma história política em um duplo
+ > sentido. Por um lado, fazendo referência a estrangeiros, as narrativas
+ > de todos os grupos da região refletem uma longa história de
+ > resistência à dominação externa e servem para legitimar reivindicações
+ > indígenas pelo território. Por outro lado, histórias particulares
+ > servem também para legitimar reivindicações pelo território, bem como
+ > status de um grupo particular em face aos demais (2012, p. 163).
 <!--estilo de citação--> 
 
 Creio que a “política” à qual se refere Ricardo tenha a ver com essa
@@ -16373,11 +16375,11 @@ de inverdade, transforma-se, na carta, na possibilidade de construção da
 casa de apoio. Como afirma Carneiro da Cunha,
 
 <!--estilo de citação-->
- Para atingir seus objetivos, porém, os povos indígenas precisam se
- conformar às expectativas dominantes em vez de contestá-las. Precisam
- operar com conhecimentos e com a cultura tais como são entendidos por
- outros povos, e enfrentar as contradições que isso venha a gerar
- (Carneiro da Cunha, 2009, p. 330).
+ > Para atingir seus objetivos, porém, os povos indígenas precisam se
+ > conformar às expectativas dominantes em vez de contestá-las. Precisam
+ > operar com conhecimentos e com a cultura tais como são entendidos por
+ > outros povos, e enfrentar as contradições que isso venha a gerar
+ > (Carneiro da Cunha, 2009, p. 330).
 <!--estilo de citação-->
 
 Como afirma Andrello ao analisar uma narrativa tukano, <!--citação-->“no presente, não
@@ -16545,7 +16547,7 @@ perspectiva dos brancos alinhando sua atenção e ação para um modo de
 abdução da agressividade e força desses Outros num sentido próximo ao
 das rodas de cachaça na chegada dos viajantes. 
 
-<!--Fig. 31-->
+Figura 31
 Casa-da-Cachaça (Desenho de Samuel Brasil Monteiro, /M’e̖h Sɨh/)
 
 Nos últimos anos, têm se tornado cada vez mais frequentes as incursões
@@ -16609,42 +16611,42 @@ não estaria mais lá quando eu voltasse. Seu filho, Américo, explicou-me
 que além da doença, seu pai tivera um terrível pesadelo, presságio de um
 agravamento da doença.
 
- **S5. Viagem ao mundo subterrâneo**
-
- *Américo (A)*: O pessoal levou ele até no fundo. Esse dia ele ficou
- triste quando contou. *Köd i͂h (K):* Por que trazer você pra cá? Você
- aqui não importa à gente. \[...\] *Henrique (H):* Aqui é muito longe,
- aqui nessa terra. \[...\] *K:* De onde tu vem? *H:* De cima da terra.
- Não tem caminho pra chegar aqui nessa terra de vocês. *A:* Ficou
- triste! Ele acordou.
-
- *Danilo (D):* E como é o nome desse pessoal que levou ele?
-
- *A:* /Köd’ Däh/. *H:* Acordei. *A:* /Nup tëg ham? Sug teg ham? Sug,
- Sug-Meh/. *A:* Beija-flor. Essa canoa. Beija-flor e canoa. *K:* Vai,
- vai com ele. *H:* Peguei com /Sug/ mesmo. Aí, acordei na hora. \[...\]
- *A:* Quando às vezes sonha, ele viu assim. *K:* Essa canoa vai pra
- chegar nessa sua terra \[...\]. *A:* Canoa ou escada ou caminho... Aí
- ele pega. Quando ele pega aí, ele acorda logo. Ele dorme e acorda e
- fica triste. \[...\] Beija-flor é caminho mesmo. Lá no fundo ele vive.
-
- *H:* Rapaz. Não sei. Pra voltar, nem canoa nem nada aqui no fundo,
- embaixo, no fundo. \[...\] Quando você chega no fundo da terra, se não
- acordar, a essa hora já perde, você perdeu a vida. \[...\] Você não
- volta não. Há essa hora você já morreu. Perdeu a vida. Chorando as
- outras pessoas... \[...\] Ficou triste esse dia ele \[...\]. *K:* Esse
- beija-flor vai pra chegar à sua terra... \[...\] *H:* Aqui tá muito
- ruim, não dá pra ficar. Não tem não, acabou. K: É, vai direto até
- chegar essa terra. \[...\]
-
- *H:* Quando acordei, \[...\] rapaz eu cheguei lá no fundo. O pessoal
- levaram pra mim. \[...\] Minha vida, meu coração! Meu coração tá
- saindo! Aqui tá muito triste! Não dá pra mim, não!
-
- *A:* Ele ficou triste, rapaz. Meu pai... A vida dele está lá ainda.
- Embaixo da terra. Aí eu chamei. Professor Rosalino benzeu pra ele e
- Ponciano também. Duas vezes. Agora não. Só gripe mesmo. Quase já deu
- pneumonia pra ele.
+ > **S5. Viagem ao mundo subterrâneo**
+> 
+ > *Américo (A)*: O pessoal levou ele até no fundo. Esse dia ele ficou
+ > triste quando contou. *Köd i͂h (K):* Por que trazer você pra cá? Você
+ > aqui não importa à gente. \[...\] *Henrique (H):* Aqui é muito longe,
+ > aqui nessa terra. \[...\] *K:* De onde tu vem? *H:* De cima da terra.
+ > Não tem caminho pra chegar aqui nessa terra de vocês. *A:* Ficou
+ > triste! Ele acordou.
+> 
+ > *Danilo (D):* E como é o nome desse pessoal que levou ele?
+> 
+ > *A:* /Köd’ Däh/. *H:* Acordei. *A:* /Nup tëg ham? Sug teg ham? Sug,
+ > Sug-Meh/. *A:* Beija-flor. Essa canoa. Beija-flor e canoa. *K:* Vai,
+ > vai com ele. *H:* Peguei com /Sug/ mesmo. Aí, acordei na hora. \[...\]
+ > *A:* Quando às vezes sonha, ele viu assim. *K:* Essa canoa vai pra
+ > chegar nessa sua terra \[...\]. *A:* Canoa ou escada ou caminho... Aí
+ > ele pega. Quando ele pega aí, ele acorda logo. Ele dorme e acorda e
+ > fica triste. \[...\] Beija-flor é caminho mesmo. Lá no fundo ele vive.
+> 
+ > *H:* Rapaz. Não sei. Pra voltar, nem canoa nem nada aqui no fundo,
+ > embaixo, no fundo. \[...\] Quando você chega no fundo da terra, se não
+ > acordar, a essa hora já perde, você perdeu a vida. \[...\] Você não
+ > volta não. Há essa hora você já morreu. Perdeu a vida. Chorando as
+ > outras pessoas... \[...\] Ficou triste esse dia ele \[...\]. *K:* Esse
+ > beija-flor vai pra chegar à sua terra... \[...\] *H:* Aqui tá muito
+ > ruim, não dá pra ficar. Não tem não, acabou. K: É, vai direto até
+ > chegar essa terra. \[...\]
+> 
+ > *H:* Quando acordei, \[...\] rapaz eu cheguei lá no fundo. O pessoal
+ > levaram pra mim. \[...\] Minha vida, meu coração! Meu coração tá
+ > saindo! Aqui tá muito triste! Não dá pra mim, não!
+> 
+ > *A:* Ele ficou triste, rapaz. Meu pai... A vida dele está lá ainda.
+ > Embaixo da terra. Aí eu chamei. Professor Rosalino benzeu pra ele e
+ > Ponciano também. Duas vezes. Agora não. Só gripe mesmo. Quase já deu
+ > pneumonia pra ele.
 
 Na época, interessado em realizar um estudo sobre a relação entre os
 sonhos e as rodas de coca, pedi a Américo para registrar a narrativa com
@@ -16764,24 +16766,24 @@ preconceituosa desse povo, marcada por um modo de vida baseado na
 mobilidade (nomadismo),
 
 <!--estilo de citação-->
- Os Tukano de Parý-Cachoeira, que eram senhores muito acomodados e,
- como Schmidt afirmava maliciosamente, mal conheciam o caminho das suas
- próprias roças, mantinham escravos Maku, os quais lhes deviam fazer
- todos os trabalhos. Estes Maku, três homens cujo “iára” era o chefe,
- viviam com suas mulheres e numerosas crianças em algumas choças
- miseráveis na selva, perto do povoado. Quase cada dia vinham os homens
- para a maloca, trazendo aos seus senhores caça, peixes e frutas da
- mata ou se entregavam aos variados trabalhos caseiros. Os Tukano
- tratavam-nos bem, como aos animais mansos. \[...\] Os Maku do Tiquié
- que eu cheguei a ver, eram na média gente pequena, pouco mais de 1,50m
- de altura, a cor da sua pele era clara. Eles tinham aspecto de mal
- nutridos, o que bem poderia ser atribuído à sua vida selvagem na mata.
- Especialmente caía na vista a compleição desproporcionada dos homens,
- seus braços longos, mãos e pés grandes, e pernas curvas, em forma de
- sabre. \[...\] O distintivo acentuado, porém, entre todos os Maku, é a
- boca em forma de focinho que fica externamente muito sublinhada pela
- dobra profunda da pele entre as ventas do nariz e os ângulos da boca
- (Koch-Grünberg, 1909/2005, p. 286-7, grifos meus).
+ > Os Tukano de Parý-Cachoeira, que eram senhores muito acomodados e,
+ > como Schmidt afirmava maliciosamente, mal conheciam o caminho das suas
+ > próprias roças, mantinham escravos Maku, os quais lhes deviam fazer
+ > todos os trabalhos. Estes Maku, três homens cujo “iára” era o chefe,
+ > viviam com suas mulheres e numerosas crianças em algumas choças
+ > miseráveis na selva, perto do povoado. Quase cada dia vinham os homens
+ > para a maloca, trazendo aos seus senhores caça, peixes e frutas da
+ > mata ou se entregavam aos variados trabalhos caseiros. Os Tukano
+ > tratavam-nos bem, como aos animais mansos. \[...\] Os Maku do Tiquié
+ > que eu cheguei a ver, eram na média gente pequena, pouco mais de 1,50m
+ > de altura, a cor da sua pele era clara. Eles tinham aspecto de mal
+ > nutridos, o que bem poderia ser atribuído à sua vida selvagem na mata.
+ > Especialmente caía na vista a compleição desproporcionada dos homens,
+ > seus braços longos, mãos e pés grandes, e pernas curvas, em forma de
+ > sabre. \[...\] O distintivo acentuado, porém, entre todos os Maku, é a
+ > boca em forma de focinho que fica externamente muito sublinhada pela
+ > dobra profunda da pele entre as ventas do nariz e os ângulos da boca
+ > (Koch-Grünberg, 1909/2005, p. 286-7, grifos meus).
 <!--estilo de citação-->
 
 Entre a fisionomia e as tarefas realizadas para os Tukano, os
