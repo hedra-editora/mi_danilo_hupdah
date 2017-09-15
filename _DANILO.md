@@ -398,8 +398,7 @@ surgem o batalhão do exército, as casas de alvenaria, o ginásio, os
 prédios públicos, e a imperiosa Igreja matriz salesiana com seu colégio
 acoplado.
 
-Figura 1
-Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)
+![Figura 1. Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)] (Afluente.jpg)
 
 A viagem ao Tiquié é adiada a cada dia. A falta de chuvas ou o excesso
 de tempestades, o motor quebrado ou a falta de gasolina na cidade, a
@@ -7541,10 +7540,10 @@ sendo aprendidos e cercados. Como os ancestrais no Lago de Leite, os
 xamãs-sopradores recebem os poderes e cercam-nos, escondendo-os atrás de
 si (**M14**).
 
-Figura 13
+Figura 14
 Ponciano mostra o cercar (foto: Danilo P. Ramos, 2012)
 
-Figura 14
+Figura 15
 Grafismo do ato de cercar
 
 Num encontro noturno, pedi a Ponciano e Samuel para me explicarem como
@@ -7568,7 +7567,7 @@ ocultando o xamã-soprador das vistas da Gente-Cobra para que faça uma
 viagem segura durante o trajeto. Enquanto traduzíamos o **B2**, Samuel deu
 essa explicação sobre a locomoção do benzedor e fez um desenho.
 
-Figura 15
+Figura 16
 Rede de leite e pedaço de tabaco
 
 O leite torna-se a substância comum com a qual são feitos o banco, a
@@ -7650,7 +7649,7 @@ morada do sopro vital, e depois nos braços. No alto do morro, Lucas
 gritou como se estivesse chamando a humanidade (**M2**) e deixou um cigarro
 para os ancestrais no lago.
 
-Figura 16
+Figura 17
 Cigarro no lago (foto: Danilo P. Ramos, 2012)
 
 Como já foi assinalado, no alto da serra, um processo de condensações
@@ -7711,7 +7710,7 @@ posteriormente, preparar os pedaços de breu para as ações xamânicas. O
 breu pode ser usado também no reparo das canoas, na pintura de objetos
 cuias, adornos), e na fabricação de instrumentos musicais.
 
-Figura 17
+Figura 18
 Aldeia cercada (foto: Danilo P. Ramos, 2012)
 
 Como o gesto de “segurar o cigarro”, central para a aliança e para a
@@ -8240,7 +8239,7 @@ Para que estivéssemos bem protegidos durante a viagem, além do
 /ti̖wi̖t hamap bi’i̖d ta̗’/, “benzimento dos caminhos”, para cercar os
 viajantes das ações maléficas dos seres que pudéssemos encontrar.
 
-Figura 17
+Figura 19
 Viagem às serras: Caminhos (/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas
 (/Mo̖y-Höd/)
 
@@ -9346,7 +9345,7 @@ os viajantes pediram que eu tirasse uma foto para que eles pudessem
 mostrar os restos dos utensílios culinários do ancestral a seus
 parentes.
 
-Figura 18
+Figura 20
 Viajantes exibem as lascas de cerâmica (foto: Danilo P. Ramos, 2012)
 
 Assustado, olhando fixamente para ao chão, Ari chamou Ponciano:
@@ -9454,7 +9453,7 @@ janela menores voltadas para o pôr do sol. É considerada a cozinha e,
 por isso, recebe o nome de /Po̗ho̗y-Mo̖y/, “Casa-da-Fermentação”, algo que
 alude ao preparo do caxiri feito pelas Mulheres-Onça e Mulheres-Trovão.
 
-Figura 19
+Figura 21
 Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel Brasil Monteiro, 2012)
 
 Assim, a arquitetura celeste da Casa-do-Trovão torna-se especialmente
@@ -9723,7 +9722,7 @@ associados muito intimamente aos xamãs, que, embora sejam reconhecidos
 como humanos, ocupam a mais ambígua e marginal das posições na sociedade
 humana”. 
 
-Figura 19
+Figura 22
 Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)
 
 Em **B5**, penetrando a onça pequena, Ponciano mostra-se igualmente como um
@@ -10067,7 +10066,7 @@ voar de morro em morro e perseguir seus inimigos com grande agilidade.
 /Wayrö̖’-Tëg/ é também a palavra em língua hup para avião, o admirável
 veículo de voo considerado como um grande poder dos brancos.
 	
-Figura 20
+Figura 23
 Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Monteiro)
 
 A roupa cósmica dessa caçadora de gente hup torna-se especialmente
@@ -10560,7 +10559,7 @@ cada detalhe daquele universo que se constituía, pouco a pouco, como uma
 vasta região trazida à vida pela confluência dos percursos dos
 movimentos de humanos, animais e espíritos.
 
-Figura 21
+Figura 24
 Vista externa da Casa-dos-Animais (foto: Danilo P. Ramos, 2012)
 
 Na volta, quando já estávamos cruzando as roças da comunidade, Ponciano
@@ -10787,7 +10786,7 @@ sofrimentos na existência humana. Esse percurso dará também mais
 elementos para a descrição do papel dos “comedores de coca” na geração
 da vida e da cura.
 
-Figura 22
+Figura 25
 Caminhada à Casa-dos-Animais
 
 ## Nascimentos
@@ -12819,7 +12818,7 @@ servir-se delas, como se a potência e a cultura do afecto fossem o
 verdadeiro objetivo do agenciamento, a arma sendo apenas um meio
 provisório” (Deleuze; Guattari, 1997, p. 85).
 
-Figura 23
+Figura 26
 Isabel terminando um aturá (foto: Danilo Paiva Ramos, 2012)
 
 Com o crescimento corporal, os aturás e os arcos e flechas aumentam de
@@ -13529,7 +13528,7 @@ matrimonial.[^117] Mas as flautas possuem também laços fraternos, pois o
 como o do par /Soho̗/,  “Caranguejo”, e /Mo̗t/[^118], em que os dois
 termos são considerados irmãos e cônjuges simultaneamente.
 
-Figura 24
+Figura 27
 Relações matrimoniais e fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/
 
 Os nomes dos trompetes são todos nomes de animais como /Moho̖y/, “Veado”,
@@ -13829,7 +13828,7 @@ reciprocidade de gêneros recolocava a dádiva entre afins. Num próximo
 encontro de Dabucuri seriam os donos /Sokw’ä̗t/  que deveriam retribuir as
 ofertas, quer às mulheres, quer a seus cunhados.
 
-Figura 25
+Figura 28
 Papéis rituais: clã /Sokw’ä̗t Noh K’öd Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/
 
 Tomando como referência a posição ocupada pelos neófitos, é possível
@@ -14118,7 +14117,7 @@ de Henrique, o caminho que se abre de /Ta̗t-Dëh/ e leva até /B’ö̖’-Paç
 irmãos e filhos abrem suas roças, pescam e caçam (ver diagrama anexo ‒
 Anexo 2).
 
-Figura 26
+Figura 29
 Distribuição das casas de /Ta̗t-Dëh/
 
 Por ocasião da fundação de /Ta̗t-Dëh/, a reunião de muitos membros do
@@ -14207,10 +14206,10 @@ frequentar a escola. Distante dos /kopot/ centrais, o primogênito do
 ancestral Joanico construiu uma casa onde habita com a esposa e a sogra,
 e uma segunda, para seu filho e sua nora.
 
-Figura 27
+Figura 30
 Laços de afinidade e filiação do /kopot/ centrado em Firmino (ego)
 
-Figura 28
+Figura 31
 /Kopot/ centrado em Ponciano (ego) por laços de afinidade e filiação
 
 Os esquemas de parentesco permitem ver com clareza de que modo as casas
@@ -15362,7 +15361,7 @@ mulheres do outro. Senhoras e moças circulam com as panelas de caxiri
 oferecendo cuias a todos. No centro, casais formam-se, e as danças não
 param até o cair da noite.
 
-Figura 29
+Figura 32
 Vista externa da maloca de /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011).
 
 Comparada às malocas de outras aldeias, a /Ä̗g-Mo̖y/ de /Ta̗t-Dëh/ pode ser
@@ -15799,7 +15798,7 @@ que todos chegam apenas para trilhar novos caminhos que os façam sentar
 outras vezes em rodas e dançar novamente com as flautas em torno da
 paisagem em perpétua criação.
 
-Figura 29
+Figura 33
 Ponciano segue por um de seus caminhos (foto: Danilo P. Ramos, 2012)
 
 
@@ -15873,7 +15872,7 @@ embarcações para a pesca intensificou-se com a formação da aldeia de
 /Ta̗t-Dëh/ e com a permissão de pesca em partes do rio Tiquié, dada pelos
 moradores do Cunuri.
 
-Figura 30
+Figura 34
 Paulo repara a canoa com breu (foto: Danilo P. Ramos, 2012).
 
 Entretanto, as viagens para São Gabriel exigem embarcações maiores,
@@ -16547,7 +16546,7 @@ perspectiva dos brancos alinhando sua atenção e ação para um modo de
 abdução da agressividade e força desses Outros num sentido próximo ao
 das rodas de cachaça na chegada dos viajantes. 
 
-Figura 31
+Figura 35
 Casa-da-Cachaça (Desenho de Samuel Brasil Monteiro, /M’e̖h Sɨh/)
 
 Nos últimos anos, têm se tornado cada vez mais frequentes as incursões
