@@ -398,7 +398,7 @@ surgem o batalhão do exército, as casas de alvenaria, o ginásio, os
 prédios públicos, e a imperiosa Igreja matriz salesiana com seu colégio
 acoplado.
 
-![Figura 1. Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)] (Afluente.jpg)
+![Figura 1 - Imagem aérea de afluente do rio Negro (foto: Sylvia C. Novaes, 2012)] (/img/Afluente.jpg)
 
 A viagem ao Tiquié é adiada a cada dia. A falta de chuvas ou o excesso
 de tempestades, o motor quebrado ou a falta de gasolina na cidade, a
@@ -677,8 +677,8 @@ minha vida. Foi com esse encantamento também que comecei a viajar pelos
 rios da região do alto rio Negro, a sentar-me nas rodas de coca, a ouvir sobre as
 viagens dos antigos, e a andar pelos caminhos das matas.
 
-Figura 2
-Vista da aldeia de /Ta̗t-Dëh/ (foto: Sylvia C. Novaes, 2012)
+![Figura 2 - Vista da aldeia de /Ta̗t-Dëh/ (foto: Sylvia C. Novaes, 2012)](/img/Vista_Aldeia.png)
+
 
 ## Encontros noturnos e caminhos vividos 
 
@@ -835,8 +835,8 @@ próximo aos grandes rios têm a ver com a agência missionária salesiana,
 que procurou agregar em grandes aldeias, designadas pelo pesquisador como
 povoados-missão, o maior número de pessoas para evangelização. 
 
-Figura 3
-Localização da comunidade Hupd’äh de /Ta̗t-Dëh/, Taracuá-Igarapé
+![Figura 3 - Localização da comunidade Hupd’äh de /Ta̗t-Dëh/, Taracuá-Igarapé.](/img/localizacao_aldeia.jpg)
+
 
 A estrutura social hup tem nos clãs agnáticos seus segmentos básicos
 de constituição e de diferenciação. Criados pelo herói cultural
@@ -895,8 +895,7 @@ um dicionário hupd’äh-português e cartilhas na língua hup. Esses
 materiais vêm permitindo aos professores desenvolver junto aos alunos a
 escrita e o aprendizado de sua língua.
 
-Figura 4
-Regiões habitadas por populações das etnias Hupd’äh e Yuhupdëh no médio Tiquié
+![Figura 4 - Regiões habitadas por populações das etnias Hupd’äh e Yuhupdëh no médio Tiquié](/img/Regioes_habitadas.jpg)
 
 O contato teve inicio com as frentes de colonização desde o século
 XVIII, mas foi apenas nas décadas de 1960 e 1970 do século XX que os
@@ -2802,8 +2801,7 @@ buscava influenciar o campo de percepção desses outros seres e as
 transformações entre esses diversos planos separados e simultâneos, onde
 nos situávamos e, com medo, tentávamos dormir.
 
-Figura 5
-Mapa da viagem à Serra Grande
+![Figura 5 - Mapa da viagem à Serra Grande](/img/MAPA1-PB.jpg)
 
 
 ###Mundo em miniatura
@@ -2856,8 +2854,7 @@ rio Tiquié, ao norte o Papuri, a leste o Uaupés. Mais acima, avistávamos
 as /Ya’a̗m-Huh/, Cachoeiras-de-Iauaretê. Lá do alto, contemplávamos o
 mundo em miniatura.
 
-Figura 6
-Mandu avista a /Paç-Tẽ̖h/, “Serra-Pequena” (Foto Danilo P. Ramos, 2012)
+![Figura 6 - Mandu avista a /Paç-Tẽ̖h/, “Serra-Pequena” (Foto Danilo P. Ramos, 2012)](/img/mandu_avista.jpg)
 
 
 ###Fotografias e escritos
@@ -2907,8 +2904,7 @@ Assim, no contexto dessas conversas, a imagem do GPS rememorava nossas
 percepções ao longo de um percurso de observação e ajudava a integrar
 o saber num modo não cartográfico.
 
-Figura 7
-Escritos na rocha (foto: Danilo P. Ramos, 2012)
+![Figura 7 - Escritos na rocha (foto: Danilo P. Ramos, 2012)](/img/escritos_rocha.jpg)
 
 Como em relatos de viagem, a crônica do caderno, as linhas e pontos do
 GPS e as fotos permitiam ordenar a experiência, sendo modos de relembrar
@@ -2965,8 +2961,7 @@ vezes banhar-se na Serra Grande. Entendo que essas ações realizam uma
 “fabricação do corpo”, uma intervenção sobre a matéria que recria o
 corpo em banhos que são como passagens entre vida e morte.
 
-Figura 8
-Banho de Demétrio (foto: Danilo P. Ramos, 2012)
+![Figura 8 - Banho de Demétrio (foto: Danilo P. Ramos, 2012)](/img/banho_demetrio.jpg)
 
 Nosso /kɨhsä̗t/, guia, falou dos pés de “coca de abiu”, /wahna̗w-pũ’ũk/,
 que havia antes plantados na beira do lago. Um homem da aldeia de
@@ -4540,8 +4535,7 @@ Firmiano é o “capitão coca”, o “cozinheiro”. Cunhado, /yo̖h/, de
 Ponciano, Firmiano é o dono do “primeiro banco” pelo qual devem passar
 todos aqueles que começam a comer coca.
 
-Figura 9
-Instrumentos para preparo da coca (foto: Danilo P. Ramos, 2009)
+![Figura 9 - Instrumentos para preparo da coca (foto: Danilo P. Ramos, 2009)](/img/instrumentos_preparo.jpg)
 
 A riqueza gestual que compõe o preparo é impressionante. A coca é
 colhida durante a tarde por um ou mais participantes em suas próprias
@@ -4749,8 +4743,7 @@ para guardar a coca e o tabaco e para oferecê-los aos participantes dos
 encontros. A partir do desenho desses potes antigos foi feito na areia
 por Angélico como ilustração numa outra roda.
 
-Figura 10
-Antigo pote de coca e tabaco (Cad. Camp. 06/09/11)
+![Figura 10 - Antigo pote de coca e tabaco (Cad. Camp. 06/09/11)](img/antigo_pote.jpg)
 
 Um homem só começa a participar dos encontros noturnos quando já tem
 filhos “jovens”, /pesa̖w/. São geralmente considerados /wähä̗d’däh/,
@@ -5369,9 +5362,7 @@ bichos do pé podiam tranquilamente sentar-se com suas roupas, comer coca
 e conversar sobre suas histórias e benzimentos, enquanto nós começávamos
 a preparar a coca para realizar o encontro noturno.
 
-FIGURA 17 DA TESE: TABELA DE AÇÕES RELACIONADAS P. 153 PDF USP
-
-Tabela de ações relacionadas
+![Quadro de ações relacionadas](/img/tabela_acoes.jpg)
 
 ###Sentar e deitar
 
@@ -5700,10 +5691,7 @@ domínio.
 
 dono da coca : apanhador da coca
 
-FIGURA 18 QUADRO 2 DA TESE P. 163
-
-
-Tabela de relações entre donos e apanhadores.
+![Quadro de relações entre donos e apanhadores](/img/relacoes_donos_apanhadores.jpg)
 
 Hugh-Jones e Buchillet mostram em suas descrições das
 rodas de coca que elas são fundamentais para a transmissão de
@@ -5716,8 +5704,7 @@ mesmo grupo local. A constância nessa dinâmica de interação permite ver
 que os participantes se organizam em função da sequência de ações entre
 “donos de coca” e “apanhadores”.
 
-Figura 11
-Esquema de relações posicionais numa roda de coca.
+![Figura 11 - Esquema de relações posicionais numa roda de coca](/img/ESQUEMA_RODA.jpg)
 
 Conversando entre “irmãos”, /yawa̗m/, ou entre “afins”, /yo̖h/, os
 “comedores de coca” adquirem habilidades e mostram uns aos outros
@@ -6003,8 +5990,7 @@ encontrados os restos das panelas de /Hu̖͂t Wäg/. “Agora não tem mais,
 porque todo mundo vinha, pegava para contar a história e levava para
 casa. Acabou-se, mas tem ainda nas outras casas onde ele morou”, disse.
 
-Figura 12
-Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P. Ramos, 2012)
+![Figura 12 - Américo na /Hũ̖t Wäg-Mo̖y/ (foto: Danilo P. Ramos, 2012)](/img/americo_na_hut.jpg)
 
 Continuamos a caminhada um pouco mais para cima até chegarmos à outra
 gruta. Essa era a /K’a̗j-Paç/, a caverna onde a Cutiváia[^48] entrou
@@ -6047,8 +6033,7 @@ ouvir um barulho alto que vinha do morro. Passávamos pelas roças, quando
 Américo parou, voltou-se para a serra e disse: “Isso que tá zoando, esse
 barulho é o grito do meu pai, do /b’atɨ̖b’/ dele”.
 
-Figura 13
-Caminhada à Serra da Cutivaia
+![Figura 13 - Caminhada à Serra da Cutivaia](/img/MAPA3-PB.jpg)
 
 ##/Hũ̖t/ ‒ “tabaco”
 
@@ -6257,7 +6242,7 @@ terra, não sendo preciso enterrá-las. Outra forma é lançá-las com a mão
 para que elas se espalhem pelo solo. Antigamente, em dias de vento era
 possível apenas abrir a mão e esperar que o vento as semeasse.
 
-Figura Quadro 3. alguns tipos de tabaco. p. 179 do pdf 
+
   -------------------- ---------------------
   **Tipo de tabaco**   **Tradução**
   /B’äb’äg-hu̖͂t/        Tabaco-cubiu
@@ -7540,11 +7525,9 @@ sendo aprendidos e cercados. Como os ancestrais no Lago de Leite, os
 xamãs-sopradores recebem os poderes e cercam-nos, escondendo-os atrás de
 si (**M14**).
 
-Figura 14
-Ponciano mostra o cercar (foto: Danilo P. Ramos, 2012)
+![Figura 14 - Ponciano mostra o cercar (foto: Danilo P. Ramos, 2012)](/img/ponciano_mostra.jpg)
 
-Figura 15
-Grafismo do ato de cercar
+![Figura 15 - Grafismo do ato de cercar](/img/grafismo_cercar.jpg)
 
 Num encontro noturno, pedi a Ponciano e Samuel para me explicarem como
 se dava a ação xamânica do cercar durante a execução de encantamentos.
@@ -7567,8 +7550,7 @@ ocultando o xamã-soprador das vistas da Gente-Cobra para que faça uma
 viagem segura durante o trajeto. Enquanto traduzíamos o **B2**, Samuel deu
 essa explicação sobre a locomoção do benzedor e fez um desenho.
 
-Figura 16
-Rede de leite e pedaço de tabaco
+![Figura 16 - Rede de leite e pedaço de tabaco](/img/rede_de_leite.jpg)
 
 O leite torna-se a substância comum com a qual são feitos o banco, a
 rede, o sopro vital, o pensamento e o lago evidenciando a continuidade
@@ -7649,8 +7631,7 @@ morada do sopro vital, e depois nos braços. No alto do morro, Lucas
 gritou como se estivesse chamando a humanidade (**M2**) e deixou um cigarro
 para os ancestrais no lago.
 
-Figura 17
-Cigarro no lago (foto: Danilo P. Ramos, 2012)
+![Figura 17 - Cigarro no lago (foto: Danilo P. Ramos, 2012)](/img/cigarro_lago.jpg)
 
 Como já foi assinalado, no alto da serra, um processo de condensações
 rituais situa-se através do complexo jogo de identificações com os
@@ -7710,8 +7691,7 @@ posteriormente, preparar os pedaços de breu para as ações xamânicas. O
 breu pode ser usado também no reparo das canoas, na pintura de objetos
 cuias, adornos), e na fabricação de instrumentos musicais.
 
-Figura 18
-Aldeia cercada (foto: Danilo P. Ramos, 2012)
+![Figura 18 - Aldeia cercada (foto: Danilo P. Ramos, 2012)](/img/aldeia_cercada.jpg)
 
 Como o gesto de “segurar o cigarro”, central para a aliança e para a
 continuidade da vida pela prática sexual, os benzedores de diferentes
@@ -8103,8 +8083,7 @@ fumaça faz com que as nuvens mudem seus rumos e dirijam-se à cabeceira.
 A comunidade é cercada através desse procedimento que, ao afastar a
 chuva, impede que a fúria do Trovão atinja a aldeia.
 
- Figura QUADRO COMPARATIVO DE AÇÕES P. 231 do pdf 
-  Quadro comparativo de ações
+![Quadro comparativo de ações](/img/modos_de_acao.jpg)
 
 As ações do benzedor, do profeta e da tartaruga geram mudanças num dado
 ambiente com o qual se relacionam. De modo muito interessante, a viagem
@@ -8239,9 +8218,7 @@ Para que estivéssemos bem protegidos durante a viagem, além do
 /ti̖wi̖t hamap bi’i̖d ta̗’/, “benzimento dos caminhos”, para cercar os
 viajantes das ações maléficas dos seres que pudéssemos encontrar.
 
-Figura 19
-Viagem às serras: Caminhos (/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas
-(/Mo̖y-Höd/)
+![Figura 19 - Viagem às serras: Caminhos (/Ti̖w/), morros (/Paç/), Casas-de-Pedra (/Paç-Mo̖y/) e Moradas Antigas (/Mo̖y-Höd/)](/img/MAPA2-PB.jpg)
 
 ## Caminhos cruzados
 
@@ -9345,8 +9322,7 @@ os viajantes pediram que eu tirasse uma foto para que eles pudessem
 mostrar os restos dos utensílios culinários do ancestral a seus
 parentes.
 
-Figura 20
-Viajantes exibem as lascas de cerâmica (foto: Danilo P. Ramos, 2012)
+![Figura 20 - Viajantes exibem as lascas de cerâmica (foto: Danilo P. Ramos, 2012)](/img/viajantes_exibem.jpg)
 
 Assustado, olhando fixamente para ao chão, Ari chamou Ponciano:
 /Guerrilhero s’i̖b/, “pegada de guerrilheiro” exclamava. Sem dúvida era o
@@ -9453,8 +9429,7 @@ janela menores voltadas para o pôr do sol. É considerada a cozinha e,
 por isso, recebe o nome de /Po̗ho̗y-Mo̖y/, “Casa-da-Fermentação”, algo que
 alude ao preparo do caxiri feito pelas Mulheres-Onça e Mulheres-Trovão.
 
-Figura 21
-Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel Brasil Monteiro, 2012)
+![Figura 21 - Casa-do-Trovão (Desenho M’e̖h Sɨh/Samuel Brasil Monteiro, 2012)](/img/casa_do_trovao.jpg)
 
 Assim, a arquitetura celeste da Casa-do-Trovão torna-se especialmente
 interessante para refletir sobre as Casas-de-Pedra dos ancestrais hup. O
@@ -9722,8 +9697,7 @@ associados muito intimamente aos xamãs, que, embora sejam reconhecidos
 como humanos, ocupam a mais ambígua e marginal das posições na sociedade
 humana”. 
 
-Figura 22
-Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)
+![Figura 22 - Roupa de onça, armas e alimentos (Desenho: M’e̖h Sɨh/ Samuel Brasil Monteiro)](/img/roupa_de_onca.jpg)
 
 Em **B5**, penetrando a onça pequena, Ponciano mostra-se igualmente como um
 poderoso /kä̖d hup ĩh/, já que poucos “xamãs-do-banco” são capazes de
@@ -10066,8 +10040,7 @@ voar de morro em morro e perseguir seus inimigos com grande agilidade.
 /Wayrö̖’-Tëg/ é também a palavra em língua hup para avião, o admirável
 veículo de voo considerado como um grande poder dos brancos.
 	
-Figura 23
-Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Monteiro)
+![Figura 23 - Roupa /Dö̗h Ã̗y/, armas e alimentos (Desenho: M’e̖h Sɨh/Samuel Brasil Monteiro)](/img/roupa_dohay.jpg)
 
 A roupa cósmica dessa caçadora de gente hup torna-se especialmente
 interessante, já que se trata de um corpo humano envolto em uma roupa de
@@ -10081,7 +10054,6 @@ predação animalesca. Reid ressalta que os Hupd’äh percebem os
 brancos como seres dotados de “forte raiva” como os espíritos da
 floresta e como os Tukano. Em suas palavras,
 
-<!--estilo de citação-->
  > Todos eles organizam seus assentamentos a partir de padrões elaborados
  > e possuem hábitos peculiares como as restrições e os desvios sexuais e
  > alimentares. \[...\] Todos eles partilham uma característica que é
@@ -10097,7 +10069,6 @@ floresta e como os Tukano. Em suas palavras,
  > \[...\] Como essas qualidades são exageradas, os não Indígenas são
  > vistos mais como espíritos da floresta e como os índios Maku distantes
  > \[…\] (Reid, 1979, p. 212-3).
- <!--estilo de citação-->
 
 A tecnologia, os hábitos sexuais e alimentares combinam-se à raiva e
 dotam os brancos de poderes xamânicos e de semelhança com /b’atɨ̖b’/,
@@ -10559,8 +10530,7 @@ cada detalhe daquele universo que se constituía, pouco a pouco, como uma
 vasta região trazida à vida pela confluência dos percursos dos
 movimentos de humanos, animais e espíritos.
 
-Figura 24
-Vista externa da Casa-dos-Animais (foto: Danilo P. Ramos, 2012)
+![Figura 24 - Vista externa da Casa-dos-Animais (foto: Danilo P. Ramos, 2012)](/img/vista_externa.jpg)
 
 Na volta, quando já estávamos cruzando as roças da comunidade, Ponciano
 ouviu o som de um macaco. Percebendo o balanço das folhagens próximas,
@@ -10786,8 +10756,7 @@ sofrimentos na existência humana. Esse percurso dará também mais
 elementos para a descrição do papel dos “comedores de coca” na geração
 da vida e da cura.
 
-Figura 25
-Caminhada à Casa-dos-Animais
+![Figura 25 - Caminhada à Casa-dos-Animais](/img/MAPA4-PB)
 
 ## Nascimentos
 
@@ -12041,17 +12010,7 @@ que benzem o parto são considerados frios e quase inodoros. Não é raro
 acenderem fogueiras pequenas, próximas a suas redes durante a noite ou
 acomodarem-se próximos ao fogo de cozinha da casa mesmo durante o dia.
 
-ver Figura 4 p. 327 do arquivo pdf
-
-**/Hã̗wäg/ (sopro vital) : /B’atɨ̖b’/ (sombra) **
-
-**/Tu̗t/ (frio) : /K’ɨ̗/ (calor)**
-
-**Sereno : Agressivo**
-
-**Inodoro : Fedorento**
-
-Gradações de intensidade
+[!Gradações de intensidade](/img/gradacoes_intensidade.jpg)
 
 
 O recém-nascido, “molengo”, é um ser quente como sua mãe. Juntos exalam
@@ -12818,8 +12777,7 @@ servir-se delas, como se a potência e a cultura do afecto fossem o
 verdadeiro objetivo do agenciamento, a arma sendo apenas um meio
 provisório” (Deleuze; Guattari, 1997, p. 85).
 
-Figura 26
-Isabel terminando um aturá (foto: Danilo Paiva Ramos, 2012)
+![Figura 26 - Isabel terminando um aturá (foto: Danilo Paiva Ramos, 2012)](/img/isabel_atura.jpg)
 
 Com o crescimento corporal, os aturás e os arcos e flechas aumentam de
 tamanho, os meninos e a meninas tornam-se mais hábeis para construí-los.
@@ -13528,8 +13486,7 @@ matrimonial.[^117] Mas as flautas possuem também laços fraternos, pois o
 como o do par /Soho̗/,  “Caranguejo”, e /Mo̗t/[^118], em que os dois
 termos são considerados irmãos e cônjuges simultaneamente.
 
-Figura 27
-Relações matrimoniais e fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/
+![Figura 27 - Relações matrimoniais e fraternais de conjuntos de flautas do clã /Sokw’ä̗t Noh K’öd Te̖͂h/](/img/relacoes_matrimoniais.jpg)
 
 Os nomes dos trompetes são todos nomes de animais como /Moho̖y/, “Veado”,
 /Kuku̗y/,  “Macaco-da-Noite”, sendo que muitos deles correspondem ao
@@ -13599,11 +13556,7 @@ indivíduo move-se através de três gerações assumindo o lugar de filho,
 de pai e de avô, de forma semelhante à diferenciação entre as flautas
 Jurupari (1979, p. 117).
 
-Figura inserir quadro p.365 do arquivo pdf
-
-Grupos exogâmicos presentes em /Ta̗t-Dëh/ divididos em /bab’däh/,
-“irmãos”, e /yo̖h däh/, “cunhados”, segundo a perspectiva do clã
-majoritário /Sokw’ä̗t Noh K’öd Te͂h/.
+![Quadro de grupos exogâmicos presentes em /Ta̗t-Dëh/ divididos em /bab’däh/, “irmãos”, e /yo̖h däh/, “cunhados”, segundo a perspectiva do clã majoritário /Sokw’ä̗t Noh K’öd Te͂h/](/img/grupos_exogamicos.jpg)
 
 Seguindo Reid, a divisão entre os clãs forma dois grandes grupos
 exogâmicos não nominados que não geram um senso de pertencimento. Já os
@@ -13828,8 +13781,7 @@ reciprocidade de gêneros recolocava a dádiva entre afins. Num próximo
 encontro de Dabucuri seriam os donos /Sokw’ä̗t/  que deveriam retribuir as
 ofertas, quer às mulheres, quer a seus cunhados.
 
-Figura 28
-Papéis rituais: clã /Sokw’ä̗t Noh K’öd Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/
+![Figura 28 - Papéis rituais: clã /Sokw’ä̗t Noh K’öd Te̖͂h/ e clã afim /Dög M’e̖h Te̖͂h/](/img/papeis_rituais.jpg)
 
 Tomando como referência a posição ocupada pelos neófitos, é possível
 observar que o oferecimento de buritis e a contrapartida em massa de
@@ -14117,8 +14069,7 @@ de Henrique, o caminho que se abre de /Ta̗t-Dëh/ e leva até /B’ö̖’-Paç
 irmãos e filhos abrem suas roças, pescam e caçam (ver diagrama anexo ‒
 Anexo 2).
 
-Figura 29
-Distribuição das casas de /Ta̗t-Dëh/
+![Figura 29 - Distribuição das casas de /Ta̗t-Dëh/](/img/distribuicao_casas.jpg)
 
 Por ocasião da fundação de /Ta̗t-Dëh/, a reunião de muitos membros do
 *sibling* /Sokw’ä̗t/,  como Antônio, Francisco, Henrique, Joanico,
@@ -14206,11 +14157,9 @@ frequentar a escola. Distante dos /kopot/ centrais, o primogênito do
 ancestral Joanico construiu uma casa onde habita com a esposa e a sogra,
 e uma segunda, para seu filho e sua nora.
 
-Figura 30
-Laços de afinidade e filiação do /kopot/ centrado em Firmino (ego)
+![Figura 30 - Laços de afinidade e filiação do /kopot/ centrado em Firmino (ego)](/img/lacos_afinidade.jpg)
 
-Figura 31
-/Kopot/ centrado em Ponciano (ego) por laços de afinidade e filiação
+![Figura 31 - /Kopot/ centrado em Ponciano (ego) por laços de afinidade e filiação](/img/kopot_centrado.jpg)
 
 Os esquemas de parentesco permitem ver com clareza de que modo as casas
 que compõem um agrupamento formam-se a partir dos laços de afinidade e
@@ -15361,8 +15310,7 @@ mulheres do outro. Senhoras e moças circulam com as panelas de caxiri
 oferecendo cuias a todos. No centro, casais formam-se, e as danças não
 param até o cair da noite.
 
-Figura 32
-Vista externa da maloca de /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011).
+![Figura 32 - Vista externa da maloca de /Ta̗t-Dëh/ (foto: Danilo P. Ramos, 2011)](/img/vista_externa.jpg)
 
 Comparada às malocas de outras aldeias, a /Ä̗g-Mo̖y/ de /Ta̗t-Dëh/ pode ser
 vista como uma das maiores e talvez a única construída a partir dos
@@ -15798,8 +15746,7 @@ que todos chegam apenas para trilhar novos caminhos que os façam sentar
 outras vezes em rodas e dançar novamente com as flautas em torno da
 paisagem em perpétua criação.
 
-Figura 33
-Ponciano segue por um de seus caminhos (foto: Danilo P. Ramos, 2012)
+![Figura 33 - Ponciano segue por um de seus caminhos (foto: Danilo P. Ramos, 2012)](/img/ponciano_segue.jpg)
 
 
 
@@ -15872,8 +15819,7 @@ embarcações para a pesca intensificou-se com a formação da aldeia de
 /Ta̗t-Dëh/ e com a permissão de pesca em partes do rio Tiquié, dada pelos
 moradores do Cunuri.
 
-Figura 34
-Paulo repara a canoa com breu (foto: Danilo P. Ramos, 2012).
+![Figura 34 - Paulo repara a canoa com breu (foto: Danilo P. Ramos, 2012)](/img/paulo_repara.jpg)
 
 Entretanto, as viagens para São Gabriel exigem embarcações maiores,
 apropriadas para levar toda a família. Essas são compradas no comércio
@@ -16546,8 +16492,7 @@ perspectiva dos brancos alinhando sua atenção e ação para um modo de
 abdução da agressividade e força desses Outros num sentido próximo ao
 das rodas de cachaça na chegada dos viajantes. 
 
-Figura 35
-Casa-da-Cachaça (Desenho de Samuel Brasil Monteiro, /M’e̖h Sɨh/)
+![Figura 35 - Casa-da-Cachaça (Desenho de Samuel Brasil Monteiro, /M’e̖h Sɨh/)](/img/casa_da_cachaca.jpg)
 
 Nos últimos anos, têm se tornado cada vez mais frequentes as incursões
 de senhores hup a São Gabriel. Deslocam-se conduzidos pelos filhos para
