@@ -1,0 +1,22 @@
+\documentclass{report}
+\usepackage{tocloft}
+\usepackage[english]{babel}
+\newcommand{\listexamplename}{List of Examples}
+\newlistof{example}{exp}{\listexamplename}
+\newcommand{\example}[1]{%
+\refstepcounter{example}
+\par\noindent\textbf{Example \theexample. #1}
+\addcontentsline{exp}{example}
+{\protect\numberline{\thechapter.\theexample}#1}\par}
+\begin{document}
+\tableofcontents
+\newpage
+\listofexample
+\chapter{Two examples}
+\example{Your first example}
+\label{1st_ex}
+\example{Your second example}
+\label{2nd_ex}
+\chapter{One example}
+\example{Your third example. (See example \ref{1st_ex} and \ref{2nd_ex})}
+\end{document}
