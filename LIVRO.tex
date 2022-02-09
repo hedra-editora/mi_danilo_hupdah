@@ -1,6 +1,6 @@
 \documentclass[showtrims,		% Mostra as marcas de corte em cruz
 			   %trimframe,		% Mostra as marcas de corte em linha, para conferência
-			   10pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
+			   9pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
 			   ]{memoir}
 \usepackage[brazilian,
 			% english,
@@ -49,6 +49,7 @@
 \usepackage{fancyhdr}
 \usepackage{imakeidx} 
 \makeindex[program=xindy, options=-C utf8 -L portuguese]
+\newcommand\gobbleone[1]{}
 % Sugestão para índice de mitos e benzimentos: http://texblog.org/2008/07/13/define-your-own-list-of/
 
 % Medidas (ver: memoir p.11 fig.2.3)
@@ -60,7 +61,7 @@
 % Fontes
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
 
 
 % Estilos
