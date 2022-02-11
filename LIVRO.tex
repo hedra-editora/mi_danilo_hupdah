@@ -61,7 +61,10 @@
 % Fontes
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
+\setmainfont[Numbers={Proportional,OldStyle}]{EBGaramond-Regular}[
+ItalicFont = EBGaramond-Italic,
+BoldFont = EBGaramond-Bold,
+BoldItalicFont = EBGaramond-BoldItalic]
 
 
 % Estilos
@@ -74,9 +77,8 @@
 
 % Testes
 
-
 \begin{document}
-
+\fontsize{9.5pt}{13pt}\selectfont
 
 %\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
